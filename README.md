@@ -1,11 +1,11 @@
 # mscorlib-4.0-offline-doxygenated-documentation
-Contains API extracted from mscorlib.dll by ILSpy and processed by Doxygen
+Contains public API extracted from mscorlib.dll by ILSpy and processed by Doxygen
 
 # What 
 
 This repository contains API reference for mscorlib 4.0 in html format. The documentations includes
 
- * API for all mscorlib classes
+ * API for all pulic mscorlib classes and their public functions
  * Class diagramms for classes with base or superclasses
  * Class graphs showing direct and indirect inheritance relations
  * Class collaboration graphs
