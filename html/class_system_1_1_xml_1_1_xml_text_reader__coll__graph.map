@@ -1,0 +1,8 @@
+<map id="System.Xml.XmlTextReader" name="System.Xml.XmlTextReader">
+<area shape="rect" id="node1" title="Represents a reader that provides fast, non&#45;cached, forward&#45;only access to XML data...." alt="" coords="305,107,488,133"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_reader.html" title="Represents a reader that provides fast, noncached, forward&#45;only access to XML data...." alt="" coords="55,5,139,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_xml_1_1_i_xml_line_info.html" title="Provides an interface to enable a class to return line and position information." alt="" coords="51,56,142,83"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_xml_1_1_i_xml_namespace_resolver.html" title="Provides read&#45;only access to a set of prefix and namespace mappings." alt="" coords="15,107,179,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_name_table.html" title="Table of atomized string objects." alt="" coords="5,157,188,184"/>
+<area shape="rect" id="node6" href="$class_system_1_1_text_1_1_encoding.html" title="Represents a character encoding.To browse the .NET Framework source code for this type,..." alt="" coords="19,208,174,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Net.Sockets.TcpListener" name="System.Net.Sockets.TcpListener">
+<area shape="rect" id="node1" title="Listens for connections from TCP network clients." alt="" coords="5,95,220,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_sockets_1_1_socket.html" title="Implements the Berkeley sockets interface." alt="" coords="19,5,207,32"/>
+</map>

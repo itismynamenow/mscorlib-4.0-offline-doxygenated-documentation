@@ -1,15 +1,5 @@
 <map id="System.Resources.ResourceManager" name="System.Resources.ResourceManager">
-<area shape="rect" id="node1" title="Represents a resource manager that provides convenient access to culture&#45;specific resources at run ti..." alt="" coords="963,267,1155,309"/>
-<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="627,204,824,231"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="335,173,417,200"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,216,232,243"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,216,100,243"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="330,325,422,352"/>
-<area shape="rect" id="node10" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="630,376,821,403"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="296,5,456,32"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="335,56,417,83"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_i_equality_comparer.html" title="Defines methods to support the comparison of objects for equality." alt="" coords="281,107,471,149"/>
-<area shape="rect" id="node11" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly.html" title="Exposes the public members of the T:System.Reflection.Assembly class to unmanaged code." alt="" coords="333,376,419,403"/>
-<area shape="rect" id="node12" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="315,427,437,453"/>
-<area shape="rect" id="node13" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="293,477,459,504"/>
+<area shape="rect" id="node1" title="Represents a resource manager that provides convenient access to culture&#45;specific resources at run ti..." alt="" coords="117,95,309,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="227,5,418,32"/>
 </map>

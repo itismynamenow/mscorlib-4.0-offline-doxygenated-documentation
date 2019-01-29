@@ -1,0 +1,4 @@
+<map id="System.Net.Security.NegotiateStream" name="System.Net.Security.NegotiateStream">
+<area shape="rect" id="node1" title="Provides a stream that uses the Negotiate security protocol to authenticate the client,..." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_security_1_1_authenticated_stream.html" title="Provides methods for passing credentials across a stream and requesting or performing authentication ..." alt="" coords="35,5,179,32"/>
+</map>

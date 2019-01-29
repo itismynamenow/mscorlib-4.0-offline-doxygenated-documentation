@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['year',['Year',['../struct_system_1_1_date_time.html#a05da606e77f3e5b38d9e1ea87a6a9ead',1,'System.DateTime.Year()'],['../struct_system_1_1_date_time_offset.html#aa10d1391e32d061a5c3fb92f95b7e198',1,'System.DateTimeOffset.Year()']]]
+  ['zone',['Zone',['../class_system_1_1_security_1_1_security_exception.html#a1f7fed6217a373fd4251f38926c2e7ab',1,'System.Security.SecurityException.Zone()'],['../class_system_1_1_security_1_1_permissions_1_1_zone_identity_permission_attribute.html#ac66c702d82dacccd72bde7a73e790172',1,'System.Security.Permissions.ZoneIdentityPermissionAttribute.Zone()']]]
 ];

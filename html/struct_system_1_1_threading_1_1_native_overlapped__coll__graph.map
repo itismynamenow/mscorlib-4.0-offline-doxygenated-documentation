@@ -1,5 +1,4 @@
 <map id="System.Threading.NativeOverlapped" name="System.Threading.NativeOverlapped">
-<area shape="rect" id="node1" title="Provides an explicit layout that is visible from unmanaged code and that will have the same layout as..." alt="" coords="5,200,236,227"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="69,81,172,108"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="75,5,167,32"/>
+<area shape="rect" id="node1" title="Provides an explicit layout that is visible from unmanaged code and that will have the same layout as..." alt="" coords="5,124,236,151"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="69,5,172,32"/>
 </map>

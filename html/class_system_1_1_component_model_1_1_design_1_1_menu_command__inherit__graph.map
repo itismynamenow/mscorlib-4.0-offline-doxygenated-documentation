@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.Design.MenuCommand" name="System.ComponentModel.Design.MenuCommand">
+<area shape="rect" id="node1" title="Represents a Windows menu or toolbar command item." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_design_1_1_designer_verb.html" title="Represents a verb that can be invoked from a designer." alt="" coords="5,95,225,136"/>
+</map>

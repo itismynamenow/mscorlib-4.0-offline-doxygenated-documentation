@@ -1,0 +1,8 @@
+<map id="System.Xml.IXmlNamespaceResolver" name="System.Xml.IXmlNamespaceResolver">
+<area shape="rect" id="node1" title="Provides read&#45;only access to a set of prefix and namespace mappings." alt="" coords="5,99,195,141"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_namespace_manager.html" title="Resolves, adds, and removes namespaces to a collection and provides scope management for these namesp..." alt="" coords="243,5,479,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_node_reader.html" title="Represents a reader that provides fast, non&#45;cached forward only access to XML data in an T:System...." alt="" coords="267,56,455,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xml_text_reader.html" title="Represents a reader that provides fast, non&#45;cached, forward&#45;only access to XML data...." alt="" coords="269,107,452,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_validating_reader.html" title="Represents a reader that provides document type definition (DTD), XML&#45;Data Reduced (XDR) schema,..." alt="" coords="273,158,448,199"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_x_path_1_1_x_path_navigator.html" title="Provides a cursor model for navigating and editing XML data." alt="" coords="250,224,471,251"/>
+</map>

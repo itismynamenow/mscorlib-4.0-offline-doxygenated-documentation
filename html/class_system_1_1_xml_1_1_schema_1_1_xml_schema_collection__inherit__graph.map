@@ -1,0 +1,5 @@
+<map id="System.Xml.Schema.XmlSchemaCollection" name="System.Xml.Schema.XmlSchemaCollection">
+<area shape="rect" id="node1" title="Contains a cache of XML Schema definition language (XSD) and XML&#45;Data Reduced (XDR) schemas...." alt="" coords="5,155,223,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="113,80,195,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="67,5,161,32"/>
+</map>

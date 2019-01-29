@@ -1,0 +1,5 @@
+<map id="System.Collections.Specialized.NameObjectCollectionBase.KeysCollection" name="System.Collections.Specialized.NameObjectCollectionBase.KeysCollection">
+<area shape="rect" id="node1" title="Represents a collection of the T:System.String keys of a collection." alt="" coords="5,155,277,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="140,80,223,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="94,5,189,32"/>
+</map>

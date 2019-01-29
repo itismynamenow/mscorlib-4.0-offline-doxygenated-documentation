@@ -1,9 +1,0 @@
-<map id="System.Runtime.InteropServices.WindowsRuntime.IIterable&lt; T &gt;" name="System.Runtime.InteropServices.WindowsRuntime.IIterable&lt; T &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="475,93,689,134"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector.html" title=" " alt="" coords="739,5,919,61"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector___raw.html" title=" " alt="" coords="739,85,919,141"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector_view.html" title=" " alt="" coords="739,165,919,221"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="300,69,425,96"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,69,216,96"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="315,120,410,147"/>
-</map>

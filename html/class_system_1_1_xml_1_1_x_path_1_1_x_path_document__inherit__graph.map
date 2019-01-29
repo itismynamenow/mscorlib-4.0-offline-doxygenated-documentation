@@ -1,0 +1,4 @@
+<map id="System.Xml.XPath.XPathDocument" name="System.Xml.XPath.XPathDocument">
+<area shape="rect" id="node1" title="Provides a fast, read&#45;only, in&#45;memory representation of an XML document by using the XPath data model..." alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_xml_1_1_x_path_1_1_i_x_path_navigable.html" title="Provides an accessor to the T:System.Xml.XPath.XPathNavigator class." alt="" coords="61,5,176,32"/>
+</map>

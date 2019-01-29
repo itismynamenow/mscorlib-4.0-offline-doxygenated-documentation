@@ -1,5 +1,4 @@
 <map id="System.Runtime.InteropServices.WindowsRuntime.ReadOnlyArrayAttribute" name="System.Runtime.InteropServices.WindowsRuntime.ReadOnlyArrayAttribute">
-<area shape="rect" id="node1" title="When applied to an array parameter in a Windows Runtime component, specifies that the contents of the..." alt="" coords="5,155,269,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="102,80,173,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="98,5,177,32"/>
+<area shape="rect" id="node1" title="When applied to an array parameter in a Windows Runtime component, specifies that the contents of the..." alt="" coords="5,80,269,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="102,5,173,32"/>
 </map>

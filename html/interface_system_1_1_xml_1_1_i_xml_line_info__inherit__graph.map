@@ -1,0 +1,5 @@
+<map id="System.Xml.IXmlLineInfo" name="System.Xml.IXmlLineInfo">
+<area shape="rect" id="node1" title="Provides an interface to enable a class to return line and position information." alt="" coords="116,5,280,32"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_text_reader.html" title="Represents a reader that provides fast, non&#45;cached, forward&#45;only access to XML data...." alt="" coords="5,87,188,114"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_validating_reader.html" title="Represents a reader that provides document type definition (DTD), XML&#45;Data Reduced (XDR) schema,..." alt="" coords="212,80,387,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.Xml.XPath.IXPathNavigable" name="System.Xml.XPath.IXPathNavigable">
+<area shape="rect" id="node1" title="Provides an accessor to the T:System.Xml.XPath.XPathNavigator class." alt="" coords="176,5,403,32"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_x_path_1_1_x_path_document.html" title="Provides a fast, read&#45;only, in&#45;memory representation of an XML document by using the XPath data model..." alt="" coords="176,80,403,107"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_x_path_1_1_x_path_navigator.html" title="Provides a cursor model for navigating and editing XML data." alt="" coords="427,80,648,107"/>
+</map>

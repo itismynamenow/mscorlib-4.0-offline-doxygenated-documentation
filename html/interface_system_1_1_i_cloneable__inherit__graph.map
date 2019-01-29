@@ -1,61 +1,31 @@
 <map id="System.ICloneable" name="System.ICloneable">
-<area shape="rect" id="node1" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,671,136,697"/>
-<area shape="rect" id="node2" href="$class_system_1_1_array.html" title="Provides methods for creating, manipulating, searching, and sorting arrays, thereby serving as the ba..." alt="" coords="252,5,355,32"/>
-<area shape="rect" id="node3" href="$class_system_1_1_char_enumerator.html" title="Supports iterating over a T:System.String object and reading its individual characters...." alt="" coords="221,56,386,83"/>
-<area shape="rect" id="node4" href="$class_system_1_1_collections_1_1_array_list.html" title="Implements the T:System.Collections.IList interface using an array whose size is dynamically increase..." alt="" coords="208,107,399,133"/>
-<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_bit_array.html" title="Manages a compact array of bit values, which are represented as Booleans, where true indicates that t..." alt="" coords="210,157,397,184"/>
-<area shape="rect" id="node6" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="205,208,402,235"/>
-<area shape="rect" id="node8" href="$class_system_1_1_collections_1_1_queue.html" title="Represents a first&#45;in, first&#45;out collection of objects." alt="" coords="215,259,392,285"/>
-<area shape="rect" id="node9" href="$class_system_1_1_collections_1_1_sorted_list.html" title="Represents a collection of key/value pairs that are sorted by the keys and are accessible by key and ..." alt="" coords="204,309,403,336"/>
-<area shape="rect" id="node10" href="$class_system_1_1_collections_1_1_stack.html" title="Represents a simple last&#45;in&#45;first&#45;out (LIFO) non&#45;generic collection of objects." alt="" coords="217,360,390,387"/>
-<area shape="rect" id="node11" href="$struct_system_1_1_configuration_1_1_assemblies_1_1_assembly_hash.html" title="Represents a hash of an assembly manifest&#39;s contents." alt="" coords="192,411,415,453"/>
-<area shape="rect" id="node12" href="$class_system_1_1_delegate.html" title="Represents a delegate, which is a data structure that refers to a static method or to a class instanc..." alt="" coords="242,477,365,504"/>
-<area shape="rect" id="node14" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="203,528,404,555"/>
-<area shape="rect" id="node30" href="$class_system_1_1_globalization_1_1_culture_info.html" title="Provides information about a specific culture (called a locale for unmanaged code development)...." alt="" coords="198,579,409,605"/>
-<area shape="rect" id="node31" href="$class_system_1_1_globalization_1_1_date_time_format_info.html" title="Provides culture&#45;specific information about the format of date and time values." alt="" coords="215,630,392,671"/>
-<area shape="rect" id="node32" href="$class_system_1_1_globalization_1_1_number_format_info.html" title="Provides culture&#45;specific information for formatting and parsing numeric values." alt="" coords="206,695,401,737"/>
-<area shape="rect" id="node33" href="$class_system_1_1_globalization_1_1_text_info.html" title="Defines text properties and behaviors, such as casing, that are specific to a writing system." alt="" coords="206,761,401,788"/>
-<area shape="rect" id="node34" href="$class_system_1_1_operating_system.html" title="Represents information about an operating system, such as the version and platform identifier...." alt="" coords="217,812,389,839"/>
-<area shape="rect" id="node35" href="$class_system_1_1_reflection_1_1_assembly_name.html" title="Describes an assembly&#39;s unique identity in full." alt="" coords="191,863,415,889"/>
-<area shape="rect" id="node36" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_call_context_remoting_data.html" title=" " alt="" coords="184,914,423,955"/>
-<area shape="rect" id="node37" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_call_context_security_data.html" title=" " alt="" coords="188,979,419,1021"/>
-<area shape="rect" id="node38" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_logical_call_context.html" title="Provides a set of properties that are carried with the execution code path during remote method calls..." alt="" coords="205,1045,402,1086"/>
-<area shape="rect" id="node39" href="$class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_int_sized_array.html" title=" " alt="" coords="199,1110,407,1151"/>
-<area shape="rect" id="node40" href="$class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_sized_array.html" title=" " alt="" coords="204,1175,403,1217"/>
-<area shape="rect" id="node41" href="$class_system_1_1_runtime_type.html" title=" " alt="" coords="230,1241,377,1268"/>
-<area shape="rect" id="node43" href="$class_system_1_1_string.html" title="Represents text as a sequence of UTF&#45;16 code units.To browse the .NET Framework source code for this ..." alt="" coords="251,1292,356,1319"/>
-<area shape="rect" id="node44" href="$class_system_1_1_text_1_1_encoding.html" title="Represents a character encoding.To browse the .NET Framework source code for this type,..." alt="" coords="226,1343,381,1369"/>
-<area shape="rect" id="node59" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="246,1393,361,1420"/>
-<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_serialization_1_1_surrogate_hashtable.html" title=" " alt="" coords="475,142,673,183"/>
-<area shape="rect" id="node13" href="$class_system_1_1_multicast_delegate.html" title="Represents a multicast delegate; that is, a delegate that can have more than one element in its invoc..." alt="" coords="487,208,661,235"/>
-<area shape="rect" id="node15" href="$class_system_1_1_globalization_1_1_east_asian_lunisolar_calendar.html" title="Represents a calendar that divides time into months, days, years, and eras, and has dates that are ba..." alt="" coords="485,259,663,301"/>
-<area shape="rect" id="node20" href="$class_system_1_1_globalization_1_1_gregorian_calendar.html" title="Represents the Gregorian calendar." alt="" coords="471,325,677,366"/>
-<area shape="rect" id="node21" href="$class_system_1_1_globalization_1_1_hebrew_calendar.html" title="Represents the Hebrew calendar." alt="" coords="477,390,671,431"/>
-<area shape="rect" id="node22" href="$class_system_1_1_globalization_1_1_hijri_calendar.html" title="Represents the Hijri calendar." alt="" coords="488,455,660,497"/>
-<area shape="rect" id="node23" href="$class_system_1_1_globalization_1_1_japanese_calendar.html" title="Represents the Japanese calendar." alt="" coords="471,521,677,562"/>
-<area shape="rect" id="node24" href="$class_system_1_1_globalization_1_1_julian_calendar.html" title="Represents the Julian calendar." alt="" coords="483,586,665,627"/>
-<area shape="rect" id="node25" href="$class_system_1_1_globalization_1_1_korean_calendar.html" title="Represents the Korean calendar." alt="" coords="479,651,669,693"/>
-<area shape="rect" id="node26" href="$class_system_1_1_globalization_1_1_persian_calendar.html" title="Represents the Persian calendar." alt="" coords="477,717,671,758"/>
-<area shape="rect" id="node27" href="$class_system_1_1_globalization_1_1_taiwan_calendar.html" title="the Taiwan calendar." alt="" coords="479,782,669,823"/>
-<area shape="rect" id="node28" href="$class_system_1_1_globalization_1_1_thai_buddhist_calendar.html" title="Represents the Thai Buddhist calendar." alt="" coords="487,847,661,889"/>
-<area shape="rect" id="node29" href="$class_system_1_1_globalization_1_1_um_al_qura_calendar.html" title="Represents the Saudi Hijri (Um Al Qura) calendar." alt="" coords="483,913,665,954"/>
-<area shape="rect" id="node16" href="$class_system_1_1_globalization_1_1_chinese_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated using the Chinese..." alt="" coords="729,162,927,203"/>
-<area shape="rect" id="node17" href="$class_system_1_1_globalization_1_1_japanese_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated as for the Japane..." alt="" coords="725,227,931,269"/>
-<area shape="rect" id="node18" href="$class_system_1_1_globalization_1_1_korean_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated using the Gregori..." alt="" coords="733,293,923,334"/>
-<area shape="rect" id="node19" href="$class_system_1_1_globalization_1_1_taiwan_lunisolar_calendar.html" title="Represents the Taiwan lunisolar calendar. As for the Taiwan calendar, years are calculated using the ..." alt="" coords="733,358,923,399"/>
-<area shape="rect" id="node42" href="$class_system_1_1_reflection_only_type.html" title=" " alt="" coords="483,1191,665,1217"/>
-<area shape="rect" id="node45" href="$class_system_1_1_text_1_1_a_s_c_i_i_encoding.html" title="Represents an ASCII character encoding of Unicode characters." alt="" coords="481,1241,667,1268"/>
-<area shape="rect" id="node46" href="$class_system_1_1_text_1_1_encoding_n_l_s.html" title=" " alt="" coords="485,1292,663,1319"/>
-<area shape="rect" id="node55" href="$class_system_1_1_text_1_1_unicode_encoding.html" title="Represents a UTF&#45;16 encoding of Unicode characters." alt="" coords="473,1343,675,1369"/>
-<area shape="rect" id="node56" href="$class_system_1_1_text_1_1_u_t_f32_encoding.html" title="Represents a UTF&#45;32 encoding of Unicode characters." alt="" coords="478,1393,670,1420"/>
-<area shape="rect" id="node57" href="$class_system_1_1_text_1_1_u_t_f7_encoding.html" title="Represents a UTF&#45;7 encoding of Unicode characters." alt="" coords="481,1444,667,1471"/>
-<area shape="rect" id="node58" href="$class_system_1_1_text_1_1_u_t_f8_encoding.html" title="Represents a UTF&#45;8 encoding of Unicode characters." alt="" coords="481,1495,667,1521"/>
-<area shape="rect" id="node47" href="$class_system_1_1_text_1_1_base_code_page_encoding.html" title=" " alt="" coords="733,1226,923,1267"/>
-<area shape="rect" id="node53" href="$class_system_1_1_text_1_1_i_s_c_i_i_encoding.html" title=" " alt="" coords="737,1292,919,1319"/>
-<area shape="rect" id="node54" href="$class_system_1_1_text_1_1_latin1_encoding.html" title=" " alt="" coords="733,1343,923,1369"/>
-<area shape="rect" id="node48" href="$class_system_1_1_text_1_1_d_b_c_s_code_page_encoding.html" title=" " alt="" coords="979,1194,1175,1235"/>
-<area shape="rect" id="node52" href="$class_system_1_1_text_1_1_s_b_c_s_code_page_encoding.html" title=" " alt="" coords="979,1259,1175,1301"/>
-<area shape="rect" id="node49" href="$class_system_1_1_text_1_1_e_u_c_j_p_encoding.html" title=" " alt="" coords="1229,1151,1425,1177"/>
-<area shape="rect" id="node50" href="$class_system_1_1_text_1_1_g_b18030_encoding.html" title=" " alt="" coords="1223,1201,1431,1228"/>
-<area shape="rect" id="node51" href="$class_system_1_1_text_1_1_i_s_o2022_encoding.html" title=" " alt="" coords="1225,1252,1429,1279"/>
+<area shape="rect" id="node1" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,749,136,776"/>
+<area shape="rect" id="node2" href="$class_system_1_1_array.html" title="Provides methods for creating, manipulating, searching, and sorting arrays, thereby serving as the ba..." alt="" coords="245,5,347,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_char_enumerator.html" title="Supports iterating over a T:System.String object and reading its individual characters...." alt="" coords="213,56,379,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_collections_1_1_array_list.html" title="Implements the T:System.Collections.IList interface using an array whose size is dynamically increase..." alt="" coords="201,107,391,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_bit_array.html" title="Manages a compact array of bit values, which are represented as Booleans, where true indicates that t..." alt="" coords="203,157,389,184"/>
+<area shape="rect" id="node6" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="197,208,395,235"/>
+<area shape="rect" id="node7" href="$class_system_1_1_collections_1_1_queue.html" title="Represents a first&#45;in, first&#45;out collection of objects." alt="" coords="207,259,385,285"/>
+<area shape="rect" id="node8" href="$class_system_1_1_collections_1_1_sorted_list.html" title="Represents a collection of key/value pairs that are sorted by the keys and are accessible by key and ..." alt="" coords="197,309,395,336"/>
+<area shape="rect" id="node9" href="$class_system_1_1_collections_1_1_stack.html" title="Represents a simple last&#45;in&#45;first&#45;out (LIFO) non&#45;generic collection of objects." alt="" coords="209,360,383,387"/>
+<area shape="rect" id="node10" href="$class_system_1_1_component_model_1_1_masked_text_provider.html" title="Represents a mask&#45;parsing service that can be used by any number of controls that support masking,..." alt="" coords="185,411,407,453"/>
+<area shape="rect" id="node11" href="$struct_system_1_1_configuration_1_1_assemblies_1_1_assembly_hash.html" title="Represents a hash of an assembly manifest&#39;s contents." alt="" coords="185,477,407,518"/>
+<area shape="rect" id="node12" href="$class_system_1_1_configuration_1_1_settings_property_collection.html" title="Contains a collection of T:System.Configuration.SettingsProperty objects." alt="" coords="197,542,395,583"/>
+<area shape="rect" id="node13" href="$class_system_1_1_configuration_1_1_settings_property_value_collection.html" title="Contains a collection of settings property values that map T:System.Configuration...." alt="" coords="197,607,395,649"/>
+<area shape="rect" id="node14" href="$class_system_1_1_delegate.html" title="Represents a delegate, which is a data structure that refers to a static method or to a class instanc..." alt="" coords="235,673,357,700"/>
+<area shape="rect" id="node15" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="195,724,397,751"/>
+<area shape="rect" id="node16" href="$class_system_1_1_globalization_1_1_culture_info.html" title="Provides information about a specific culture (called a locale for unmanaged code development)...." alt="" coords="191,775,401,801"/>
+<area shape="rect" id="node17" href="$class_system_1_1_globalization_1_1_date_time_format_info.html" title="Provides culture&#45;specific information about the format of date and time values." alt="" coords="207,826,385,867"/>
+<area shape="rect" id="node18" href="$class_system_1_1_globalization_1_1_number_format_info.html" title="Provides culture&#45;specific information for formatting and parsing numeric values." alt="" coords="199,891,393,933"/>
+<area shape="rect" id="node19" href="$class_system_1_1_globalization_1_1_text_info.html" title="Defines text properties and behaviors, such as casing, that are specific to a writing system." alt="" coords="199,957,393,984"/>
+<area shape="rect" id="node20" href="$class_system_1_1_operating_system.html" title="Represents information about an operating system, such as the version and platform identifier...." alt="" coords="210,1008,382,1035"/>
+<area shape="rect" id="node21" href="$class_system_1_1_reflection_1_1_assembly_name.html" title="Describes an assembly&#39;s unique identity in full." alt="" coords="184,1059,408,1085"/>
+<area shape="rect" id="node22" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_logical_call_context.html" title="Provides a set of properties that are carried with the execution code path during remote method calls..." alt="" coords="197,1110,395,1151"/>
+<area shape="rect" id="node23" href="$class_system_1_1_string.html" title="Represents text as a sequence of UTF&#45;16 code units.To browse the .NET Framework source code for this ..." alt="" coords="243,1176,349,1203"/>
+<area shape="rect" id="node24" href="$class_system_1_1_text_1_1_encoding.html" title="Represents a character encoding.To browse the .NET Framework source code for this type,..." alt="" coords="219,1227,373,1253"/>
+<area shape="rect" id="node25" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="239,1277,353,1304"/>
+<area shape="rect" id="node26" href="$class_system_1_1_xml_1_1_schema_1_1_xml_atomic_value.html" title="Represents the typed value of a validated XML element or attribute. The T:System.Xml...." alt="" coords="191,1329,401,1370"/>
+<area shape="rect" id="node27" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="223,1395,369,1421"/>
+<area shape="rect" id="node28" href="$class_system_1_1_xml_1_1_x_path_1_1_x_path_navigator.html" title="Provides a cursor model for navigating and editing XML data." alt="" coords="185,1445,407,1472"/>
+<area shape="rect" id="node29" href="$class_system_1_1_xml_1_1_x_path_1_1_x_path_node_iterator.html" title="Provides an iterator over a selected set of nodes." alt="" coords="197,1497,395,1538"/>
 </map>

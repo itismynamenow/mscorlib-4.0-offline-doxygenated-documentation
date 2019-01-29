@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Reflection.ParameterInfo Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Reflection.ParameterInfo Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -102,13 +102,13 @@ $(document).ready(function(){initNavTree('class_system_1_1_reflection_1_1_parame
 <div class="dynheader">
 Inheritance diagram for System.Reflection.ParameterInfo:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_reflection_1_1_parameter_info__inherit__graph.svg" width="456" height="202"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_reflection_1_1_parameter_info__inherit__graph.svg" width="456" height="112"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for System.Reflection.ParameterInfo:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_system_1_1_reflection_1_1_parameter_info__coll__graph.svg" width="100%" height="489"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_system_1_1_reflection_1_1_parameter_info__coll__graph.svg" width="100%" height="509"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -141,7 +141,7 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aeb67a34f9ce6faf41097aae365ee83ed"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_reflection_1_1_parameter_info.html#aeb67a34f9ce6faf41097aae365ee83ed">MetadataToken</a> =&gt; (this as <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html">RuntimeParameterInfo</a>)?.<a class="el" href="struct_system_1_1_reflection_1_1_metadata_token.html">MetadataToken</a> ?? 134217728</td></tr>
+<tr class="memitem:aeb67a34f9ce6faf41097aae365ee83ed"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_reflection_1_1_parameter_info.html#aeb67a34f9ce6faf41097aae365ee83ed">MetadataToken</a> =&gt; (this as RuntimeParameterInfo)?.MetadataToken ?? 134217728</td></tr>
 <tr class="memdesc:aeb67a34f9ce6faf41097aae365ee83ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets a value that identifies this parameter in metadata.  <a href="#aeb67a34f9ce6faf41097aae365ee83ed">More...</a><br /></td></tr>
 <tr class="separator:aeb67a34f9ce6faf41097aae365ee83ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -293,8 +293,6 @@ Properties</h2></td></tr>
 
 <p>Implements <a class="el" href="interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html#aadc8d8af1b1545590890a72b86b3633c">System.Reflection.ICustomAttributeProvider</a>.</p>
 
-<p>Reimplemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html#ae3d5214d7b551fd0063e4bbbe13e2f78">System.Reflection.RuntimeParameterInfo</a>.</p>
-
 <p class="definition">Definition at line <a class="el" href="_parameter_info_8cs_source.html#l00261">261</a> of file <a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a>.</p>
 
 </div>
@@ -353,8 +351,6 @@ Properties</h2></td></tr>
 
 <p>Implements <a class="el" href="interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html#aeb6949834fcc9a22f3734eeaa31d512d">System.Reflection.ICustomAttributeProvider</a>.</p>
 
-<p>Reimplemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html#a05e5ae4ce4aa2cd7f85c7051fc30194b">System.Reflection.RuntimeParameterInfo</a>.</p>
-
 <p class="definition">Definition at line <a class="el" href="_parameter_info_8cs_source.html#l00275">275</a> of file <a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a>.</p>
 
 </div>
@@ -385,8 +381,6 @@ Properties</h2></td></tr>
 <p>Returns a list of T:System.Reflection.CustomAttributeData objects for the current parameter, which can be used in the reflection-only context. </p>
 <dl class="section return"><dt>Returns</dt><dd>A generic list of T:System.Reflection.CustomAttributeData objects representing data about the attributes that have been applied to the current parameter.</dd></dl>
 
-<p>Reimplemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html#af40ae231e7996b7671a0c94dd5916e9e">System.Reflection.RuntimeParameterInfo</a>.</p>
-
 <p class="definition">Definition at line <a class="el" href="_parameter_info_8cs_source.html#l00305">305</a> of file <a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a>.</p>
 
 </div>
@@ -415,9 +409,7 @@ Properties</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Gets the optional custom modifiers of the parameter. </p>
-<dl class="section return"><dt>Returns</dt><dd>An array of <a class="el" href="namespace_system_1_1_reflection.html#af227e3cf5a78a312634f47e4cd8f3365aa1fa27779242b4902f7ae3bdd5c6d508">T:System.Type</a> objects that identify the optional custom modifiers of the current parameter, such as T:System.Runtime.CompilerServices.IsConst or T:System.Runtime.CompilerServices.IsImplicitlyDereferenced.</dd></dl>
-
-<p>Reimplemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html#a55f546f8861d9aef4401296abc39ddfb">System.Reflection.RuntimeParameterInfo</a>.</p>
+<dl class="section return"><dt>Returns</dt><dd>An array of T:System.Type objects that identify the optional custom modifiers of the current parameter, such as T:System.Runtime.CompilerServices.IsConst or T:System.Runtime.CompilerServices.IsImplicitlyDereferenced.</dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="_parameter_info_8cs_source.html#l00243">243</a> of file <a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a>.</p>
 
@@ -484,9 +476,7 @@ Properties</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Gets the required custom modifiers of the parameter. </p>
-<dl class="section return"><dt>Returns</dt><dd>An array of <a class="el" href="namespace_system_1_1_reflection.html#af227e3cf5a78a312634f47e4cd8f3365aa1fa27779242b4902f7ae3bdd5c6d508">T:System.Type</a> objects that identify the required custom modifiers of the current parameter, such as T:System.Runtime.CompilerServices.IsConst or T:System.Runtime.CompilerServices.IsImplicitlyDereferenced.</dd></dl>
-
-<p>Reimplemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html#a53948c75bd57dbd1f341b9d3775b05b1">System.Reflection.RuntimeParameterInfo</a>.</p>
+<dl class="section return"><dt>Returns</dt><dd>An array of T:System.Type objects that identify the required custom modifiers of the current parameter, such as T:System.Runtime.CompilerServices.IsConst or T:System.Runtime.CompilerServices.IsImplicitlyDereferenced.</dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="_parameter_info_8cs_source.html#l00236">236</a> of file <a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a>.</p>
 
@@ -538,14 +528,12 @@ Properties</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>attributeType</em>  is <code>null</code>. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td><em>attributeType</em>  is not a <a class="el" href="namespace_system_1_1_reflection.html#af227e3cf5a78a312634f47e4cd8f3365aa1fa27779242b4902f7ae3bdd5c6d508">T:System.Type</a> object supplied by the common language runtime.</td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td><em>attributeType</em>  is not a T:System.Type object supplied by the common language runtime.</td></tr>
   </table>
   </dd>
 </dl>
 
 <p>Implements <a class="el" href="interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html#a504fca3502661056f29a251222154bfa">System.Reflection.ICustomAttributeProvider</a>.</p>
-
-<p>Reimplemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html#a4431bee76f85712f15fcdb9f5fbc938e">System.Reflection.RuntimeParameterInfo</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="_parameter_info_8cs_source.html#l00294">294</a> of file <a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a>.</p>
 
@@ -685,7 +673,7 @@ Properties</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">virtual int System.Reflection.ParameterInfo.MetadataToken =&gt; (this as <a class="el" href="class_system_1_1_reflection_1_1_runtime_parameter_info.html">RuntimeParameterInfo</a>)?.<a class="el" href="struct_system_1_1_reflection_1_1_metadata_token.html">MetadataToken</a> ?? 134217728</td>
+          <td class="memname">virtual int System.Reflection.ParameterInfo.MetadataToken =&gt; (this as RuntimeParameterInfo)?.MetadataToken ?? 134217728</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1129,7 +1117,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System.Reflection/<a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a></li>
+<li>D:/All cs/System.Reflection/<a class="el" href="_parameter_info_8cs_source.html">ParameterInfo.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

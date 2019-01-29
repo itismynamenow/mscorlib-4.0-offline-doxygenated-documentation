@@ -1,0 +1,28 @@
+<map id="System.Linq.Expressions.Expression" name="System.Linq.Expressions.Expression">
+<area shape="rect" id="node1" title="Provides the base class from which the classes that represent expression tree nodes are derived...." alt="" coords="5,789,180,831"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_expressions_1_1_binary_expression.html" title="Represents an expression that has a binary operator." alt="" coords="235,5,410,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_linq_1_1_expressions_1_1_block_expression.html" title="Represents a block that contains a sequence of expressions where variables can be defined." alt="" coords="235,71,410,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_linq_1_1_expressions_1_1_conditional_expression.html" title="Represents an expression that has a conditional operator." alt="" coords="235,136,410,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_linq_1_1_expressions_1_1_constant_expression.html" title="Represents an expression that has a constant value." alt="" coords="235,201,410,243"/>
+<area shape="rect" id="node6" href="$class_system_1_1_linq_1_1_expressions_1_1_debug_info_expression.html" title="Emits or clears a sequence point for debug information. This allows the debugger to highlight the cor..." alt="" coords="235,267,410,308"/>
+<area shape="rect" id="node7" href="$class_system_1_1_linq_1_1_expressions_1_1_default_expression.html" title="Represents the default value of a type or an empty expression." alt="" coords="235,332,410,373"/>
+<area shape="rect" id="node8" href="$class_system_1_1_linq_1_1_expressions_1_1_dynamic_expression.html" title="Represents a dynamic operation." alt="" coords="235,397,410,439"/>
+<area shape="rect" id="node9" href="$class_system_1_1_linq_1_1_expressions_1_1_goto_expression.html" title="Represents an unconditional jump. This includes return statements, break and continue statements,..." alt="" coords="235,463,410,504"/>
+<area shape="rect" id="node10" href="$class_system_1_1_linq_1_1_expressions_1_1_index_expression.html" title="Represents indexing a property or array." alt="" coords="235,528,410,569"/>
+<area shape="rect" id="node11" href="$class_system_1_1_linq_1_1_expressions_1_1_invocation_expression.html" title="Represents an expression that applies a delegate or lambda expression to a list of argument expressio..." alt="" coords="235,593,410,635"/>
+<area shape="rect" id="node12" href="$class_system_1_1_linq_1_1_expressions_1_1_label_expression.html" title="Represents a label, which can be put in any T:System.Linq.Expressions.Expression context...." alt="" coords="235,659,410,700"/>
+<area shape="rect" id="node13" href="$class_system_1_1_linq_1_1_expressions_1_1_lambda_expression.html" title="Describes a lambda expression. This captures a block of code that is similar to a ...." alt="" coords="235,724,410,765"/>
+<area shape="rect" id="node14" href="$class_system_1_1_linq_1_1_expressions_1_1_list_init_expression.html" title="Represents a constructor call that has a collection initializer." alt="" coords="235,789,410,831"/>
+<area shape="rect" id="node15" href="$class_system_1_1_linq_1_1_expressions_1_1_loop_expression.html" title="Represents an infinite loop. It can be exited with &quot;break&quot;." alt="" coords="235,855,410,896"/>
+<area shape="rect" id="node16" href="$class_system_1_1_linq_1_1_expressions_1_1_member_expression.html" title="Represents accessing a field or property." alt="" coords="235,920,410,961"/>
+<area shape="rect" id="node17" href="$class_system_1_1_linq_1_1_expressions_1_1_member_init_expression.html" title="Represents calling a constructor and initializing one or more members of the new object." alt="" coords="235,985,410,1027"/>
+<area shape="rect" id="node18" href="$class_system_1_1_linq_1_1_expressions_1_1_method_call_expression.html" title="Represents a call to either static or an instance method." alt="" coords="235,1051,410,1092"/>
+<area shape="rect" id="node19" href="$class_system_1_1_linq_1_1_expressions_1_1_new_array_expression.html" title="Represents creating a new array and possibly initializing the elements of the new array." alt="" coords="235,1116,410,1157"/>
+<area shape="rect" id="node20" href="$class_system_1_1_linq_1_1_expressions_1_1_new_expression.html" title="Represents a constructor call." alt="" coords="235,1181,410,1223"/>
+<area shape="rect" id="node21" href="$class_system_1_1_linq_1_1_expressions_1_1_parameter_expression.html" title="Represents a named parameter expression." alt="" coords="235,1247,410,1288"/>
+<area shape="rect" id="node22" href="$class_system_1_1_linq_1_1_expressions_1_1_runtime_variables_expression.html" title="An expression that provides runtime read/write permission for variables." alt="" coords="228,1312,417,1353"/>
+<area shape="rect" id="node23" href="$class_system_1_1_linq_1_1_expressions_1_1_switch_expression.html" title="Represents a control expression that handles multiple selections by passing control to T:System...." alt="" coords="235,1377,410,1419"/>
+<area shape="rect" id="node24" href="$class_system_1_1_linq_1_1_expressions_1_1_try_expression.html" title="Represents a try/catch/finally/fault block." alt="" coords="235,1443,410,1484"/>
+<area shape="rect" id="node25" href="$class_system_1_1_linq_1_1_expressions_1_1_type_binary_expression.html" title="Represents an operation between an expression and a type." alt="" coords="235,1508,410,1549"/>
+<area shape="rect" id="node26" href="$class_system_1_1_linq_1_1_expressions_1_1_unary_expression.html" title="Represents an expression that has a unary operator." alt="" coords="235,1573,410,1615"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.ComponentModel.Design.DesignerOptionService.DesignerOptionCollection" name="System.ComponentModel.Design.DesignerOptionService.DesignerOptionCollection">
+<area shape="rect" id="node1" title="Contains a collection of designer options. This class cannot be inherited." alt="" coords="5,233,252,289"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="105,157,152,184"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="153,81,235,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="68,5,163,32"/>
+</map>

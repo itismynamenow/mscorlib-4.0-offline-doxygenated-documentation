@@ -1,0 +1,6 @@
+<map id="System.Xml.Serialization.XmlSchemas" name="System.Xml.Serialization.XmlSchemas">
+<area shape="rect" id="node1" title="Represents the collection of XML schemas." alt="" coords="14,155,185,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_collection_base.html" title="Provides the abstract base class for a strongly typed collection." alt="" coords="45,80,154,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="178,80,365,107"/>
+</map>

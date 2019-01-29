@@ -1,0 +1,4 @@
+<map id="System.Configuration.SettingsPropertyNotFoundException" name="System.Configuration.SettingsPropertyNotFoundException">
+<area shape="rect" id="node1" title="Provides an exception for T:System.Configuration.SettingsProperty objects that are not found." alt="" coords="5,80,204,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="65,5,145,32"/>
+</map>

@@ -1,8 +1,7 @@
 <map id="System.CharEnumerator" name="System.CharEnumerator">
-<area shape="rect" id="node1" title="Supports iterating over a T:System.String object and reading its individual characters...." alt="" coords="122,171,287,197"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,95,97,121"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="122,95,205,121"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title=" " alt="" coords="229,95,370,121"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="195,5,404,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="395,95,484,121"/>
+<area shape="rect" id="node1" title="Supports iterating over a T:System.String object and reading its individual characters...." alt="" coords="149,80,314,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="122,5,205,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title=" " alt="" coords="229,5,370,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="395,5,484,32"/>
 </map>

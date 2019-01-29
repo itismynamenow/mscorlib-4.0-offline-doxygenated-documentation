@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.EventLogPermissionAttribute" name="System.Diagnostics.EventLogPermissionAttribute">
+<area shape="rect" id="node1" title="Allows declaritive permission checks for event logging." alt="" coords="15,80,189,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_code_access_security_attribute.html" title="Specifies the base attribute class for code access security." alt="" coords="5,5,199,32"/>
+</map>

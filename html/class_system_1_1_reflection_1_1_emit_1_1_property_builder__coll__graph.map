@@ -1,17 +1,8 @@
 <map id="System.Reflection.Emit.PropertyBuilder" name="System.Reflection.Emit.PropertyBuilder">
-<area shape="rect" id="node1" title="Defines the properties for a type." alt="" coords="879,143,1091,185"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_property_info.html" title="Discovers the attributes of a property and provides access to property metadata." alt="" coords="590,11,681,37"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="348,56,437,83"/>
-<area shape="rect" id="node8" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="586,151,685,177"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,89,171,116"/>
-<area shape="rect" id="node11" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="305,208,480,235"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="40,39,136,65"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___property_info.html" title="Exposes the public members of the T:System.Reflection.PropertyInfo class to unmanaged code." alt="" coords="343,5,442,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___property_builder.html" title="Exposes the T:System.Reflection.Emit.PropertyBuilder class to unmanaged code." alt="" coords="576,61,695,88"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="364,157,421,184"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="360,107,425,133"/>
-<area shape="rect" id="node12" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="53,280,123,307"/>
-<area shape="rect" id="node13" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="42,140,134,167"/>
-<area shape="rect" id="node14" href="$struct_system_1_1_module_handle.html" title="Represents a runtime handle for a module." alt="" coords="11,229,165,256"/>
-<area shape="rect" id="node15" href="$struct_system_1_1_reflection_1_1_emit_1_1_property_token.html" title="The PropertyToken struct is an opaque representation of the Token returned by the metadata to represe..." alt="" coords="529,303,741,345"/>
+<area shape="rect" id="node1" title="Defines the properties for a type." alt="" coords="355,138,567,179"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_property_info.html" title="Discovers the attributes of a property and provides access to property metadata." alt="" coords="66,5,157,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___property_builder.html" title="Exposes the T:System.Reflection.Emit.PropertyBuilder class to unmanaged code." alt="" coords="52,56,171,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="62,145,161,172"/>
+<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="24,196,199,223"/>
+<area shape="rect" id="node6" href="$struct_system_1_1_reflection_1_1_emit_1_1_property_token.html" title="The PropertyToken struct is an opaque representation of the Token returned by the metadata to represe..." alt="" coords="5,286,217,327"/>
 </map>

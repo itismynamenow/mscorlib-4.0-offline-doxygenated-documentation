@@ -1,0 +1,7 @@
+<map id="System.Xml.XPath.XPathNavigator" name="System.Xml.XPath.XPathNavigator">
+<area shape="rect" id="node1" title="Provides a cursor model for navigating and editing XML data." alt="" coords="103,80,325,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_x_path_1_1_x_path_item.html" title="Represents an item in the XQuery 1.0 and XPath 2.0 Data Model." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="111,5,194,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_xml_1_1_x_path_1_1_i_x_path_navigable.html" title="Provides an accessor to the T:System.Xml.XPath.XPathNavigator class." alt="" coords="218,5,333,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_xml_1_1_i_xml_namespace_resolver.html" title="Provides read&#45;only access to a set of prefix and namespace mappings." alt="" coords="357,5,521,32"/>
+</map>

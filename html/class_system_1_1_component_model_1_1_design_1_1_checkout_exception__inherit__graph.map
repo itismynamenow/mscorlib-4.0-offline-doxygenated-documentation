@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.Design.CheckoutException" name="System.ComponentModel.Design.CheckoutException">
+<area shape="rect" id="node1" title="The exception that is thrown when an attempt to check out a file that is checked into a source code m..." alt="" coords="5,80,225,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_external_exception.html" title="The base exception type for all COM interop exceptions and structured exception handling (SEH) except..." alt="" coords="51,5,179,32"/>
+</map>

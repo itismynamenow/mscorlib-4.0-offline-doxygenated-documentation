@@ -1,4 +1,0 @@
-<map id="System.Threading.Tasks.SynchronizationContextTaskScheduler" name="System.Threading.Tasks.SynchronizationContextTaskScheduler">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,268,121"/>
-<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_tasks_1_1_task_scheduler.html" title="Represents an object that handles the low&#45;level work of queuing tasks onto threads." alt="" coords="83,5,191,32"/>
-</map>

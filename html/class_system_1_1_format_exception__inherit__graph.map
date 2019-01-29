@@ -1,8 +1,7 @@
 <map id="System.FormatException" name="System.FormatException">
-<area shape="rect" id="node1" title="The exception that is thrown when the format of an argument is invalid, or when a composite format st..." alt="" coords="22,229,193,256"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_custom_attribute_format_exception.html" title="The exception that is thrown when the binary format of a custom attribute is invalid." alt="" coords="19,304,196,345"/>
-<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="45,155,170,181"/>
-<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="67,80,147,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,5,97,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="121,5,208,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when the format of an argument is invalid, or when a composite format st..." alt="" coords="179,64,349,91"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_cookie_exception.html" title="The exception that is thrown when an error is made adding a T:System.Net.Cookie to a T:System...." alt="" coords="397,5,591,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_custom_attribute_format_exception.html" title="The exception that is thrown when the binary format of a custom attribute is invalid." alt="" coords="405,57,583,98"/>
+<area shape="rect" id="node5" href="$class_system_1_1_uri_format_exception.html" title="The exception that is thrown when an invalid Uniform Resource Identifier (URI) is detected." alt="" coords="401,123,587,149"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="5,64,131,91"/>
 </map>

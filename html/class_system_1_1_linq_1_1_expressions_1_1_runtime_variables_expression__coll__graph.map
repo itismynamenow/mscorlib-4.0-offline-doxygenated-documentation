@@ -1,0 +1,4 @@
+<map id="System.Linq.Expressions.RuntimeVariablesExpression" name="System.Linq.Expressions.RuntimeVariablesExpression">
+<area shape="rect" id="node1" title="An expression that provides runtime read/write permission for variables." alt="" coords="5,80,195,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_expressions_1_1_expression.html" title="Provides the base class from which the classes that represent expression tree nodes are derived...." alt="" coords="57,5,143,32"/>
+</map>

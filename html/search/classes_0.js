@@ -1,18 +1,5 @@
 var searchData=
 [
-  ['_5f_5fbinaryparser',['__BinaryParser',['../class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_____binary_parser.html',1,'System::Runtime::Serialization::Formatters::Binary']]],
-  ['_5f_5fbinarywriter',['__BinaryWriter',['../class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_____binary_writer.html',1,'System::Runtime::Serialization::Formatters::Binary']]],
-  ['_5f_5fcanon',['__Canon',['../class_system_1_1_____canon.html',1,'System']]],
-  ['_5f_5fcomobject',['__ComObject',['../class_system_1_1_____com_object.html',1,'System']]],
-  ['_5f_5fconsolestream',['__ConsoleStream',['../class_system_1_1_i_o_1_1_____console_stream.html',1,'System::IO']]],
-  ['_5f_5fdtstring',['__DTString',['../struct_system_1_1_____d_t_string.html',1,'System']]],
-  ['_5f_5fdynamicallyinvokableattribute',['__DynamicallyInvokableAttribute',['../class_____dynamically_invokable_attribute.html',1,'']]],
-  ['_5f_5ferror',['__Error',['../class_system_1_1_i_o_1_1_____error.html',1,'System::IO']]],
-  ['_5f_5fexceptioninfo',['__ExceptionInfo',['../class_system_1_1_reflection_1_1_emit_1_1_____exception_info.html',1,'System::Reflection::Emit']]],
-  ['_5f_5ffilters',['__Filters',['../class_system_1_1_____filters.html',1,'System.__Filters'],['../class_system_1_1_reflection_1_1_____filters.html',1,'System.Reflection.__Filters']]],
-  ['_5f_5ffixupdata',['__FixupData',['../struct_system_1_1_reflection_1_1_emit_1_1_____fixup_data.html',1,'System::Reflection::Emit']]],
-  ['_5f_5fhresults',['__HResults',['../class_system_1_1_resources_1_1_____h_results.html',1,'System.Resources.__HResults'],['../class_system_1_1_____h_results.html',1,'System.__HResults'],['../class_system_1_1_runtime_1_1_remoting_1_1_____h_results.html',1,'System.Runtime.Remoting.__HResults'],['../class_system_1_1_i_o_1_1_____h_results.html',1,'System.IO.__HResults'],['../class_system_1_1_i_o_1_1_isolated_storage_1_1_____h_results.html',1,'System.IO.IsolatedStorage.__HResults']]],
-  ['_5f_5ftransparentproxy',['__TransparentProxy',['../class_system_1_1_runtime_1_1_remoting_1_1_proxies_1_1_____transparent_proxy.html',1,'System::Runtime::Remoting::Proxies']]],
   ['_5factivator',['_Activator',['../interface_system_1_1_runtime_1_1_interop_services_1_1___activator.html',1,'System::Runtime::InteropServices']]],
   ['_5fappdomain',['_AppDomain',['../interface_system_1_1___app_domain.html',1,'System']]],
   ['_5fassembly',['_Assembly',['../interface_system_1_1_runtime_1_1_interop_services_1_1___assembly.html',1,'System::Runtime::InteropServices']]],
@@ -29,7 +16,6 @@ var searchData=
   ['_5ffieldbuilder',['_FieldBuilder',['../interface_system_1_1_runtime_1_1_interop_services_1_1___field_builder.html',1,'System::Runtime::InteropServices']]],
   ['_5ffieldinfo',['_FieldInfo',['../interface_system_1_1_runtime_1_1_interop_services_1_1___field_info.html',1,'System::Runtime::InteropServices']]],
   ['_5filgenerator',['_ILGenerator',['../interface_system_1_1_runtime_1_1_interop_services_1_1___i_l_generator.html',1,'System::Runtime::InteropServices']]],
-  ['_5fiocompletioncallback',['_IOCompletionCallback',['../class_system_1_1_threading_1_1___i_o_completion_callback.html',1,'System::Threading']]],
   ['_5flocalbuilder',['_LocalBuilder',['../interface_system_1_1_runtime_1_1_interop_services_1_1___local_builder.html',1,'System::Runtime::InteropServices']]],
   ['_5fmemberinfo',['_MemberInfo',['../interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html',1,'System::Runtime::InteropServices']]],
   ['_5fmethodbase',['_MethodBase',['../interface_system_1_1_runtime_1_1_interop_services_1_1___method_base.html',1,'System::Runtime::InteropServices']]],
@@ -44,8 +30,6 @@ var searchData=
   ['_5fpropertyinfo',['_PropertyInfo',['../interface_system_1_1_runtime_1_1_interop_services_1_1___property_info.html',1,'System::Runtime::InteropServices']]],
   ['_5fsignaturehelper',['_SignatureHelper',['../interface_system_1_1_runtime_1_1_interop_services_1_1___signature_helper.html',1,'System::Runtime::InteropServices']]],
   ['_5fthread',['_Thread',['../interface_system_1_1_runtime_1_1_interop_services_1_1___thread.html',1,'System::Runtime::InteropServices']]],
-  ['_5fthreadpoolwaitcallback',['_ThreadPoolWaitCallback',['../class_system_1_1_threading_1_1___thread_pool_wait_callback.html',1,'System::Threading']]],
-  ['_5fthreadpoolwaitortimercallback',['_ThreadPoolWaitOrTimerCallback',['../class_system_1_1_threading_1_1___thread_pool_wait_or_timer_callback.html',1,'System::Threading']]],
   ['_5ftype',['_Type',['../interface_system_1_1_runtime_1_1_interop_services_1_1___type.html',1,'System::Runtime::InteropServices']]],
   ['_5ftypebuilder',['_TypeBuilder',['../interface_system_1_1_runtime_1_1_interop_services_1_1___type_builder.html',1,'System::Runtime::InteropServices']]]
 ];

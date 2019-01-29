@@ -1,0 +1,5 @@
+<map id="System.Xml.Schema.XmlSchemaCollectionEnumerator" name="System.Xml.Schema.XmlSchemaCollectionEnumerator">
+<area shape="rect" id="node1" title="Supports a simple iteration over a collection. This class cannot be inherited." alt="" coords="32,95,249,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema.html" title="An in&#45;memory representation of an XML Schema, as specified in the World Wide Web Consortium (W3C) XML..." alt="" coords="121,5,339,32"/>
+</map>

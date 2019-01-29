@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Configuration Namespace Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Configuration Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -86,17 +86,419 @@ $(document).ready(function(){initNavTree('namespace_system_1_1_configuration.htm
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a>  </div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">System.Configuration Namespace Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:namespace_system_1_1_configuration_1_1_assemblies"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_configuration_1_1_assemblies.html">Assemblies</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_application_scoped_setting_attribute.html">ApplicationScopedSettingAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies that an application settings property has a common value for all users of an application. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_application_scoped_setting_attribute.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_application_settings_base.html">ApplicationSettingsBase</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Acts as a base class for deriving concrete wrapper classes to implement the application settings feature in Window Forms applications.  <a href="class_system_1_1_configuration_1_1_application_settings_base.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_application_settings_group.html">ApplicationSettingsGroup</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a grouping of related application settings sections within a configuration file. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_application_settings_group.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_app_settings_reader.html">AppSettingsReader</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a method for reading values of a particular type from the configuration.  <a href="class_system_1_1_configuration_1_1_app_settings_reader.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_client_settings_section.html">ClientSettingsSection</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a group of user-scoped application settings in a configuration file.  <a href="class_system_1_1_configuration_1_1_client_settings_section.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_configuration_exception.html">ConfigurationException</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a configuration system error has occurred.  <a href="class_system_1_1_configuration_1_1_configuration_exception.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_configuration_settings.html">ConfigurationSettings</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides runtime versions 1.0 and 1.1 support for reading configuration sections and common configuration settings.  <a href="class_system_1_1_configuration_1_1_configuration_settings.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_config_xml_document.html">ConfigXmlDocument</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wraps the corresponding T:System.Xml.XmlDocument type and also carries the necessary information for reporting file-name and line numbers.  <a href="class_system_1_1_configuration_1_1_config_xml_document.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_default_setting_value_attribute.html">DefaultSettingValueAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies the default value for an application settings property.  <a href="class_system_1_1_configuration_1_1_default_setting_value_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_dictionary_section_handler.html">DictionarySectionHandler</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides key/value pair configuration information from a configuration section.  <a href="class_system_1_1_configuration_1_1_dictionary_section_handler.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_configuration_1_1_i_application_settings_provider.html">IApplicationSettingsProvider</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines extended capabilities for client-based application settings providers.  <a href="interface_system_1_1_configuration_1_1_i_application_settings_provider.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_configuration_1_1_i_configuration_section_handler.html">IConfigurationSectionHandler</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Handles the access to certain configuration sections.  <a href="interface_system_1_1_configuration_1_1_i_configuration_section_handler.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_configuration_1_1_i_configuration_system.html">IConfigurationSystem</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides standard configuration methods.  <a href="interface_system_1_1_configuration_1_1_i_configuration_system.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_idn_element.html">IdnElement</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides the configuration setting for International Domain Name (IDN) processing in the T:System.Uri class.  <a href="class_system_1_1_configuration_1_1_idn_element.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_ignore_section_handler.html">IgnoreSectionHandler</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a legacy section-handler definition for configuration sections that are not handled by the N:System.Configuration types.  <a href="class_system_1_1_configuration_1_1_ignore_section_handler.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_configuration_1_1_i_persist_component_settings.html">IPersistComponentSettings</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines standard functionality for controls or libraries that store and retrieve application settings.  <a href="interface_system_1_1_configuration_1_1_i_persist_component_settings.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_iri_parsing_element.html">IriParsingElement</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides the configuration setting for International Resource Identifier (IRI) processing in the T:System.Uri class.  <a href="class_system_1_1_configuration_1_1_iri_parsing_element.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_configuration_1_1_i_settings_provider_service.html">ISettingsProviderService</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides an interface for defining an alternate application settings provider.  <a href="interface_system_1_1_configuration_1_1_i_settings_provider_service.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_local_file_settings_provider.html">LocalFileSettingsProvider</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides persistence for application settings classes.  <a href="class_system_1_1_configuration_1_1_local_file_settings_provider.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_name_value_file_section_handler.html">NameValueFileSectionHandler</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides access to a configuration file. This type supports the .NET Framework configuration infrastructure and is not intended to be used directly from your code.  <a href="class_system_1_1_configuration_1_1_name_value_file_section_handler.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_name_value_section_handler.html">NameValueSectionHandler</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides name/value-pair configuration information from a configuration section.  <a href="class_system_1_1_configuration_1_1_name_value_section_handler.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_no_settings_version_upgrade_attribute.html">NoSettingsVersionUpgradeAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies that a settings provider should disable any logic that gets invoked when an application upgrade is detected. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_no_settings_version_upgrade_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_scheme_setting_element.html">SchemeSettingElement</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents an element in a T:System.Configuration.SchemeSettingElementCollection class.  <a href="class_system_1_1_configuration_1_1_scheme_setting_element.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_scheme_setting_element_collection.html">SchemeSettingElementCollection</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a collection of T:System.Configuration.SchemeSettingElement objects.  <a href="class_system_1_1_configuration_1_1_scheme_setting_element_collection.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_setting_attribute.html">SettingAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a custom settings attribute used to associate settings information with a settings property.  <a href="class_system_1_1_configuration_1_1_setting_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_setting_changing_event_args.html">SettingChangingEventArgs</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides data for the E:System.Configuration.ApplicationSettingsBase.SettingChanging event.  <a href="class_system_1_1_configuration_1_1_setting_changing_event_args.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_setting_element.html">SettingElement</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a simplified configuration element used for updating elements in the configuration. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_setting_element.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_setting_element_collection.html">SettingElementCollection</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains a collection of T:System.Configuration.SettingElement objects. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_setting_element_collection.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_attribute_dictionary.html">SettingsAttributeDictionary</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a collection of key/value pairs used to describe a configuration object as well as a T:System.Configuration.SettingsProperty object.  <a href="class_system_1_1_configuration_1_1_settings_attribute_dictionary.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_base.html">SettingsBase</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides the base class used to support user property settings.  <a href="class_system_1_1_configuration_1_1_settings_base.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_context.html">SettingsContext</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides contextual information that the provider can use when persisting settings.  <a href="class_system_1_1_configuration_1_1_settings_context.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_description_attribute.html">SettingsDescriptionAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a string that describes an individual configuration property. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_settings_description_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_group_description_attribute.html">SettingsGroupDescriptionAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a string that describes an application settings property group. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_settings_group_description_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_group_name_attribute.html">SettingsGroupNameAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies a name for application settings property group. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_settings_group_name_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_loaded_event_args.html">SettingsLoadedEventArgs</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides data for the E:System.Configuration.ApplicationSettingsBase.SettingsLoaded event.  <a href="class_system_1_1_configuration_1_1_settings_loaded_event_args.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_manageability_attribute.html">SettingsManageabilityAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies special services for application settings properties. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_settings_manageability_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_property.html">SettingsProperty</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Used internally as the class that represents metadata about an individual configuration property.  <a href="class_system_1_1_configuration_1_1_settings_property.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_property_collection.html">SettingsPropertyCollection</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains a collection of T:System.Configuration.SettingsProperty objects.  <a href="class_system_1_1_configuration_1_1_settings_property_collection.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_property_is_read_only_exception.html">SettingsPropertyIsReadOnlyException</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides an exception for read-only T:System.Configuration.SettingsProperty objects.  <a href="class_system_1_1_configuration_1_1_settings_property_is_read_only_exception.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_property_not_found_exception.html">SettingsPropertyNotFoundException</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides an exception for T:System.Configuration.SettingsProperty objects that are not found.  <a href="class_system_1_1_configuration_1_1_settings_property_not_found_exception.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_property_value.html">SettingsPropertyValue</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains the value of a settings property that can be loaded and stored by an instance of T:System.Configuration.SettingsBase.  <a href="class_system_1_1_configuration_1_1_settings_property_value.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_property_value_collection.html">SettingsPropertyValueCollection</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains a collection of settings property values that map T:System.Configuration.SettingsProperty objects to T:System.Configuration.SettingsPropertyValue objects.  <a href="class_system_1_1_configuration_1_1_settings_property_value_collection.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_property_wrong_type_exception.html">SettingsPropertyWrongTypeException</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides an exception that is thrown when an invalid type is used with a T:System.Configuration.SettingsProperty object.  <a href="class_system_1_1_configuration_1_1_settings_property_wrong_type_exception.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_provider.html">SettingsProvider</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Acts as a base class for deriving custom settings providers in the application settings architecture.  <a href="class_system_1_1_configuration_1_1_settings_provider.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_provider_attribute.html">SettingsProviderAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies the settings provider used to provide storage for the current application settings class or property. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_settings_provider_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_provider_collection.html">SettingsProviderCollection</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a collection of application settings providers.  <a href="class_system_1_1_configuration_1_1_settings_provider_collection.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_settings_serialize_as_attribute.html">SettingsSerializeAsAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies the serialization mechanism that the settings provider should use. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_settings_serialize_as_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_setting_value_element.html">SettingValueElement</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains the XML representing the serialized value of the setting. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_setting_value_element.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_single_tag_section_handler.html">SingleTagSectionHandler</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Handles configuration sections that are represented by a single XML tag in the .config file.  <a href="class_system_1_1_configuration_1_1_single_tag_section_handler.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_special_setting_attribute.html">SpecialSettingAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Indicates that an application settings property has a special significance. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_special_setting_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_uri_section.html">UriSection</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the <a class="el" href="class_system_1_1_uri.html" title="Provides an object representation of a uniform resource identifier (URI) and easy access to the parts...">Uri</a> section within a configuration file.  <a href="class_system_1_1_configuration_1_1_uri_section.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_user_scoped_setting_attribute.html">UserScopedSettingAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies that an application settings group or property contains distinct values for each user of an application. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_user_scoped_setting_attribute.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_configuration_1_1_user_settings_group.html">UserSettingsGroup</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a grouping of related user settings sections within a configuration file. This class cannot be inherited.  <a href="class_system_1_1_configuration_1_1_user_settings_group.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a12c1072ee6b140c79b3a0261d8499d81"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_configuration.html#a12c1072ee6b140c79b3a0261d8499d81">SettingsManageability</a> { <a class="el" href="namespace_system_1_1_configuration.html#a12c1072ee6b140c79b3a0261d8499d81a48e479c8d87de78171b5ca989c2664a5">SettingsManageability.Roaming</a>
+ }</td></tr>
+<tr class="memdesc:a12c1072ee6b140c79b3a0261d8499d81"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides values to indicate which services should be made available to application settings.  <a href="namespace_system_1_1_configuration.html#a12c1072ee6b140c79b3a0261d8499d81">More...</a><br /></td></tr>
+<tr class="separator:a12c1072ee6b140c79b3a0261d8499d81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adedb80de0496321cebfbcaf7aa5aa9de"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_configuration.html#adedb80de0496321cebfbcaf7aa5aa9de">SettingsSerializeAs</a> { <a class="el" href="namespace_system_1_1_configuration.html#adedb80de0496321cebfbcaf7aa5aa9dea27118326006d3829667a400ad23d5d98">SettingsSerializeAs.String</a>, 
+<a class="el" href="namespace_system_1_1_configuration.html#adedb80de0496321cebfbcaf7aa5aa9dea9ec8e4e3ab4c7eeba097f27d7364d743">SettingsSerializeAs.Xml</a>, 
+<a class="el" href="namespace_system_1_1_configuration.html#adedb80de0496321cebfbcaf7aa5aa9dea6ce976e8f061b2b5cfe4d0c50c3405dd">SettingsSerializeAs.Binary</a>, 
+<a class="el" href="namespace_system_1_1_configuration.html#adedb80de0496321cebfbcaf7aa5aa9deaca1b55045b75eca20ca5be3a4e29b1d2">SettingsSerializeAs.ProviderSpecific</a>
+ }</td></tr>
+<tr class="memdesc:adedb80de0496321cebfbcaf7aa5aa9de"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines the serialization scheme used to store application settings.  <a href="namespace_system_1_1_configuration.html#adedb80de0496321cebfbcaf7aa5aa9de">More...</a><br /></td></tr>
+<tr class="separator:adedb80de0496321cebfbcaf7aa5aa9de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32e6befd82e1e9c168b4a32a7797b925"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_configuration.html#a32e6befd82e1e9c168b4a32a7797b925">SpecialSetting</a> { <a class="el" href="namespace_system_1_1_configuration.html#a32e6befd82e1e9c168b4a32a7797b925a707a9c057c759a8eba2c21cec674b4a1">SpecialSetting.ConnectionString</a>, 
+<a class="el" href="namespace_system_1_1_configuration.html#a32e6befd82e1e9c168b4a32a7797b925a292cf711438d76b71b53c59828aaa5ac">SpecialSetting.WebServiceUrl</a>
+ }</td></tr>
+<tr class="memdesc:a32e6befd82e1e9c168b4a32a7797b925"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies the special setting category of a application settings property.  <a href="namespace_system_1_1_configuration.html#a32e6befd82e1e9c168b4a32a7797b925">More...</a><br /></td></tr>
+<tr class="separator:a32e6befd82e1e9c168b4a32a7797b925"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a520938b1a29859f9852ca04617b91258"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_configuration.html#a520938b1a29859f9852ca04617b91258">SettingChangingEventHandler</a> (object sender, <a class="el" href="class_system_1_1_configuration_1_1_setting_changing_event_args.html">SettingChangingEventArgs</a> e)</td></tr>
+<tr class="memdesc:a520938b1a29859f9852ca04617b91258"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that will handle the E:System.Configuration.ApplicationSettingsBase.SettingChanging event.  <a href="#a520938b1a29859f9852ca04617b91258">More...</a><br /></td></tr>
+<tr class="separator:a520938b1a29859f9852ca04617b91258"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0382177b67179b59654c4468cb2e8ac3"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_configuration.html#a0382177b67179b59654c4468cb2e8ac3">SettingsLoadedEventHandler</a> (object sender, <a class="el" href="class_system_1_1_configuration_1_1_settings_loaded_event_args.html">SettingsLoadedEventArgs</a> e)</td></tr>
+<tr class="memdesc:a0382177b67179b59654c4468cb2e8ac3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that will handle the E:System.Configuration.ApplicationSettingsBase.SettingsLoaded event.  <a href="#a0382177b67179b59654c4468cb2e8ac3">More...</a><br /></td></tr>
+<tr class="separator:a0382177b67179b59654c4468cb2e8ac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75a66199c66c37489f8cf87894b43f72"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_configuration.html#a75a66199c66c37489f8cf87894b43f72">SettingsSavingEventHandler</a> (object sender, <a class="el" href="class_system_1_1_component_model_1_1_cancel_event_args.html">CancelEventArgs</a> e)</td></tr>
+<tr class="memdesc:a75a66199c66c37489f8cf87894b43f72"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that will handle the E:System.Configuration.ApplicationSettingsBase.SettingsSaving event.  <a href="#a75a66199c66c37489f8cf87894b43f72">More...</a><br /></td></tr>
+<tr class="separator:a75a66199c66c37489f8cf87894b43f72"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a12c1072ee6b140c79b3a0261d8499d81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12c1072ee6b140c79b3a0261d8499d81">&#9670;&nbsp;</a></span>SettingsManageability</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_system_1_1_configuration.html#a12c1072ee6b140c79b3a0261d8499d81">System.Configuration.SettingsManageability</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Provides values to indicate which services should be made available to application settings. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a12c1072ee6b140c79b3a0261d8499d81a48e479c8d87de78171b5ca989c2664a5"></a>Roaming&#160;</td><td class="fielddoc"><p>Enables application settings to be stored in roaming user profiles. For more information about roaming user profiles, see Isolated Storage and Roaming. </p>
+</td></tr>
+</table>
+
+<p class="definition">Definition at line <a class="el" href="_settings_manageability_8cs_source.html#l00004">4</a> of file <a class="el" href="_settings_manageability_8cs_source.html">SettingsManageability.cs</a>.</p>
+
+</div>
+</div>
+<a id="adedb80de0496321cebfbcaf7aa5aa9de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adedb80de0496321cebfbcaf7aa5aa9de">&#9670;&nbsp;</a></span>SettingsSerializeAs</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_system_1_1_configuration.html#adedb80de0496321cebfbcaf7aa5aa9de">System.Configuration.SettingsSerializeAs</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Determines the serialization scheme used to store application settings. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="adedb80de0496321cebfbcaf7aa5aa9dea27118326006d3829667a400ad23d5d98"></a>String&#160;</td><td class="fielddoc"><p>The settings property is serialized as plain text. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="adedb80de0496321cebfbcaf7aa5aa9dea9ec8e4e3ab4c7eeba097f27d7364d743"></a>Xml&#160;</td><td class="fielddoc"><p>The settings property is serialized as XML using XML serialization. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="adedb80de0496321cebfbcaf7aa5aa9dea6ce976e8f061b2b5cfe4d0c50c3405dd"></a>Binary&#160;</td><td class="fielddoc"><p>The settings property is serialized using binary object serialization. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="adedb80de0496321cebfbcaf7aa5aa9deaca1b55045b75eca20ca5be3a4e29b1d2"></a>ProviderSpecific&#160;</td><td class="fielddoc"><p>The settings provider has implicit knowledge of the property or its type and picks an appropriate serialization mechanism. Often used for custom serialization. </p>
+</td></tr>
+</table>
+
+<p class="definition">Definition at line <a class="el" href="_settings_serialize_as_8cs_source.html#l00004">4</a> of file <a class="el" href="_settings_serialize_as_8cs_source.html">SettingsSerializeAs.cs</a>.</p>
+
+</div>
+</div>
+<a id="a32e6befd82e1e9c168b4a32a7797b925"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32e6befd82e1e9c168b4a32a7797b925">&#9670;&nbsp;</a></span>SpecialSetting</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_system_1_1_configuration.html#a32e6befd82e1e9c168b4a32a7797b925">System.Configuration.SpecialSetting</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Specifies the special setting category of a application settings property. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a32e6befd82e1e9c168b4a32a7797b925a707a9c057c759a8eba2c21cec674b4a1"></a>ConnectionString&#160;</td><td class="fielddoc"><p>The configuration property represents a connection string, typically for a data store or network resource. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a32e6befd82e1e9c168b4a32a7797b925a292cf711438d76b71b53c59828aaa5ac"></a>WebServiceUrl&#160;</td><td class="fielddoc"><p>The configuration property represents a Uniform Resource Locator (URL) to a <a class="el" href="namespace_system_1_1_web.html">Web</a> service. </p>
+</td></tr>
+</table>
+
+<p class="definition">Definition at line <a class="el" href="_special_setting_8cs_source.html#l00004">4</a> of file <a class="el" href="_special_setting_8cs_source.html">SpecialSetting.cs</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a520938b1a29859f9852ca04617b91258"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a520938b1a29859f9852ca04617b91258">&#9670;&nbsp;</a></span>SettingChangingEventHandler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">delegate void System.Configuration.SettingChangingEventHandler </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_system_1_1_configuration_1_1_setting_changing_event_args.html">SettingChangingEventArgs</a>&#160;</td>
+          <td class="paramname"><em>e</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Represents the method that will handle the E:System.Configuration.ApplicationSettingsBase.SettingChanging event. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The source of the event, typically an application settings wrapper class derived from the T:System.Configuration.ApplicationSettingsBase class.</td></tr>
+    <tr><td class="paramname">e</td><td>A T:System.Configuration.SettingChangingEventArgs containing the data for the event.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a0382177b67179b59654c4468cb2e8ac3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0382177b67179b59654c4468cb2e8ac3">&#9670;&nbsp;</a></span>SettingsLoadedEventHandler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">delegate void System.Configuration.SettingsLoadedEventHandler </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_system_1_1_configuration_1_1_settings_loaded_event_args.html">SettingsLoadedEventArgs</a>&#160;</td>
+          <td class="paramname"><em>e</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Represents the method that will handle the E:System.Configuration.ApplicationSettingsBase.SettingsLoaded event. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The source of the event, typically the settings class.</td></tr>
+    <tr><td class="paramname">e</td><td>A T:System.Configuration.SettingsLoadedEventArgs object that contains the event data.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a75a66199c66c37489f8cf87894b43f72"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75a66199c66c37489f8cf87894b43f72">&#9670;&nbsp;</a></span>SettingsSavingEventHandler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">delegate void System.Configuration.SettingsSavingEventHandler </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_system_1_1_component_model_1_1_cancel_event_args.html">CancelEventArgs</a>&#160;</td>
+          <td class="paramname"><em>e</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Represents the method that will handle the E:System.Configuration.ApplicationSettingsBase.SettingsSaving event. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The source of the event, typically a data container or data-bound collection.</td></tr>
+    <tr><td class="paramname">e</td><td>A T:System.ComponentModel.CancelEventArgs that contains the event data.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

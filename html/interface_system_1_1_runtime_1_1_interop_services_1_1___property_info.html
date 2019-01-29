@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Runtime.InteropServices._PropertyInfo Interface Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Runtime.InteropServices._PropertyInfo Interface Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -99,7 +99,7 @@ $(document).ready(function(){initNavTree('interface_system_1_1_runtime_1_1_inter
 <div class="dynheader">
 Inheritance diagram for System.Runtime.InteropServices._PropertyInfo:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_system_1_1_runtime_1_1_interop_services_1_1___property_info__inherit__graph.svg" width="427" height="216"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_system_1_1_runtime_1_1_interop_services_1_1___property_info__inherit__graph.svg" width="226" height="127"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -261,7 +261,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>An array of T:System.Reflection.MethodInfo objects whose elements reflect the <code>get</code>, <code>set</code>, and other accessors of the property reflected by the current instance. If the <em>nonPublic</em>  parameter is <code>true</code>, this array contains public and non-public <code>get</code>, <code>set</code>, and other accessors. If <em>nonPublic</em>  is <code>false</code>, this array contains only public <code>get</code>, <code>set</code>, and other accessors. If no accessors with the specified visibility are found, this method returns an array with zero (0) elements.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a89fc570009a859f33b6677813b6046e6">System.Reflection.Emit.PropertyBuilder</a>, <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a3f588340dc4bd7da865111ef310da2d8">System.Reflection.RuntimePropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#ab0d285b86c50a8f92128c7d7aff0707c">System.Reflection.PropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a89fc570009a859f33b6677813b6046e6">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#ab0d285b86c50a8f92128c7d7aff0707c">System.Reflection.PropertyInfo</a>.</p>
 
 </div>
 </div>
@@ -323,7 +323,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>An array of custom attributes applied to this member, or an array with zero (0) elements if no attributes have been applied.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a243afd1e3a91290d626ec6a9be191995">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#ab353f015843fcb174fda5483d621f192">System.Reflection.RuntimePropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a243afd1e3a91290d626ec6a9be191995">System.Reflection.Emit.PropertyBuilder</a>.</p>
 
 </div>
 </div>
@@ -352,7 +352,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>An array that contains all the custom attributes, or an array with zero elements if no attributes are defined.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#aa3f28c86062f438f6ba34ad08f3675e5">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a55c05d48eaed13dc9b529455c9b9e9fc">System.Reflection.RuntimePropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#aa3f28c86062f438f6ba34ad08f3675e5">System.Reflection.Emit.PropertyBuilder</a>.</p>
 
 </div>
 </div>
@@ -381,7 +381,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>A T:System.Reflection.MethodInfo object representing the <code>get</code> accessor for this property, if the <em>nonPublic</em>  parameter is <code>true</code>. Or <code>null</code> if <em>nonPublic</em>  is <code>false</code> and the <code>get</code> accessor is non-public, or if <em>nonPublic</em>  is <code>true</code> but no <code>get</code> accessors exist.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#ac933dcb0196af15f29e0dc4c31015af5">System.Reflection.Emit.PropertyBuilder</a>, <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a03f041e19cf1b6c3ac15f3101446feb9">System.Reflection.RuntimePropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a18b28658c0e7606cfb0db3d9c72f3c1e">System.Reflection.PropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#ac933dcb0196af15f29e0dc4c31015af5">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a18b28658c0e7606cfb0db3d9c72f3c1e">System.Reflection.PropertyInfo</a>.</p>
 
 </div>
 </div>
@@ -505,7 +505,7 @@ Properties</h2></td></tr>
 <p>Provides COM objects with version-independent access to the M:System.Reflection.PropertyInfo.GetIndexParameters method. </p>
 <dl class="section return"><dt>Returns</dt><dd>An array of type T:System.Reflection.ParameterInfo containing the parameters for the indexes.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#add3bc9ae9cbab5521f3cbbd18e4c183a">System.Reflection.Emit.PropertyBuilder</a>, <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a1407af0be826096f50caa0df28452cb4">System.Reflection.RuntimePropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a9ceb8b433b7c0814da620bd7e7b9024f">System.Reflection.PropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#add3bc9ae9cbab5521f3cbbd18e4c183a">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a9ceb8b433b7c0814da620bd7e7b9024f">System.Reflection.PropertyInfo</a>.</p>
 
 </div>
 </div>
@@ -534,7 +534,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>One of the values in the following table.Value Meaning A T:System.Reflection.MethodInfo object representing the <code>Set</code> method for this property. The <code>set</code> accessor is public.-or- The <em>nonPublic</em>  parameter is <code>true</code> and the <code>set</code> accessor is non-public. <code>null</code> The <em>nonPublic</em>  parameter is <code>true</code>, but the property is read-only.-or- The <em>nonPublic</em>  parameter is <code>false</code> and the <code>set</code> accessor is non-public.-or- There is no <code>set</code> accessor. </dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a3e4317ed790e5397c816fdeed98ac2ef">System.Reflection.Emit.PropertyBuilder</a>, <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a592e417dfc6e77e589218da621dfed4f">System.Reflection.RuntimePropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#ac85204fc7ece438027e9f44bf9ec2d07">System.Reflection.PropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a3e4317ed790e5397c816fdeed98ac2ef">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#ac85204fc7ece438027e9f44bf9ec2d07">System.Reflection.PropertyInfo</a>.</p>
 
 </div>
 </div>
@@ -686,7 +686,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>The property value for the <em>obj</em>  parameter.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a425aebe3b08311a11668bd02dd82d8e1">System.Reflection.RuntimePropertyInfo</a>, <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a9cad079ab7a7b4411888da59fdb04826">System.Reflection.PropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#ae3bba4b137082efe744e8b20eb8869f8">System.Reflection.Emit.PropertyBuilder</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a9cad079ab7a7b4411888da59fdb04826">System.Reflection.PropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#ae3bba4b137082efe744e8b20eb8869f8">System.Reflection.Emit.PropertyBuilder</a>.</p>
 
 </div>
 </div>
@@ -747,7 +747,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>The property value for the <em>obj</em>  parameter.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#ad0cc0d0d24e7c308d0324fca4448c220">System.Reflection.RuntimePropertyInfo</a>, <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a263b69b977f68efbf6df5429ccd3bbd2">System.Reflection.PropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a060e21eb489555f8d396a2637962ccfe">System.Reflection.Emit.PropertyBuilder</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a263b69b977f68efbf6df5429ccd3bbd2">System.Reflection.PropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a060e21eb489555f8d396a2637962ccfe">System.Reflection.Emit.PropertyBuilder</a>.</p>
 
 </div>
 </div>
@@ -866,7 +866,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd><code>true</code> if one or more instances of the <em>attributeType</em>  parameter are applied to this member; otherwise, <code>false</code>.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#aff8f93e4b3b99c9b7e1a8d62a669ca80">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a05e06acfc46645bafba7a2f0ff573944">System.Reflection.RuntimePropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#aff8f93e4b3b99c9b7e1a8d62a669ca80">System.Reflection.Emit.PropertyBuilder</a>.</p>
 
 </div>
 </div>
@@ -912,7 +912,7 @@ Properties</h2></td></tr>
   </dd>
 </dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a6772e9477cb453d8eac9ba9da4ffb5c5">System.Reflection.RuntimePropertyInfo</a>, <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a2be8354f8bde1cba504fe14e66e1b037">System.Reflection.PropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a8044842480205cfd3f51d1a0a082cc8c">System.Reflection.Emit.PropertyBuilder</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a2be8354f8bde1cba504fe14e66e1b037">System.Reflection.PropertyInfo</a>, and <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#a8044842480205cfd3f51d1a0a082cc8c">System.Reflection.Emit.PropertyBuilder</a>.</p>
 
 </div>
 </div>
@@ -979,7 +979,7 @@ Properties</h2></td></tr>
   </dd>
 </dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a4cb4b13a2d784a63a8481be9c128c6f5">System.Reflection.RuntimePropertyInfo</a>, <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#abdb5b514cfc583a87e2818309a32e3b1">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a172c576b21120175207c742d75bc2acd">System.Reflection.PropertyInfo</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_property_builder.html#abdb5b514cfc583a87e2818309a32e3b1">System.Reflection.Emit.PropertyBuilder</a>, and <a class="el" href="class_system_1_1_reflection_1_1_property_info.html#a172c576b21120175207c742d75bc2acd">System.Reflection.PropertyInfo</a>.</p>
 
 </div>
 </div>
@@ -1000,8 +1000,6 @@ Properties</h2></td></tr>
 
 <p>Provides COM objects with version-independent access to the M:System.Object.ToString method. </p>
 <dl class="section return"><dt>Returns</dt><dd>A string that represents the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a497031794414a552435f90151ac3b54b" title="A general type representing any reference or value type not explicitly represented by another TypeCod...">T:System.Object</a>.</dd></dl>
-
-<p>Implemented in <a class="el" href="class_system_1_1_reflection_1_1_runtime_property_info.html#a46ff7fccc8ebe6599b27309ee507b2d8">System.Reflection.RuntimePropertyInfo</a>.</p>
 
 </div>
 </div>
@@ -1189,7 +1187,7 @@ Properties</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Provides COM objects with version-independent access to the P:System.Reflection.MemberInfo.Name property. </p>
-<dl class="section return"><dt>Returns</dt><dd>A <a class="el" href="namespace_system.html#af5c85727c0f673ec3ac1350b8b52cf87a27118326006d3829667a400ad23d5d98">T:System.String</a> object containing the name of this member.</dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>A T:System.String object containing the name of this member.</dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="___property_info_8cs_source.html#l00024">24</a> of file <a class="el" href="___property_info_8cs_source.html">_PropertyInfo.cs</a>.</p>
 
@@ -1250,7 +1248,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this interface was generated from the following file:<ul>
-<li>System.Runtime.InteropServices/<a class="el" href="___property_info_8cs_source.html">_PropertyInfo.cs</a></li>
+<li>D:/All cs/System.Runtime.InteropServices/<a class="el" href="___property_info_8cs_source.html">_PropertyInfo.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

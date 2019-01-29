@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.DoWorkEventArgs" name="System.ComponentModel.DoWorkEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.ComponentModel.BackgroundWorker.DoWork event handler." alt="" coords="5,80,197,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_cancel_event_args.html" title="Provides data for a cancelable event." alt="" coords="41,5,162,32"/>
+</map>

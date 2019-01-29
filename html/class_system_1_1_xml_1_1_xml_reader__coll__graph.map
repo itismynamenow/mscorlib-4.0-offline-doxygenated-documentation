@@ -1,0 +1,5 @@
+<map id="System.Xml.XmlReader" name="System.Xml.XmlReader">
+<area shape="rect" id="node1" title="Represents a reader that provides fast, noncached, forward&#45;only access to XML data...." alt="" coords="65,95,224,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_xml_1_1_schema_1_1_i_xml_schema_info.html" title="Defines the post&#45;schema&#45;validation infoset of a validated XML node." alt="" coords="119,5,359,32"/>
+</map>

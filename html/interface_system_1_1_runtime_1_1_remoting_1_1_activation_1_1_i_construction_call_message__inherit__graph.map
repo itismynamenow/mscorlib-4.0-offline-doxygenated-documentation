@@ -1,8 +1,7 @@
 <map id="System.Runtime.Remoting.Activation.IConstructionCallMessage" name="System.Runtime.Remoting.Activation.IConstructionCallMessage">
-<area shape="rect" id="node1" title="Represents the construction call request of an object." alt="" coords="492,31,675,87"/>
-<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_call.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionCallMessage interface to create a re..." alt="" coords="746,5,930,47"/>
-<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_constructor_call_message.html" title=" " alt="" coords="723,71,953,112"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_call_message.html" title="Defines the method call message interface." alt="" coords="301,46,444,73"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="132,97,253,123"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="5,46,84,73"/>
+<area shape="rect" id="node1" title="Represents the construction call request of an object." alt="" coords="6,229,189,285"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_call.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionCallMessage interface to create a re..." alt="" coords="5,333,189,375"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_call_message.html" title="Defines the method call message interface." alt="" coords="26,155,169,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="106,80,227,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="29,5,107,32"/>
 </map>

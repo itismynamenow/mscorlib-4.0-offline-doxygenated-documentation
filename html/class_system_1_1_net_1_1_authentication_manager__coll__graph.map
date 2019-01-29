@@ -1,0 +1,5 @@
+<map id="System.Net.AuthenticationManager" name="System.Net.AuthenticationManager">
+<area shape="rect" id="node1" title="Manages the authentication modules called during the client authentication process." alt="" coords="139,109,317,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_specialized_1_1_string_dictionary.html" title="Implements a hash table with the key and the value strongly typed to be strings rather than objects." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="241,13,450,39"/>
+</map>

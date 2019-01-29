@@ -1,4 +1,6 @@
 <map id="System.Threading.Tasks.TaskCompletionSource&lt; TResult &gt;" name="System.Threading.Tasks.TaskCompletionSource&lt; TResult &gt;">
-<area shape="rect" id="node1" title="Represents the producer side of a T:System.Threading.Tasks.Task`1 unbound to a delegate,..." alt="" coords="27,5,226,47"/>
-<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_tasks_1_1_task_completion_source.html" title=" " alt="" coords="5,109,248,151"/>
+<area shape="rect" id="node1" title="Represents the producer side of a T:System.Threading.Tasks.Task`1 unbound to a delegate,..." alt="" coords="5,71,204,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_tasks_1_1_task_completion_source.html" title=" " alt="" coords="394,5,593,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_threading_1_1_tasks_1_1_task_completion_source.html" title=" " alt="" coords="394,71,593,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_threading_1_1_tasks_1_1_task_completion_source.html" title=" " alt="" coords="372,136,615,177"/>
 </map>

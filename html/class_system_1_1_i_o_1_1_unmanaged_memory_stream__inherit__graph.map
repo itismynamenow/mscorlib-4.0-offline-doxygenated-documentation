@@ -1,7 +1,5 @@
 <map id="System.IO.UnmanagedMemoryStream" name="System.IO.UnmanagedMemoryStream">
-<area shape="rect" id="node1" title="Provides access to unmanaged blocks of memory from managed code." alt="" coords="43,155,247,196"/>
-<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_pinned_buffer_memory_stream.html" title=" " alt="" coords="41,244,249,285"/>
-<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="113,80,177,107"/>
-<area shape="rect" id="node3" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,5,261,32"/>
+<area shape="rect" id="node1" title="Provides access to unmanaged blocks of memory from managed code." alt="" coords="10,80,214,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_i_o_1_1_memory_mapped_files_1_1_memory_mapped_view_stream.html" title="Represents a view of a memory&#45;mapped file as a sequentially accessed stream." alt="" coords="5,169,219,211"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="80,5,144,32"/>
 </map>

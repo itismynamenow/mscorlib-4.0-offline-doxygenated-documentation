@@ -1,0 +1,11 @@
+<map id="System.ComponentModel.BindingList&lt; T &gt;" name="System.ComponentModel.BindingList&lt; T &gt;">
+<area shape="rect" id="node1" title="Provides a generic collection that supports data binding." alt="" coords="756,234,975,275"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_object_model_1_1_collection.html" title="Provides the base class for a generic collection." alt="" coords="435,10,545,37"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,177,100,204"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="281,126,328,153"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,110,232,137"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_component_model_1_1_i_binding_list.html" title="Provides the features required to support both complex and simple scenarios when binding to a data so..." alt="" coords="445,202,535,229"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_component_model_1_1_i_cancel_add_new.html" title="Adds transactional capability when adding a new item to a collection." alt="" coords="433,316,547,342"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_component_model_1_1_i_raise_item_changed_events.html" title="Indicates whether a class converts property change events to E:System.ComponentModel...." alt="" coords="403,366,577,393"/>
+<area shape="rect" id="node9" href="$class_system_1_1_component_model_1_1_property_descriptor.html" title="Provides an abstraction of a property on a class." alt="" coords="377,418,603,459"/>
+</map>

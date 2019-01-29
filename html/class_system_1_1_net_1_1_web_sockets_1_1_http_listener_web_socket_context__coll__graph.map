@@ -1,0 +1,10 @@
+<map id="System.Net.WebSockets.HttpListenerWebSocketContext" name="System.Net.WebSockets.HttpListenerWebSocketContext">
+<area shape="rect" id="node1" title="Provides access to information received by the T:System.Net.HttpListener class when accepting WebSock..." alt="" coords="415,187,613,229"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_web_sockets_1_1_web_socket_context.html" title="Used for accessing the information in the WebSocket handshake." alt="" coords="43,5,178,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_principal_1_1_i_principal.html" title="Defines the basic functionality of a principal object." alt="" coords="22,57,199,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_web_sockets_1_1_web_socket.html" title="The WebSocket class allows applications to send and receive data after the WebSocket upgrade has comp..." alt="" coords="10,122,211,163"/>
+<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_specialized_1_1_name_value_collection.html" title="Represents a collection of associated T:System.String keys and T:System.String values that can be acc..." alt="" coords="5,187,216,229"/>
+<area shape="rect" id="node6" href="$class_system_1_1_net_1_1_cookie_collection.html" title="Provides a collection container for instances of the T:System.Net.Cookie class." alt="" coords="15,253,207,280"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="17,305,205,346"/>
+<area shape="rect" id="node8" href="$class_system_1_1_uri.html" title="Provides an object representation of a uniform resource identifier (URI) and easy access to the parts..." alt="" coords="67,371,154,397"/>
+</map>

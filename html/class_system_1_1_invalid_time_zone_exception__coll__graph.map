@@ -1,6 +1,4 @@
 <map id="System.InvalidTimeZoneException" name="System.InvalidTimeZoneException">
-<area shape="rect" id="node1" title="The exception that is thrown when time zone information is invalid." alt="" coords="5,155,225,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="75,80,155,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="13,5,105,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="129,5,216,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when time zone information is invalid." alt="" coords="5,80,225,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="75,5,155,32"/>
 </map>

@@ -1,12 +1,6 @@
 <map id="System.Reflection.ConstructorInfo" name="System.Reflection.ConstructorInfo">
-<area shape="rect" id="node1" title="Discovers the attributes of a class constructor and provides access to constructor metadata." alt="" coords="533,81,752,108"/>
-<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_emit_1_1_constructor_builder.html" title="Defines and represents a constructor of a dynamic class." alt="" coords="800,9,1031,50"/>
-<area shape="rect" id="node9" href="$class_system_1_1_reflection_1_1_emit_1_1_constructor_on_type_builder_instantiation.html" title=" " alt="" coords="800,74,1031,115"/>
-<area shape="rect" id="node10" href="$class_system_1_1_reflection_1_1_runtime_constructor_info.html" title=" " alt="" coords="825,139,1005,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="380,56,475,83"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="225,31,315,57"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="40,56,136,83"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_base.html" title="Exposes the public members of the T:System.Reflection.MethodBase class to unmanaged code." alt="" coords="219,81,321,108"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___constructor_info.html" title="Exposes the public members of the T:System.Reflection.ConstructorInfo class to unmanaged code." alt="" coords="369,107,485,133"/>
+<area shape="rect" id="node1" title="Discovers the attributes of a class constructor and provides access to constructor metadata." alt="" coords="11,80,230,107"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_emit_1_1_constructor_builder.html" title="Defines and represents a constructor of a dynamic class." alt="" coords="5,155,236,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="9,5,104,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___constructor_info.html" title="Exposes the public members of the T:System.Reflection.ConstructorInfo class to unmanaged code." alt="" coords="128,5,244,32"/>
 </map>

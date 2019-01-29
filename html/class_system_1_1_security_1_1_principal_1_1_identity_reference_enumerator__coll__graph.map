@@ -1,8 +1,0 @@
-<map id="System.Security.Principal.IdentityReferenceEnumerator" name="System.Security.Principal.IdentityReferenceEnumerator">
-<area shape="rect" id="node1" title=" " alt="" coords="703,75,892,117"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title=" " alt="" coords="392,7,608,33"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,7,215,33"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="455,57,545,84"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="454,108,546,135"/>
-<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="411,159,589,201"/>
-</map>

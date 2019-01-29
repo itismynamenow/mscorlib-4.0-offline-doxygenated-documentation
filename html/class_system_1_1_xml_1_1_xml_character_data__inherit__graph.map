@@ -1,0 +1,9 @@
+<map id="System.Xml.XmlCharacterData" name="System.Xml.XmlCharacterData">
+<area shape="rect" id="node1" title="Provides text manipulation methods that are used by several classes." alt="" coords="164,115,364,141"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_c_data_section.html" title="Represents a CDATA section." alt="" coords="412,5,609,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xml_comment.html" title="Represents the content of an XML comment." alt="" coords="424,56,597,83"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_significant_whitespace.html" title="Represents white space between markup in a mixed content node or white space within an xml:space= &#39;pr..." alt="" coords="422,107,599,149"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_xml_text.html" title="Represents the text content of an element or attribute." alt="" coords="439,173,582,200"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_xml_whitespace.html" title="Represents white space in element content." alt="" coords="417,224,604,251"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_linked_node.html" title="Gets the node immediately preceding or following this node." alt="" coords="5,115,116,141"/>
+</map>

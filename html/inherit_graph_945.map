@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="23,5,165,47"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_principal_1_1_security_identifier.html" title="Represents a security identifier (SID) and provides marshaling and comparison operations for SIDs." alt="" coords="231,5,408,47"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="5,71,183,112"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_principal_1_1_n_t_account.html" title="Represents a user or group account." alt="" coords="231,71,408,112"/>
-</map>

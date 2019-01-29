@@ -1,0 +1,8 @@
+<map id="System.Xml.Schema.XmlSchemaContent" name="System.Xml.Schema.XmlSchemaContent">
+<area shape="rect" id="node1" title="An abstract class for schema content." alt="" coords="204,104,421,145"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_complex_content_extension.html" title="Represents the extension element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="469,5,687,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_complex_content_restriction.html" title="Represents the restriction element from XML Schema as specified by the World Wide Web Consortium (W3C..." alt="" coords="469,71,687,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_content_extension.html" title="Represents the extension element for simple content from XML Schema as specified by the World Wide We..." alt="" coords="469,136,687,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_content_restriction.html" title="Represents the restriction element for simple content from XML Schema as specified by the World Wide ..." alt="" coords="469,201,687,243"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="5,111,156,138"/>
+</map>

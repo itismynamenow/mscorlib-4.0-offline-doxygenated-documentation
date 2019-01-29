@@ -1,0 +1,6 @@
+<map id="System.Security.Authentication.ExtendedProtection.ExtendedProtectionPolicy" name="System.Security.Authentication.ExtendedProtection.ExtendedProtectionPolicy">
+<area shape="rect" id="node1" title="The T:System.Security.Authentication.ExtendedProtection.ExtendedProtectionPolicy class represents the..." alt="" coords="467,57,757,98"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="96,5,188,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_channel_binding.html" title="The T:System.Security.Authentication.ExtendedProtection.ChannelBinding class encapsulates a pointer t..." alt="" coords="27,57,257,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_service_name_collection.html" title="The T:System.Security.Authentication.ExtendedProtection.ServiceNameCollection class is a read&#45;only co..." alt="" coords="5,122,279,163"/>
+</map>

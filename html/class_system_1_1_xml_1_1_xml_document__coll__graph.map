@@ -1,0 +1,9 @@
+<map id="System.Xml.XmlDocument" name="System.Xml.XmlDocument">
+<area shape="rect" id="node1" title="Represents an XML document. You can use this class to load, validate, edit, add, and position XML in ..." alt="" coords="640,193,816,220"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_xml_element.html" title="Represents an element." alt="" coords="976,148,1141,175"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="359,164,433,191"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="5,103,152,129"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xml_implementation.html" title="Defines the context for a set of T:System.Xml.XmlDocument objects." alt="" coords="293,265,499,292"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_name_table.html" title="Table of atomized string objects." alt="" coords="305,316,487,343"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_xml_document_type.html" title="Represents the document type declaration." alt="" coords="294,215,498,241"/>
+</map>

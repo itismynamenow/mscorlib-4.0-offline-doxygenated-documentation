@@ -1,0 +1,28 @@
+var class_system_1_1_xml_1_1_xml_reader_settings =
+[
+    [ "XmlReaderSettings", "class_system_1_1_xml_1_1_xml_reader_settings.html#a999829724659349f8749ec1cc9c5605c", null ],
+    [ "XmlReaderSettings", "class_system_1_1_xml_1_1_xml_reader_settings.html#a4c345423ee8eaf7437f5e2f95bf63780", null ],
+    [ "Clone", "class_system_1_1_xml_1_1_xml_reader_settings.html#a342452c3cb683dd4bfcce40d57ecfbf9", null ],
+    [ "Reset", "class_system_1_1_xml_1_1_xml_reader_settings.html#a3c2224f1cf7665d998a20726af9cd7fe", null ],
+    [ "Async", "class_system_1_1_xml_1_1_xml_reader_settings.html#a729eb98819432e72eb5cf519aa8e057a", null ],
+    [ "CheckCharacters", "class_system_1_1_xml_1_1_xml_reader_settings.html#a1bfc1960b1c2d4aadbee6c13aec535d2", null ],
+    [ "CloseInput", "class_system_1_1_xml_1_1_xml_reader_settings.html#aa23bd84963a225e4d734f3d2137241d9", null ],
+    [ "ConformanceLevel", "class_system_1_1_xml_1_1_xml_reader_settings.html#a15b642c4152aa03f1d09951a1b13fca0", null ],
+    [ "DtdProcessing", "class_system_1_1_xml_1_1_xml_reader_settings.html#a72e5168f3a38d9471f5e245e4ea9f55c", null ],
+    [ "IgnoreComments", "class_system_1_1_xml_1_1_xml_reader_settings.html#acb1dd94a3575dbb1e52b01f7102c26c8", null ],
+    [ "IgnoreProcessingInstructions", "class_system_1_1_xml_1_1_xml_reader_settings.html#abc1c41085495b1c7b92b88c5228320f8", null ],
+    [ "IgnoreWhitespace", "class_system_1_1_xml_1_1_xml_reader_settings.html#a751144c6d9ece60d46d2b4ae5fe02f01", null ],
+    [ "IsXmlResolverSet", "class_system_1_1_xml_1_1_xml_reader_settings.html#ac9e98430af68d42e2b3d8ee1da8b4de0", null ],
+    [ "LineNumberOffset", "class_system_1_1_xml_1_1_xml_reader_settings.html#ab371c6c6c8c2f17de09557404fc1d9ce", null ],
+    [ "LinePositionOffset", "class_system_1_1_xml_1_1_xml_reader_settings.html#ac3f855789d6390e1f1a2da30225b1cb4", null ],
+    [ "MaxCharactersFromEntities", "class_system_1_1_xml_1_1_xml_reader_settings.html#a559d87ec7dd9d53d6bbf1098f3ae782b", null ],
+    [ "MaxCharactersInDocument", "class_system_1_1_xml_1_1_xml_reader_settings.html#a937df91cb978ade3459e7dcd761fbb7d", null ],
+    [ "NameTable", "class_system_1_1_xml_1_1_xml_reader_settings.html#a4c9a519cb975d8d5359646dd3dc6c098", null ],
+    [ "ProhibitDtd", "class_system_1_1_xml_1_1_xml_reader_settings.html#a6d6c73da0ce748c0d282af7b4abbc3de", null ],
+    [ "ReadOnly", "class_system_1_1_xml_1_1_xml_reader_settings.html#a8ef1a5dbed23c0516fc932227e55f665", null ],
+    [ "Schemas", "class_system_1_1_xml_1_1_xml_reader_settings.html#a6b0d0ef2e9bf0f08c282264784e3c8ec", null ],
+    [ "ValidationEventHandler", "class_system_1_1_xml_1_1_xml_reader_settings.html#a77282fe0f518ddf5f256a349fce4bc76", null ],
+    [ "ValidationFlags", "class_system_1_1_xml_1_1_xml_reader_settings.html#aec72d583863397cdb8231b2168709b12", null ],
+    [ "ValidationType", "class_system_1_1_xml_1_1_xml_reader_settings.html#ae30efd56af4cfda6ede38e5749cd4335", null ],
+    [ "XmlResolver", "class_system_1_1_xml_1_1_xml_reader_settings.html#a04e9004296dbc3200b08745fd7b59d9a", null ]
+];

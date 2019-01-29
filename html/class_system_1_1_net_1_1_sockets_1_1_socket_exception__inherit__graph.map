@@ -1,0 +1,4 @@
+<map id="System.Net.Sockets.SocketException" name="System.Net.Sockets.SocketException">
+<area shape="rect" id="node1" title="The exception that is thrown when a socket error occurs." alt="" coords="5,80,193,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_win32_exception.html" title="Throws an exception for a Win32 error code." alt="" coords="41,5,158,32"/>
+</map>

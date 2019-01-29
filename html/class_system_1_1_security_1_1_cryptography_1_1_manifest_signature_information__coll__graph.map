@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ManifestSignatureInformation" name="System.Security.Cryptography.ManifestSignatureInformation">
+<area shape="rect" id="node1" title="Provides information for a manifest signature." alt="" coords="440,50,644,91"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_authenticode_signature_information.html" title="Provides information about an Authenticode signature for a manifest." alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_strong_name_signature_information.html" title="Holds the strong name signature information for a manifest." alt="" coords="25,86,237,127"/>
+</map>

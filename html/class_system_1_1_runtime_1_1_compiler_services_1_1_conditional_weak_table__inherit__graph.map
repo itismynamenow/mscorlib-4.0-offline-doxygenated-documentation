@@ -1,7 +1,12 @@
 <map id="System.Runtime.CompilerServices.ConditionalWeakTable&lt; TKey, TValue &gt;" name="System.Runtime.CompilerServices.ConditionalWeakTable&lt; TKey, TValue &gt;">
-<area shape="rect" id="node1" title="Enables compilers to dynamically attach object fields to managed objects." alt="" coords="5,155,232,211"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="472,21,744,77"/>
-<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="473,102,743,173"/>
-<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="480,197,736,253"/>
-<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="495,277,721,333"/>
+<area shape="rect" id="node1" title="Enables compilers to dynamically attach object fields to managed objects." alt="" coords="5,455,232,511"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="627,60,899,116"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="565,140,960,225"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="627,249,899,335"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="627,359,898,430"/>
+<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="632,455,893,511"/>
+<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="641,535,884,591"/>
+<area shape="rect" id="node8" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="635,615,891,671"/>
+<area shape="rect" id="node9" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="649,695,876,751"/>
+<area shape="rect" id="node10" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html" title=" " alt="" coords="586,775,939,860"/>
 </map>

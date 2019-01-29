@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ECDiffieHellmanPublicKey" name="System.Security.Cryptography.ECDiffieHellmanPublicKey">
+<area shape="rect" id="node1" title="Provides an abstract base class from which all T:System.Security.Cryptography.ECDiffieHellmanCngPubli..." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_e_c_diffie_hellman_cng_public_key.html" title="Specifies an Elliptic Curve Diffie&#45;Hellman (ECDH) public key for use with the T:System...." alt="" coords="5,169,209,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_surrogate_selector.html" title="Indicates a serialization surrogate selector class." alt="" coords="5,39,204,80"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_remoting_surrogate_selector.html" title="Selects the remoting surrogate that can be used to serialize an object that derives from a T:System...." alt="" coords="252,5,500,47"/>
-<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_serialization_1_1_surrogate_selector.html" title="Assists formatters in selection of the serialization surrogate to delegate the serialization or deser..." alt="" coords="277,71,475,112"/>
-</map>

@@ -1,7 +1,4 @@
 <map id="System.IO.IsolatedStorage.IsolatedStorageFileStream" name="System.IO.IsolatedStorage.IsolatedStorageFileStream">
-<area shape="rect" id="node1" title="Exposes a file within isolated storage." alt="" coords="54,229,237,271"/>
-<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_file_stream.html" title="Provides a T:System.IO.Stream for a file, supporting both synchronous and asynchronous read and write..." alt="" coords="103,155,188,181"/>
-<area shape="rect" id="node3" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="113,80,177,107"/>
-<area shape="rect" id="node4" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,5,261,32"/>
+<area shape="rect" id="node1" title="Exposes a file within isolated storage." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_file_stream.html" title="Provides a T:System.IO.Stream for a file, supporting both synchronous and asynchronous read and write..." alt="" coords="54,5,139,32"/>
 </map>

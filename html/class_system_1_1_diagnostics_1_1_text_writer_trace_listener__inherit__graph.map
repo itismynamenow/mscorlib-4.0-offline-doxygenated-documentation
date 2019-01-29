@@ -1,0 +1,8 @@
+<map id="System.Diagnostics.TextWriterTraceListener" name="System.Diagnostics.TextWriterTraceListener">
+<area shape="rect" id="node1" title="Directs tracing or debugging output to a T:System.IO.TextWriter or to a T:System.IO...." alt="" coords="153,104,356,145"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_console_trace_listener.html" title="Directs tracing or debugging output to either the standard output or the standard error stream." alt="" coords="408,5,599,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_diagnostics_1_1_delimited_list_trace_listener.html" title="Directs tracing or debugging output to a text writer, such as a stream writer, or to a stream,..." alt="" coords="405,71,602,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_diagnostics_1_1_event_schema_trace_listener.html" title="Directs tracing or debugging output of end&#45;to&#45;end events to an XML&#45;encoded, schema&#45;compliant log file..." alt="" coords="416,136,591,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_diagnostics_1_1_xml_writer_trace_listener.html" title="Directs tracing or debugging output as XML&#45;encoded data to a T:System.IO.TextWriter or to a T:System...." alt="" coords="404,201,603,243"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_trace_listener.html" title="Provides the abstract base class for the listeners who monitor trace and debug output." alt="" coords="5,111,105,138"/>
+</map>

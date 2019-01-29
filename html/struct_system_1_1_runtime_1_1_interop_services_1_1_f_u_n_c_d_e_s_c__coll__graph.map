@@ -1,10 +1,5 @@
 <map id="System.Runtime.InteropServices.FUNCDESC" name="System.Runtime.InteropServices.FUNCDESC">
-<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.FUNCDESC instead." alt="" coords="1491,38,1705,79"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="147,77,249,104"/>
-<area shape="rect" id="node5" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_t_y_p_e_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.TYPEDESC instead." alt="" coords="604,73,819,114"/>
-<area shape="rect" id="node8" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_p_a_r_a_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.PARAMDESC instead." alt="" coords="365,194,580,235"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,77,97,104"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_e_l_e_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC instead." alt="" coords="1139,77,1353,118"/>
-<area shape="rect" id="node6" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_e_l_e_m_d_e_s_c_1_1_d_e_s_c_u_n_i_o_n.html" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC.DESCUNION instead." alt="" coords="843,146,1057,187"/>
-<area shape="rect" id="node7" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_i_d_l_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.IDLDESC instead." alt="" coords="365,129,580,170"/>
+<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.FUNCDESC instead." alt="" coords="111,124,325,165"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="5,13,108,39"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_e_l_e_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC instead." alt="" coords="185,5,400,47"/>
 </map>

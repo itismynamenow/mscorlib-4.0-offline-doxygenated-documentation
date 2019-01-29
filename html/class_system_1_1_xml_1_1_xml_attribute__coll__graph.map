@@ -1,0 +1,8 @@
+<map id="System.Xml.XmlAttribute" name="System.Xml.XmlAttribute">
+<area shape="rect" id="node1" title="Represents an attribute. Valid and default values for the attribute are defined in a document type de..." alt="" coords="1488,117,1655,144"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="655,207,728,233"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_xml_document.html" title="Represents an XML document. You can use this class to load, validate, edit, add, and position XML in ..." alt="" coords="849,209,1025,236"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_xml_1_1_schema_1_1_i_xml_schema_info.html" title="Defines the post&#45;schema&#45;validation infoset of a validated XML node." alt="" coords="5,251,245,277"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="367,204,513,231"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_element.html" title="Represents an element." alt="" coords="1185,249,1351,276"/>
+</map>

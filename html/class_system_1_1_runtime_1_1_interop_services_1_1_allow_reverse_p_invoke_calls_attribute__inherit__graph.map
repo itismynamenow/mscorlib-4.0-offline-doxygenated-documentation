@@ -1,5 +1,4 @@
 <map id="System.Runtime.InteropServices.AllowReversePInvokeCallsAttribute" name="System.Runtime.InteropServices.AllowReversePInvokeCallsAttribute">
-<area shape="rect" id="node1" title="Allows an unmanaged method to call a managed method." alt="" coords="5,155,228,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="81,80,152,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="77,5,156,32"/>
+<area shape="rect" id="node1" title="Allows an unmanaged method to call a managed method." alt="" coords="5,80,228,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="81,5,152,32"/>
 </map>

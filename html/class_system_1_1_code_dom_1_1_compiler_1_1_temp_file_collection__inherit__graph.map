@@ -1,0 +1,6 @@
+<map id="System.CodeDom.Compiler.TempFileCollection" name="System.CodeDom.Compiler.TempFileCollection">
+<area shape="rect" id="node1" title="Represents a collection of temporary files." alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="57,80,140,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="11,5,106,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="165,80,254,107"/>
+</map>

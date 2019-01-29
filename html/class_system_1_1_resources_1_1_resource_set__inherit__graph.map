@@ -1,6 +1,5 @@
 <map id="System.Resources.ResourceSet" name="System.Resources.ResourceSet">
 <area shape="rect" id="node1" title="Stores all the resources localized for one particular culture, ignoring all other cultures,..." alt="" coords="5,80,217,107"/>
-<area shape="rect" id="node4" href="$class_system_1_1_resources_1_1_runtime_resource_set.html" title=" " alt="" coords="19,155,204,196"/>
 <area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="9,5,99,32"/>
 <area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="123,5,217,32"/>
 </map>

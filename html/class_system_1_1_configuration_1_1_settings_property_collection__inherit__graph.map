@@ -1,0 +1,6 @@
+<map id="System.Configuration.SettingsPropertyCollection" name="System.Configuration.SettingsPropertyCollection">
+<area shape="rect" id="node1" title="Contains a collection of T:System.Configuration.SettingsProperty objects." alt="" coords="5,155,204,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="17,5,112,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="63,80,146,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="170,80,253,107"/>
+</map>

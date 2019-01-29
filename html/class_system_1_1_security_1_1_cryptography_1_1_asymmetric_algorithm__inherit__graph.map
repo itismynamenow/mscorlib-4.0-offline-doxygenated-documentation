@@ -1,8 +1,8 @@
 <map id="System.Security.Cryptography.AsymmetricAlgorithm" name="System.Security.Cryptography.AsymmetricAlgorithm">
-<area shape="rect" id="node1" title="Represents the abstract base class from which all implementations of asymmetric algorithms must inher..." alt="" coords="143,41,347,83"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_d_s_a.html" title="Represents the abstract base class from which all implementations of the Digital Signature Algorithm ..." alt="" coords="395,17,625,43"/>
-<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="395,74,625,101"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,49,95,75"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_d_s_a_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) implementation of the T:S..." alt="" coords="673,5,877,47"/>
-<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_crypto_service_provider.html" title="Performs asymmetric encryption and decryption using the implementation of the T:System...." alt="" coords="673,71,877,112"/>
+<area shape="rect" id="node1" title="Represents the abstract base class from which all implementations of asymmetric algorithms must inher..." alt="" coords="143,90,347,131"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_d_s_a.html" title="Represents the abstract base class from which all implementations of the Digital Signature Algorithm ..." alt="" coords="395,5,625,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_e_c_diffie_hellman.html" title="Provides an abstract base class that Elliptic Curve Diffie&#45;Hellman (ECDH) algorithm implementations c..." alt="" coords="408,57,612,98"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_e_c_dsa.html" title="Provides an abstract base class that encapsulates the Elliptic Curve Digital Signature Algorithm (ECD..." alt="" coords="408,122,612,163"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="395,188,625,215"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,97,95,124"/>
 </map>

@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_system_1_1_runtime_1_1_compiler_services_1_1_i_notify_completion.html" title="Represents an operation that schedules continuations when it completes." alt="" coords="5,121,232,162"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_compiler_services_1_1_configured_task_awaitable_1_1_configured_task_awaiter.html" title="Provides an awaiter for an awaitable object(T:System.Runtime.CompilerServices.ConfiguredTaskAwaitable..." alt="" coords="555,5,781,61"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_compiler_services_1_1_i_critical_notify_completion.html" title="Represents an awaiter that schedules continuations when an await operation completes." alt="" coords="280,121,507,162"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_runtime_1_1_compiler_services_1_1_task_awaiter.html" title="Provides an object that waits for the completion of an asynchronous task." alt="" coords="555,87,781,129"/>
-<area shape="rect" id="node5" href="$struct_system_1_1_runtime_1_1_compiler_services_1_1_yield_awaitable_1_1_yield_awaiter.html" title="Provides an awaiter for switching into a target environment." alt="" coords="555,154,781,195"/>
-<area shape="rect" id="node6" href="$class_system_1_1_threading_1_1_tasks_1_1_begin_end_awaitable_adapter.html" title=" " alt="" coords="567,223,769,265"/>
-</map>

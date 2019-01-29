@@ -1,8 +1,0 @@
-var namespace_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen =
-[
-    [ "EventItfInfo", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_event_itf_info.html", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_event_itf_info" ],
-    [ "EventProviderWriter", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_event_provider_writer.html", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_event_provider_writer" ],
-    [ "EventSinkHelperWriter", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_event_sink_helper_writer.html", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_event_sink_helper_writer" ],
-    [ "NameSpaceExtractor", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_name_space_extractor.html", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_name_space_extractor" ],
-    [ "TCEAdapterGenerator", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_t_c_e_adapter_generator.html", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_t_c_e_adapter_generator" ]
-];

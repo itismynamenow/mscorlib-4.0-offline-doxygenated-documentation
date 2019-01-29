@@ -1,0 +1,4 @@
+<map id="System.CodeDom.CodeObjectCreateExpression" name="System.CodeDom.CodeObjectCreateExpression">
+<area shape="rect" id="node1" title="Represents an expression that creates a new instance of a type." alt="" coords="5,80,205,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_expression.html" title="Represents a code expression. This is a base class for other code expression objects that is never in..." alt="" coords="47,5,164,32"/>
+</map>

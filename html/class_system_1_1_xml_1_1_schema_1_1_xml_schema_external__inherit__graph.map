@@ -1,0 +1,7 @@
+<map id="System.Xml.Schema.XmlSchemaExternal" name="System.Xml.Schema.XmlSchemaExternal">
+<area shape="rect" id="node1" title="An abstract class. Provides information about the included schema." alt="" coords="183,71,400,112"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_import.html" title="Represents the import element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="448,5,665,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_include.html" title="Represents the include element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="448,71,665,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_redefine.html" title="Represents the redefine element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="448,136,665,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_object.html" title="Represents the root class for the Xml schema object model hierarchy and serves as a base class for cl..." alt="" coords="5,78,135,105"/>
+</map>

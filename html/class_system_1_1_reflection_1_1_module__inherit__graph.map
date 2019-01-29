@@ -1,9 +1,7 @@
 <map id="System.Reflection.Module" name="System.Reflection.Module">
-<area shape="rect" id="node1" title="Performs reflection on a module." alt="" coords="129,80,303,107"/>
-<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_emit_1_1_module_builder.html" title="Defines and represents a module in a dynamic assembly." alt="" coords="5,155,211,196"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_runtime_module.html" title=" " alt="" coords="235,155,415,196"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="75,5,146,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="170,5,262,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="287,5,452,32"/>
-<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_emit_1_1_internal_module_builder.html" title=" " alt="" coords="223,244,428,285"/>
+<area shape="rect" id="node1" title="Performs reflection on a module." alt="" coords="59,80,233,107"/>
+<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_emit_1_1_module_builder.html" title="Defines and represents a module in a dynamic assembly." alt="" coords="43,155,249,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="100,5,192,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="217,5,382,32"/>
 </map>

@@ -1,0 +1,6 @@
+<map id="System.ComponentModel.NullableConverter" name="System.ComponentModel.NullableConverter">
+<area shape="rect" id="node1" title="Provides automatic conversion between a nullable type and its underlying primitive type." alt="" coords="71,124,294,165"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_type_converter.html" title="Provides a unified way of converting types of values to other types, as well as for accessing standar..." alt="" coords="5,13,109,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="133,13,232,39"/>
+<area shape="rect" id="node4" href="$class_system_1_1_component_model_1_1_type_converter.html" title="Provides a unified way of converting types of values to other types, as well as for accessing standar..." alt="" coords="358,5,562,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.IO.Pipes.PipeAccessRule" name="System.IO.Pipes.PipeAccessRule">
+<area shape="rect" id="node1" title="Represents an abstraction of an access control entry (ACE) that defines an access rule for a pipe." alt="" coords="5,80,227,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_access_rule.html" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="70,5,162,32"/>
+</map>

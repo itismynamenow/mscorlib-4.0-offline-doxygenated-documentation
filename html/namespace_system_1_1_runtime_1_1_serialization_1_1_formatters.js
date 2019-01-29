@@ -5,7 +5,6 @@ var namespace_system_1_1_runtime_1_1_serialization_1_1_formatters =
     [ "InternalRM", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_internal_r_m.html", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_internal_r_m" ],
     [ "InternalST", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_internal_s_t.html", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_internal_s_t" ],
     [ "ISoapMessage", "interface_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_i_soap_message.html", "interface_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_i_soap_message" ],
-    [ "SerTrace", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_ser_trace.html", null ],
     [ "ServerFault", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_server_fault.html", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_server_fault" ],
     [ "SoapFault", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_soap_fault.html", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_soap_fault" ],
     [ "SoapMessage", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_soap_message.html", "class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_soap_message" ]

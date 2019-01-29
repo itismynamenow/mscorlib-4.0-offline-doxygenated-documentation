@@ -1,0 +1,4 @@
+<map id="System.Xml.XmlEntity" name="System.Xml.XmlEntity">
+<area shape="rect" id="node1" title="Represents an entity declaration, such as &lt;!ENTITY... &gt;." alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="44,5,117,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.EventLogTraceListener" name="System.Diagnostics.EventLogTraceListener">
+<area shape="rect" id="node1" title="Provides a simple listener that directs tracing or debugging output to an T:System...." alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_trace_listener.html" title="Provides the abstract base class for the listeners who monitor trace and debug output." alt="" coords="43,5,143,32"/>
+</map>

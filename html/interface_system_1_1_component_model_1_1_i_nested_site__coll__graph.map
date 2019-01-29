@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.INestedSite" name="System.ComponentModel.INestedSite">
+<area shape="rect" id="node1" title="Provides the ability to retrieve the full nested name of a component." alt="" coords="5,155,248,181"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_i_site.html" title="Provides functionality required by sites." alt="" coords="133,80,181,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_service_provider.html" title="Defines a mechanism for retrieving a service object; that is, an object that provides custom support ..." alt="" coords="70,5,183,32"/>
+</map>

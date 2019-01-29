@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_response_channel_sink_stack.html" title="Provides the stack functionality for a stack of client response channel sinks that must be invoked du..." alt="" coords="5,5,227,61"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_client_channel_sink_stack.html" title="Holds the stack of client channel sinks that must be invoked during an asynchronous message response ..." alt="" coords="545,13,765,54"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_channel_sink_stack.html" title="Provides functionality for a stack of client channel sinks that must be invoked during an asynchronou..." alt="" coords="275,42,497,83"/>
-</map>

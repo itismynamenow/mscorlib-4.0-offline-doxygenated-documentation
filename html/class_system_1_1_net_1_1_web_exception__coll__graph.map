@@ -1,0 +1,5 @@
+<map id="System.Net.WebException" name="System.Net.WebException">
+<area shape="rect" id="node1" title="The exception that is thrown when an error occurs while accessing the network through a pluggable pro..." alt="" coords="78,80,258,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_invalid_operation_exception.html" title="The exception that is thrown when a method call is invalid for the object&#39;s current state." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="201,5,293,32"/>
+</map>

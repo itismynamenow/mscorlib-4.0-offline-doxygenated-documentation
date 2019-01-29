@@ -1,11 +1,6 @@
 <map id="System.Reflection.Emit.LocalBuilder" name="System.Reflection.Emit.LocalBuilder">
-<area shape="rect" id="node1" title="Represents a local variable within a method or constructor." alt="" coords="103,247,297,288"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_local_variable_info.html" title="Discovers the attributes of a local variable and provides access to local variable metadata." alt="" coords="5,157,125,184"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___local_builder.html" title="Exposes the T:System.Reflection.Emit.LocalBuilder class to unmanaged code." alt="" coords="150,157,250,184"/>
-<area shape="rect" id="node4" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="275,157,373,184"/>
-<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="182,81,271,108"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="67,5,232,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="256,5,352,32"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="295,81,353,108"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="377,81,442,108"/>
+<area shape="rect" id="node1" title="Represents a local variable within a method or constructor." alt="" coords="103,95,297,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_local_variable_info.html" title="Discovers the attributes of a local variable and provides access to local variable metadata." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___local_builder.html" title="Exposes the T:System.Reflection.Emit.LocalBuilder class to unmanaged code." alt="" coords="150,5,250,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="275,5,373,32"/>
 </map>

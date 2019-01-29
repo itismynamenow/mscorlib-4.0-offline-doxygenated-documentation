@@ -1,0 +1,8 @@
+<map id="System.ComponentModel.ISupportInitialize" name="System.ComponentModel.ISupportInitialize">
+<area shape="rect" id="node1" title="Specifies that this object supports a simple, transacted notification for batch initialization." alt="" coords="5,123,229,164"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_i_support_initialize_notification.html" title="Allows coordination of initialization for a component and its dependent properties." alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_event_log.html" title="Provides interaction with Windows event logs." alt="" coords="291,71,487,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_diagnostics_1_1_performance_counter.html" title="Represents a Windows NT performance counter component." alt="" coords="281,123,497,164"/>
+<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_file_system_watcher.html" title="Listens to the file system change notifications and raises events when a directory,..." alt="" coords="288,189,491,215"/>
+<area shape="rect" id="node6" href="$class_system_1_1_timers_1_1_timer.html" title="Generates an event after a set interval, with an option to generate recurring events...." alt="" coords="316,239,463,266"/>
+</map>

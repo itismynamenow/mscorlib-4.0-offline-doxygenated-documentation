@@ -1,0 +1,9 @@
+<map id="System.Configuration.IConfigurationSectionHandler" name="System.Configuration.IConfigurationSectionHandler">
+<area shape="rect" id="node1" title="Handles the access to certain configuration sections." alt="" coords="5,169,233,211"/>
+<area shape="rect" id="node2" href="$class_system_1_1_configuration_1_1_dictionary_section_handler.html" title="Provides key/value pair configuration information from a configuration section." alt="" coords="283,5,491,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_configuration_1_1_ignore_section_handler.html" title="Provides a legacy section&#45;handler definition for configuration sections that are not handled by the N..." alt="" coords="294,71,479,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_configuration_1_1_name_value_file_section_handler.html" title="Provides access to a configuration file. This type supports the .NET Framework configuration infrastr..." alt="" coords="295,136,479,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_configuration_1_1_name_value_section_handler.html" title="Provides name/value&#45;pair configuration information from a configuration section." alt="" coords="295,201,479,243"/>
+<area shape="rect" id="node6" href="$class_system_1_1_configuration_1_1_single_tag_section_handler.html" title="Handles configuration sections that are represented by a single XML tag in the .config file." alt="" coords="293,267,480,308"/>
+<area shape="rect" id="node7" href="$class_system_1_1_diagnostics_1_1_diagnostics_configuration_handler.html" title="Handles the diagnostics section of configuration files." alt="" coords="281,332,492,373"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Management.Instrumentation.ManagementCommitAttribute" name="System.Management.Instrumentation.ManagementCommitAttribute">
+<area shape="rect" id="node1" title="The ManagementCommit attribute marks a method that is called when it is necessary to update a set of ..." alt="" coords="5,80,248,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_member_attribute.html" title="This class is used by the WMI.NET Provider Extensions framework. It is the base class for all the man..." alt="" coords="30,5,223,32"/>
+</map>

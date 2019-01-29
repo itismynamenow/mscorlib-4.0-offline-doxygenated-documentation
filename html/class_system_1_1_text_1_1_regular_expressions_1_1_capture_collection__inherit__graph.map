@@ -1,0 +1,5 @@
+<map id="System.Text.RegularExpressions.CaptureCollection" name="System.Text.RegularExpressions.CaptureCollection">
+<area shape="rect" id="node1" title="Represents the set of captures made by a single capturing group." alt="" coords="5,155,225,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="114,80,197,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="68,5,163,32"/>
+</map>

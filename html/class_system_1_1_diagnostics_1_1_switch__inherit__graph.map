@@ -1,0 +1,6 @@
+<map id="System.Diagnostics.Switch" name="System.Diagnostics.Switch">
+<area shape="rect" id="node1" title="Provides an abstract base class to create new debugging and tracing switches." alt="" coords="5,78,188,105"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_boolean_switch.html" title="Provides a simple on/off switch that controls debugging and tracing output." alt="" coords="236,5,427,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_source_switch.html" title="Provides a multilevel switch to control tracing and debug output without recompiling your code." alt="" coords="239,71,423,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_diagnostics_1_1_trace_switch.html" title="Provides a multilevel switch to control tracing and debug output without recompiling your code." alt="" coords="244,136,419,177"/>
+</map>

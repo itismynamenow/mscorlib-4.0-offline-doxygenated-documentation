@@ -1,0 +1,6 @@
+<map id="System.Net.Mail.SmtpFailedRecipientsException" name="System.Net.Mail.SmtpFailedRecipientsException">
+<area shape="rect" id="node1" title="The exception that is thrown when e&#45;mail is sent using an T:System.Net.Mail.SmtpClient and cannot be ..." alt="" coords="492,20,681,62"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_mail_1_1_smtp_failed_recipient_exception.html" title="Represents the exception that is thrown when the T:System.Net.Mail.SmtpClient is not able to complete..." alt="" coords="147,28,347,54"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,28,97,54"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_mail_1_1_smtp_failed_recipient_exception.html" title="Represents the exception that is thrown when the T:System.Net.Mail.SmtpClient is not able to complete..." alt="" coords="152,79,341,120"/>
+</map>

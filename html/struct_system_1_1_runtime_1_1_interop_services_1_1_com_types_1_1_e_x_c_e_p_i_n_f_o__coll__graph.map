@@ -1,5 +1,4 @@
 <map id="System.Runtime.InteropServices.ComTypes.EXCEPINFO" name="System.Runtime.InteropServices.ComTypes.EXCEPINFO">
-<area shape="rect" id="node1" title="Describes the exceptions that occur during IDispatch::Invoke." alt="" coords="5,185,220,227"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="61,81,164,108"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="67,5,159,32"/>
+<area shape="rect" id="node1" title="Describes the exceptions that occur during IDispatch::Invoke." alt="" coords="5,109,220,151"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="61,5,164,32"/>
 </map>

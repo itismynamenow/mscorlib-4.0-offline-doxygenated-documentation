@@ -1,0 +1,7 @@
+<map id="System.ComponentModel.ExtenderProvidedPropertyAttribute" name="System.ComponentModel.ExtenderProvidedPropertyAttribute">
+<area shape="rect" id="node1" title="Specifies a property that is offered by an extender provider. This class cannot be inherited." alt="" coords="389,121,617,162"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="85,5,156,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="71,95,170,121"/>
+<area shape="rect" id="node4" href="$class_system_1_1_component_model_1_1_property_descriptor.html" title="Provides an abstraction of a property on a class." alt="" coords="8,146,233,187"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_component_model_1_1_i_extender_provider.html" title="Defines the interface for extending properties to other components in a container." alt="" coords="5,211,236,253"/>
+</map>

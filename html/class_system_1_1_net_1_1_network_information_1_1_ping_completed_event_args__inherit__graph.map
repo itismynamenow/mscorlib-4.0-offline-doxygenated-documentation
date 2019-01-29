@@ -1,0 +1,4 @@
+<map id="System.Net.NetworkInformation.PingCompletedEventArgs" name="System.Net.NetworkInformation.PingCompletedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Net.NetworkInformation.Ping.PingCompleted event." alt="" coords="5,80,215,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_async_completed_event_args.html" title="Provides data for the MethodNameCompleted event." alt="" coords="20,5,200,32"/>
+</map>

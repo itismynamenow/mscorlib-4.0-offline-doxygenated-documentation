@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ECCurve" name="System.Security.Cryptography.ECCurve">
+<area shape="rect" id="node1" title="Represents an elliptic curve." alt="" coords="292,141,496,183"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_security_1_1_cryptography_1_1_hash_algorithm_name.html" title="Specifies the name of a cryptographic hash algorithm." alt="" coords="5,103,209,144"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_security_1_1_cryptography_1_1_e_c_point.html" title="Represents a (X,Y) coordinate pair for elliptic curve cryptography (ECC) structures." alt="" coords="5,168,209,209"/>
+</map>

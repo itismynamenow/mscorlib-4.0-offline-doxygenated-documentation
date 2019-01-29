@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.X509Certificates.X509CertificateCollection" name="System.Security.Cryptography.X509Certificates.X509CertificateCollection">
+<area shape="rect" id="node1" title="Defines a collection that stores T:System.Security.Cryptography.X509Certificates.X509Certificate obje..." alt="" coords="9,80,214,136"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2_collection.html" title="Represents a collection of T:System.Security.Cryptography.X509Certificates.X509Certificate2 objects...." alt="" coords="5,184,217,240"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_collection_base.html" title="Provides the abstract base class for a strongly typed collection." alt="" coords="57,5,166,32"/>
+</map>

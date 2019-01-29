@@ -1,0 +1,5 @@
+<map id="System.Xml.Resolvers.XmlPreloadedResolver" name="System.Xml.Resolvers.XmlPreloadedResolver">
+<area shape="rect" id="node1" title="Represents a class that is used to prepopulate the cache with DTDs or XML streams." alt="" coords="44,109,221,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_resolver.html" title="Resolves external XML resources named by a Uniform Resource Identifier (URI)." alt="" coords="5,13,97,39"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="121,5,309,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Text.RegularExpressions.RegexRunner" name="System.Text.RegularExpressions.RegexRunner">
+<area shape="rect" id="node1" title="The T:System.Text.RegularExpressions.RegexRunner class is the base class for compiled regular express..." alt="" coords="127,109,347,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_regular_expressions_1_1_match.html" title="Represents the results from a single regular expression match." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_text_1_1_regular_expressions_1_1_regex.html" title="Represents an immutable regular expression.To browse the .NET Framework source code for this type,..." alt="" coords="249,5,469,47"/>
+</map>

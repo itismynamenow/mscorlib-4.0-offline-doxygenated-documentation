@@ -1,0 +1,4 @@
+<map id="System.IO.Pipes.PipeStream" name="System.IO.Pipes.PipeStream">
+<area shape="rect" id="node1" title="Exposes a T:System.IO.Stream object around a pipe, which supports both anonymous and named pipes." alt="" coords="5,80,199,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="70,5,134,32"/>
+</map>

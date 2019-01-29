@@ -1,0 +1,7 @@
+<map id="System.ComponentModel.DescriptionAttribute" name="System.ComponentModel.DescriptionAttribute">
+<area shape="rect" id="node1" title="Specifies a description for a property or event." alt="" coords="124,64,365,105"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_monitoring_description_attribute.html" title="Specifies a description for a property or event." alt="" coords="421,5,624,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_i_o_1_1_i_o_description_attribute.html" title="Sets the description visual designers can display when referencing an event, extender,..." alt="" coords="415,71,630,98"/>
+<area shape="rect" id="node5" href="$class_system_1_1_timers_1_1_timers_description_attribute.html" title="Sets the description that visual designers can display when referencing an event, extender,..." alt="" coords="413,123,632,164"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="5,71,76,98"/>
+</map>

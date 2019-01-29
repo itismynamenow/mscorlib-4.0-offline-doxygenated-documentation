@@ -1,5 +1,0 @@
-<map id="System.DefaultBinder" name="System.DefaultBinder">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,153,107"/>
-<area shape="rect" id="node3" href="$class_system_1_1_ole_aut_binder.html" title=" " alt="" coords="5,155,153,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_binder.html" title="Selects a member from a list of candidates, and performs type conversion from actual argument type to..." alt="" coords="50,5,109,32"/>
-</map>

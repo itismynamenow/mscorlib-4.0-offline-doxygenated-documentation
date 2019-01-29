@@ -1,0 +1,4 @@
+<map id="System.Configuration.SettingsPropertyValue" name="System.Configuration.SettingsPropertyValue">
+<area shape="rect" id="node1" title="Contains the value of a settings property that can be loaded and stored by an instance of T:System...." alt="" coords="5,109,204,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_configuration_1_1_settings_property.html" title="Used internally as the class that represents metadata about an individual configuration property." alt="" coords="5,5,204,47"/>
+</map>

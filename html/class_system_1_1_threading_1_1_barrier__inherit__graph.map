@@ -1,0 +1,4 @@
+<map id="System.Threading.Barrier" name="System.Threading.Barrier">
+<area shape="rect" id="node1" title="Enables multiple tasks to cooperatively work on an algorithm in parallel through multiple phases." alt="" coords="5,80,175,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="45,5,135,32"/>
+</map>

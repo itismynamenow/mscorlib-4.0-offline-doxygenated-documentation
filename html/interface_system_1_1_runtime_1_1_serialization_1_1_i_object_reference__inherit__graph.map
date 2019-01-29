@@ -1,13 +1,5 @@
 <map id="System.Runtime.Serialization.IObjectReference" name="System.Runtime.Serialization.IObjectReference">
-<area shape="rect" id="node1" title="Indicates that the current interface implementer is a reference to another object." alt="" coords="5,253,204,295"/>
-<area shape="rect" id="node2" href="$class_system_1_1_delegate_serialization_holder.html" title=" " alt="" coords="263,5,456,47"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_member_info_serialization_holder.html" title=" " alt="" coords="270,71,449,112"/>
-<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_parameter_info.html" title="Discovers the attributes of a parameter and provides access to parameter metadata." alt="" coords="253,137,465,163"/>
-<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_obj_ref.html" title="Stores all relevant information required to generate a proxy in order to communicate with a remote ob..." alt="" coords="268,188,451,229"/>
-<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_serialization_1_1_safe_serialization_manager.html" title=" " alt="" coords="260,253,459,295"/>
-<area shape="rect" id="node8" href="$class_system_1_1_text_1_1_code_page_encoding.html" title=" " alt="" coords="252,319,467,346"/>
-<area shape="rect" id="node9" href="$class_system_1_1_text_1_1_m_lang_code_page_encoding.html" title=" " alt="" coords="260,371,459,412"/>
-<area shape="rect" id="node10" href="$class_system_1_1_text_1_1_surrogate_encoder.html" title=" " alt="" coords="257,437,461,463"/>
-<area shape="rect" id="node11" href="$class_system_1_1_unity_serialization_holder.html" title=" " alt="" coords="273,488,445,529"/>
-<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_runtime_parameter_info.html" title=" " alt="" coords="515,129,695,171"/>
+<area shape="rect" id="node1" title="Indicates that the current interface implementer is a reference to another object." alt="" coords="123,5,321,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_parameter_info.html" title="Discovers the attributes of a parameter and provides access to parameter metadata." alt="" coords="5,102,217,129"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_obj_ref.html" title="Stores all relevant information required to generate a proxy in order to communicate with a remote ob..." alt="" coords="241,95,424,136"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.Win32Exception" name="System.ComponentModel.Win32Exception">
+<area shape="rect" id="node1" title="Throws an exception for a Win32 error code." alt="" coords="29,80,243,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_external_exception.html" title="The base exception type for all COM interop exceptions and structured exception handling (SEH) except..." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="158,5,250,32"/>
+</map>

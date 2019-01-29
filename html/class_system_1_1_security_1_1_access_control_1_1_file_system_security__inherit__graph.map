@@ -1,8 +1,6 @@
 <map id="System.Security.AccessControl.FileSystemSecurity" name="System.Security.AccessControl.FileSystemSecurity">
-<area shape="rect" id="node1" title="Represents the access control and audit security for a file or directory." alt="" coords="560,39,772,80"/>
-<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_access_control_1_1_directory_security.html" title="Represents the access control and audit security for a directory. This class cannot be inherited." alt="" coords="820,5,1032,47"/>
-<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_access_control_1_1_file_security.html" title="Represents the access control and audit security for a file. This class cannot be inherited." alt="" coords="820,71,1032,112"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_native_object_security.html" title="Provides the ability to control access to native objects without direct manipulation of Access Contro..." alt="" coords="369,46,512,73"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_common_object_security.html" title="Controls access to objects without direct manipulation of access control lists (ACLs)...." alt="" coords="161,46,321,73"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_object_security.html" title="Provides the ability to control access to objects without direct manipulation of Access Control Lists..." alt="" coords="5,46,113,73"/>
+<area shape="rect" id="node1" title="Represents the access control and audit security for a file or directory." alt="" coords="196,39,408,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_directory_security.html" title="Represents the access control and audit security for a directory. This class cannot be inherited." alt="" coords="456,5,668,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_file_security.html" title="Represents the access control and audit security for a file. This class cannot be inherited." alt="" coords="456,71,668,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_native_object_security.html" title="Provides the ability to control access to native objects without direct manipulation of Access Contro..." alt="" coords="5,46,148,73"/>
 </map>

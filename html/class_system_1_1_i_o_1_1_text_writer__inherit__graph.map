@@ -1,7 +1,8 @@
 <map id="System.IO.TextWriter" name="System.IO.TextWriter">
-<area shape="rect" id="node1" title="Represents a writer that can write a sequential series of characters. This class is abstract." alt="" coords="106,80,254,107"/>
-<area shape="rect" id="node4" href="$class_system_1_1_i_o_1_1_stream_writer.html" title="Implements a T:System.IO.TextWriter for writing characters to a stream in a particular encoding...." alt="" coords="5,155,171,181"/>
-<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_string_writer.html" title="Implements a T:System.IO.TextWriter for writing information to a string. The information is stored in..." alt="" coords="195,155,352,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="40,5,181,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="206,5,295,32"/>
+<area shape="rect" id="node1" title="Represents a writer that can write a sequential series of characters. This class is abstract." alt="" coords="195,71,343,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_code_dom_1_1_compiler_1_1_indented_text_writer.html" title="Provides a text writer that can indent new lines by a tab string token." alt="" coords="391,5,577,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_stream_writer.html" title="Implements a T:System.IO.TextWriter for writing characters to a stream in a particular encoding...." alt="" coords="401,71,567,98"/>
+<area shape="rect" id="node6" href="$class_system_1_1_i_o_1_1_string_writer.html" title="Implements a T:System.IO.TextWriter for writing information to a string. The information is stored in..." alt="" coords="405,122,563,149"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,46,147,73"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="31,97,121,123"/>
 </map>

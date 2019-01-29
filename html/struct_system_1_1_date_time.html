@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.DateTime Struct Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.DateTime Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -102,13 +102,13 @@ $(document).ready(function(){initNavTree('struct_system_1_1_date_time.html','');
 <div class="dynheader">
 Inheritance diagram for System.DateTime:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="struct_system_1_1_date_time__inherit__graph.svg" width="655" height="291"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="struct_system_1_1_date_time__inherit__graph.svg" width="359" height="291"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for System.DateTime:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="struct_system_1_1_date_time__coll__graph.svg" width="655" height="291"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="struct_system_1_1_date_time__coll__graph.svg" width="360" height="291"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -120,7 +120,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ac3c086ecd57e7d06fcb4379f81fefe7a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ac3c086ecd57e7d06fcb4379f81fefe7a">DateTime</a> (long ticks, <a class="el" href="namespace_system.html#a2a8ee95b3f7f3b42eb282688dffa6d2e">DateTimeKind</a> kind)</td></tr>
 <tr class="memdesc:ac3c086ecd57e7d06fcb4379f81fefe7a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> structure to a specified number of ticks and to Coordinated Universal Time (UTC) or local time.  <a href="#ac3c086ecd57e7d06fcb4379f81fefe7a">More...</a><br /></td></tr>
 <tr class="separator:ac3c086ecd57e7d06fcb4379f81fefe7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a062121bc06e0701aeb8a58d702f15cd2"><td class="memItemLeft" align="right" valign="top">internal&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a062121bc06e0701aeb8a58d702f15cd2">DateTime</a> (long ticks, <a class="el" href="namespace_system.html#a2a8ee95b3f7f3b42eb282688dffa6d2e">DateTimeKind</a> kind, bool isAmbiguousDst)</td></tr>
+<tr class="memitem:a062121bc06e0701aeb8a58d702f15cd2"><td class="memItemLeft" align="right" valign="top"><a id="a062121bc06e0701aeb8a58d702f15cd2"></a>
+internal&#160;</td><td class="memItemRight" valign="bottom"><b>DateTime</b> (long ticks, <a class="el" href="namespace_system.html#a2a8ee95b3f7f3b42eb282688dffa6d2e">DateTimeKind</a> kind, bool isAmbiguousDst)</td></tr>
 <tr class="separator:a062121bc06e0701aeb8a58d702f15cd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4992ab61818b71f1dc8fdc57de31226a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a4992ab61818b71f1dc8fdc57de31226a">DateTime</a> (int year, int month, int day)</td></tr>
 <tr class="memdesc:a4992ab61818b71f1dc8fdc57de31226a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> structure to the specified year, month, and day.  <a href="#a4992ab61818b71f1dc8fdc57de31226a">More...</a><br /></td></tr>
@@ -149,50 +150,52 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a09a224662e4f4e1a5cb5f86b44e12710"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a09a224662e4f4e1a5cb5f86b44e12710">DateTime</a> (int year, int month, int day, int hour, int minute, int second, int millisecond, <a class="el" href="class_system_1_1_globalization_1_1_calendar.html">Calendar</a> calendar, <a class="el" href="namespace_system.html#a2a8ee95b3f7f3b42eb282688dffa6d2e">DateTimeKind</a> kind)</td></tr>
 <tr class="memdesc:a09a224662e4f4e1a5cb5f86b44e12710"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> structure to the specified year, month, day, hour, minute, second, millisecond, and Coordinated Universal Time (UTC) or local time for the specified calendar.  <a href="#a09a224662e4f4e1a5cb5f86b44e12710">More...</a><br /></td></tr>
 <tr class="separator:a09a224662e4f4e1a5cb5f86b44e12710"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afee3348516751dfbae5af2ab2ea9152f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#afee3348516751dfbae5af2ab2ea9152f">Add</a> (<a class="el" href="struct_system_1_1_time_span.html">TimeSpan</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:afee3348516751dfbae5af2ab2ea9152f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#afee3348516751dfbae5af2ab2ea9152f">Add</a> (<a class="el" href="struct_system_1_1_time_span.html">TimeSpan</a> value)</td></tr>
 <tr class="memdesc:afee3348516751dfbae5af2ab2ea9152f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the value of the specified T:System.TimeSpan to the value of this instance.  <a href="#afee3348516751dfbae5af2ab2ea9152f">More...</a><br /></td></tr>
 <tr class="separator:afee3348516751dfbae5af2ab2ea9152f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeaf415f6ccf66d5688723b91313c1a05"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aeaf415f6ccf66d5688723b91313c1a05">AddDays</a> (double <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:aeaf415f6ccf66d5688723b91313c1a05"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aeaf415f6ccf66d5688723b91313c1a05">AddDays</a> (double value)</td></tr>
 <tr class="memdesc:aeaf415f6ccf66d5688723b91313c1a05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of days to the value of this instance.  <a href="#aeaf415f6ccf66d5688723b91313c1a05">More...</a><br /></td></tr>
 <tr class="separator:aeaf415f6ccf66d5688723b91313c1a05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a82d9a6e3e761c0e8e2d6792b8b06b6e5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a82d9a6e3e761c0e8e2d6792b8b06b6e5">AddHours</a> (double <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a82d9a6e3e761c0e8e2d6792b8b06b6e5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a82d9a6e3e761c0e8e2d6792b8b06b6e5">AddHours</a> (double value)</td></tr>
 <tr class="memdesc:a82d9a6e3e761c0e8e2d6792b8b06b6e5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of hours to the value of this instance.  <a href="#a82d9a6e3e761c0e8e2d6792b8b06b6e5">More...</a><br /></td></tr>
 <tr class="separator:a82d9a6e3e761c0e8e2d6792b8b06b6e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9b9f5c40bbd80df0fe9f43292321315f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a9b9f5c40bbd80df0fe9f43292321315f">AddMilliseconds</a> (double <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a9b9f5c40bbd80df0fe9f43292321315f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a9b9f5c40bbd80df0fe9f43292321315f">AddMilliseconds</a> (double value)</td></tr>
 <tr class="memdesc:a9b9f5c40bbd80df0fe9f43292321315f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of milliseconds to the value of this instance.  <a href="#a9b9f5c40bbd80df0fe9f43292321315f">More...</a><br /></td></tr>
 <tr class="separator:a9b9f5c40bbd80df0fe9f43292321315f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6fd120a128082bf27f2cba21ab835b15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a6fd120a128082bf27f2cba21ab835b15">AddMinutes</a> (double <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a6fd120a128082bf27f2cba21ab835b15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a6fd120a128082bf27f2cba21ab835b15">AddMinutes</a> (double value)</td></tr>
 <tr class="memdesc:a6fd120a128082bf27f2cba21ab835b15"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of minutes to the value of this instance.  <a href="#a6fd120a128082bf27f2cba21ab835b15">More...</a><br /></td></tr>
 <tr class="separator:a6fd120a128082bf27f2cba21ab835b15"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8fcefc50903a8d8d6d00e12e38a2802a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a8fcefc50903a8d8d6d00e12e38a2802a">AddMonths</a> (int months)</td></tr>
 <tr class="memdesc:a8fcefc50903a8d8d6d00e12e38a2802a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of months to the value of this instance.  <a href="#a8fcefc50903a8d8d6d00e12e38a2802a">More...</a><br /></td></tr>
 <tr class="separator:a8fcefc50903a8d8d6d00e12e38a2802a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5417582fe112de0680b865ad9cea1a90"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a5417582fe112de0680b865ad9cea1a90">AddSeconds</a> (double <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a5417582fe112de0680b865ad9cea1a90"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a5417582fe112de0680b865ad9cea1a90">AddSeconds</a> (double value)</td></tr>
 <tr class="memdesc:a5417582fe112de0680b865ad9cea1a90"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of seconds to the value of this instance.  <a href="#a5417582fe112de0680b865ad9cea1a90">More...</a><br /></td></tr>
 <tr class="separator:a5417582fe112de0680b865ad9cea1a90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9d6d0d8cfde5f498ad6ea0b86627e35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ab9d6d0d8cfde5f498ad6ea0b86627e35">AddTicks</a> (long <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:ab9d6d0d8cfde5f498ad6ea0b86627e35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ab9d6d0d8cfde5f498ad6ea0b86627e35">AddTicks</a> (long value)</td></tr>
 <tr class="memdesc:ab9d6d0d8cfde5f498ad6ea0b86627e35"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of ticks to the value of this instance.  <a href="#ab9d6d0d8cfde5f498ad6ea0b86627e35">More...</a><br /></td></tr>
 <tr class="separator:ab9d6d0d8cfde5f498ad6ea0b86627e35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a885be4ee99344685d108b960ffb78f34"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a885be4ee99344685d108b960ffb78f34">AddYears</a> (int <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a885be4ee99344685d108b960ffb78f34"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a885be4ee99344685d108b960ffb78f34">AddYears</a> (int value)</td></tr>
 <tr class="memdesc:a885be4ee99344685d108b960ffb78f34"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> that adds the specified number of years to the value of this instance.  <a href="#a885be4ee99344685d108b960ffb78f34">More...</a><br /></td></tr>
 <tr class="separator:a885be4ee99344685d108b960ffb78f34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f19d095cb93e396a7580ffe9d1d025b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a9f19d095cb93e396a7580ffe9d1d025b">CompareTo</a> (object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a9f19d095cb93e396a7580ffe9d1d025b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a9f19d095cb93e396a7580ffe9d1d025b">CompareTo</a> (object value)</td></tr>
 <tr class="memdesc:a9f19d095cb93e396a7580ffe9d1d025b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compares the value of this instance to a specified object that contains a specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> value, and returns an integer that indicates whether this instance is earlier than, the same as, or later than the specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> value.  <a href="#a9f19d095cb93e396a7580ffe9d1d025b">More...</a><br /></td></tr>
 <tr class="separator:a9f19d095cb93e396a7580ffe9d1d025b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6dfcce7fa15ac80ee50bcc8907ea9ec5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a6dfcce7fa15ac80ee50bcc8907ea9ec5">CompareTo</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a6dfcce7fa15ac80ee50bcc8907ea9ec5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a6dfcce7fa15ac80ee50bcc8907ea9ec5">CompareTo</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> value)</td></tr>
 <tr class="memdesc:a6dfcce7fa15ac80ee50bcc8907ea9ec5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compares the value of this instance to a specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> value and returns an integer that indicates whether this instance is earlier than, the same as, or later than the specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> value.  <a href="#a6dfcce7fa15ac80ee50bcc8907ea9ec5">More...</a><br /></td></tr>
 <tr class="separator:a6dfcce7fa15ac80ee50bcc8907ea9ec5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77f516aadc9919cb7f51612c0c354d41"><td class="memItemLeft" align="right" valign="top">static internal bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a77f516aadc9919cb7f51612c0c354d41">LegacyParseMode</a> ()</td></tr>
+<tr class="memitem:a77f516aadc9919cb7f51612c0c354d41"><td class="memItemLeft" align="right" valign="top"><a id="a77f516aadc9919cb7f51612c0c354d41"></a>
+static internal bool&#160;</td><td class="memItemRight" valign="bottom"><b>LegacyParseMode</b> ()</td></tr>
 <tr class="separator:a77f516aadc9919cb7f51612c0c354d41"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada3e738d0dcb56bf5c3ede5fa5663fac"><td class="memItemLeft" align="right" valign="top">static internal bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ada3e738d0dcb56bf5c3ede5fa5663fac">EnableAmPmParseAdjustment</a> ()</td></tr>
+<tr class="memitem:ada3e738d0dcb56bf5c3ede5fa5663fac"><td class="memItemLeft" align="right" valign="top"><a id="ada3e738d0dcb56bf5c3ede5fa5663fac"></a>
+static internal bool&#160;</td><td class="memItemRight" valign="bottom"><b>EnableAmPmParseAdjustment</b> ()</td></tr>
 <tr class="separator:ada3e738d0dcb56bf5c3ede5fa5663fac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5043b8b4b7818a517a801ec40370562f"><td class="memItemLeft" align="right" valign="top">override bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a5043b8b4b7818a517a801ec40370562f">Equals</a> (object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a5043b8b4b7818a517a801ec40370562f"><td class="memItemLeft" align="right" valign="top">override bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a5043b8b4b7818a517a801ec40370562f">Equals</a> (object value)</td></tr>
 <tr class="memdesc:a5043b8b4b7818a517a801ec40370562f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a value indicating whether this instance is equal to a specified object.  <a href="#a5043b8b4b7818a517a801ec40370562f">More...</a><br /></td></tr>
 <tr class="separator:a5043b8b4b7818a517a801ec40370562f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af41196fd73be7bcf26642a6465f8575d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#af41196fd73be7bcf26642a6465f8575d">Equals</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:af41196fd73be7bcf26642a6465f8575d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#af41196fd73be7bcf26642a6465f8575d">Equals</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> value)</td></tr>
 <tr class="memdesc:af41196fd73be7bcf26642a6465f8575d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a value indicating whether the value of this instance is equal to the value of the specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> instance.  <a href="#af41196fd73be7bcf26642a6465f8575d">More...</a><br /></td></tr>
 <tr class="separator:af41196fd73be7bcf26642a6465f8575d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af19232bf6fcd7699177a178dd5637d0a"><td class="memItemLeft" align="right" valign="top">void ISerializable.&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#af19232bf6fcd7699177a178dd5637d0a">GetObjectData</a> (<a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_info.html">SerializationInfo</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637acaf9b6b99962bf5c2264824231d7a40c">info</a>, <a class="el" href="struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html">StreamingContext</a> context)</td></tr>
+<tr class="memitem:af19232bf6fcd7699177a178dd5637d0a"><td class="memItemLeft" align="right" valign="top">void ISerializable.&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#af19232bf6fcd7699177a178dd5637d0a">GetObjectData</a> (<a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_info.html">SerializationInfo</a> info, <a class="el" href="struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html">StreamingContext</a> context)</td></tr>
 <tr class="memdesc:af19232bf6fcd7699177a178dd5637d0a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Populates a T:System.Runtime.Serialization.SerializationInfo object with the data needed to serialize the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object.  <a href="#af19232bf6fcd7699177a178dd5637d0a">More...</a><br /></td></tr>
 <tr class="separator:af19232bf6fcd7699177a178dd5637d0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac110f6a52a29505ffbc5157287271d42"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ac110f6a52a29505ffbc5157287271d42">IsDaylightSavingTime</a> ()</td></tr>
@@ -201,34 +204,38 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a1063ca7a91720da7379fc8ab25b47bb9"><td class="memItemLeft" align="right" valign="top">long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a1063ca7a91720da7379fc8ab25b47bb9">ToBinary</a> ()</td></tr>
 <tr class="memdesc:a1063ca7a91720da7379fc8ab25b47bb9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Serializes the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a 64-bit binary value that subsequently can be used to recreate the <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object.  <a href="#a1063ca7a91720da7379fc8ab25b47bb9">More...</a><br /></td></tr>
 <tr class="separator:a1063ca7a91720da7379fc8ab25b47bb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8b2892b120538ac1027c7cbbe8f4416"><td class="memItemLeft" align="right" valign="top">internal long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aa8b2892b120538ac1027c7cbbe8f4416">ToBinaryRaw</a> ()</td></tr>
+<tr class="memitem:aa8b2892b120538ac1027c7cbbe8f4416"><td class="memItemLeft" align="right" valign="top"><a id="aa8b2892b120538ac1027c7cbbe8f4416"></a>
+internal long&#160;</td><td class="memItemRight" valign="bottom"><b>ToBinaryRaw</b> ()</td></tr>
 <tr class="separator:aa8b2892b120538ac1027c7cbbe8f4416"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0751331181bd60f4e56dc4cbd5eda93a"><td class="memItemLeft" align="right" valign="top">override int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a0751331181bd60f4e56dc4cbd5eda93a">GetHashCode</a> ()</td></tr>
 <tr class="memdesc:a0751331181bd60f4e56dc4cbd5eda93a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the hash code for this instance.  <a href="#a0751331181bd60f4e56dc4cbd5eda93a">More...</a><br /></td></tr>
 <tr class="separator:a0751331181bd60f4e56dc4cbd5eda93a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aacce97ed095c66e837f469405ec57485"><td class="memItemLeft" align="right" valign="top">internal bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aacce97ed095c66e837f469405ec57485">IsAmbiguousDaylightSavingTime</a> ()</td></tr>
+<tr class="memitem:aacce97ed095c66e837f469405ec57485"><td class="memItemLeft" align="right" valign="top"><a id="aacce97ed095c66e837f469405ec57485"></a>
+internal bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsAmbiguousDaylightSavingTime</b> ()</td></tr>
 <tr class="separator:aacce97ed095c66e837f469405ec57485"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aada3bdb5f3d7c745e11c69ac946f1694"><td class="memItemLeft" align="right" valign="top">static internal long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aada3bdb5f3d7c745e11c69ac946f1694">GetSystemTimeAsFileTime</a> ()</td></tr>
+<tr class="memitem:aada3bdb5f3d7c745e11c69ac946f1694"><td class="memItemLeft" align="right" valign="top"><a id="aada3bdb5f3d7c745e11c69ac946f1694"></a>
+static internal long&#160;</td><td class="memItemRight" valign="bottom"><b>GetSystemTimeAsFileTime</b> ()</td></tr>
 <tr class="separator:aada3bdb5f3d7c745e11c69ac946f1694"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0aff3af527c4c6f118c15bff4d759f02"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_time_span.html">TimeSpan</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a0aff3af527c4c6f118c15bff4d759f02">Subtract</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a0aff3af527c4c6f118c15bff4d759f02"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_time_span.html">TimeSpan</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a0aff3af527c4c6f118c15bff4d759f02">Subtract</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> value)</td></tr>
 <tr class="memdesc:a0aff3af527c4c6f118c15bff4d759f02"><td class="mdescLeft">&#160;</td><td class="mdescRight">Subtracts the specified date and time from this instance.  <a href="#a0aff3af527c4c6f118c15bff4d759f02">More...</a><br /></td></tr>
 <tr class="separator:a0aff3af527c4c6f118c15bff4d759f02"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f76aba5d7dee330c3c12d935e81f546"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a1f76aba5d7dee330c3c12d935e81f546">Subtract</a> (<a class="el" href="struct_system_1_1_time_span.html">TimeSpan</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a1f76aba5d7dee330c3c12d935e81f546"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a1f76aba5d7dee330c3c12d935e81f546">Subtract</a> (<a class="el" href="struct_system_1_1_time_span.html">TimeSpan</a> value)</td></tr>
 <tr class="memdesc:a1f76aba5d7dee330c3c12d935e81f546"><td class="mdescLeft">&#160;</td><td class="mdescRight">Subtracts the specified duration from this instance.  <a href="#a1f76aba5d7dee330c3c12d935e81f546">More...</a><br /></td></tr>
 <tr class="separator:a1f76aba5d7dee330c3c12d935e81f546"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6ebd46a0024c7fccffae5da34cb17518"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a6ebd46a0024c7fccffae5da34cb17518">ToOADate</a> ()</td></tr>
 <tr class="memdesc:a6ebd46a0024c7fccffae5da34cb17518"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of this instance to the equivalent OLE Automation date.  <a href="#a6ebd46a0024c7fccffae5da34cb17518">More...</a><br /></td></tr>
 <tr class="separator:a6ebd46a0024c7fccffae5da34cb17518"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a20d8707f4dbe5458f350740c5412c125"><td class="memItemLeft" align="right" valign="top">long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a20d8707f4dbe5458f350740c5412c125">ToFileTime</a> ()</td></tr>
-<tr class="memdesc:a20d8707f4dbe5458f350740c5412c125"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a <a class="el" href="namespace_windows.html">Windows</a> file time.  <a href="#a20d8707f4dbe5458f350740c5412c125">More...</a><br /></td></tr>
+<tr class="memdesc:a20d8707f4dbe5458f350740c5412c125"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a Windows file time.  <a href="#a20d8707f4dbe5458f350740c5412c125">More...</a><br /></td></tr>
 <tr class="separator:a20d8707f4dbe5458f350740c5412c125"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ed657537feb7efdab147d177d73c60b"><td class="memItemLeft" align="right" valign="top">long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a7ed657537feb7efdab147d177d73c60b">ToFileTimeUtc</a> ()</td></tr>
-<tr class="memdesc:a7ed657537feb7efdab147d177d73c60b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a <a class="el" href="namespace_windows.html">Windows</a> file time.  <a href="#a7ed657537feb7efdab147d177d73c60b">More...</a><br /></td></tr>
+<tr class="memdesc:a7ed657537feb7efdab147d177d73c60b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a Windows file time.  <a href="#a7ed657537feb7efdab147d177d73c60b">More...</a><br /></td></tr>
 <tr class="separator:a7ed657537feb7efdab147d177d73c60b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5007fa01add892884791eacfa0e67f04"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a5007fa01add892884791eacfa0e67f04">ToLocalTime</a> ()</td></tr>
 <tr class="memdesc:a5007fa01add892884791eacfa0e67f04"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to local time.  <a href="#a5007fa01add892884791eacfa0e67f04">More...</a><br /></td></tr>
 <tr class="separator:a5007fa01add892884791eacfa0e67f04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af16c5be8e877459d1dfaa974f19a3da4"><td class="memItemLeft" align="right" valign="top">internal <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#af16c5be8e877459d1dfaa974f19a3da4">ToLocalTime</a> (bool throwOnOverflow)</td></tr>
+<tr class="memitem:af16c5be8e877459d1dfaa974f19a3da4"><td class="memItemLeft" align="right" valign="top"><a id="af16c5be8e877459d1dfaa974f19a3da4"></a>
+internal <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ToLocalTime</b> (bool throwOnOverflow)</td></tr>
 <tr class="separator:af16c5be8e877459d1dfaa974f19a3da4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea3e8f59060e855c6c6b67c85db5f587"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aea3e8f59060e855c6c6b67c85db5f587">ToLongDateString</a> ()</td></tr>
 <tr class="memdesc:aea3e8f59060e855c6c6b67c85db5f587"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to its equivalent long date string representation.  <a href="#aea3e8f59060e855c6c6b67c85db5f587">More...</a><br /></td></tr>
@@ -330,7 +337,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a9f191d0dc8e1a41eb30eb37fc63fd72e"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a9f191d0dc8e1a41eb30eb37fc63fd72e">DaysInMonth</a> (int year, int month)</td></tr>
 <tr class="memdesc:a9f191d0dc8e1a41eb30eb37fc63fd72e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the number of days in the specified month and year.  <a href="#a9f191d0dc8e1a41eb30eb37fc63fd72e">More...</a><br /></td></tr>
 <tr class="separator:a9f191d0dc8e1a41eb30eb37fc63fd72e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6ef881034c268d6a54e7811b7728e7e"><td class="memItemLeft" align="right" valign="top">static internal long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ab6ef881034c268d6a54e7811b7728e7e">DoubleDateToTicks</a> (double <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:ab6ef881034c268d6a54e7811b7728e7e"><td class="memItemLeft" align="right" valign="top"><a id="ab6ef881034c268d6a54e7811b7728e7e"></a>
+static internal long&#160;</td><td class="memItemRight" valign="bottom"><b>DoubleDateToTicks</b> (double value)</td></tr>
 <tr class="separator:ab6ef881034c268d6a54e7811b7728e7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a11c510f5e78f19a53e9b5c48192cad3f"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a11c510f5e78f19a53e9b5c48192cad3f">Equals</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> t1, <a class="el" href="struct_system_1_1_date_time.html">DateTime</a> t2)</td></tr>
 <tr class="memdesc:a11c510f5e78f19a53e9b5c48192cad3f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a value indicating whether two <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> instances have the same date and time value.  <a href="#a11c510f5e78f19a53e9b5c48192cad3f">More...</a><br /></td></tr>
@@ -338,18 +346,19 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:aaea715f4ff3171cc68d0eaedf49defd5"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aaea715f4ff3171cc68d0eaedf49defd5">FromBinary</a> (long dateData)</td></tr>
 <tr class="memdesc:aaea715f4ff3171cc68d0eaedf49defd5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Deserializes a 64-bit binary value and recreates an original serialized <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object.  <a href="#aaea715f4ff3171cc68d0eaedf49defd5">More...</a><br /></td></tr>
 <tr class="separator:aaea715f4ff3171cc68d0eaedf49defd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f1a107032c6ed15ac283bb27667a903"><td class="memItemLeft" align="right" valign="top">static internal <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a6f1a107032c6ed15ac283bb27667a903">FromBinaryRaw</a> (long dateData)</td></tr>
+<tr class="memitem:a6f1a107032c6ed15ac283bb27667a903"><td class="memItemLeft" align="right" valign="top"><a id="a6f1a107032c6ed15ac283bb27667a903"></a>
+static internal <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FromBinaryRaw</b> (long dateData)</td></tr>
 <tr class="separator:a6f1a107032c6ed15ac283bb27667a903"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2a4304f4f98f77fcd53afc3ace1026f8"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a2a4304f4f98f77fcd53afc3ace1026f8">FromFileTime</a> (long fileTime)</td></tr>
-<tr class="memdesc:a2a4304f4f98f77fcd53afc3ace1026f8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the specified <a class="el" href="namespace_windows.html">Windows</a> file time to an equivalent local time.  <a href="#a2a4304f4f98f77fcd53afc3ace1026f8">More...</a><br /></td></tr>
+<tr class="memdesc:a2a4304f4f98f77fcd53afc3ace1026f8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the specified Windows file time to an equivalent local time.  <a href="#a2a4304f4f98f77fcd53afc3ace1026f8">More...</a><br /></td></tr>
 <tr class="separator:a2a4304f4f98f77fcd53afc3ace1026f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa6c8313b75c641eb3c21b8293126e821"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aa6c8313b75c641eb3c21b8293126e821">FromFileTimeUtc</a> (long fileTime)</td></tr>
-<tr class="memdesc:aa6c8313b75c641eb3c21b8293126e821"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the specified <a class="el" href="namespace_windows.html">Windows</a> file time to an equivalent UTC time.  <a href="#aa6c8313b75c641eb3c21b8293126e821">More...</a><br /></td></tr>
+<tr class="memdesc:aa6c8313b75c641eb3c21b8293126e821"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the specified Windows file time to an equivalent UTC time.  <a href="#aa6c8313b75c641eb3c21b8293126e821">More...</a><br /></td></tr>
 <tr class="separator:aa6c8313b75c641eb3c21b8293126e821"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a257c5e26e9bf55fff5e857a579705f75"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a257c5e26e9bf55fff5e857a579705f75">FromOADate</a> (double d)</td></tr>
 <tr class="memdesc:a257c5e26e9bf55fff5e857a579705f75"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> equivalent to the specified OLE Automation Date.  <a href="#a257c5e26e9bf55fff5e857a579705f75">More...</a><br /></td></tr>
 <tr class="separator:a257c5e26e9bf55fff5e857a579705f75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8afdcb877659fb5477e457af1d7d9517"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a8afdcb877659fb5477e457af1d7d9517">SpecifyKind</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>, <a class="el" href="namespace_system.html#a2a8ee95b3f7f3b42eb282688dffa6d2e">DateTimeKind</a> kind)</td></tr>
+<tr class="memitem:a8afdcb877659fb5477e457af1d7d9517"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a8afdcb877659fb5477e457af1d7d9517">SpecifyKind</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> value, <a class="el" href="namespace_system.html#a2a8ee95b3f7f3b42eb282688dffa6d2e">DateTimeKind</a> kind)</td></tr>
 <tr class="memdesc:a8afdcb877659fb5477e457af1d7d9517"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object that has the same number of ticks as the specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a>, but is designated as either local time, Coordinated Universal Time (UTC), or neither, as indicated by the specified T:System.DateTimeKind value.  <a href="#a8afdcb877659fb5477e457af1d7d9517">More...</a><br /></td></tr>
 <tr class="separator:a8afdcb877659fb5477e457af1d7d9517"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab3b4dd08e91029104c42c7c64bfd9883"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ab3b4dd08e91029104c42c7c64bfd9883">IsLeapYear</a> (int year)</td></tr>
@@ -412,18 +421,23 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:acb23204951fea6b7fa7f77d58d44844d"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#acb23204951fea6b7fa7f77d58d44844d">operator &gt;=</a> (<a class="el" href="struct_system_1_1_date_time.html">DateTime</a> t1, <a class="el" href="struct_system_1_1_date_time.html">DateTime</a> t2)</td></tr>
 <tr class="memdesc:acb23204951fea6b7fa7f77d58d44844d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines whether one specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> represents a date and time that is the same as or later than another specified <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a>.  <a href="#acb23204951fea6b7fa7f77d58d44844d">More...</a><br /></td></tr>
 <tr class="separator:acb23204951fea6b7fa7f77d58d44844d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad916ac5b6c4f285e0fdc4a3b287c2e6c"><td class="memItemLeft" align="right" valign="top">static internal bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#ad916ac5b6c4f285e0fdc4a3b287c2e6c">TryCreate</a> (int year, int month, int day, int hour, int minute, int second, int millisecond, out <a class="el" href="struct_system_1_1_date_time.html">DateTime</a> result)</td></tr>
+<tr class="memitem:ad916ac5b6c4f285e0fdc4a3b287c2e6c"><td class="memItemLeft" align="right" valign="top"><a id="ad916ac5b6c4f285e0fdc4a3b287c2e6c"></a>
+static internal bool&#160;</td><td class="memItemRight" valign="bottom"><b>TryCreate</b> (int year, int month, int day, int hour, int minute, int second, int millisecond, out <a class="el" href="struct_system_1_1_date_time.html">DateTime</a> result)</td></tr>
 <tr class="separator:ad916ac5b6c4f285e0fdc4a3b287c2e6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a575f7c072184b15499134220f5629165"><td class="memItemLeft" align="right" valign="top">internal const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a575f7c072184b15499134220f5629165">DaysTo1970</a> = 719162</td></tr>
+<tr class="memitem:a575f7c072184b15499134220f5629165"><td class="memItemLeft" align="right" valign="top"><a id="a575f7c072184b15499134220f5629165"></a>
+internal const int&#160;</td><td class="memItemRight" valign="bottom"><b>DaysTo1970</b> = 719162</td></tr>
 <tr class="separator:a575f7c072184b15499134220f5629165"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5ee444faa80f9dbb7f66a2d9fb5f06b"><td class="memItemLeft" align="right" valign="top">internal const long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#aa5ee444faa80f9dbb7f66a2d9fb5f06b">MinTicks</a> = 0L</td></tr>
+<tr class="memitem:aa5ee444faa80f9dbb7f66a2d9fb5f06b"><td class="memItemLeft" align="right" valign="top"><a id="aa5ee444faa80f9dbb7f66a2d9fb5f06b"></a>
+internal const long&#160;</td><td class="memItemRight" valign="bottom"><b>MinTicks</b> = 0L</td></tr>
 <tr class="separator:aa5ee444faa80f9dbb7f66a2d9fb5f06b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7aa6dbc8e2cb4e9cfc4b82699bf94320"><td class="memItemLeft" align="right" valign="top">internal const long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a7aa6dbc8e2cb4e9cfc4b82699bf94320">MaxTicks</a> = 3155378975999999999L</td></tr>
+<tr class="memitem:a7aa6dbc8e2cb4e9cfc4b82699bf94320"><td class="memItemLeft" align="right" valign="top"><a id="a7aa6dbc8e2cb4e9cfc4b82699bf94320"></a>
+internal const long&#160;</td><td class="memItemRight" valign="bottom"><b>MaxTicks</b> = 3155378975999999999L</td></tr>
 <tr class="separator:a7aa6dbc8e2cb4e9cfc4b82699bf94320"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5553a6ab203134923e94e8569b823700"><td class="memItemLeft" align="right" valign="top">internal long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_date_time.html#a5553a6ab203134923e94e8569b823700">InternalTicks</a> =&gt; (long)(dateData &amp; 0x3FFFFFFFFFFFFFFF)</td></tr>
+<tr class="memitem:a5553a6ab203134923e94e8569b823700"><td class="memItemLeft" align="right" valign="top"><a id="a5553a6ab203134923e94e8569b823700"></a>
+internal long&#160;</td><td class="memItemRight" valign="bottom"><b>InternalTicks</b> =&gt; (long)(dateData &amp; 0x3FFFFFFFFFFFFFFF)</td></tr>
 <tr class="separator:a5553a6ab203134923e94e8569b823700"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
@@ -492,7 +506,7 @@ Properties</h2></td></tr>
 <p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00013">13</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a307ef01f56fd034a4d27f41f2f8d1aad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a307ef01f56fd034a4d27f41f2f8d1aad">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[1/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a307ef01f56fd034a4d27f41f2f8d1aad">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[1/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -526,7 +540,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="ac3c086ecd57e7d06fcb4379f81fefe7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac3c086ecd57e7d06fcb4379f81fefe7a">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[2/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ac3c086ecd57e7d06fcb4379f81fefe7a">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[2/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -571,44 +585,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a062121bc06e0701aeb8a58d702f15cd2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a062121bc06e0701aeb8a58d702f15cd2">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[3/12]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal System.DateTime.DateTime </td>
-          <td>(</td>
-          <td class="paramtype">long&#160;</td>
-          <td class="paramname"><em>ticks</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="namespace_system.html#a2a8ee95b3f7f3b42eb282688dffa6d2e">DateTimeKind</a>&#160;</td>
-          <td class="paramname"><em>kind</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>isAmbiguousDst</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00399">399</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
 <a id="a4992ab61818b71f1dc8fdc57de31226a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4992ab61818b71f1dc8fdc57de31226a">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[4/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a4992ab61818b71f1dc8fdc57de31226a">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[3/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -660,7 +638,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a10250b383b9904a645ef26796b1be577"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a10250b383b9904a645ef26796b1be577">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[5/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a10250b383b9904a645ef26796b1be577">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[4/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -720,7 +698,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a26f554951db70782cf5bd78b8a1d1796"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a26f554951db70782cf5bd78b8a1d1796">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[6/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a26f554951db70782cf5bd78b8a1d1796">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[5/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -793,7 +771,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a67d60ea42b4dc6bec8663b6894ed836c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a67d60ea42b4dc6bec8663b6894ed836c">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[7/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a67d60ea42b4dc6bec8663b6894ed836c">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[6/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -874,7 +852,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a7eadab4aece1f6721d1ef643e2f7463f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7eadab4aece1f6721d1ef643e2f7463f">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[8/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a7eadab4aece1f6721d1ef643e2f7463f">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[7/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -955,7 +933,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a2bb5bc0883499b5455b9aaadc972512c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2bb5bc0883499b5455b9aaadc972512c">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[9/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a2bb5bc0883499b5455b9aaadc972512c">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[8/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1035,7 +1013,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a445064879b382ad0b4dc6739e7917edd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a445064879b382ad0b4dc6739e7917edd">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[10/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a445064879b382ad0b4dc6739e7917edd">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[9/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1123,7 +1101,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="afbdd169f6e666f97b8ea909554c3aa68"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbdd169f6e666f97b8ea909554c3aa68">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[11/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#afbdd169f6e666f97b8ea909554c3aa68">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[10/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1211,7 +1189,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a09a224662e4f4e1a5cb5f86b44e12710"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09a224662e4f4e1a5cb5f86b44e12710">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[12/12]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a09a224662e4f4e1a5cb5f86b44e12710">&#9670;&nbsp;</a></span>DateTime() <span class="overload">[11/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1788,51 +1766,6 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="ab6ef881034c268d6a54e7811b7728e7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab6ef881034c268d6a54e7811b7728e7e">&#9670;&nbsp;</a></span>DoubleDateToTicks()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static internal long System.DateTime.DoubleDateToTicks </td>
-          <td>(</td>
-          <td class="paramtype">double&#160;</td>
-          <td class="paramname"><em>value</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00963">963</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
-<a id="ada3e738d0dcb56bf5c3ede5fa5663fac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada3e738d0dcb56bf5c3ede5fa5663fac">&#9670;&nbsp;</a></span>EnableAmPmParseAdjustment()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">static internal bool System.DateTime.EnableAmPmParseAdjustment </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a5043b8b4b7818a517a801ec40370562f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5043b8b4b7818a517a801ec40370562f">&#9670;&nbsp;</a></span>Equals() <span class="overload">[1/3]</span></h2>
 
@@ -1982,34 +1915,6 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="a6f1a107032c6ed15ac283bb27667a903"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f1a107032c6ed15ac283bb27667a903">&#9670;&nbsp;</a></span>FromBinaryRaw()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static internal <a class="el" href="struct_system_1_1_date_time.html">DateTime</a> System.DateTime.FromBinaryRaw </td>
-          <td>(</td>
-          <td class="paramtype">long&#160;</td>
-          <td class="paramname"><em>dateData</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01076">1076</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
 <a id="a2a4304f4f98f77fcd53afc3ace1026f8"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a2a4304f4f98f77fcd53afc3ace1026f8">&#9670;&nbsp;</a></span>FromFileTime()</h2>
 
@@ -2034,10 +1939,10 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Converts the specified <a class="el" href="namespace_windows.html">Windows</a> file time to an equivalent local time. </p>
+<p>Converts the specified Windows file time to an equivalent local time. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">fileTime</td><td>A <a class="el" href="namespace_windows.html">Windows</a> file time expressed in ticks. </td></tr>
+    <tr><td class="paramname">fileTime</td><td>A Windows file time expressed in ticks. </td></tr>
   </table>
   </dd>
 </dl>
@@ -2077,10 +1982,10 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Converts the specified <a class="el" href="namespace_windows.html">Windows</a> file time to an equivalent UTC time. </p>
+<p>Converts the specified Windows file time to an equivalent UTC time. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">fileTime</td><td>A <a class="el" href="namespace_windows.html">Windows</a> file time expressed in ticks. </td></tr>
+    <tr><td class="paramname">fileTime</td><td>A Windows file time expressed in ticks. </td></tr>
   </table>
   </dd>
 </dl>
@@ -2340,23 +2245,6 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="aada3bdb5f3d7c745e11c69ac946f1694"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aada3bdb5f3d7c745e11c69ac946f1694">&#9670;&nbsp;</a></span>GetSystemTimeAsFileTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">static internal long System.DateTime.GetSystemTimeAsFileTime </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="ad4cf7459550af6694838d7959af16251"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad4cf7459550af6694838d7959af16251">&#9670;&nbsp;</a></span>GetTypeCode()</h2>
 
@@ -2378,25 +2266,6 @@ Properties</h2></td></tr>
 <p>Implements <a class="el" href="interface_system_1_1_i_convertible.html#add8849c014f07176578db4c46b5974ba">System.IConvertible</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01792">1792</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
-<a id="aacce97ed095c66e837f469405ec57485"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aacce97ed095c66e837f469405ec57485">&#9670;&nbsp;</a></span>IsAmbiguousDaylightSavingTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal bool System.DateTime.IsAmbiguousDaylightSavingTime </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01235">1235</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
 
 </div>
 </div>
@@ -2462,23 +2331,6 @@ Properties</h2></td></tr>
 </dl>
 
 <p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01251">1251</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
-<a id="a77f516aadc9919cb7f51612c0c354d41"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a77f516aadc9919cb7f51612c0c354d41">&#9670;&nbsp;</a></span>LegacyParseMode()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">static internal bool System.DateTime.LegacyParseMode </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -3430,25 +3282,6 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="aa8b2892b120538ac1027c7cbbe8f4416"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8b2892b120538ac1027c7cbbe8f4416">&#9670;&nbsp;</a></span>ToBinaryRaw()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal long System.DateTime.ToBinaryRaw </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01181">1181</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
 <a id="a355db1d6d9a3c098d25230aadaa1b770"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a355db1d6d9a3c098d25230aadaa1b770">&#9670;&nbsp;</a></span>ToBoolean()</h2>
 
@@ -3680,8 +3513,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a <a class="el" href="namespace_windows.html">Windows</a> file time. </p>
-<dl class="section return"><dt>Returns</dt><dd>The value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object expressed as a <a class="el" href="namespace_windows.html">Windows</a> file time.</dd></dl>
+<p>Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a Windows file time. </p>
+<dl class="section return"><dt>Returns</dt><dd>The value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object expressed as a Windows file time.</dd></dl>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td>The resulting file time would represent a date and time before 12:00 midnight January 1, 1601 <a class="el" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1a3a3ea00cfc35332cedf6e5e9a32e94da" title="The E key.">C.E</a>. UTC. </td></tr>
@@ -3708,8 +3541,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a <a class="el" href="namespace_windows.html">Windows</a> file time. </p>
-<dl class="section return"><dt>Returns</dt><dd>The value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object expressed as a <a class="el" href="namespace_windows.html">Windows</a> file time.</dd></dl>
+<p>Converts the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object to a Windows file time. </p>
+<dl class="section return"><dt>Returns</dt><dd>The value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object expressed as a Windows file time.</dd></dl>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td>The resulting file time would represent a date and time before 12:00 midnight January 1, 1601 <a class="el" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1a3a3ea00cfc35332cedf6e5e9a32e94da" title="The E key.">C.E</a>. UTC. </td></tr>
@@ -3833,7 +3666,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <a id="a5007fa01add892884791eacfa0e67f04"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5007fa01add892884791eacfa0e67f04">&#9670;&nbsp;</a></span>ToLocalTime() <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a5007fa01add892884791eacfa0e67f04">&#9670;&nbsp;</a></span>ToLocalTime()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3851,26 +3684,6 @@ Properties</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>An object whose P:System.DateTime.Kind property is F:System.DateTimeKind.Local, and whose value is the local time equivalent to the value of the current <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object, or F:System.DateTime.MaxValue if the converted value is too large to be represented by a <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object, or F:System.DateTime.MinValue if the converted value is too small to be represented as a <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> object.</dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01460">1460</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
-<a id="af16c5be8e877459d1dfaa974f19a3da4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af16c5be8e877459d1dfaa974f19a3da4">&#9670;&nbsp;</a></span>ToLocalTime() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal <a class="el" href="struct_system_1_1_date_time.html">DateTime</a> System.DateTime.ToLocalTime </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>throwOnOverflow</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01465">1465</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
 
 </div>
 </div>
@@ -4396,80 +4209,6 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="ad916ac5b6c4f285e0fdc4a3b287c2e6c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad916ac5b6c4f285e0fdc4a3b287c2e6c">&#9670;&nbsp;</a></span>TryCreate()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static internal bool System.DateTime.TryCreate </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>hour</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>minute</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>second</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>millisecond</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">out <a class="el" href="struct_system_1_1_date_time.html">DateTime</a>&#160;</td>
-          <td class="paramname"><em>result</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l01949">1949</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
 <a id="ae4f24f8c41ea5a3a038563b1239afd06"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae4f24f8c41ea5a3a038563b1239afd06">&#9670;&nbsp;</a></span>TryParse() <span class="overload">[1/2]</span></h2>
 
@@ -4738,54 +4477,6 @@ Properties</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a575f7c072184b15499134220f5629165"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a575f7c072184b15499134220f5629165">&#9670;&nbsp;</a></span>DaysTo1970</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal const int System.DateTime.DaysTo1970 = 719162</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00045">45</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
-<a id="a5553a6ab203134923e94e8569b823700"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5553a6ab203134923e94e8569b823700">&#9670;&nbsp;</a></span>InternalTicks</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal long System.DateTime.InternalTicks =&gt; (long)(dateData &amp; 0x3FFFFFFFFFFFFFFF)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00139">139</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
-<a id="a7aa6dbc8e2cb4e9cfc4b82699bf94320"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7aa6dbc8e2cb4e9cfc4b82699bf94320">&#9670;&nbsp;</a></span>MaxTicks</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal const long System.DateTime.MaxTicks = 3155378975999999999L</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00051">51</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
 <a id="a2f422c39dc4b25fb8d410a4352b05db9"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a2f422c39dc4b25fb8d410a4352b05db9">&#9670;&nbsp;</a></span>MaxValue</h2>
 
@@ -4809,22 +4500,6 @@ Properties</h2></td></tr>
 <p>Represents the largest possible value of <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a>. This field is read-only. </p>
 
 <p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00113">113</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
-
-</div>
-</div>
-<a id="aa5ee444faa80f9dbb7f66a2d9fb5f06b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5ee444faa80f9dbb7f66a2d9fb5f06b">&#9670;&nbsp;</a></span>MinTicks</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal const long System.DateTime.MinTicks = 0L</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_date_time_8cs_source.html#l00049">49</a> of file <a class="el" href="_date_time_8cs_source.html">DateTime.cs</a>.</p>
 
 </div>
 </div>
@@ -5288,7 +4963,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this struct was generated from the following file:<ul>
-<li>System/<a class="el" href="_date_time_8cs_source.html">DateTime.cs</a></li>
+<li>D:/All cs/System/<a class="el" href="_date_time_8cs_source.html">DateTime.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

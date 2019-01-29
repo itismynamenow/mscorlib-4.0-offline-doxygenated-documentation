@@ -1,0 +1,4 @@
+<map id="System.Net.NetworkInformation.NetworkInformationPermissionAttribute" name="System.Net.NetworkInformation.NetworkInformationPermissionAttribute">
+<area shape="rect" id="node1" title="Allows security actions for T:System.Net.NetworkInformation.NetworkInformationPermission to be applie..." alt="" coords="5,80,252,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_code_access_security_attribute.html" title="Specifies the base attribute class for code access security." alt="" coords="32,5,225,32"/>
+</map>

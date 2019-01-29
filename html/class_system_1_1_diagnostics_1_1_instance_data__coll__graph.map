@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.InstanceData" name="System.Diagnostics.InstanceData">
+<area shape="rect" id="node1" title="Holds instance data associated with a performance counter sample." alt="" coords="5,109,224,136"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_diagnostics_1_1_counter_sample.html" title="Defines a structure that holds the raw data for a performance counter." alt="" coords="21,5,209,47"/>
+</map>

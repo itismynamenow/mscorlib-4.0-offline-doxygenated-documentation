@@ -1,0 +1,7 @@
+<map id="System.Management.Instrumentation.ManagementNewInstanceAttribute" name="System.Management.Instrumentation.ManagementNewInstanceAttribute">
+<area shape="rect" id="node1" title="The base class for management attributes that have only run&#45;time functionality and no schema represen..." alt="" coords="247,71,489,112"/>
+<area shape="rect" id="node3" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_bind_attribute.html" title="The ManagementBind attribute indicates that a method is used to return the instance of a WMI class as..." alt="" coords="537,5,780,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_create_attribute.html" title="The ManagementCreateAttribute is used to indicate that a method creates a new instance of a managed e..." alt="" coords="537,71,780,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_enumerator_attribute.html" title="The ManagementEnumerator attribute marks a method that returns all the instances of a WMI class...." alt="" coords="537,136,780,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_member_attribute.html" title="This class is used by the WMI.NET Provider Extensions framework. It is the base class for all the man..." alt="" coords="5,78,199,105"/>
+</map>

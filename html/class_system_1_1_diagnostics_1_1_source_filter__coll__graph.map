@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.SourceFilter" name="System.Diagnostics.SourceFilter">
+<area shape="rect" id="node1" title="Indicates whether a listener should trace a message based on the source of a trace." alt="" coords="5,80,189,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_trace_filter.html" title="Provides the base class for trace filter implementations." alt="" coords="56,5,139,32"/>
+</map>

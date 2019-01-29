@@ -1,0 +1,4 @@
+<map id="System.Runtime.CompilerServices.CallSiteBinder" name="System.Runtime.CompilerServices.CallSiteBinder">
+<area shape="rect" id="node1" title="Class responsible for runtime binding of the dynamic operations on the dynamic call site." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_dynamic_1_1_dynamic_meta_object_binder.html" title="The dynamic call site binder that participates in the T:System.Dynamic.DynamicMetaObject binding prot..." alt="" coords="15,95,222,136"/>
+</map>

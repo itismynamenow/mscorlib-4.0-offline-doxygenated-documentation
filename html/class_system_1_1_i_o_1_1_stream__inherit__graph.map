@@ -1,15 +1,15 @@
 <map id="System.IO.Stream" name="System.IO.Stream">
-<area shape="rect" id="node1" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="195,157,325,184"/>
-<area shape="rect" id="node4" href="$class_system_1_1_i_o_1_1_____console_stream.html" title=" " alt="" coords="380,5,571,32"/>
-<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_buffered_stream.html" title="Adds a buffering layer to read and write operations on another stream. This class cannot be inherited..." alt="" coords="387,56,564,83"/>
-<area shape="rect" id="node6" href="$class_system_1_1_i_o_1_1_file_stream.html" title="Provides a T:System.IO.Stream for a file, supporting both synchronous and asynchronous read and write..." alt="" coords="400,107,551,133"/>
-<area shape="rect" id="node8" href="$class_system_1_1_i_o_1_1_memory_stream.html" title="Creates a stream whose backing store is memory.To browse the .NET Framework source code for this type..." alt="" coords="387,157,564,184"/>
-<area shape="rect" id="node10" href="$class_system_1_1_i_o_1_1_unmanaged_memory_stream.html" title="Provides access to unmanaged blocks of memory from managed code." alt="" coords="373,209,577,250"/>
-<area shape="rect" id="node12" href="$class_system_1_1_security_1_1_cryptography_1_1_crypto_stream.html" title="Defines a stream that links data streams to cryptographic transformations." alt="" coords="373,274,577,315"/>
-<area shape="rect" id="node13" href="$class_system_1_1_security_1_1_cryptography_1_1_tail_stream.html" title=" " alt="" coords="373,339,577,381"/>
-<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,132,147,159"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="31,183,121,209"/>
-<area shape="rect" id="node7" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_file_stream.html" title="Exposes a file within isolated storage." alt="" coords="638,85,821,126"/>
-<area shape="rect" id="node9" href="$class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html" title=" " alt="" coords="627,150,831,191"/>
-<area shape="rect" id="node11" href="$class_system_1_1_i_o_1_1_pinned_buffer_memory_stream.html" title=" " alt="" coords="625,215,833,257"/>
+<area shape="rect" id="node1" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="195,264,325,291"/>
+<area shape="rect" id="node4" href="$class_system_1_1_i_o_1_1_buffered_stream.html" title="Adds a buffering layer to read and write operations on another stream. This class cannot be inherited..." alt="" coords="398,5,575,32"/>
+<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_compression_1_1_deflate_stream.html" title="Provides methods and properties for compressing and decompressing streams by using the Deflate algori..." alt="" coords="383,57,591,98"/>
+<area shape="rect" id="node6" href="$class_system_1_1_i_o_1_1_compression_1_1_g_zip_stream.html" title="Provides methods and properties used to compress and decompress streams." alt="" coords="389,122,584,163"/>
+<area shape="rect" id="node7" href="$class_system_1_1_i_o_1_1_file_stream.html" title="Provides a T:System.IO.Stream for a file, supporting both synchronous and asynchronous read and write..." alt="" coords="411,188,562,215"/>
+<area shape="rect" id="node8" href="$class_system_1_1_i_o_1_1_memory_stream.html" title="Creates a stream whose backing store is memory.To browse the .NET Framework source code for this type..." alt="" coords="398,239,575,265"/>
+<area shape="rect" id="node9" href="$class_system_1_1_i_o_1_1_pipes_1_1_pipe_stream.html" title="Exposes a T:System.IO.Stream object around a pipe, which supports both anonymous and named pipes." alt="" coords="390,289,583,316"/>
+<area shape="rect" id="node10" href="$class_system_1_1_i_o_1_1_unmanaged_memory_stream.html" title="Provides access to unmanaged blocks of memory from managed code." alt="" coords="385,341,589,382"/>
+<area shape="rect" id="node11" href="$class_system_1_1_net_1_1_security_1_1_authenticated_stream.html" title="Provides methods for passing credentials across a stream and requesting or performing authentication ..." alt="" coords="373,406,600,447"/>
+<area shape="rect" id="node12" href="$class_system_1_1_net_1_1_sockets_1_1_network_stream.html" title="Provides the underlying stream of data for network access." alt="" coords="389,471,584,513"/>
+<area shape="rect" id="node13" href="$class_system_1_1_security_1_1_cryptography_1_1_crypto_stream.html" title="Defines a stream that links data streams to cryptographic transformations." alt="" coords="385,537,589,578"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,239,147,265"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="31,289,121,316"/>
 </map>

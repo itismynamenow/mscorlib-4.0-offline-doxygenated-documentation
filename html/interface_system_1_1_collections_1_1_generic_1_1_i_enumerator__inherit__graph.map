@@ -1,16 +1,30 @@
 <map id="System.Collections.Generic.IEnumerator&lt; out out T &gt;" name="System.Collections.Generic.IEnumerator&lt; out out T &gt;">
-<area shape="rect" id="node1" title="Supports a simple iteration over a generic collection." alt="" coords="147,311,335,353"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2." alt="" coords="457,5,645,61"/>
-<area shape="rect" id="node5" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_key_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2.KeyCollection." alt="" coords="743,272,932,328"/>
-<area shape="rect" id="node6" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_value_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2.ValueCollection." alt="" coords="452,136,651,192"/>
-<area shape="rect" id="node7" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_value_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2.ValueCollection." alt="" coords="459,217,643,287"/>
-<area shape="rect" id="node8" href="$struct_system_1_1_collections_1_1_generic_1_1_list_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.List`1." alt="" coords="457,311,645,353"/>
-<area shape="rect" id="node9" href="$struct_system_1_1_collections_1_1_generic_1_1_list_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.List`1." alt="" coords="482,377,621,433"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="457,458,645,499"/>
-<area shape="rect" id="node11" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="457,523,645,565"/>
-<area shape="rect" id="node12" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="457,589,645,630"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="7,293,96,320"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,344,97,371"/>
-<area shape="rect" id="node13" href="$class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_dictionary_key_enumerator.html" title=" " alt="" coords="700,541,975,597"/>
-<area shape="rect" id="node14" href="$class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_key_enumerator.html" title=" " alt="" coords="705,621,970,677"/>
+<area shape="rect" id="node1" title="Supports a simple iteration over a generic collection." alt="" coords="147,789,335,830"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2." alt="" coords="585,5,773,61"/>
+<area shape="rect" id="node5" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_key_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2.KeyCollection." alt="" coords="871,92,1060,148"/>
+<area shape="rect" id="node6" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_value_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2.ValueCollection." alt="" coords="580,253,779,309"/>
+<area shape="rect" id="node7" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_value_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2.ValueCollection." alt="" coords="587,334,771,405"/>
+<area shape="rect" id="node8" href="$struct_system_1_1_collections_1_1_generic_1_1_hash_set_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.HashSet`1 object." alt="" coords="871,571,1059,613"/>
+<area shape="rect" id="node9" href="$struct_system_1_1_collections_1_1_generic_1_1_linked_list_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.LinkedList`1." alt="" coords="871,501,1059,542"/>
+<area shape="rect" id="node10" href="$struct_system_1_1_collections_1_1_generic_1_1_list_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.List`1." alt="" coords="871,431,1059,473"/>
+<area shape="rect" id="node11" href="$struct_system_1_1_collections_1_1_generic_1_1_queue_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Queue`1." alt="" coords="871,639,1059,681"/>
+<area shape="rect" id="node12" href="$struct_system_1_1_collections_1_1_generic_1_1_sorted_dictionary_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.SortedDictionary`2." alt="" coords="585,847,773,903"/>
+<area shape="rect" id="node13" href="$struct_system_1_1_collections_1_1_generic_1_1_sorted_dictionary_1_1_key_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.SortedDictionary`2.KeyCollection." alt="" coords="849,180,1082,236"/>
+<area shape="rect" id="node14" href="$struct_system_1_1_collections_1_1_generic_1_1_sorted_dictionary_1_1_value_collection_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.SortedDictionary`2.ValueCollection." alt="" coords="844,935,1087,991"/>
+<area shape="rect" id="node15" href="$struct_system_1_1_collections_1_1_generic_1_1_sorted_set_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.SortedSet`1 object." alt="" coords="871,710,1059,751"/>
+<area shape="rect" id="node16" href="$struct_system_1_1_collections_1_1_generic_1_1_stack_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Stack`1." alt="" coords="871,786,1059,827"/>
+<area shape="rect" id="node17" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,1044,773,1100"/>
+<area shape="rect" id="node18" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="578,1125,781,1166"/>
+<area shape="rect" id="node19" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,1190,773,1231"/>
+<area shape="rect" id="node20" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,978,773,1019"/>
+<area shape="rect" id="node21" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,622,773,663"/>
+<area shape="rect" id="node22" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="576,1256,783,1341"/>
+<area shape="rect" id="node23" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,1366,773,1407"/>
+<area shape="rect" id="node24" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="564,1431,795,1502"/>
+<area shape="rect" id="node25" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,1526,773,1567"/>
+<area shape="rect" id="node26" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,137,773,178"/>
+<area shape="rect" id="node27" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="584,1591,775,1633"/>
+<area shape="rect" id="node28" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="585,1657,773,1727"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="7,771,96,797"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,821,97,848"/>
 </map>

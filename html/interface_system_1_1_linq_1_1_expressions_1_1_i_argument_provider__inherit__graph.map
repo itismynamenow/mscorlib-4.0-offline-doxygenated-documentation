@@ -1,0 +1,10 @@
+<map id="System.Linq.Expressions.IArgumentProvider" name="System.Linq.Expressions.IArgumentProvider">
+<area shape="rect" id="node1" title="Provides an internal interface for accessing the arguments of multiple tree nodes (DynamicExpression,..." alt="" coords="5,168,180,209"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_expressions_1_1_dynamic_expression.html" title="Represents a dynamic operation." alt="" coords="451,41,625,83"/>
+<area shape="rect" id="node3" href="$class_system_1_1_linq_1_1_expressions_1_1_element_init.html" title="Represents an initializer for a single element of an T:System.Collections.IEnumerable collection." alt="" coords="228,37,403,79"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_linq_1_1_expressions_1_1_i_dynamic_expression.html" title="Provides an internal interface for accessing the arguments of DynamicExpression tree nodes as well as..." alt="" coords="228,103,403,144"/>
+<area shape="rect" id="node5" href="$class_system_1_1_linq_1_1_expressions_1_1_index_expression.html" title="Represents indexing a property or array." alt="" coords="228,168,403,209"/>
+<area shape="rect" id="node6" href="$class_system_1_1_linq_1_1_expressions_1_1_invocation_expression.html" title="Represents an expression that applies a delegate or lambda expression to a list of argument expressio..." alt="" coords="228,233,403,275"/>
+<area shape="rect" id="node7" href="$class_system_1_1_linq_1_1_expressions_1_1_method_call_expression.html" title="Represents a call to either static or an instance method." alt="" coords="228,299,403,340"/>
+<area shape="rect" id="node8" href="$class_system_1_1_linq_1_1_expressions_1_1_new_expression.html" title="Represents a constructor call." alt="" coords="228,364,403,405"/>
+</map>

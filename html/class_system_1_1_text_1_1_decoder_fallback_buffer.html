@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Text.DecoderFallbackBuffer Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Text.DecoderFallbackBuffer Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -100,7 +100,7 @@ $(document).ready(function(){initNavTree('class_system_1_1_text_1_1_decoder_fall
 <div class="dynheader">
 Inheritance diagram for System.Text.DecoderFallbackBuffer:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_text_1_1_decoder_fallback_buffer__inherit__graph.svg" width="480" height="183"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_text_1_1_decoder_fallback_buffer__inherit__graph.svg" width="480" height="118"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -210,7 +210,7 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd><code>true</code> if the fallback buffer can process <em>bytesUnknown</em> ; <code>false</code> if the fallback buffer ignores <em>bytesUnknown</em> .</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_text_1_1_internal_decoder_best_fit_fallback_buffer.html#ab6d8d08bca523df139780a339826c921">System.Text.InternalDecoderBestFitFallbackBuffer</a>, <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#ae964efb0353442869ad82576324c2737">System.Text.DecoderReplacementFallbackBuffer</a>, and <a class="el" href="class_system_1_1_text_1_1_decoder_exception_fallback_buffer.html#a1372ccf7269c08b38f635301dbd76612">System.Text.DecoderExceptionFallbackBuffer</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#ae964efb0353442869ad82576324c2737">System.Text.DecoderReplacementFallbackBuffer</a>, and <a class="el" href="class_system_1_1_text_1_1_decoder_exception_fallback_buffer.html#a1372ccf7269c08b38f635301dbd76612">System.Text.DecoderExceptionFallbackBuffer</a>.</p>
 
 </div>
 </div>
@@ -240,7 +240,7 @@ Properties</h2></td></tr>
 <p>When overridden in a derived class, retrieves the next character in the fallback buffer. </p>
 <dl class="section return"><dt>Returns</dt><dd>The next character in the fallback buffer.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_text_1_1_internal_decoder_best_fit_fallback_buffer.html#a3ccf1b648b83f75fec45d9e94143bef4">System.Text.InternalDecoderBestFitFallbackBuffer</a>, <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#a873c88c1afd88b53437f8fd989af5b60">System.Text.DecoderReplacementFallbackBuffer</a>, and <a class="el" href="class_system_1_1_text_1_1_decoder_exception_fallback_buffer.html#af172540f62709859834996477c45cd5d">System.Text.DecoderExceptionFallbackBuffer</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#a873c88c1afd88b53437f8fd989af5b60">System.Text.DecoderReplacementFallbackBuffer</a>, and <a class="el" href="class_system_1_1_text_1_1_decoder_exception_fallback_buffer.html#af172540f62709859834996477c45cd5d">System.Text.DecoderExceptionFallbackBuffer</a>.</p>
 
 </div>
 </div>
@@ -270,7 +270,7 @@ Properties</h2></td></tr>
 <p>When overridden in a derived class, causes the next call to the M:System.Text.DecoderFallbackBuffer.GetNextChar method to access the data buffer character position that is prior to the current character position. </p>
 <dl class="section return"><dt>Returns</dt><dd><code>true</code> if the M:System.Text.DecoderFallbackBuffer.MovePrevious operation was successful; otherwise, <code>false</code>.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_text_1_1_internal_decoder_best_fit_fallback_buffer.html#abaa3d70c114a7be5a9c2ca69e684a87a">System.Text.InternalDecoderBestFitFallbackBuffer</a>, <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#ab4acac82aea5ba6902d68ba3177c5897">System.Text.DecoderReplacementFallbackBuffer</a>, and <a class="el" href="class_system_1_1_text_1_1_decoder_exception_fallback_buffer.html#a2d5d5172ee893ef40a0729a8bcce0cce">System.Text.DecoderExceptionFallbackBuffer</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#ab4acac82aea5ba6902d68ba3177c5897">System.Text.DecoderReplacementFallbackBuffer</a>, and <a class="el" href="class_system_1_1_text_1_1_decoder_exception_fallback_buffer.html#a2d5d5172ee893ef40a0729a8bcce0cce">System.Text.DecoderExceptionFallbackBuffer</a>.</p>
 
 </div>
 </div>
@@ -299,7 +299,7 @@ Properties</h2></td></tr>
 
 <p>Initializes all data and state information pertaining to this fallback buffer. </p>
 
-<p>Reimplemented in <a class="el" href="class_system_1_1_text_1_1_internal_decoder_best_fit_fallback_buffer.html#a238badd1e0569f4118537135abc4b19c">System.Text.InternalDecoderBestFitFallbackBuffer</a>, and <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#afbb52ccc40f814b2363bbd004a5016dc">System.Text.DecoderReplacementFallbackBuffer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#afbb52ccc40f814b2363bbd004a5016dc">System.Text.DecoderReplacementFallbackBuffer</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="_decoder_fallback_buffer_8cs_source.html#l00046">46</a> of file <a class="el" href="_decoder_fallback_buffer_8cs_source.html">DecoderFallbackBuffer.cs</a>.</p>
 
@@ -334,7 +334,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System.Text/<a class="el" href="_decoder_fallback_buffer_8cs_source.html">DecoderFallbackBuffer.cs</a></li>
+<li>D:/All cs/System.Text/<a class="el" href="_decoder_fallback_buffer_8cs_source.html">DecoderFallbackBuffer.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

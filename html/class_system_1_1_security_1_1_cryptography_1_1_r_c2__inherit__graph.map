@@ -1,6 +1,5 @@
 <map id="System.Security.Cryptography.RC2" name="System.Security.Cryptography.RC2">
-<area shape="rect" id="node1" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="5,155,235,181"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_r_c2_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) implementation of the T:S..." alt="" coords="18,229,222,271"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="50,80,190,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="75,5,165,32"/>
+<area shape="rect" id="node1" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="5,80,235,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_r_c2_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) implementation of the T:S..." alt="" coords="18,155,222,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="50,5,190,32"/>
 </map>

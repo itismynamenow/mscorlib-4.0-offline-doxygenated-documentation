@@ -1,0 +1,7 @@
+<map id="System.Xml.Schema.XmlSchemaGroupBase" name="System.Xml.Schema.XmlSchemaGroupBase">
+<area shape="rect" id="node1" title="An abstract class for T:System.Xml.Schema.XmlSchemaAll, T:System.Xml.Schema.XmlSchemaChoice,..." alt="" coords="188,57,405,98"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_all.html" title="Represents the World Wide Web Consortium (W3C) all element (compositor)." alt="" coords="453,5,685,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_choice.html" title="Represents the choice element (compositor) from the XML Schema as specified by the World Wide Web Con..." alt="" coords="461,57,678,98"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_sequence.html" title="Represents the sequence element (compositor) from the XML Schema as specified by the World Wide Web C..." alt="" coords="461,122,678,163"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_particle.html" title="Abstract class for that is the base class for all particle types (e.g. T:System.Xml...." alt="" coords="5,64,140,91"/>
+</map>

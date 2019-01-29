@@ -1,0 +1,25 @@
+var class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties =
+[
+    [ "IPGlobalProperties", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a4638a003fdcd775434d3bad2427bfa0c", null ],
+    [ "BeginGetUnicastAddresses", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a38b88dce43c90b72c6a29f6eb4b999c3", null ],
+    [ "EndGetUnicastAddresses", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a6f3591c44e376c9a78c5334e5e24cf79", null ],
+    [ "GetActiveTcpConnections", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a79326b8ee0e0896bfadc0d2a3785ea22", null ],
+    [ "GetActiveTcpListeners", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#aaf1fcef63ea8c2da96010741a341d3be", null ],
+    [ "GetActiveUdpListeners", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a4a635bf3a72f4876a55dff432c6e7d8a", null ],
+    [ "GetIcmpV4Statistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a09858f74389140b45ccdf74dd91f5f58", null ],
+    [ "GetIcmpV6Statistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a071c860566565b3e80874291f469c7ea", null ],
+    [ "GetIPGlobalProperties", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a329018d324d7ba947c4b34456d4d65f0", null ],
+    [ "GetIPv4GlobalStatistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a4601c0448d17f244bac382ced681c36a", null ],
+    [ "GetIPv6GlobalStatistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#ae4c150fb1dcfe0f9e32d744cda6c8c17", null ],
+    [ "GetTcpIPv4Statistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a1ace790fb7d049e30f1e0c477a9f92b7", null ],
+    [ "GetTcpIPv6Statistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#af7a193a7f48fc4ec5d23654ee913f7a2", null ],
+    [ "GetUdpIPv4Statistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a8ba949e90b4c803447a4a8bedc1f1d4d", null ],
+    [ "GetUdpIPv6Statistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#aebe82defff3d179c97510b9d83e71aac", null ],
+    [ "GetUnicastAddresses", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a0b52bf85d36d6ce0ce1c55f004526034", null ],
+    [ "GetUnicastAddressesAsync", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a177c572cea47424621a838101f06c461", null ],
+    [ "DhcpScopeName", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#afccbb0d0494d413a1228f011a3dfab2d", null ],
+    [ "DomainName", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#aa814a3658776b612ab0f8a66ea5faf63", null ],
+    [ "HostName", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#af1e0336128ff4698834621f66177ee89", null ],
+    [ "IsWinsProxy", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a02d5d2ac4c313e55154447c3b673ed85", null ],
+    [ "NodeType", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_properties.html#a9864ba388078fb140862df77951b8625", null ]
+];

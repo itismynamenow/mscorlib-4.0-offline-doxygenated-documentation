@@ -1,0 +1,7 @@
+<map id="System.ComponentModel.Design.ServiceContainer" name="System.ComponentModel.Design.ServiceContainer">
+<area shape="rect" id="node1" title="Provides a simple implementation of the T:System.ComponentModel.Design.IServiceContainer interface...." alt="" coords="116,171,336,212"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_design_1_1_i_service_container.html" title="Provides a container for services." alt="" coords="67,81,190,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_service_provider.html" title="Defines a mechanism for retrieving a service object; that is, an object that provides custom support ..." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="215,81,304,108"/>
+<area shape="rect" id="node5" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="329,81,427,108"/>
+</map>

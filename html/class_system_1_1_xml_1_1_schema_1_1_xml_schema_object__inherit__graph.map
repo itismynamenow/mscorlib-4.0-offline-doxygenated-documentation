@@ -1,0 +1,9 @@
+<map id="System.Xml.Schema.XmlSchemaObject" name="System.Xml.Schema.XmlSchemaObject">
+<area shape="rect" id="node1" title="Represents the root class for the Xml schema object model hierarchy and serves as a base class for cl..." alt="" coords="5,155,223,197"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema.html" title="An in&#45;memory representation of an XML Schema, as specified in the World Wide Web Consortium (W3C) XML..." alt="" coords="271,5,488,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="271,57,488,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotation.html" title="Represents the World Wide Web Consortium (W3C) annotation element." alt="" coords="271,122,488,163"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_app_info.html" title="Represents the World Wide Web Consortium (W3C) appinfo element." alt="" coords="271,187,488,229"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_documentation.html" title="Represents the documentation element from XML Schema as specified by the World Wide Web Consortium (W..." alt="" coords="271,253,488,294"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_external.html" title="An abstract class. Provides information about the included schema." alt="" coords="271,318,488,359"/>
+</map>

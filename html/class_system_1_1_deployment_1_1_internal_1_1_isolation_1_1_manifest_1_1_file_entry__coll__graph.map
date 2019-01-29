@@ -1,8 +1,0 @@
-<map id="System.Deployment.Internal.Isolation.Manifest.FileEntry" name="System.Deployment.Internal.Isolation.Manifest.FileEntry">
-<area shape="rect" id="node1" title=" " alt="" coords="821,82,1012,123"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="153,5,243,32"/>
-<area shape="rect" id="node6" href="$class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_mui_resource_map_entry.html" title=" " alt="" coords="425,47,684,89"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_section.html" title=" " alt="" coords="459,177,650,218"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="147,96,249,123"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,96,97,123"/>
-</map>

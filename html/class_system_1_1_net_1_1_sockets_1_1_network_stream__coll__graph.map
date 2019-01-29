@@ -1,0 +1,5 @@
+<map id="System.Net.Sockets.NetworkStream" name="System.Net.Sockets.NetworkStream">
+<area shape="rect" id="node1" title="Provides the underlying stream of data for network access." alt="" coords="15,95,209,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="5,5,69,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_sockets_1_1_socket.html" title="Implements the Berkeley sockets interface." alt="" coords="94,5,282,32"/>
+</map>

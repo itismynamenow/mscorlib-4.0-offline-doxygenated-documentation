@@ -1,5 +1,4 @@
 <map id="System.SerializableAttribute" name="System.SerializableAttribute">
-<area shape="rect" id="node1" title="Indicates that a class can be serialized. This class cannot be inherited." alt="" coords="5,155,192,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="63,80,134,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="59,5,138,32"/>
+<area shape="rect" id="node1" title="Indicates that a class can be serialized. This class cannot be inherited." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="63,5,134,32"/>
 </map>

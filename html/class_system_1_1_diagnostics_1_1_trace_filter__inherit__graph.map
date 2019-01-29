@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.TraceFilter" name="System.Diagnostics.TraceFilter">
+<area shape="rect" id="node1" title="Provides the base class for trace filter implementations." alt="" coords="107,5,281,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_event_type_filter.html" title="Indicates whether a listener should trace based on the event type." alt="" coords="5,95,180,136"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_source_filter.html" title="Indicates whether a listener should trace a message based on the source of a trace." alt="" coords="205,95,389,136"/>
+</map>

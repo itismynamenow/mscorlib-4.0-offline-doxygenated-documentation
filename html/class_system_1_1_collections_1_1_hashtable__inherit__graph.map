@@ -1,10 +1,11 @@
 <map id="System.Collections.Hashtable" name="System.Collections.Hashtable">
-<area shape="rect" id="node1" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="93,229,290,256"/>
-<area shape="rect" id="node8" href="$class_system_1_1_runtime_1_1_serialization_1_1_surrogate_hashtable.html" title=" " alt="" coords="92,304,291,345"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="30,155,113,181"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="94,80,177,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="10,5,104,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="188,155,280,181"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="305,155,465,181"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="489,155,572,181"/>
+<area shape="rect" id="node1" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="487,112,684,138"/>
+<area shape="rect" id="node8" href="$class_system_1_1_configuration_1_1_settings_attribute_dictionary.html" title="Represents a collection of key/value pairs used to describe a configuration object as well as a T:Sys..." alt="" coords="732,71,931,112"/>
+<area shape="rect" id="node9" href="$class_system_1_1_configuration_1_1_settings_context.html" title="Provides contextual information that the provider can use when persisting settings." alt="" coords="732,136,931,178"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="317,36,400,62"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="148,86,231,113"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,36,100,62"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="313,137,405,164"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="279,188,439,214"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="317,238,400,265"/>
 </map>

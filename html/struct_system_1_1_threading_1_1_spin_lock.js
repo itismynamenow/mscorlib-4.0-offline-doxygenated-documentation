@@ -1,6 +1,5 @@
 var struct_system_1_1_threading_1_1_spin_lock =
 [
-    [ "SystemThreading_SpinLockDebugView", "class_system_1_1_threading_1_1_spin_lock_1_1_system_threading___spin_lock_debug_view.html", "class_system_1_1_threading_1_1_spin_lock_1_1_system_threading___spin_lock_debug_view" ],
     [ "SpinLock", "struct_system_1_1_threading_1_1_spin_lock.html#a145c7a3b87d6cfb6252ba5cb424ea011", null ],
     [ "Enter", "struct_system_1_1_threading_1_1_spin_lock.html#a110aba57e5adcb2aa37b6e94d3791f99", null ],
     [ "Exit", "struct_system_1_1_threading_1_1_spin_lock.html#ab1de91e18348c0871b42bd3491b7f385", null ],

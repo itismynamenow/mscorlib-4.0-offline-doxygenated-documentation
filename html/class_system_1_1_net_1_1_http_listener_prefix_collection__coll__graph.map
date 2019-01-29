@@ -1,0 +1,6 @@
+<map id="System.Net.HttpListenerPrefixCollection" name="System.Net.HttpListenerPrefixCollection">
+<area shape="rect" id="node1" title="Represents the collection used to store Uniform Resource Identifier (URI) prefixes for T:System...." alt="" coords="145,80,343,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title=" " alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="169,5,319,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="343,5,438,32"/>
+</map>

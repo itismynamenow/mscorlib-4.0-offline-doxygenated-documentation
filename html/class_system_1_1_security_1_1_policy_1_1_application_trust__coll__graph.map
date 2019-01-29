@@ -1,9 +1,6 @@
 <map id="System.Security.Policy.ApplicationTrust" name="System.Security.Policy.ApplicationTrust">
-<area shape="rect" id="node1" title="Encapsulates security decisions about an application. This class cannot be inherited." alt="" coords="1013,49,1240,90"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="684,5,788,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="669,56,803,83"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_list.html" title=" " alt="" coords="629,107,843,163"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="281,121,444,148"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,155,232,181"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,125,100,152"/>
+<area shape="rect" id="node1" title="Encapsulates security decisions about an application. This class cannot be inherited." alt="" coords="389,49,616,90"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="60,5,164,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="45,56,179,83"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_list.html" title=" " alt="" coords="5,107,219,163"/>
 </map>

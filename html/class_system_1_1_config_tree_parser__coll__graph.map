@@ -1,7 +1,0 @@
-<map id="System.ConfigTreeParser" name="System.ConfigTreeParser">
-<area shape="rect" id="node1" title=" " alt="" coords="17,247,188,273"/>
-<area shape="rect" id="node2" href="$class_system_1_1_base_config_handler.html" title=" " alt="" coords="37,171,169,197"/>
-<area shape="rect" id="node3" href="$class_system_1_1_delegate.html" title="Represents a delegate, which is a data structure that refers to a static method or to a class instanc..." alt="" coords="41,81,164,108"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,5,88,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="113,5,205,32"/>
-</map>

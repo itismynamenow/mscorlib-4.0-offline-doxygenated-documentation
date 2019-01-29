@@ -1,11 +1,9 @@
 <map id="System.DateTime" name="System.DateTime">
-<area shape="rect" id="node1" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="523,132,649,159"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="339,5,434,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="339,56,434,83"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="343,107,431,133"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="341,157,433,184"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="300,208,473,235"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="15,208,158,235"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="305,259,468,285"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="5,259,168,285"/>
+<area shape="rect" id="node1" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="228,132,355,159"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="45,5,139,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="45,56,139,83"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="48,107,136,133"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="46,157,138,184"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="5,208,179,235"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="11,259,173,285"/>
 </map>

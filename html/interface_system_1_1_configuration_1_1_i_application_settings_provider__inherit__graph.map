@@ -1,0 +1,4 @@
+<map id="System.Configuration.IApplicationSettingsProvider" name="System.Configuration.IApplicationSettingsProvider">
+<area shape="rect" id="node1" title="Defines extended capabilities for client&#45;based application settings providers." alt="" coords="5,5,223,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_configuration_1_1_local_file_settings_provider.html" title="Provides persistence for application settings classes." alt="" coords="23,95,205,136"/>
+</map>

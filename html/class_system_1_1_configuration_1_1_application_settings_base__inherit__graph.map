@@ -1,0 +1,5 @@
+<map id="System.Configuration.ApplicationSettingsBase" name="System.Configuration.ApplicationSettingsBase">
+<area shape="rect" id="node1" title="Acts as a base class for deriving concrete wrapper classes to implement the application settings feat..." alt="" coords="24,80,239,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_configuration_1_1_settings_base.html" title="Provides the base class used to support user property settings." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_component_model_1_1_i_notify_property_changed.html" title="Notifies clients that a property value has changed." alt="" coords="129,5,288,32"/>
+</map>

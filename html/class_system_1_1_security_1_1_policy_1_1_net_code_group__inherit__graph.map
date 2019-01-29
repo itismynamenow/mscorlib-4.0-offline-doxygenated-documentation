@@ -1,5 +1,4 @@
 <map id="System.Security.Policy.NetCodeGroup" name="System.Security.Policy.NetCodeGroup">
-<area shape="rect" id="node1" title="Grants Web permission to the site from which the assembly was downloaded. This class cannot be inheri..." alt="" coords="36,80,219,121"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="5,5,92,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_policy_1_1_i_union_semantic_code_group.html" title=" " alt="" coords="117,5,295,32"/>
+<area shape="rect" id="node1" title="Grants Web permission to the site from which the assembly was downloaded. This class cannot be inheri..." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="53,5,140,32"/>
 </map>

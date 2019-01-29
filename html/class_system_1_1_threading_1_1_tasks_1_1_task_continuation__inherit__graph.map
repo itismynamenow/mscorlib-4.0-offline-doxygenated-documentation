@@ -1,7 +1,0 @@
-<map id="System.Threading.Tasks.TaskContinuation" name="System.Threading.Tasks.TaskContinuation">
-<area shape="rect" id="node1" title=" " alt="" coords="5,71,204,112"/>
-<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_tasks_1_1_await_task_continuation.html" title=" " alt="" coords="262,37,465,79"/>
-<area shape="rect" id="node5" href="$class_system_1_1_threading_1_1_tasks_1_1_standard_task_continuation.html" title=" " alt="" coords="252,103,475,144"/>
-<area shape="rect" id="node3" href="$class_system_1_1_threading_1_1_tasks_1_1_synchronization_context_await_task_continuation.html" title=" " alt="" coords="523,5,785,47"/>
-<area shape="rect" id="node4" href="$class_system_1_1_threading_1_1_tasks_1_1_task_scheduler_await_task_continuation.html" title=" " alt="" coords="548,71,760,112"/>
-</map>

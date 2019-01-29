@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.Design.IServiceContainer" name="System.ComponentModel.Design.IServiceContainer">
+<area shape="rect" id="node1" title="Provides a container for services." alt="" coords="5,80,225,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_service_provider.html" title="Defines a mechanism for retrieving a service object; that is, an object that provides custom support ..." alt="" coords="59,5,172,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.XmlWriterTraceListener" name="System.Diagnostics.XmlWriterTraceListener">
+<area shape="rect" id="node1" title="Directs tracing or debugging output as XML&#45;encoded data to a T:System.IO.TextWriter or to a T:System...." alt="" coords="5,80,204,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_text_writer_trace_listener.html" title="Directs tracing or debugging output to a T:System.IO.TextWriter or to a T:System.IO...." alt="" coords="25,5,185,32"/>
+</map>

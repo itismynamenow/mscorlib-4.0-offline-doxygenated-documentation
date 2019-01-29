@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Runtime.Versioning Namespace Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Runtime.Versioning Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -95,16 +95,11 @@ $(document).ready(function(){initNavTree('namespace_system_1_1_runtime_1_1_versi
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_binary_compatibility.html">BinaryCompatibility</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_compatibility_switch.html">CompatibilitySwitch</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_component_guarantees_attribute.html">ComponentGuaranteesAttribute</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines the compatibility guarantee of a component, type, or type member that may span multiple versions.  <a href="class_system_1_1_runtime_1_1_versioning_1_1_component_guarantees_attribute.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_multitargeting_helpers.html">MultitargetingHelpers</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_non_versionable_attribute.html">NonVersionableAttribute</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_framework_name.html">FrameworkName</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the name of a version of the .NET Framework.  <a href="class_system_1_1_runtime_1_1_versioning_1_1_framework_name.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_resource_consumption_attribute.html">ResourceConsumptionAttribute</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies the resource consumed by the member of a class. This class cannot be inherited.  <a href="class_system_1_1_runtime_1_1_versioning_1_1_resource_consumption_attribute.html#details">More...</a><br /></td></tr>
@@ -141,27 +136,27 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="memdesc:a844ea23df9f590b5a0b7a3b50e506c0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Identifies the scope of a sharable resource.  <a href="namespace_system_1_1_runtime_1_1_versioning.html#a844ea23df9f590b5a0b7a3b50e506c0d">More...</a><br /></td></tr>
 <tr class="separator:a844ea23df9f590b5a0b7a3b50e506c0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88c3d91c69387934a9d0b2de202dc8b6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6">SxSRequirements</a> { <br />
-&#160;&#160;<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6a6adf97f83acf6453d4a6a4b1070f3754">SxSRequirements.None</a> = 0x0, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6a2a87c669c1799f0a09117fb37a5d1ff5">SxSRequirements.AppDomainID</a> = 0x1, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6a06586cf8e1036a728b5bde8fbe72adb6">SxSRequirements.ProcessID</a> = 0x2, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6a81573c038e12f81d71353dc632ccdcd7">SxSRequirements.CLRInstanceID</a> = 0x4, 
+<tr class="memitem:a88c3d91c69387934a9d0b2de202dc8b6"><td class="memItemLeft" align="right" valign="top"><a id="a88c3d91c69387934a9d0b2de202dc8b6"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>SxSRequirements</b> { <br />
+&#160;&#160;<b>None</b> = 0x0, 
+<b>AppDomainID</b> = 0x1, 
+<b>ProcessID</b> = 0x2, 
+<b>CLRInstanceID</b> = 0x4, 
 <br />
-&#160;&#160;<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6a4d9b9e9fe20d4590658076408284a3d4">SxSRequirements.AssemblyName</a> = 0x8, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6ae175f7206492c365397d33a0df9cc8d0">SxSRequirements.TypeName</a> = 0x10
+&#160;&#160;<b>AssemblyName</b> = 0x8, 
+<b>TypeName</b> = 0x10
 <br />
  }</td></tr>
 <tr class="separator:a88c3d91c69387934a9d0b2de202dc8b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a265ff3275b6a470104413b0c851179"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179">TargetFrameworkId</a> { <br />
-&#160;&#160;<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179ac26769e31ba06af8342c1913ffaea465">TargetFrameworkId.NotYetChecked</a>, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179a7f5f743ac34344aeb26849015b4b3dae">TargetFrameworkId.Unrecognized</a>, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179a6fcdc090caeade09d0efd6253932b6f5">TargetFrameworkId.Unspecified</a>, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179af80cff00562a00db4e0038e29303ed0b">TargetFrameworkId.NetFramework</a>, 
+<tr class="memitem:a1a265ff3275b6a470104413b0c851179"><td class="memItemLeft" align="right" valign="top"><a id="a1a265ff3275b6a470104413b0c851179"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>TargetFrameworkId</b> { <br />
+&#160;&#160;<b>NotYetChecked</b>, 
+<b>Unrecognized</b>, 
+<b>Unspecified</b>, 
+<b>NetFramework</b>, 
 <br />
-&#160;&#160;<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179affc76680cc670c734ff4d0aeed7558f6">TargetFrameworkId.Portable</a>, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179aad7251caca2dc1b82965767ae4cee0a1">TargetFrameworkId.NetCore</a>, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179a9a06becfed4dfcc83f66406a1db1bc6c">TargetFrameworkId.Silverlight</a>, 
-<a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179abcc254b55c4a1babdf1dcb82c207506b">TargetFrameworkId.Phone</a>
+&#160;&#160;<b>Portable</b>, 
+<b>NetCore</b>, 
+<b>Silverlight</b>, 
+<b>Phone</b>
 <br />
  }</td></tr>
 <tr class="separator:a1a265ff3275b6a470104413b0c851179"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -242,72 +237,6 @@ Enumerations</h2></td></tr>
 </table>
 
 <p class="definition">Definition at line <a class="el" href="_resource_scope_8cs_source.html#l00005">5</a> of file <a class="el" href="_resource_scope_8cs_source.html">ResourceScope.cs</a>.</p>
-
-</div>
-</div>
-<a id="a88c3d91c69387934a9d0b2de202dc8b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88c3d91c69387934a9d0b2de202dc8b6">&#9670;&nbsp;</a></span>SxSRequirements</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a88c3d91c69387934a9d0b2de202dc8b6">System.Runtime.Versioning.SxSRequirements</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a88c3d91c69387934a9d0b2de202dc8b6a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a88c3d91c69387934a9d0b2de202dc8b6a2a87c669c1799f0a09117fb37a5d1ff5"></a>AppDomainID&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a88c3d91c69387934a9d0b2de202dc8b6a06586cf8e1036a728b5bde8fbe72adb6"></a>ProcessID&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a88c3d91c69387934a9d0b2de202dc8b6a81573c038e12f81d71353dc632ccdcd7"></a>CLRInstanceID&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a88c3d91c69387934a9d0b2de202dc8b6a4d9b9e9fe20d4590658076408284a3d4"></a>AssemblyName&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a88c3d91c69387934a9d0b2de202dc8b6ae175f7206492c365397d33a0df9cc8d0"></a>TypeName&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-<p class="definition">Definition at line <a class="el" href="_sx_s_requirements_8cs_source.html#l00004">4</a> of file <a class="el" href="_sx_s_requirements_8cs_source.html">SxSRequirements.cs</a>.</p>
-
-</div>
-</div>
-<a id="a1a265ff3275b6a470104413b0c851179"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a265ff3275b6a470104413b0c851179">&#9670;&nbsp;</a></span>TargetFrameworkId</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="namespace_system_1_1_runtime_1_1_versioning.html#a1a265ff3275b6a470104413b0c851179">System.Runtime.Versioning.TargetFrameworkId</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179ac26769e31ba06af8342c1913ffaea465"></a>NotYetChecked&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179a7f5f743ac34344aeb26849015b4b3dae"></a>Unrecognized&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179a6fcdc090caeade09d0efd6253932b6f5"></a>Unspecified&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179af80cff00562a00db4e0038e29303ed0b"></a>NetFramework&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179affc76680cc670c734ff4d0aeed7558f6"></a>Portable&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179aad7251caca2dc1b82965767ae4cee0a1"></a>NetCore&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179a9a06becfed4dfcc83f66406a1db1bc6c"></a>Silverlight&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a265ff3275b6a470104413b0c851179abcc254b55c4a1babdf1dcb82c207506b"></a>Phone&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-<p class="definition">Definition at line <a class="el" href="_target_framework_id_8cs_source.html#l00006">6</a> of file <a class="el" href="_target_framework_id_8cs_source.html">TargetFrameworkId.cs</a>.</p>
 
 </div>
 </div>

@@ -1,0 +1,5 @@
+<map id="System.Net.Mail.SmtpException" name="System.Net.Mail.SmtpException">
+<area shape="rect" id="node1" title="Represents the exception that is thrown when the T:System.Net.Mail.SmtpClient is not able to complete..." alt="" coords="5,155,217,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="110,80,190,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="65,5,157,32"/>
+</map>

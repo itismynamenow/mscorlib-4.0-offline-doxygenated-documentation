@@ -1,10 +1,8 @@
 <map id="System.Reflection.Assembly" name="System.Reflection.Assembly">
 <area shape="rect" id="node1" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="165,80,356,107"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_emit_1_1_assembly_builder.html" title="Defines and represents a dynamic assembly." alt="" coords="38,155,259,196"/>
-<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_runtime_assembly.html" title=" " alt="" coords="284,155,464,196"/>
+<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_emit_1_1_assembly_builder.html" title="Defines and represents a dynamic assembly." alt="" coords="150,155,371,196"/>
 <area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly.html" title="Exposes the public members of the T:System.Reflection.Assembly class to unmanaged code." alt="" coords="5,5,92,32"/>
 <area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="116,5,237,32"/>
 <area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="262,5,427,32"/>
 <area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="452,5,544,32"/>
-<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_emit_1_1_internal_assembly_builder.html" title=" " alt="" coords="271,244,477,285"/>
 </map>

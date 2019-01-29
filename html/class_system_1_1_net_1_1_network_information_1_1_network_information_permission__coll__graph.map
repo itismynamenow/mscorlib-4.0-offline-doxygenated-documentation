@@ -1,0 +1,5 @@
+<map id="System.Net.NetworkInformation.NetworkInformationPermission" name="System.Net.NetworkInformation.NetworkInformationPermission">
+<area shape="rect" id="node1" title="Controls access to network information and traffic statistics for the local computer...." alt="" coords="73,80,283,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_code_access_permission.html" title="Defines the underlying structure of all code access permissions." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_permissions_1_1_i_unrestricted_permission.html" title="Allows a permission to expose an unrestricted state." alt="" coords="191,5,351,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Configuration.LocalFileSettingsProvider" name="System.Configuration.LocalFileSettingsProvider">
+<area shape="rect" id="node1" title="Provides persistence for application settings classes." alt="" coords="59,80,241,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_configuration_1_1_settings_provider.html" title="Acts as a base class for deriving custom settings providers in the application settings architecture." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_configuration_1_1_i_application_settings_provider.html" title="Defines extended capabilities for client&#45;based application settings providers." alt="" coords="145,5,328,32"/>
+</map>

@@ -1,8 +1,6 @@
 <map id="System.Security.AccessControl.CommonAcl" name="System.Security.AccessControl.CommonAcl">
-<area shape="rect" id="node1" title="Represents an access control list (ACL) and is the base class for the T:System.Security...." alt="" coords="413,39,625,80"/>
-<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_access_control_1_1_discretionary_acl.html" title="Represents a Discretionary Access Control List (DACL)." alt="" coords="673,5,885,47"/>
-<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_access_control_1_1_system_acl.html" title="Represents a System Access Control List (SACL)." alt="" coords="673,71,885,112"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_generic_acl.html" title="Represents an access control list (ACL) and is the base class for the T:System.Security...." alt="" coords="279,46,365,73"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="148,71,231,98"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,46,100,73"/>
+<area shape="rect" id="node1" title="Represents an access control list (ACL) and is the base class for the T:System.Security...." alt="" coords="140,39,352,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_discretionary_acl.html" title="Represents a Discretionary Access Control List (DACL)." alt="" coords="400,5,612,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_system_acl.html" title="Represents a System Access Control List (SACL)." alt="" coords="400,71,612,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_generic_acl.html" title="Represents an access control list (ACL) and is the base class for the T:System.Security...." alt="" coords="5,46,92,73"/>
 </map>

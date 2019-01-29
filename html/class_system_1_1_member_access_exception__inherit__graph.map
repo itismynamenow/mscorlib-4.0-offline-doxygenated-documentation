@@ -1,12 +1,7 @@
 <map id="System.MemberAccessException" name="System.MemberAccessException">
-<area shape="rect" id="node1" title="The exception that is thrown when an attempt to access a class member fails." alt="" coords="447,56,667,83"/>
-<area shape="rect" id="node6" href="$class_system_1_1_field_access_exception.html" title="The exception that is thrown when there is an invalid attempt to access a private or protected field ..." alt="" coords="725,5,926,32"/>
-<area shape="rect" id="node7" href="$class_system_1_1_method_access_exception.html" title="The exception that is thrown when there is an invalid attempt to access a method, such as accessing a..." alt="" coords="717,56,933,83"/>
-<area shape="rect" id="node8" href="$class_system_1_1_missing_member_exception.html" title="The exception that is thrown when there is an attempt to dynamically access a class member that does ..." alt="" coords="715,107,936,133"/>
-<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="273,56,399,83"/>
-<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="145,56,225,83"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,31,97,57"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="8,81,95,108"/>
-<area shape="rect" id="node9" href="$class_system_1_1_missing_field_exception.html" title="The exception that is thrown when there is an attempt to dynamically access a field that does not exi..." alt="" coords="991,81,1194,108"/>
-<area shape="rect" id="node10" href="$class_system_1_1_missing_method_exception.html" title="The exception that is thrown when there is an attempt to dynamically access a method that does not ex..." alt="" coords="984,132,1201,159"/>
+<area shape="rect" id="node1" title="The exception that is thrown when an attempt to access a class member fails." alt="" coords="179,56,399,83"/>
+<area shape="rect" id="node3" href="$class_system_1_1_field_access_exception.html" title="The exception that is thrown when there is an invalid attempt to access a private or protected field ..." alt="" coords="457,5,658,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_method_access_exception.html" title="The exception that is thrown when there is an invalid attempt to access a method, such as accessing a..." alt="" coords="449,56,665,83"/>
+<area shape="rect" id="node5" href="$class_system_1_1_missing_member_exception.html" title="The exception that is thrown when there is an attempt to dynamically access a class member that does ..." alt="" coords="447,107,668,133"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="5,56,131,83"/>
 </map>

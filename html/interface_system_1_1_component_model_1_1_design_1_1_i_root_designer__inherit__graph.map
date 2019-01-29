@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.Design.IRootDesigner" name="System.ComponentModel.Design.IRootDesigner">
+<area shape="rect" id="node1" title="Provides support for root&#45;level designer view technologies." alt="" coords="5,155,225,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_design_1_1_i_designer.html" title="Provides the basic framework for building a custom designer." alt="" coords="116,80,192,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="71,5,160,32"/>
+</map>

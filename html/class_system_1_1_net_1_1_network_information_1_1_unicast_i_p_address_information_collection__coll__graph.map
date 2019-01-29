@@ -1,0 +1,6 @@
+<map id="System.Net.NetworkInformation.UnicastIPAddressInformationCollection" name="System.Net.NetworkInformation.UnicastIPAddressInformationCollection">
+<area shape="rect" id="node1" title="Stores a set of T:System.Net.NetworkInformation.UnicastIPAddressInformation types." alt="" coords="264,71,511,112"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title=" " alt="" coords="11,5,210,47"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="5,71,216,112"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="63,137,158,163"/>
+</map>

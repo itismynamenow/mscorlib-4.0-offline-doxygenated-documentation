@@ -1,7 +1,4 @@
 <map id="System.ExecutionEngineException" name="System.ExecutionEngineException">
-<area shape="rect" id="node1" title="The exception that is thrown when there is an internal error in the execution engine of the common la..." alt="" coords="5,229,232,256"/>
-<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="56,155,181,181"/>
-<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="79,80,159,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="17,5,109,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="133,5,219,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when there is an internal error in the execution engine of the common la..." alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="56,5,181,32"/>
 </map>

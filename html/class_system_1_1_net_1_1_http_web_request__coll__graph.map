@@ -1,0 +1,7 @@
+<map id="System.Net.HttpWebRequest" name="System.Net.HttpWebRequest">
+<area shape="rect" id="node1" title="Provides an HTTP&#45;specific implementation of the T:System.Net.WebRequest class." alt="" coords="31,171,226,197"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_web_request.html" title="Makes a request to a Uniform Resource Identifier (URI). This is an abstract class." alt="" coords="22,81,120,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="25,5,117,32"/>
+<area shape="rect" id="node5" href="$class_system_1_1_uri.html" title="Provides an object representation of a uniform resource identifier (URI) and easy access to the parts..." alt="" coords="144,81,230,108"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_service_point.html" title="Provides connection management for HTTP connections." alt="" coords="254,81,421,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Linq.Expressions.ElementInit" name="System.Linq.Expressions.ElementInit">
+<area shape="rect" id="node1" title="Represents an initializer for a single element of an T:System.Collections.IEnumerable collection." alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_linq_1_1_expressions_1_1_i_argument_provider.html" title="Provides an internal interface for accessing the arguments of multiple tree nodes (DynamicExpression,..." alt="" coords="29,5,156,32"/>
+</map>

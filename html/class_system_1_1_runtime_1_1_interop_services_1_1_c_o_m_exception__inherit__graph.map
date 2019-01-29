@@ -1,8 +1,4 @@
 <map id="System.Runtime.InteropServices.COMException" name="System.Runtime.InteropServices.COMException">
-<area shape="rect" id="node1" title="The exception that is thrown when an unrecognized HRESULT is returned from a COM method call." alt="" coords="5,304,220,345"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_external_exception.html" title="The base exception type for all COM interop exceptions and structured exception handling (SEH) except..." alt="" coords="49,229,177,256"/>
-<area shape="rect" id="node3" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="50,155,175,181"/>
-<area shape="rect" id="node4" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="73,80,153,107"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="11,5,103,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="127,5,213,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when an unrecognized HRESULT is returned from a COM method call." alt="" coords="5,80,220,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_external_exception.html" title="The base exception type for all COM interop exceptions and structured exception handling (SEH) except..." alt="" coords="49,5,177,32"/>
 </map>

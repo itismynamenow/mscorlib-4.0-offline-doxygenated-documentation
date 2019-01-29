@@ -1,6 +1,5 @@
 <map id="System.Security.Principal.SecurityIdentifier" name="System.Security.Principal.SecurityIdentifier">
-<area shape="rect" id="node1" title="Represents a security identifier (SID) and provides marshaling and comparison operations for SIDs." alt="" coords="34,171,211,212"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="5,95,128,121"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="153,95,367,121"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="189,5,331,32"/>
+<area shape="rect" id="node1" title="Represents a security identifier (SID) and provides marshaling and comparison operations for SIDs." alt="" coords="74,80,251,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="153,5,367,32"/>
 </map>

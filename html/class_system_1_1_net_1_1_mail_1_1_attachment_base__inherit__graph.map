@@ -1,0 +1,7 @@
+<map id="System.Net.Mail.AttachmentBase" name="System.Net.Mail.AttachmentBase">
+<area shape="rect" id="node1" title="Base class that represents an email attachment. Classes T:System.Net.Mail.Attachment,..." alt="" coords="143,56,363,83"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_mail_1_1_alternate_view.html" title="Represents the format to view an email message." alt="" coords="417,5,620,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_mail_1_1_attachment.html" title="Represents an attachment to an e&#45;mail." alt="" coords="423,56,614,83"/>
+<area shape="rect" id="node5" href="$class_system_1_1_net_1_1_mail_1_1_linked_resource.html" title="Represents an embedded external resource in an email attachment, such as an image in an HTML attachme..." alt="" coords="411,107,627,133"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,56,95,83"/>
+</map>

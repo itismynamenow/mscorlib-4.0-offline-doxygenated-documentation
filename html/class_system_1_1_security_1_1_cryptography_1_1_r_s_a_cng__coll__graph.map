@@ -1,0 +1,4 @@
+<map id="System.Security.Cryptography.RSACng" name="System.Security.Cryptography.RSACng">
+<area shape="rect" id="node1" title="Provides a Cryptography Next Generation (CNG) implementation of the RSA algorithm." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="83,5,132,32"/>
+</map>

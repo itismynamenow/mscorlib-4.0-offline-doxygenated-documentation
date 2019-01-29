@@ -1,0 +1,5 @@
+<map id="System.Runtime.InteropServices.ComTypes.STATDATA" name="System.Runtime.InteropServices.ComTypes.STATDATA">
+<area shape="rect" id="node1" title="Provides the managed definition of the STATDATA structure." alt="" coords="327,39,541,80"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_advise_sink.html" title="Provides a managed definition of the IAdviseSink interface." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_f_o_r_m_a_t_e_t_c.html" title="Represents a generalized Clipboard format." alt="" coords="5,71,220,112"/>
+</map>

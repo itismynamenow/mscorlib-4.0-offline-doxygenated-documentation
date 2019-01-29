@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['uipermissionclipboard',['UIPermissionClipboard',['../namespace_system_1_1_security_1_1_permissions.html#a93fc65f141dda1af037cf6ca7ea17540',1,'System::Security::Permissions']]],
-  ['uipermissionwindow',['UIPermissionWindow',['../namespace_system_1_1_security_1_1_permissions.html#aae7ce5d6e087265460d523f37b5f58a2',1,'System::Security::Permissions']]],
-  ['ultimateresourcefallbacklocation',['UltimateResourceFallbackLocation',['../namespace_system_1_1_resources.html#aecc3c248fb9f686c2486d80cd9faf03e',1,'System::Resources']]],
-  ['unicodecategory',['UnicodeCategory',['../namespace_system_1_1_globalization.html#ab4f99ef2cb47535471142e0d6f715656',1,'System::Globalization']]],
-  ['unmanagedtype',['UnmanagedType',['../namespace_system_1_1_runtime_1_1_interop_services.html#a8c4982f59bed8272068e97dda7d4f964',1,'System::Runtime::InteropServices']]]
+  ['validationtype',['ValidationType',['../namespace_system_1_1_xml.html#a8696837d1de571776744c0899a33ae48',1,'System::Xml']]],
+  ['varenum',['VarEnum',['../namespace_system_1_1_runtime_1_1_interop_services.html#a139b4606ae806347d7091a528fbb3f45',1,'System::Runtime::InteropServices']]],
+  ['varflags',['VARFLAGS',['../namespace_system_1_1_runtime_1_1_interop_services.html#a833ed4be97452df1fc67988b997aa9fb',1,'System.Runtime.InteropServices.VARFLAGS()'],['../namespace_system_1_1_runtime_1_1_interop_services_1_1_com_types.html#a7be7ede17fdc98d4cc923d592118cade',1,'System.Runtime.InteropServices.ComTypes.VARFLAGS()']]],
+  ['varkind',['VARKIND',['../namespace_system_1_1_runtime_1_1_interop_services_1_1_com_types.html#ad5c9b4b9a03fae204eea91ed6b00222d',1,'System::Runtime::InteropServices::ComTypes']]],
+  ['viewtechnology',['ViewTechnology',['../namespace_system_1_1_component_model_1_1_design.html#aac1a8df05c3aacbf3a2198f8fd04c4a0',1,'System::ComponentModel::Design']]]
 ];

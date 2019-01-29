@@ -1,9 +1,7 @@
 <map id="System.Char" name="System.Char">
-<area shape="rect" id="node1" title="Represents a character as a UTF&#45;16 code unit." alt="" coords="162,171,261,197"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="5,95,100,121"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="125,95,213,121"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="237,95,380,121"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="233,5,376,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="412,95,544,121"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="401,5,563,32"/>
+<area shape="rect" id="node1" title="Represents a character as a UTF&#45;16 code unit." alt="" coords="189,80,287,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="125,5,213,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="237,5,380,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="404,5,536,32"/>
 </map>

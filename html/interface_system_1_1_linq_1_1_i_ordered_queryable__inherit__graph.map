@@ -1,0 +1,6 @@
+<map id="System.Linq.IOrderedQueryable" name="System.Linq.IOrderedQueryable">
+<area shape="rect" id="node1" title="Represents the result of a sorting operation." alt="" coords="5,31,212,58"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_enumerable_query.html" title="Represents an T:System.Collections.Generic.IEnumerable`1 collection as an T:System...." alt="" coords="584,10,819,36"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_linq_1_1_i_ordered_queryable.html" title="Represents the result of a sorting operation." alt="" coords="312,24,519,65"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_linq_1_1_i_ordered_queryable.html" title=" " alt="" coords="296,90,535,116"/>
+</map>

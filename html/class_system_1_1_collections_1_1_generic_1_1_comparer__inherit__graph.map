@@ -1,11 +1,11 @@
 <map id="System.Collections.Generic.Comparer&lt; T &gt;" name="System.Collections.Generic.Comparer&lt; T &gt;">
-<area shape="rect" id="node1" title="Provides a base class for implementations of the T:System.Collections.Generic.IComparer`1 generic int..." alt="" coords="439,104,627,145"/>
-<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_generic_1_1_comparison_comparer.html" title=" " alt="" coords="713,5,952,47"/>
-<area shape="rect" id="node6" href="$class_system_1_1_collections_1_1_generic_1_1_generic_comparer.html" title=" " alt="" coords="725,71,940,112"/>
-<area shape="rect" id="node7" href="$class_system_1_1_collections_1_1_generic_1_1_object_comparer.html" title=" " alt="" coords="729,136,937,177"/>
-<area shape="rect" id="node8" href="$class_system_1_1_collections_1_1_generic_1_1_comparer.html" title=" " alt="" coords="739,201,927,243"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_comparer.html" title="Defines a method that a type implements to compare two objects." alt="" coords="293,90,374,117"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_comparer.html" title=" " alt="" coords="277,141,389,167"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_generic_1_1_i_comparer.html" title="Defines a method that a type implements to compare two objects." alt="" coords="5,133,193,175"/>
-<area shape="rect" id="node9" href="$class_system_1_1_collections_1_1_generic_1_1_nullable_comparer.html" title=" " alt="" coords="1001,201,1189,243"/>
+<area shape="rect" id="node1" title="Provides a base class for implementations of the T:System.Collections.Generic.IComparer`1 generic int..." alt="" coords="167,169,355,211"/>
+<area shape="rect" id="node4" href="$class_system_1_1_collections_1_1_generic_1_1_comparer.html" title=" " alt="" coords="487,5,675,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_generic_1_1_comparer.html" title=" " alt="" coords="487,71,675,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_collections_1_1_generic_1_1_comparer.html" title=" " alt="" coords="487,136,675,177"/>
+<area shape="rect" id="node7" href="$class_system_1_1_collections_1_1_generic_1_1_comparer.html" title=" " alt="" coords="487,201,675,243"/>
+<area shape="rect" id="node8" href="$class_system_1_1_collections_1_1_generic_1_1_comparer.html" title=" " alt="" coords="487,267,675,308"/>
+<area shape="rect" id="node9" href="$class_system_1_1_collections_1_1_generic_1_1_comparer.html" title=" " alt="" coords="487,332,675,373"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_comparer.html" title="Defines a method that a type implements to compare two objects." alt="" coords="21,151,102,178"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_comparer.html" title=" " alt="" coords="5,202,117,229"/>
 </map>

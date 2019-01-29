@@ -1,9 +1,0 @@
-<map id="System.Runtime.Serialization.Formatters.Binary.BinaryMethodCallMessage" name="System.Runtime.Serialization.Formatters.Binary.BinaryMethodCallMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="147,247,379,303"/>
-<area shape="rect" id="node2" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="213,157,312,184"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="121,81,210,108"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="234,81,291,108"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="315,81,381,108"/>
-</map>

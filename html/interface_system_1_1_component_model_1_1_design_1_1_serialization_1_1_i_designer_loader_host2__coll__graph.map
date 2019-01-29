@@ -1,0 +1,7 @@
+<map id="System.ComponentModel.Design.Serialization.IDesignerLoaderHost2" name="System.ComponentModel.Design.Serialization.IDesignerLoaderHost2">
+<area shape="rect" id="node1" title="Provides an interface that extends T:System.ComponentModel.Design.Serialization.IDesignerLoaderHost t..." alt="" coords="37,304,261,345"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_loader_host.html" title="Provides an interface that can extend a designer host to support loading from a serialized state." alt="" coords="23,229,166,256"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_component_model_1_1_design_1_1_i_designer_host.html" title="Provides an interface for managing designer transactions and components." alt="" coords="8,155,111,181"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_component_model_1_1_design_1_1_i_service_container.html" title="Provides a container for services." alt="" coords="94,80,217,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_service_provider.html" title="Defines a mechanism for retrieving a service object; that is, an object that provides custom support ..." alt="" coords="148,5,262,32"/>
+</map>

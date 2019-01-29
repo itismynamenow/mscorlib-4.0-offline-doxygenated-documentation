@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.ListChangedEventArgs" name="System.ComponentModel.ListChangedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.ComponentModel.IBindingList.ListChanged event." alt="" coords="35,109,233,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,13,87,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_component_model_1_1_property_descriptor.html" title="Provides an abstraction of a property on a class." alt="" coords="111,5,336,47"/>
+</map>

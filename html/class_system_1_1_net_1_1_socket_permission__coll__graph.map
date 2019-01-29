@@ -1,0 +1,6 @@
+<map id="System.Net.SocketPermission" name="System.Net.SocketPermission">
+<area shape="rect" id="node1" title="Controls rights to make or accept connections on a transport address." alt="" coords="171,109,372,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_code_access_permission.html" title="Defines the underlying structure of all code access permissions." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_permissions_1_1_i_unrestricted_permission.html" title="Allows a permission to expose an unrestricted state." alt="" coords="191,5,351,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="376,5,585,32"/>
+</map>

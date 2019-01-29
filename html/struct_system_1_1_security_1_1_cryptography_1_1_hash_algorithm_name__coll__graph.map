@@ -1,5 +1,4 @@
 <map id="System.Security.Cryptography.HashAlgorithmName" name="System.Security.Cryptography.HashAlgorithmName">
-<area shape="rect" id="node1" title="Specifies the name of a cryptographic hash algorithm." alt="" coords="5,201,209,243"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="17,95,197,136"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="26,5,189,32"/>
+<area shape="rect" id="node1" title="Specifies the name of a cryptographic hash algorithm." alt="" coords="5,112,209,153"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="17,5,197,47"/>
 </map>

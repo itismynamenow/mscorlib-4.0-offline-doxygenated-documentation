@@ -1,6 +1,4 @@
 <map id="System.Runtime.CompilerServices.RuntimeWrappedException" name="System.Runtime.CompilerServices.RuntimeWrappedException">
-<area shape="rect" id="node1" title="Wraps an exception that does not derive from the T:System.Exception class. This class cannot be inher..." alt="" coords="5,155,232,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="79,80,159,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="17,5,109,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="133,5,219,32"/>
+<area shape="rect" id="node1" title="Wraps an exception that does not derive from the T:System.Exception class. This class cannot be inher..." alt="" coords="5,80,232,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="79,5,159,32"/>
 </map>

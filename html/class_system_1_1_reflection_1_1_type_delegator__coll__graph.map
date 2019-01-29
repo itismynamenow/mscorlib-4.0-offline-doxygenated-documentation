@@ -1,27 +1,9 @@
 <map id="System.Reflection.TypeDelegator" name="System.Reflection.TypeDelegator">
-<area shape="rect" id="node1" title="Wraps a T:System.Type object and delegates methods to that Type." alt="" coords="1295,361,1509,388"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_type_info.html" title="Represents type declarations for class types, interface types, array types, value types,..." alt="" coords="1043,56,1113,83"/>
-<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="698,67,749,93"/>
-<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="220,5,309,32"/>
-<area shape="rect" id="node9" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="391,120,489,147"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,373,171,400"/>
-<area shape="rect" id="node20" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="991,424,1165,451"/>
-<area shape="rect" id="node23" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="983,615,1173,641"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="40,5,136,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="236,69,293,96"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="232,149,297,176"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_reflection_1_1_i_reflectable_type.html" title="Represents a type that you can reflect over." alt="" coords="665,16,782,43"/>
-<area shape="rect" id="node11" href="$struct_system_1_1_runtime_type_handle.html" title="Represents a type using an internal metadata token." alt="" coords="985,527,1171,553"/>
-<area shape="rect" id="node12" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="677,564,769,591"/>
-<area shape="rect" id="node13" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="1029,272,1127,299"/>
-<area shape="rect" id="node14" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="676,171,771,197"/>
-<area shape="rect" id="node15" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="676,272,771,299"/>
-<area shape="rect" id="node16" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="651,221,796,248"/>
-<area shape="rect" id="node17" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="369,221,511,248"/>
-<area shape="rect" id="node18" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="656,323,791,349"/>
-<area shape="rect" id="node19" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="359,323,521,349"/>
-<area shape="rect" id="node21" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="688,424,759,451"/>
-<area shape="rect" id="node22" href="$struct_system_1_1_module_handle.html" title="Represents a runtime handle for a module." alt="" coords="647,513,800,540"/>
-<area shape="rect" id="node24" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly.html" title="Exposes the public members of the T:System.Reflection.Assembly class to unmanaged code." alt="" coords="680,716,767,743"/>
-<area shape="rect" id="node25" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="663,615,784,641"/>
+<area shape="rect" id="node1" title="Wraps a T:System.Type object and delegates methods to that Type." alt="" coords="379,235,593,261"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_type_info.html" title="Represents type declarations for class types, interface types, array types, value types,..." alt="" coords="65,5,136,32"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_type_handle.html" title="Represents a type using an internal metadata token." alt="" coords="7,95,194,121"/>
+<area shape="rect" id="node4" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="51,184,150,211"/>
+<area shape="rect" id="node5" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="51,273,150,300"/>
+<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="13,324,188,351"/>
+<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="5,375,196,401"/>
 </map>

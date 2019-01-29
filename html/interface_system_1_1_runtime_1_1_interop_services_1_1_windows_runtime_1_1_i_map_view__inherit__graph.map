@@ -1,8 +1,0 @@
-<map id="System.Runtime.InteropServices.WindowsRuntime.IMapView&lt; K, V &gt;" name="System.Runtime.InteropServices.WindowsRuntime.IMapView&lt; K, V &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="243,71,476,112"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_map_view.html" title=" " alt="" coords="631,63,860,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="19,5,180,47"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,71,193,112"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="52,137,147,163"/>
-<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_constant_splittable_map.html" title=" " alt="" coords="909,63,1168,119"/>
-</map>

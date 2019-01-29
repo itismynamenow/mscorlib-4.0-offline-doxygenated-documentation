@@ -1,0 +1,4 @@
+<map id="System.Xml.XmlProcessingInstruction" name="System.Xml.XmlProcessingInstruction">
+<area shape="rect" id="node1" title="Represents a processing instruction, which XML defines to keep processor&#45;specific information in the ..." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_linked_node.html" title="Gets the node immediately preceding or following this node." alt="" coords="41,5,152,32"/>
+</map>

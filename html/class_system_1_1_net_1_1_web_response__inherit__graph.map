@@ -1,0 +1,9 @@
+<map id="System.Net.WebResponse" name="System.Net.WebResponse">
+<area shape="rect" id="node1" title="Provides a response from a Uniform Resource Identifier (URI). This is an abstract class." alt="" coords="240,80,420,107"/>
+<area shape="rect" id="node5" href="$class_system_1_1_net_1_1_file_web_response.html" title="Provides a file system implementation of the T:System.Net.WebResponse class." alt="" coords="5,155,207,181"/>
+<area shape="rect" id="node6" href="$class_system_1_1_net_1_1_ftp_web_response.html" title="Encapsulates a File Transfer Protocol (FTP) server&#39;s response to a request." alt="" coords="231,155,429,181"/>
+<area shape="rect" id="node7" href="$class_system_1_1_net_1_1_http_web_response.html" title="Provides an HTTP&#45;specific implementation of the T:System.Net.WebResponse class." alt="" coords="453,155,657,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="118,5,259,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="284,5,376,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="400,5,489,32"/>
+</map>

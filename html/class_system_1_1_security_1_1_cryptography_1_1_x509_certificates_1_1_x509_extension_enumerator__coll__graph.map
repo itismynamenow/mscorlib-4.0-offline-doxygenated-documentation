@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.X509Certificates.X509ExtensionEnumerator" name="System.Security.Cryptography.X509Certificates.X509ExtensionEnumerator">
+<area shape="rect" id="node1" title="Supports a simple iteration over a T:System.Security.Cryptography.X509Certificates...." alt="" coords="5,109,277,151"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="9,13,101,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_extension.html" title="Represents an X509 extension." alt="" coords="125,5,331,47"/>
+</map>

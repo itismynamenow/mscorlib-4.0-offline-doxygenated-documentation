@@ -1,0 +1,4 @@
+<map id="System.Configuration.SettingChangingEventArgs" name="System.Configuration.SettingChangingEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Configuration.ApplicationSettingsBase.SettingChanging event." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_cancel_event_args.html" title="Provides data for a cancelable event." alt="" coords="40,5,161,32"/>
+</map>

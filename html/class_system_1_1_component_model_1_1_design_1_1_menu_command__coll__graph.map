@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.Design.MenuCommand" name="System.ComponentModel.Design.MenuCommand">
+<area shape="rect" id="node1" title="Represents a Windows menu or toolbar command item." alt="" coords="5,109,225,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_design_1_1_command_i_d.html" title="Represents a unique command identifier that consists of a numeric command ID and a GUID menu group id..." alt="" coords="5,5,225,47"/>
+</map>

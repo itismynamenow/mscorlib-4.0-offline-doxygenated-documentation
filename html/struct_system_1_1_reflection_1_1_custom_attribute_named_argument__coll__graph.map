@@ -1,6 +1,4 @@
 <map id="System.Reflection.CustomAttributeNamedArgument" name="System.Reflection.CustomAttributeNamedArgument">
-<area shape="rect" id="node1" title="Represents a named argument of a custom attribute in the reflection&#45;only context." alt="" coords="77,171,254,212"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="66,81,265,108"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
+<area shape="rect" id="node1" title="Represents a named argument of a custom attribute in the reflection&#45;only context." alt="" coords="16,95,193,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="5,5,204,32"/>
 </map>

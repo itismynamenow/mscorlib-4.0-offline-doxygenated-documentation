@@ -1,12 +1,8 @@
 <map id="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.ValueCollection" name="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.ValueCollection">
-<area shape="rect" id="node1" title="Represents the collection of values in a T:System.Collections.Generic.Dictionary`2...." alt="" coords="1288,94,1476,150"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title=" " alt="" coords="1092,56,1239,82"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="787,43,975,84"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="455,82,580,109"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="839,109,922,136"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title="Represents a strongly&#45;typed, read&#45;only collection of elements." alt="" coords="787,160,975,216"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title="Exposes the enumerator, which supports a simple iteration over a collection of a specified type...." alt="" coords="149,75,337,116"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="604,14,763,41"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,144,100,170"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="1096,163,1235,204"/>
+<area shape="rect" id="node1" title="Represents the collection of values in a T:System.Collections.Generic.Dictionary`2...." alt="" coords="355,92,543,148"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title=" " alt="" coords="154,5,301,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="148,56,307,83"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,132,100,159"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="186,157,269,184"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="158,209,297,250"/>
 </map>

@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
 <g id="a_node3"><a xlink:href="class_system_1_1_security_1_1_principal_1_1_generic_identity.html" target="_top" xlink:title="Represents a generic user.">
-<polygon fill="none" stroke="black" points="277,-49.5 277,-79.5 410,-79.5 410,-49.5 277,-49.5"/>
+<polygon fill="none" stroke="red" points="277,-49.5 277,-79.5 410,-79.5 410,-49.5 277,-49.5"/>
 <text text-anchor="start" x="285" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">System.Security.Principal.</text>
 <text text-anchor="middle" x="343.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">GenericIdentity</text>
 </a>
@@ -31,8 +31,8 @@
 <path fill="none" stroke="midnightblue" d="M251.171,-51.6729C259.846,-52.8913 268.55,-54.1138 276.954,-55.2941"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="251.411,-48.1723 241.021,-50.2473 250.437,-55.1042 251.411,-48.1723"/>
 </g>
-<!-- Node3 -->
-<g id="node4" class="node"><title>Node3</title>
+<!-- Node4 -->
+<g id="node4" class="node"><title>Node4</title>
 <g id="a_node4"><a xlink:href="class_system_1_1_security_1_1_principal_1_1_windows_identity.html" target="_top" xlink:title="Represents a Windows user.">
 <polygon fill="none" stroke="black" points="277,-0.5 277,-30.5 410,-30.5 410,-0.5 277,-0.5"/>
 <text text-anchor="start" x="285" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">System.Security.Principal.</text>
@@ -40,8 +40,8 @@
 </a>
 </g>
 </g>
-<!-- Node0&#45;&gt;Node3 -->
-<g id="edge3" class="edge"><title>Node0&#45;&gt;Node3</title>
+<!-- Node0&#45;&gt;Node4 -->
+<g id="edge3" class="edge"><title>Node0&#45;&gt;Node4</title>
 <path fill="none" stroke="midnightblue" d="M251.171,-27.814C259.846,-26.6444 268.55,-25.4708 276.954,-24.3377"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="250.464,-24.3776 241.021,-29.1826 251.399,-31.3149 250.464,-24.3776"/>
 </g>

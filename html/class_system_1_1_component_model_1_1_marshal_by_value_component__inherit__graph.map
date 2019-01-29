@@ -1,0 +1,6 @@
+<map id="System.ComponentModel.MarshalByValueComponent" name="System.ComponentModel.MarshalByValueComponent">
+<area shape="rect" id="node1" title="Implements T:System.ComponentModel.IComponent and provides the base implementation for remotable comp..." alt="" coords="5,155,228,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_i_component.html" title="Provides functionality required by all components." alt="" coords="71,80,162,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="31,5,120,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_service_provider.html" title="Defines a mechanism for retrieving a service object; that is, an object that provides custom support ..." alt="" coords="187,80,300,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.Linq.Expressions.MemberBinding" name="System.Linq.Expressions.MemberBinding">
+<area shape="rect" id="node1" title="Provides the base class from which the classes that represent bindings that are used to initialize me..." alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_expressions_1_1_member_assignment.html" title="Represents assignment operation for a field or property of an object." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_linq_1_1_expressions_1_1_member_list_binding.html" title="Represents initializing the elements of a collection member of a newly created object." alt="" coords="228,71,403,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_linq_1_1_expressions_1_1_member_member_binding.html" title="Represents initializing members of a member of a newly created object." alt="" coords="228,136,403,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Xml.Serialization.SchemaImporter" name="System.Xml.Serialization.SchemaImporter">
+<area shape="rect" id="node1" title="Describes a schema importer." alt="" coords="5,39,176,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_serialization_1_1_soap_schema_importer.html" title="Used within the .NET Framework to generate internal mappings to .NET Framework types for SOAP&#45;encoded..." alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_serialization_1_1_xml_schema_importer.html" title="Generates internal mappings to .NET Framework types for XML schema element declarations,..." alt="" coords="224,71,395,112"/>
+</map>

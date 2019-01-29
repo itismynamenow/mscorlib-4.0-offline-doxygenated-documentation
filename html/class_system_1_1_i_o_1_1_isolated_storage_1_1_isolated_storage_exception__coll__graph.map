@@ -1,6 +1,4 @@
 <map id="System.IO.IsolatedStorage.IsolatedStorageException" name="System.IO.IsolatedStorage.IsolatedStorageException">
-<area shape="rect" id="node1" title="The exception that is thrown when an operation in isolated storage fails." alt="" coords="16,155,199,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="67,80,147,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,5,97,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="121,5,208,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when an operation in isolated storage fails." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="57,5,137,32"/>
 </map>

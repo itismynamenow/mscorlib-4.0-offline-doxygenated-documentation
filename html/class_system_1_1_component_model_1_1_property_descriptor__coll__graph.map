@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.PropertyDescriptor" name="System.ComponentModel.PropertyDescriptor">
+<area shape="rect" id="node1" title="Provides an abstraction of a property on a class." alt="" coords="5,80,231,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_member_descriptor.html" title="Represents a class member, such as a property or event. This is an abstract base class." alt="" coords="54,5,182,32"/>
+</map>

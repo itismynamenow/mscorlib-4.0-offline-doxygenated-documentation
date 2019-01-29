@@ -1,0 +1,6 @@
+<map id="System.ComponentModel.EventDescriptorCollection" name="System.ComponentModel.EventDescriptorCollection">
+<area shape="rect" id="node1" title="Represents a collection of T:System.ComponentModel.EventDescriptor objects." alt="" coords="5,233,213,275"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="84,81,167,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="147,157,194,184"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="78,5,173,32"/>
+</map>

@@ -1,6 +1,5 @@
 <map id="System.IO.IsolatedStorage.IsolatedStorageFile" name="System.IO.IsolatedStorage.IsolatedStorageFile">
-<area shape="rect" id="node1" title="Represents an isolated storage area containing files and directories." alt="" coords="47,155,230,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage.html" title="Represents the abstract base class from which all isolated storage implementations must derive." alt="" coords="20,80,132,107"/>
-<area shape="rect" id="node3" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="157,80,246,107"/>
+<area shape="rect" id="node1" title="Represents an isolated storage area containing files and directories." alt="" coords="33,80,215,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage.html" title="Represents the abstract base class from which all isolated storage implementations must derive." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="142,5,231,32"/>
 </map>

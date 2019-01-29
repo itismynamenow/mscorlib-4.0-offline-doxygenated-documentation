@@ -1,0 +1,5 @@
+<map id="System.Timers.ElapsedEventArgs" name="System.Timers.ElapsedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Timers.Timer.Elapsed event." alt="" coords="5,97,225,124"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="32,7,113,33"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_date_time.html" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="137,7,264,33"/>
+</map>

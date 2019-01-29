@@ -1,5 +1,4 @@
 <map id="System.STAThreadAttribute" name="System.STAThreadAttribute">
-<area shape="rect" id="node1" title="Indicates that the COM threading model for an application is single&#45;threaded apartment (STA)." alt="" coords="5,155,189,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="62,80,133,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="58,5,137,32"/>
+<area shape="rect" id="node1" title="Indicates that the COM threading model for an application is single&#45;threaded apartment (STA)." alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="62,5,133,32"/>
 </map>

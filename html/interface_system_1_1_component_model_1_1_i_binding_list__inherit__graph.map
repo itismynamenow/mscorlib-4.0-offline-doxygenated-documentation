@@ -1,0 +1,8 @@
+<map id="System.ComponentModel.IBindingList" name="System.ComponentModel.IBindingList">
+<area shape="rect" id="node1" title="Provides the features required to support both complex and simple scenarios when binding to a data so..." alt="" coords="116,229,359,256"/>
+<area shape="rect" id="node5" href="$class_system_1_1_component_model_1_1_binding_list.html" title="Provides a generic collection that supports data binding." alt="" coords="5,304,224,345"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_component_model_1_1_i_binding_list_view.html" title="Extends the T:System.ComponentModel.IBindingList interface by providing advanced sorting and filterin..." alt="" coords="249,304,471,345"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="214,155,261,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="261,80,344,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="177,5,271,32"/>
+</map>

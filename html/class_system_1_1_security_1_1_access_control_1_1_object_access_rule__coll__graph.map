@@ -1,13 +1,5 @@
 <map id="System.Security.AccessControl.ObjectAccessRule" name="System.Security.AccessControl.ObjectAccessRule">
-<area shape="rect" id="node1" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="793,65,1005,106"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_access_rule.html" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="534,29,626,56"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule.html" title="Determines access to securable objects. The derived classes T:System.Security.AccessControl...." alt="" coords="347,23,471,49"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="5,15,183,57"/>
-<area shape="rect" id="node5" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="531,124,629,151"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="361,73,456,100"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="361,124,456,151"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="336,175,481,201"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="23,175,165,201"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="341,225,476,252"/>
-<area shape="rect" id="node11" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="13,225,175,252"/>
+<area shape="rect" id="node1" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="5,109,217,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_access_rule.html" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="25,5,117,32"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="142,5,241,32"/>
 </map>

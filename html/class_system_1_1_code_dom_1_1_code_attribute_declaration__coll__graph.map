@@ -1,0 +1,5 @@
+<map id="System.CodeDom.CodeAttributeDeclaration" name="System.CodeDom.CodeAttributeDeclaration">
+<area shape="rect" id="node1" title="Represents an attribute declaration." alt="" coords="151,109,361,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_type_reference.html" title="Represents a reference to a type." alt="" coords="5,13,253,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_code_dom_1_1_code_attribute_argument_collection.html" title="Represents a collection of T:System.CodeDom.CodeAttributeArgument objects." alt="" coords="277,5,488,47"/>
+</map>

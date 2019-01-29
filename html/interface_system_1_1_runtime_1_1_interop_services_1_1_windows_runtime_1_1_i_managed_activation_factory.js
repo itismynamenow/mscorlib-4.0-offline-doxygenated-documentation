@@ -1,4 +1,0 @@
-var interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_managed_activation_factory =
-[
-    [ "RunClassConstructor", "interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_managed_activation_factory.html#a47e9a3db6d7880e45279923182c805ab", null ]
-];

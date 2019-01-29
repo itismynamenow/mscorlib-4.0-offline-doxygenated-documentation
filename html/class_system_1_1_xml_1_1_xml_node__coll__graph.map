@@ -1,0 +1,9 @@
+<map id="System.Xml.XmlNode" name="System.Xml.XmlNode">
+<area shape="rect" id="node1" title="Represents a single node in the XML document." alt="" coords="511,133,657,160"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="228,5,311,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,107,100,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_attribute_collection.html" title="Represents a collection of attributes that can be accessed by name or index." alt="" coords="158,107,381,133"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_xml_node_list.html" title="Represents an ordered collection of nodes." alt="" coords="185,157,353,184"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_xml_1_1_x_path_1_1_i_x_path_navigable.html" title="Provides an accessor to the T:System.Xml.XPath.XPathNavigator class." alt="" coords="212,208,327,235"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_xml_1_1_schema_1_1_i_xml_schema_info.html" title="Defines the post&#45;schema&#45;validation infoset of a validated XML node." alt="" coords="149,259,389,285"/>
+</map>

@@ -1,8 +1,6 @@
 <map id="System.Reflection.EventInfo" name="System.Reflection.EventInfo">
-<area shape="rect" id="node1" title="Discovers the attributes of an event and provides access to event metadata." alt="" coords="128,155,312,181"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_runtime_event_info.html" title=" " alt="" coords="130,229,310,271"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="121,80,210,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___event_info.html" title="Exposes the public members of the T:System.Reflection.EventInfo class to unmanaged code." alt="" coords="234,80,315,107"/>
+<area shape="rect" id="node1" title="Discovers the attributes of an event and provides access to event metadata." alt="" coords="21,80,205,107"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_interop_services_1_1_com_aware_event_info.html" title="Permits late&#45;bound registration of an event handler." alt="" coords="5,155,220,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="13,5,103,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___event_info.html" title="Exposes the public members of the T:System.Reflection.EventInfo class to unmanaged code." alt="" coords="127,5,208,32"/>
 </map>

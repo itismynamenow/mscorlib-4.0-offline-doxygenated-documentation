@@ -1,0 +1,5 @@
+<map id="System.Net.NetworkInformation.PingReply" name="System.Net.NetworkInformation.PingReply">
+<area shape="rect" id="node1" title="Provides information about the status and data resulting from a Overload:System.Net...." alt="" coords="211,171,421,212"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_i_p_address.html" title="Provides an Internet Protocol (IP) address." alt="" coords="5,43,160,70"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_network_information_1_1_ping_options.html" title="Used to control how T:System.Net.NetworkInformation.Ping data packets are transmitted." alt="" coords="290,36,499,77"/>
+</map>

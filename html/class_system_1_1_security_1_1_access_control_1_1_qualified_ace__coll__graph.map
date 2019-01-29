@@ -1,5 +1,4 @@
 <map id="System.Security.AccessControl.QualifiedAce" name="System.Security.AccessControl.QualifiedAce">
-<area shape="rect" id="node1" title="Represents an Access Control Entry (ACE) that contains a qualifier. The qualifier,..." alt="" coords="5,155,217,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_known_ace.html" title="Encapsulates all Access Control Entry (ACE) types currently defined by Microsoft Corporation...." alt="" coords="69,80,153,107"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_generic_ace.html" title="Represents an Access Control Entry (ACE), and is the base class for all other ACE classes." alt="" coords="66,5,157,32"/>
+<area shape="rect" id="node1" title="Represents an Access Control Entry (ACE) that contains a qualifier. The qualifier,..." alt="" coords="5,80,217,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_known_ace.html" title="Encapsulates all Access Control Entry (ACE) types currently defined by Microsoft Corporation...." alt="" coords="69,5,153,32"/>
 </map>

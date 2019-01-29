@@ -1,9 +1,0 @@
-<map id="System.Diagnostics.Tracing.EventPayload" name="System.Diagnostics.Tracing.EventPayload">
-<area shape="rect" id="node1" title=" " alt="" coords="868,85,1057,126"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="661,43,791,85"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="281,51,481,77"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,93,232,120"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,43,100,69"/>
-<area shape="rect" id="node6" title=" " alt="" coords="639,109,813,150"/>
-<area shape="rect" id="node7" title=" " alt="" coords="633,174,819,215"/>
-</map>

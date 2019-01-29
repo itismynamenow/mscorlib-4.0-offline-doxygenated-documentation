@@ -1,8 +1,4 @@
 <map id="System.IO.EndOfStreamException" name="System.IO.EndOfStreamException">
-<area shape="rect" id="node1" title="The exception that is thrown when reading is attempted past the end of a stream." alt="" coords="5,304,229,331"/>
-<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_i_o_exception.html" title="The exception that is thrown when an I/O error occurs." alt="" coords="71,229,164,256"/>
-<area shape="rect" id="node3" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="55,155,180,181"/>
-<area shape="rect" id="node4" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="77,80,157,107"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="15,5,107,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="131,5,218,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when reading is attempted past the end of a stream." alt="" coords="5,80,229,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_i_o_exception.html" title="The exception that is thrown when an I/O error occurs." alt="" coords="71,5,164,32"/>
 </map>

@@ -1,11 +1,5 @@
 <map id="System.Reflection.TypeInfo" name="System.Reflection.TypeInfo">
-<area shape="rect" id="node1" title="Represents type declarations for class types, interface types, array types, value types,..." alt="" coords="327,323,507,349"/>
-<area shape="rect" id="node2" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="312,247,363,273"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="121,81,210,108"/>
-<area shape="rect" id="node8" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="172,157,271,184"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="430,81,487,108"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="294,81,359,108"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_reflection_1_1_i_reflectable_type.html" title="Represents a type that you can reflect over." alt="" coords="387,247,504,273"/>
+<area shape="rect" id="node1" title="Represents type declarations for class types, interface types, array types, value types,..." alt="" coords="5,80,185,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="17,5,67,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_reflection_1_1_i_reflectable_type.html" title="Represents a type that you can reflect over." alt="" coords="91,5,209,32"/>
 </map>

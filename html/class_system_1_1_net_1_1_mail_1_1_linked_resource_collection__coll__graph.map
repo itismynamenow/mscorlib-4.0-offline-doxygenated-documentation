@@ -1,0 +1,5 @@
+<map id="System.Net.Mail.LinkedResourceCollection" name="System.Net.Mail.LinkedResourceCollection">
+<area shape="rect" id="node1" title="Stores linked resources to be sent as part of an e&#45;mail message." alt="" coords="78,80,294,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_object_model_1_1_collection.html" title=" " alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="225,5,315,32"/>
+</map>

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Threading Namespace Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Threading Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -95,19 +95,8 @@ $(document).ready(function(){initNavTree('namespace_system_1_1_threading.html','
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:namespace_system_1_1_threading_1_1_tasks"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading_1_1_tasks.html">Tasks</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1___i_o_completion_callback.html">_IOCompletionCallback</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1___thread_pool_wait_callback.html">_ThreadPoolWaitCallback</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1___thread_pool_wait_or_timer_callback.html">_ThreadPoolWaitOrTimerCallback</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_abandoned_mutex_exception.html">AbandonedMutexException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when one thread acquires a T:System.Threading.Mutex object that another thread has abandoned by exiting without releasing it.  <a href="class_system_1_1_threading_1_1_abandoned_mutex_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -123,9 +112,11 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_auto_reset_event.html">AutoResetEvent</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Notifies a waiting thread that an event has occurred. This class cannot be inherited.  <a href="class_system_1_1_threading_1_1_auto_reset_event.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_cancellation_callback_core_work_arguments.html">CancellationCallbackCoreWorkArguments</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_barrier.html">Barrier</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enables multiple tasks to cooperatively work on an algorithm in parallel through multiple phases.  <a href="class_system_1_1_threading_1_1_barrier.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_cancellation_callback_info.html">CancellationCallbackInfo</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_barrier_post_phase_exception.html">BarrierPostPhaseException</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when the post-phase action of a T:System.Threading.Barrier fails  <a href="class_system_1_1_threading_1_1_barrier_post_phase_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_cancellation_token.html">CancellationToken</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Propagates notification that operations should be canceled.  <a href="struct_system_1_1_threading_1_1_cancellation_token.html#details">More...</a><br /></td></tr>
@@ -136,19 +127,11 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_cancellation_token_source.html">CancellationTokenSource</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Signals to a T:System.Threading.CancellationToken that it should be canceled.  <a href="class_system_1_1_threading_1_1_cancellation_token_source.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_cds_sync_etw_b_c_l_provider.html">CdsSyncEtwBCLProvider</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_compressed_stack.html">CompressedStack</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides methods for setting and capturing the compressed stack on the current thread. This class cannot be inherited.  <a href="class_system_1_1_threading_1_1_compressed_stack.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_compressed_stack_switcher.html">CompressedStackSwitcher</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_countdown_event.html">CountdownEvent</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a synchronization primitive that is signaled when its count reaches zero.  <a href="class_system_1_1_threading_1_1_countdown_event.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_deferred_disposable_lifetime.html">DeferredDisposableLifetime</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_domain_compressed_stack.html">DomainCompressedStack</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_event_wait_handle.html">EventWaitHandle</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a thread synchronization event.  <a href="class_system_1_1_threading_1_1_event_wait_handle.html#details">More...</a><br /></td></tr>
@@ -156,30 +139,14 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_execution_context.html">ExecutionContext</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Manages the execution context for the current thread. This class cannot be inherited.  <a href="class_system_1_1_threading_1_1_execution_context.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_execution_context_switcher.html">ExecutionContextSwitcher</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_gen2_gc_callback.html">Gen2GcCallback</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_host_execution_context.html">HostExecutionContext</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Encapsulates and propagates the host execution context across threads.  <a href="class_system_1_1_threading_1_1_host_execution_context.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_host_execution_context_manager.html">HostExecutionContextManager</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides the functionality that allows a common language runtime host to participate in the flow, or migration, of the execution context.  <a href="class_system_1_1_threading_1_1_host_execution_context_manager.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_host_execution_context_switcher.html">HostExecutionContextSwitcher</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_threading_1_1_i_async_local.html">IAsyncLocal</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_threading_1_1_i_deferred_disposable.html">IDeferredDisposable</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_interlocked.html">Interlocked</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides atomic operations for variables that are shared by multiple threads.  <a href="class_system_1_1_threading_1_1_interlocked.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_threading_1_1_i_thread_pool_work_item.html">IThreadPoolWorkItem</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_i_unknown_safe_handle.html">IUnknownSafeHandle</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_lazy_helpers.html">LazyHelpers</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_lazy_initializer.html">LazyInitializer</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides lazy initialization routines.  <a href="class_system_1_1_threading_1_1_lazy_initializer.html#details">More...</a><br /></td></tr>
@@ -208,40 +175,26 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_overlapped.html">Overlapped</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a managed representation of a Win32 OVERLAPPED structure, including methods to transfer information from an T:System.Threading.Overlapped instance to a T:System.Threading.NativeOverlapped structure.  <a href="class_system_1_1_threading_1_1_overlapped.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_overlapped_data.html">OverlappedData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_pinnable_buffer_cache.html">PinnableBufferCache</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_pinnable_buffer_cache_event_source.html">PinnableBufferCacheEventSource</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_platform_helper.html">PlatformHelper</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_pre_allocated_overlapped.html">PreAllocatedOverlapped</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents pre-allocated state for native overlapped I/O operations.  <a href="class_system_1_1_threading_1_1_pre_allocated_overlapped.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_queue_user_work_item_callback.html">QueueUserWorkItemCallback</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_reader_writer_lock.html">ReaderWriterLock</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines a lock that supports single writers and multiple readers.  <a href="class_system_1_1_threading_1_1_reader_writer_lock.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_reader_writer_lock_slim.html">ReaderWriterLockSlim</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a lock that is used to manage access to a resource, allowing multiple threads for reading or exclusive access for writing.  <a href="class_system_1_1_threading_1_1_reader_writer_lock_slim.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_registered_wait_handle.html">RegisteredWaitHandle</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a handle that has been registered when calling M:System.Threading.ThreadPool.RegisterWaitForSingleObject(System.Threading.WaitHandle,System.Threading.WaitOrTimerCallback,System.Object,System.UInt32,System.Boolean). This class cannot be inherited.  <a href="class_system_1_1_threading_1_1_registered_wait_handle.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_registered_wait_handle_safe.html">RegisteredWaitHandleSafe</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_safe_compressed_stack_handle.html">SafeCompressedStackHandle</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_semaphore.html">Semaphore</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Limits the number of threads that can access a resource or pool of resources concurrently.  <a href="class_system_1_1_threading_1_1_semaphore.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_semaphore_full_exception.html">SemaphoreFullException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when the Overload:System.Threading.Semaphore.Release method is called on a semaphore whose count is already at the maximum.  <a href="class_system_1_1_threading_1_1_semaphore_full_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_semaphore_slim.html">SemaphoreSlim</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a lightweight alternative to T:System.Threading.Semaphore that limits the number of threads that can access a resource or pool of resources concurrently.  <a href="class_system_1_1_threading_1_1_semaphore_slim.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_sparsely_populated_array.html">SparselyPopulatedArray</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_sparsely_populated_array_add_info.html">SparselyPopulatedArrayAddInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_sparsely_populated_array_fragment.html">SparselyPopulatedArrayFragment</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_spin_lock.html">SpinLock</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a mutual exclusion lock primitive where a thread trying to acquire the lock waits in a loop repeatedly checking until the lock becomes available.  <a href="struct_system_1_1_threading_1_1_spin_lock.html#details">More...</a><br /></td></tr>
@@ -255,17 +208,14 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_synchronization_lock_exception.html">SynchronizationLockException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a method requires the caller to own the lock on a given <a class="el" href="class_system_1_1_threading_1_1_monitor.html" title="Provides a mechanism that synchronizes access to objects.">Monitor</a>, and the method is invoked by a caller that does not own that lock.  <a href="class_system_1_1_threading_1_1_synchronization_lock_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_system_threading___thread_local_debug_view.html">SystemThreading_ThreadLocalDebugView</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread.html">Thread</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates and controls a thread, sets its priority, and gets its status.  <a href="class_system_1_1_threading_1_1_thread.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_abort_exception.html">ThreadAbortException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a call is made to the M:System.Threading.Thread.Abort(System.Object) method. This class cannot be inherited.  <a href="class_system_1_1_threading_1_1_thread_abort_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_threading_1_1_thread_handle.html">ThreadHandle</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_helper.html">ThreadHelper</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_exception_event_args.html">ThreadExceptionEventArgs</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides data for the E:System.Windows.Forms.Application.ThreadException event.  <a href="class_system_1_1_threading_1_1_thread_exception_event_args.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_interrupted_exception.html">ThreadInterruptedException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a T:System.Threading.Thread is interrupted while it is in a waiting state.  <a href="class_system_1_1_threading_1_1_thread_interrupted_exception.html#details">More...</a><br /></td></tr>
@@ -279,14 +229,6 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_pool_bound_handle.html">ThreadPoolBoundHandle</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents an I/O handle that is bound to the system thread pool and enables low-level components to receive notifications for asynchronous I/O operations.  <a href="class_system_1_1_threading_1_1_thread_pool_bound_handle.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_pool_bound_handle_overlapped.html">ThreadPoolBoundHandleOverlapped</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_pool_globals.html">ThreadPoolGlobals</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_pool_work_queue.html">ThreadPoolWorkQueue</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_pool_work_queue_thread_locals.html">ThreadPoolWorkQueueThreadLocals</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_thread_start_exception.html">ThreadStartException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a failure occurs in a managed thread after the underlying operating system thread has been started, but before the thread is ready to execute user code.  <a href="class_system_1_1_threading_1_1_thread_start_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -296,16 +238,8 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_timeout.html">Timeout</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains constants that specify infinite time-out intervals. This class cannot be inherited.  <a href="class_system_1_1_threading_1_1_timeout.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_timeout_helper.html">TimeoutHelper</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_timer.html">Timer</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a mechanism for executing a method on a thread pool thread at specified intervals. This class cannot be inherited.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_threading_1_1_timer.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_timer_holder.html">TimerHolder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_timer_queue.html">TimerQueue</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_timer_queue_timer.html">TimerQueueTimer</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_volatile.html">Volatile</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains methods for performing volatile memory operations.  <a href="class_system_1_1_threading_1_1_volatile.html#details">More...</a><br /></td></tr>
@@ -318,8 +252,6 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_wait_handle_extensions.html">WaitHandleExtensions</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides convenience methods to for working with a safe handle for a wait handle.  <a href="class_system_1_1_threading_1_1_wait_handle_extensions.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_threading_1_1_win_r_t_synchronization_context_factory_base.html">WinRTSynchronizationContextFactoryBase</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -341,14 +273,19 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="memdesc:ad31a0fcf4e3d5edea8f60b5e324fec60"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies how a T:System.Lazy`1 instance synchronizes access among multiple threads.  <a href="namespace_system_1_1_threading.html#ad31a0fcf4e3d5edea8f60b5e324fec60">More...</a><br /></td></tr>
 <tr class="separator:ad31a0fcf4e3d5edea8f60b5e324fec60"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a82418a35cc18c4c024d44d7277e83e4a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#a82418a35cc18c4c024d44d7277e83e4a">StackCrawlMark</a> { <a class="el" href="namespace_system_1_1_threading.html#a82418a35cc18c4c024d44d7277e83e4aa82cf5c1ebe8204e38d1d8396c8869691">StackCrawlMark.LookForMe</a>, 
-<a class="el" href="namespace_system_1_1_threading.html#a82418a35cc18c4c024d44d7277e83e4aa224a0200f2290f5603b117a11c217265">StackCrawlMark.LookForMyCaller</a>, 
-<a class="el" href="namespace_system_1_1_threading.html#a82418a35cc18c4c024d44d7277e83e4aa8fa10d1f00691140b3d11b065c4ec863">StackCrawlMark.LookForMyCallersCaller</a>, 
-<a class="el" href="namespace_system_1_1_threading.html#a82418a35cc18c4c024d44d7277e83e4aa2e65a5e36052a6a5de9059d9d3e8d4f8">StackCrawlMark.LookForThread</a>
+<tr class="memitem:ab3cdcb7ed520aa05b8c7d4d1a4dbbde2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#ab3cdcb7ed520aa05b8c7d4d1a4dbbde2">LockRecursionPolicy</a> { <a class="el" href="namespace_system_1_1_threading.html#ab3cdcb7ed520aa05b8c7d4d1a4dbbde2aa6f81d8a932b1984ed7ffe672eeeeff0">LockRecursionPolicy.NoRecursion</a>, 
+<a class="el" href="namespace_system_1_1_threading.html#ab3cdcb7ed520aa05b8c7d4d1a4dbbde2a4759400601e0d92c05680ebded2792d5">LockRecursionPolicy.SupportsRecursion</a>
+ }</td></tr>
+<tr class="memdesc:ab3cdcb7ed520aa05b8c7d4d1a4dbbde2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies whether a lock can be entered multiple times by the same thread.  <a href="namespace_system_1_1_threading.html#ab3cdcb7ed520aa05b8c7d4d1a4dbbde2">More...</a><br /></td></tr>
+<tr class="separator:ab3cdcb7ed520aa05b8c7d4d1a4dbbde2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82418a35cc18c4c024d44d7277e83e4a"><td class="memItemLeft" align="right" valign="top"><a id="a82418a35cc18c4c024d44d7277e83e4a"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>StackCrawlMark</b> { <b>LookForMe</b>, 
+<b>LookForMyCaller</b>, 
+<b>LookForMyCallersCaller</b>, 
+<b>LookForThread</b>
  }</td></tr>
 <tr class="separator:a82418a35cc18c4c024d44d7277e83e4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae0e480d1f32d8dc7ba793e048fa9b6c3"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#ae0e480d1f32d8dc7ba793e048fa9b6c3">SynchronizationContextProperties</a> { <a class="el" href="namespace_system_1_1_threading.html#ae0e480d1f32d8dc7ba793e048fa9b6c3a6adf97f83acf6453d4a6a4b1070f3754">SynchronizationContextProperties.None</a> = 0x0, 
-<a class="el" href="namespace_system_1_1_threading.html#ae0e480d1f32d8dc7ba793e048fa9b6c3a2267d0b1ccb6ed4f8500677c5e25737a">SynchronizationContextProperties.RequireWaitNotification</a> = 0x1
+<tr class="memitem:ae0e480d1f32d8dc7ba793e048fa9b6c3"><td class="memItemLeft" align="right" valign="top"><a id="ae0e480d1f32d8dc7ba793e048fa9b6c3"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>SynchronizationContextProperties</b> { <b>None</b> = 0x0, 
+<b>RequireWaitNotification</b> = 0x1
  }</td></tr>
 <tr class="separator:ae0e480d1f32d8dc7ba793e048fa9b6c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83634aacdafb7b4ab90ee31aec98c99e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#a83634aacdafb7b4ab90ee31aec98c99e">ThreadPriority</a> { <br />
@@ -385,7 +322,8 @@ Functions</h2></td></tr>
 <tr class="memitem:a37a308ba9c9700b5f7615526708dcc7c"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#a37a308ba9c9700b5f7615526708dcc7c">ContextCallback</a> (object state)</td></tr>
 <tr class="memdesc:a37a308ba9c9700b5f7615526708dcc7c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a method to be called within a new context.  <a href="#a37a308ba9c9700b5f7615526708dcc7c">More...</a><br /></td></tr>
 <tr class="separator:a37a308ba9c9700b5f7615526708dcc7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a110b72c7102c9d87cbe45b1ab26db64e"><td class="memItemLeft" align="right" valign="top">internal delegate object&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#a110b72c7102c9d87cbe45b1ab26db64e">InternalCrossContextDelegate</a> (object[] args)</td></tr>
+<tr class="memitem:a110b72c7102c9d87cbe45b1ab26db64e"><td class="memItemLeft" align="right" valign="top"><a id="a110b72c7102c9d87cbe45b1ab26db64e"></a>
+internal delegate object&#160;</td><td class="memItemRight" valign="bottom"><b>InternalCrossContextDelegate</b> (object[] args)</td></tr>
 <tr class="separator:a110b72c7102c9d87cbe45b1ab26db64e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8eef424ec4c01f24a0bacf972fd6ba89"><td class="memItemLeft" align="right" valign="top">unsafe delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#a8eef424ec4c01f24a0bacf972fd6ba89">IOCompletionCallback</a> (uint errorCode, uint numBytes, <a class="el" href="struct_system_1_1_threading_1_1_native_overlapped.html">NativeOverlapped</a> *pOVERLAP)</td></tr>
 <tr class="memdesc:a8eef424ec4c01f24a0bacf972fd6ba89"><td class="mdescLeft">&#160;</td><td class="mdescRight">Receives the error code, number of bytes, and overlapped value type when an I/O operation completes on the thread pool.  <a href="#a8eef424ec4c01f24a0bacf972fd6ba89">More...</a><br /></td></tr>
@@ -396,6 +334,9 @@ Functions</h2></td></tr>
 <tr class="memitem:ac55be771a2cf3bd885f6fae80fd4e36b"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#ac55be771a2cf3bd885f6fae80fd4e36b">SendOrPostCallback</a> (object state)</td></tr>
 <tr class="memdesc:ac55be771a2cf3bd885f6fae80fd4e36b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a method to be called when a message is to be dispatched to a synchronization context.  <a href="#ac55be771a2cf3bd885f6fae80fd4e36b">More...</a><br /></td></tr>
 <tr class="separator:ac55be771a2cf3bd885f6fae80fd4e36b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a9590295d13e1a04fd44687f939324d"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#a2a9590295d13e1a04fd44687f939324d">ThreadExceptionEventHandler</a> (object sender, <a class="el" href="class_system_1_1_threading_1_1_thread_exception_event_args.html">ThreadExceptionEventArgs</a> e)</td></tr>
+<tr class="memdesc:a2a9590295d13e1a04fd44687f939324d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that will handle the E:System.Windows.Forms.Application.ThreadException event of an T:System.Windows.Forms.Application.  <a href="#a2a9590295d13e1a04fd44687f939324d">More...</a><br /></td></tr>
+<tr class="separator:a2a9590295d13e1a04fd44687f939324d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a190d460b392d94bfd112a400554309fb"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_threading.html#a190d460b392d94bfd112a400554309fb">ThreadStart</a> ()</td></tr>
 <tr class="memdesc:a190d460b392d94bfd112a400554309fb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that executes on a T:System.Threading.Thread.  <a href="#a190d460b392d94bfd112a400554309fb">More...</a><br /></td></tr>
 <tr class="separator:a190d460b392d94bfd112a400554309fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -510,8 +451,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a82418a35cc18c4c024d44d7277e83e4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a82418a35cc18c4c024d44d7277e83e4a">&#9670;&nbsp;</a></span>StackCrawlMark</h2>
+<a id="ab3cdcb7ed520aa05b8c7d4d1a4dbbde2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3cdcb7ed520aa05b8c7d4d1a4dbbde2">&#9670;&nbsp;</a></span>LockRecursionPolicy</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -520,7 +461,7 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="namespace_system_1_1_threading.html#a82418a35cc18c4c024d44d7277e83e4a">System.Threading.StackCrawlMark</a></td>
+          <td class="memname">enum <a class="el" href="namespace_system_1_1_threading.html#ab3cdcb7ed520aa05b8c7d4d1a4dbbde2">System.Threading.LockRecursionPolicy</a></td>
         </tr>
       </table>
   </td>
@@ -529,42 +470,16 @@ Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Specifies whether a lock can be entered multiple times by the same thread. </p>
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a82418a35cc18c4c024d44d7277e83e4aa82cf5c1ebe8204e38d1d8396c8869691"></a>LookForMe&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a82418a35cc18c4c024d44d7277e83e4aa224a0200f2290f5603b117a11c217265"></a>LookForMyCaller&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a82418a35cc18c4c024d44d7277e83e4aa8fa10d1f00691140b3d11b065c4ec863"></a>LookForMyCallersCaller&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a82418a35cc18c4c024d44d7277e83e4aa2e65a5e36052a6a5de9059d9d3e8d4f8"></a>LookForThread&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab3cdcb7ed520aa05b8c7d4d1a4dbbde2aa6f81d8a932b1984ed7ffe672eeeeff0"></a>NoRecursion&#160;</td><td class="fielddoc"><p>If a thread tries to enter a lock recursively, an exception is thrown. Some classes may allow certain recursions when this setting is in effect. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab3cdcb7ed520aa05b8c7d4d1a4dbbde2a4759400601e0d92c05680ebded2792d5"></a>SupportsRecursion&#160;</td><td class="fielddoc"><p>A thread can enter a lock recursively. Some classes may restrict this capability. </p>
+</td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="_stack_crawl_mark_8cs_source.html#l00004">4</a> of file <a class="el" href="_stack_crawl_mark_8cs_source.html">StackCrawlMark.cs</a>.</p>
-
-</div>
-</div>
-<a id="ae0e480d1f32d8dc7ba793e048fa9b6c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae0e480d1f32d8dc7ba793e048fa9b6c3">&#9670;&nbsp;</a></span>SynchronizationContextProperties</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="namespace_system_1_1_threading.html#ae0e480d1f32d8dc7ba793e048fa9b6c3">System.Threading.SynchronizationContextProperties</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae0e480d1f32d8dc7ba793e048fa9b6c3a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae0e480d1f32d8dc7ba793e048fa9b6c3a2267d0b1ccb6ed4f8500677c5e25737a"></a>RequireWaitNotification&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-<p class="definition">Definition at line <a class="el" href="_synchronization_context_properties_8cs_source.html#l00004">4</a> of file <a class="el" href="_synchronization_context_properties_8cs_source.html">SynchronizationContextProperties.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_lock_recursion_policy_8cs_source.html#l00005">5</a> of file <a class="el" href="_lock_recursion_policy_8cs_source.html">LockRecursionPolicy.cs</a>.</p>
 
 </div>
 </div>
@@ -650,7 +565,7 @@ Functions</h2></td></tr>
 </td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="_thread_state_8cs_source.html#l00009">9</a> of file <a class="el" href="_thread_state_8cs_source.html">ThreadState.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_system_8_threading_2_thread_state_8cs_source.html#l00009">9</a> of file <a class="el" href="_system_8_threading_2_thread_state_8cs_source.html">ThreadState.cs</a>.</p>
 
 </div>
 </div>
@@ -678,24 +593,6 @@ Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-
-</div>
-</div>
-<a id="a110b72c7102c9d87cbe45b1ab26db64e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a110b72c7102c9d87cbe45b1ab26db64e">&#9670;&nbsp;</a></span>InternalCrossContextDelegate()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal delegate object System.Threading.InternalCrossContextDelegate </td>
-          <td>(</td>
-          <td class="paramtype">object []&#160;</td>
-          <td class="paramname"><em>args</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -789,6 +686,43 @@ Functions</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">state</td><td>The object passed to the delegate.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a2a9590295d13e1a04fd44687f939324d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a9590295d13e1a04fd44687f939324d">&#9670;&nbsp;</a></span>ThreadExceptionEventHandler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">delegate void System.Threading.ThreadExceptionEventHandler </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_system_1_1_threading_1_1_thread_exception_event_args.html">ThreadExceptionEventArgs</a>&#160;</td>
+          <td class="paramname"><em>e</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Represents the method that will handle the E:System.Windows.Forms.Application.ThreadException event of an T:System.Windows.Forms.Application. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The source of the event. </td></tr>
+    <tr><td class="paramname">e</td><td>A T:System.Threading.ThreadExceptionEventArgs that contains the event data. </td></tr>
   </table>
   </dd>
 </dl>

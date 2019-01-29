@@ -1,5 +1,4 @@
 <map id="System.Reflection.DefaultMemberAttribute" name="System.Reflection.DefaultMemberAttribute">
-<area shape="rect" id="node1" title="Defines the member of a type that is the default member used by M:System.Type.InvokeMember(System...." alt="" coords="5,155,177,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="56,80,127,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="52,5,131,32"/>
+<area shape="rect" id="node1" title="Defines the member of a type that is the default member used by M:System.Type.InvokeMember(System...." alt="" coords="5,80,177,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="56,5,127,32"/>
 </map>

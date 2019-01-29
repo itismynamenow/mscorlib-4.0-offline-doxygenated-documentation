@@ -1,9 +1,5 @@
 <map id="System.Security.Permissions.EnvironmentPermission" name="System.Security.Permissions.EnvironmentPermission">
-<area shape="rect" id="node1" title="Controls access to system and user environment variables. This class cannot be inherited." alt="" coords="200,229,399,271"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_code_access_permission.html" title="Defines the underlying structure of all code access permissions." alt="" coords="33,155,195,181"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_permission.html" title="Defines methods implemented by permission types." alt="" coords="69,80,159,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,5,140,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_i_stack_walk.html" title="Manages the stack walk that determines whether all callers in the call stack have the required permis..." alt="" coords="184,80,273,107"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_permissions_1_1_i_unrestricted_permission.html" title="Allows a permission to expose an unrestricted state." alt="" coords="219,155,379,181"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_security_1_1_permissions_1_1_i_built_in_permission.html" title=" " alt="" coords="404,155,531,181"/>
+<area shape="rect" id="node1" title="Controls access to system and user environment variables. This class cannot be inherited." alt="" coords="79,80,277,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_code_access_permission.html" title="Defines the underlying structure of all code access permissions." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_permissions_1_1_i_unrestricted_permission.html" title="Allows a permission to expose an unrestricted state." alt="" coords="191,5,351,32"/>
 </map>

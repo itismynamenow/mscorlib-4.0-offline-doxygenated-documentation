@@ -1,9 +1,0 @@
-<map id="System.Deployment.Internal.Isolation.Manifest.AssemblyReferenceEntry" name="System.Deployment.Internal.Isolation.Manifest.AssemblyReferenceEntry">
-<area shape="rect" id="node1" title=" " alt="" coords="891,35,1165,76"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_reference_identity.html" title=" " alt="" coords="501,5,691,47"/>
-<area shape="rect" id="node3" href="$class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_assembly_reference_dependent_assembly_entry.html" title=" " alt="" coords="475,71,717,127"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="197,27,287,54"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_section.html" title=" " alt="" coords="147,79,337,120"/>
-<area shape="rect" id="node6" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="191,183,293,210"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,183,97,210"/>
-</map>

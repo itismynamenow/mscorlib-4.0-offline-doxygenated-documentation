@@ -1,0 +1,4 @@
+<map id="System.Security.Permissions.TypeDescriptorPermissionAttribute" name="System.Security.Permissions.TypeDescriptorPermissionAttribute">
+<area shape="rect" id="node1" title="Determines the permission flags that apply to a T:System.ComponentModel.TypeDescriptor." alt="" coords="5,80,228,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_code_access_security_attribute.html" title="Specifies the base attribute class for code access security." alt="" coords="20,5,213,32"/>
+</map>

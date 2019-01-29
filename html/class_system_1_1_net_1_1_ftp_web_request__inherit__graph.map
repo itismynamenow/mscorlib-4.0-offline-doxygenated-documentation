@@ -1,0 +1,4 @@
+<map id="System.Net.FtpWebRequest" name="System.Net.FtpWebRequest">
+<area shape="rect" id="node1" title="Implements a File Transfer Protocol (FTP) client." alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_web_request.html" title="Makes a request to a Uniform Resource Identifier (URI). This is an abstract class." alt="" coords="51,5,149,32"/>
+</map>

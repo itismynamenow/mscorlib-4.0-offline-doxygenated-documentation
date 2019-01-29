@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.Eventing.Reader.ProviderMetadata" name="System.Diagnostics.Eventing.Reader.ProviderMetadata">
+<area shape="rect" id="node1" title="Contains static information about an event provider, such as the name and id of the provider,..." alt="" coords="5,95,201,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="19,5,108,32"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="133,5,231,32"/>
+</map>

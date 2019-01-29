@@ -1,0 +1,5 @@
+<map id="System.Net.EndPoint" name="System.Net.EndPoint">
+<area shape="rect" id="node1" title="Identifies a network address. This is an abstract class." alt="" coords="111,5,259,32"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_dns_end_point.html" title="Represents a network endpoint as a host name or a string representation of an IP address and a port n..." alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_i_p_end_point.html" title="Represents a network endpoint as an IP address and a port number." alt="" coords="200,80,360,107"/>
+</map>

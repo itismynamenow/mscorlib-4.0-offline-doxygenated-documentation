@@ -1,6 +1,0 @@
-<map id="System.Runtime.Remoting.IRemotingTypeInfo" name="System.Runtime.Remoting.IRemotingTypeInfo">
-<area shape="rect" id="node1" title="Provides type information for an object." alt="" coords="108,5,291,47"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_proxies_1_1_remoting_proxy.html" title=" " alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_type_info.html" title=" " alt="" coords="212,95,395,136"/>
-<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_remoting_1_1_dynamic_type_info.html" title=" " alt="" coords="212,184,395,225"/>
-</map>

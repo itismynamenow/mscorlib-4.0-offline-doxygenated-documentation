@@ -1,0 +1,4 @@
+<map id="System.IO.Pipes.PipeSecurity" name="System.IO.Pipes.PipeSecurity">
+<area shape="rect" id="node1" title="Represents the access control and audit security for a pipe." alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_native_object_security.html" title="Provides the ability to control access to native objects without direct manipulation of Access Contro..." alt="" coords="33,5,176,32"/>
+</map>

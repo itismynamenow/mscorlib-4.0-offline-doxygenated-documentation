@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.TraceListener" name="System.Diagnostics.TraceListener">
+<area shape="rect" id="node1" title="Provides the abstract base class for the listeners who monitor trace and debug output." alt="" coords="58,80,233,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,5,261,32"/>
+</map>

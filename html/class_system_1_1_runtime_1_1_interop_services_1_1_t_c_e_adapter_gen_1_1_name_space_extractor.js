@@ -1,4 +1,0 @@
-var class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_name_space_extractor =
-[
-    [ "ExtractNameSpace", "class_system_1_1_runtime_1_1_interop_services_1_1_t_c_e_adapter_gen_1_1_name_space_extractor.html#a737bb996a811d8db23a8beb14c1d5c40", null ]
-];

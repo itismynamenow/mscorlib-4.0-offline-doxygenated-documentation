@@ -1,0 +1,7 @@
+<map id="System.Xml.XmlResolver" name="System.Xml.XmlResolver">
+<area shape="rect" id="node1" title="Resolves external XML resources named by a Uniform Resource Identifier (URI)." alt="" coords="5,97,172,123"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_resolvers_1_1_xml_preloaded_resolver.html" title="Represents a class that is used to prepopulate the cache with DTDs or XML streams." alt="" coords="235,5,412,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_secure_resolver.html" title="Helps to secure another implementation of T:System.Xml.XmlResolver by wrapping the T:System...." alt="" coords="220,71,427,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xml_url_resolver.html" title="Resolves external XML resources named by a Uniform Resource Identifier (URI)." alt="" coords="232,122,415,149"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_xap_resolver.html" title="The XmlXapResolver type is used to resolve resources in the Silverlight application’s XAP package." alt="" coords="230,173,417,199"/>
+</map>

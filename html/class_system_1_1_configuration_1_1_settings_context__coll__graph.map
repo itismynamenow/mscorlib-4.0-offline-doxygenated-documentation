@@ -1,0 +1,4 @@
+<map id="System.Configuration.SettingsContext" name="System.Configuration.SettingsContext">
+<area shape="rect" id="node1" title="Provides contextual information that the provider can use when persisting settings." alt="" coords="5,80,204,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="65,5,145,32"/>
+</map>

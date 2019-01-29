@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ECParameters" name="System.Security.Cryptography.ECParameters">
+<area shape="rect" id="node1" title="Represents the standard parameters for the elliptic curve cryptography (ECC) algorithm." alt="" coords="5,213,209,255"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_security_1_1_cryptography_1_1_e_c_curve.html" title="Represents an elliptic curve." alt="" coords="101,109,305,151"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_security_1_1_cryptography_1_1_e_c_point.html" title="Represents a (X,Y) coordinate pair for elliptic curve cryptography (ECC) structures." alt="" coords="5,5,209,47"/>
+</map>

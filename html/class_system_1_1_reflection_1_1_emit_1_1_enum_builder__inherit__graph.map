@@ -1,12 +1,5 @@
 <map id="System.Reflection.Emit.EnumBuilder" name="System.Reflection.Emit.EnumBuilder">
-<area shape="rect" id="node1" title="Describes and represents an enumeration type." alt="" coords="272,304,469,345"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_type_info.html" title="Represents type declarations for class types, interface types, array types, value types,..." alt="" coords="281,229,351,256"/>
-<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="237,155,288,181"/>
-<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="121,80,210,107"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="234,80,291,107"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="315,80,381,107"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_reflection_1_1_i_reflectable_type.html" title="Represents a type that you can reflect over." alt="" coords="312,155,429,181"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___enum_builder.html" title="Exposes the T:System.Reflection.Emit.EnumBuilder class to unmanaged code." alt="" coords="375,229,478,256"/>
+<area shape="rect" id="node1" title="Describes and represents an enumeration type." alt="" coords="5,80,203,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_type_info.html" title="Represents type declarations for class types, interface types, array types, value types,..." alt="" coords="14,5,85,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___enum_builder.html" title="Exposes the T:System.Reflection.Emit.EnumBuilder class to unmanaged code." alt="" coords="109,5,211,32"/>
 </map>

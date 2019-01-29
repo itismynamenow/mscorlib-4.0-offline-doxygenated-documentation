@@ -1,0 +1,7 @@
+<map id="System.Dynamic.ExpandoObject" name="System.Dynamic.ExpandoObject">
+<area shape="rect" id="node1" title="Represents an object whose members can be dynamically added and removed at run time." alt="" coords="243,93,457,120"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_dynamic_1_1_i_dynamic_meta_object_provider.html" title="Represents a dynamic object, that can have its operations bound at runtime." alt="" coords="5,5,195,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="35,57,165,98"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="53,123,147,149"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_component_model_1_1_i_notify_property_changed.html" title="Notifies clients that a property value has changed." alt="" coords="21,173,179,200"/>
+</map>

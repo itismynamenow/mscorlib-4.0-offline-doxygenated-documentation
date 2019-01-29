@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.CorrelationManager" name="System.Diagnostics.CorrelationManager">
+<area shape="rect" id="node1" title="Correlates traces that are part of a logical transaction." alt="" coords="5,95,211,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_stack.html" title="Represents a simple last&#45;in&#45;first&#45;out (LIFO) non&#45;generic collection of objects." alt="" coords="21,5,195,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="System.ComponentModel.INotifyPropertyChanged" name="System.ComponentModel.INotifyPropertyChanged">
+<area shape="rect" id="node1" title="Notifies clients that a property value has changed." alt="" coords="5,104,217,145"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_object_model_1_1_observable_collection.html" title="Represents a dynamic data collection that provides notifications when items get added,..." alt="" coords="294,5,507,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_collections_1_1_object_model_1_1_read_only_observable_collection.html" title="Represents a read&#45;only T:System.Collections.ObjectModel.ObservableCollection`1." alt="" coords="265,71,536,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_configuration_1_1_application_settings_base.html" title="Acts as a base class for deriving concrete wrapper classes to implement the application settings feat..." alt="" coords="293,136,508,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_dynamic_1_1_expando_object.html" title="Represents an object whose members can be dynamically added and removed at run time." alt="" coords="293,202,508,229"/>
+</map>

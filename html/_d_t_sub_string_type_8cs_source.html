@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System/DTSubStringType.cs Source File</title>
+<title>mscorlib(4.0.0.0) API with additions: D:/All cs/System/DTSubStringType.cs Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -89,18 +89,14 @@ $(document).ready(function(){initNavTree('_d_t_sub_string_type_8cs_source.html',
 <div class="title">DTSubStringType.cs</div>  </div>
 </div><!--header-->
 <div class="contents">
-<a href="_d_t_sub_string_type_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_system.html">System</a></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;{</div><div class="line"><a name="l00003"></a><span class="lineno"><a class="line" href="namespace_system.html#ab60a6421d54452a3ff60e6967e7a69c5">    3</a></span>&#160;    <span class="keyword">internal</span> <span class="keyword">enum</span> <a class="code" href="namespace_system.html#ab60a6421d54452a3ff60e6967e7a69c5">DTSubStringType</a></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;    {</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;        Unknown,</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;        <a class="code" href="namespace_system.html#ab60a6421d54452a3ff60e6967e7a69c5a4bbb8f967da6d1a610596d7257179c2b">Invalid</a>,</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        <a class="code" href="class_system_1_1_number.html">Number</a>,</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;        <a class="code" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1a87557f11575c0ad78e4e28abedc13b6e">End</a>,</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        <a class="code" href="namespace_system.html#ab60a6421d54452a3ff60e6967e7a69c5a6311ae17c1ee52b36e68aaf4ad066387">Other</a></div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    }</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;}</div><div class="ttc" id="namespace_system_html_ab60a6421d54452a3ff60e6967e7a69c5a6311ae17c1ee52b36e68aaf4ad066387"><div class="ttname"><a href="namespace_system.html#ab60a6421d54452a3ff60e6967e7a69c5a6311ae17c1ee52b36e68aaf4ad066387">System.DTSubStringType.Other</a></div></div>
-<div class="ttc" id="namespace_system_html_ab60a6421d54452a3ff60e6967e7a69c5"><div class="ttname"><a href="namespace_system.html#ab60a6421d54452a3ff60e6967e7a69c5">System.DTSubStringType</a></div><div class="ttdeci">DTSubStringType</div><div class="ttdef"><b>Definition:</b> <a href="_d_t_sub_string_type_8cs_source.html#l00003">DTSubStringType.cs:3</a></div></div>
-<div class="ttc" id="namespace_system_html"><div class="ttname"><a href="namespace_system.html">System</a></div><div class="ttdef"><b>Definition:</b> <a href="_____canon_8cs_source.html#l00003">__Canon.cs:3</a></div></div>
-<div class="ttc" id="class_system_1_1_number_html"><div class="ttname"><a href="class_system_1_1_number.html">System.Number</a></div><div class="ttdef"><b>Definition:</b> <a href="_number_8cs_source.html#l00009">Number.cs:9</a></div></div>
-<div class="ttc" id="namespace_system_html_ab60a6421d54452a3ff60e6967e7a69c5a4bbb8f967da6d1a610596d7257179c2b"><div class="ttname"><a href="namespace_system.html#ab60a6421d54452a3ff60e6967e7a69c5a4bbb8f967da6d1a610596d7257179c2b">System.DTSubStringType.Invalid</a></div></div>
+<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_system.html">System</a></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;{</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;    <span class="keyword">internal</span> <span class="keyword">enum</span> DTSubStringType</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;    {</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;        Unknown,</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;        Invalid,</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        Number,</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;        <a class="code" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1a87557f11575c0ad78e4e28abedc13b6e">End</a>,</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        Other</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    }</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;}</div><div class="ttc" id="namespace_system_html"><div class="ttname"><a href="namespace_system.html">System</a></div><div class="ttdef"><b>Definition:</b> <a href="_____canon_8cs_source.html#l00003">__Canon.cs:3</a></div></div>
 <div class="ttc" id="namespace_system_html_aca95f49b90253ad60ca8fe35c508b3d1a87557f11575c0ad78e4e28abedc13b6e"><div class="ttname"><a href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1a87557f11575c0ad78e4e28abedc13b6e">System.ConsoleKey.End</a></div><div class="ttdoc">The END key.</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_9af51e3826d4f9e80d9103b2de543e84.html">System</a></li><li class="navelem"><a class="el" href="_d_t_sub_string_type_8cs.html">DTSubStringType.cs</a></li>
+    <li class="navelem"><a class="el" href="dir_0a866bd803450dacaf5899ba5fac7c9c.html">All cs</a></li><li class="navelem"><a class="el" href="dir_808b79be6659de6d5212ea255af18c6b.html">System</a></li><li class="navelem"><b>DTSubStringType.cs</b></li>
     <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.15 </li>

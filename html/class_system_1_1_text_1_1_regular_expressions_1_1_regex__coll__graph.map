@@ -1,0 +1,7 @@
+<map id="System.Text.RegularExpressions.Regex" name="System.Text.RegularExpressions.Regex">
+<area shape="rect" id="node1" title="Represents an immutable regular expression.To browse the .NET Framework source code for this type,..." alt="" coords="544,63,764,105"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,8,97,35"/>
+<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="158,37,355,64"/>
+<area shape="rect" id="node3" href="$class_system_1_1_text_1_1_regular_expressions_1_1_regex_runner_factory.html" title="Creates a T:System.Text.RegularExpressions.RegexRunner class for a compiled regular expression." alt="" coords="147,89,367,130"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_time_span.html" title="Represents a time interval.To browse the .NET Framework source code for this type,..." alt="" coords="192,223,321,249"/>
+</map>

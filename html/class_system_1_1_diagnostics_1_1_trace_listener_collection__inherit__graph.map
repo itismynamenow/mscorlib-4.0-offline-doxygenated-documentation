@@ -1,0 +1,6 @@
+<map id="System.Diagnostics.TraceListenerCollection" name="System.Diagnostics.TraceListenerCollection">
+<area shape="rect" id="node1" title="Provides a thread&#45;safe list of T:System.Diagnostics.TraceListener objects." alt="" coords="5,229,180,271"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="69,155,116,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="117,80,199,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="32,5,127,32"/>
+</map>

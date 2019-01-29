@@ -1,0 +1,4 @@
+<map id="System.Net.WebClient" name="System.Net.WebClient">
+<area shape="rect" id="node1" title="Provides common methods for sending data to and receiving data from a resource identified by a URI." alt="" coords="5,80,160,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_component.html" title="Provides the base implementation for the T:System.ComponentModel.IComponent interface and enables obj..." alt="" coords="39,5,127,32"/>
+</map>

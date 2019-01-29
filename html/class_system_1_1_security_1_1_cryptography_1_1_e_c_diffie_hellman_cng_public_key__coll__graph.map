@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ECDiffieHellmanCngPublicKey" name="System.Security.Cryptography.ECDiffieHellmanCngPublicKey">
+<area shape="rect" id="node1" title="Specifies an Elliptic Curve Diffie&#45;Hellman (ECDH) public key for use with the T:System...." alt="" coords="97,109,301,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_e_c_diffie_hellman_public_key.html" title="Provides an abstract base class from which all T:System.Security.Cryptography.ECDiffieHellmanCngPubli..." alt="" coords="5,13,180,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_cng_key_blob_format.html" title="Specifies a key BLOB format for use with Microsoft Cryptography Next Generation (CNG) objects." alt="" coords="204,5,408,47"/>
+</map>

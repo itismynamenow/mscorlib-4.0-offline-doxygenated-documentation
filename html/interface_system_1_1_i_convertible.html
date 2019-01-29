@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.IConvertible Interface Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.IConvertible Interface Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -150,7 +150,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a0f720ed592ad77e0b3bb5b3ecbb640fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of this instance to an equivalent <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a8cf10d2341ed01492506085688270c1e" title="A type representing a date and time value.">T:System.DateTime</a> using the specified culture-specific formatting information.  <a href="#a0f720ed592ad77e0b3bb5b3ecbb640fa">More...</a><br /></td></tr>
 <tr class="separator:a0f720ed592ad77e0b3bb5b3ecbb640fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acdd1863f4a0c30dc15cae222e2b3d379"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_i_convertible.html#acdd1863f4a0c30dc15cae222e2b3d379">ToString</a> (<a class="el" href="interface_system_1_1_i_format_provider.html">IFormatProvider</a> provider)</td></tr>
-<tr class="memdesc:acdd1863f4a0c30dc15cae222e2b3d379"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of this instance to an equivalent <a class="el" href="namespace_system.html#af5c85727c0f673ec3ac1350b8b52cf87a27118326006d3829667a400ad23d5d98">T:System.String</a> using the specified culture-specific formatting information.  <a href="#acdd1863f4a0c30dc15cae222e2b3d379">More...</a><br /></td></tr>
+<tr class="memdesc:acdd1863f4a0c30dc15cae222e2b3d379"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of this instance to an equivalent T:System.String using the specified culture-specific formatting information.  <a href="#acdd1863f4a0c30dc15cae222e2b3d379">More...</a><br /></td></tr>
 <tr class="separator:acdd1863f4a0c30dc15cae222e2b3d379"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea908830ca2ce00203d8897c5cb9f31c"><td class="memItemLeft" align="right" valign="top">object&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_i_convertible.html#aea908830ca2ce00203d8897c5cb9f31c">ToType</a> (<a class="el" href="class_system_1_1_type.html">Type</a> conversionType, <a class="el" href="interface_system_1_1_i_format_provider.html">IFormatProvider</a> provider)</td></tr>
 <tr class="memdesc:aea908830ca2ce00203d8897c5cb9f31c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the value of this instance to an <a class="el" href="namespace_system.html#a48979d2322a6e265fc61c924c8e40863a497031794414a552435f90151ac3b54b" title="A general type representing any reference or value type not explicitly represented by another TypeCod...">T:System.Object</a> of the specified T:System.Type that has an equivalent value, using the specified culture-specific formatting information.  <a href="#aea908830ca2ce00203d8897c5cb9f31c">More...</a><br /></td></tr>
@@ -518,14 +518,14 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Converts the value of this instance to an equivalent <a class="el" href="namespace_system.html#af5c85727c0f673ec3ac1350b8b52cf87a27118326006d3829667a400ad23d5d98">T:System.String</a> using the specified culture-specific formatting information. </p>
+<p>Converts the value of this instance to an equivalent T:System.String using the specified culture-specific formatting information. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">provider</td><td>An T:System.IFormatProvider interface implementation that supplies culture-specific formatting information. </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>A <a class="el" href="namespace_system.html#af5c85727c0f673ec3ac1350b8b52cf87a27118326006d3829667a400ad23d5d98">T:System.String</a> instance equivalent to the value of this instance.</dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>A T:System.String instance equivalent to the value of this instance.</dd></dl>
 
 <p>Implemented in <a class="el" href="class_system_1_1_string.html#a12750e55beac6d60c303a941ba094efb">System.String</a>, <a class="el" href="struct_system_1_1_date_time.html#a07ac9d6376c3eb5556b40292bd7983da">System.DateTime</a>, <a class="el" href="class_system_1_1_enum.html#a89c33000f9f18349d1a03ab3899ac8f9">System.Enum</a>, <a class="el" href="struct_system_1_1_decimal.html#ab848be4d670f6d9878bbf75b6dbe4322">System.Decimal</a>, <a class="el" href="struct_system_1_1_char.html#ad5654e7937272439e5cad61352127993">System.Char</a>, <a class="el" href="struct_system_1_1_double.html#a9c91e43e1f444121619c9a1d786b222e">System.Double</a>, <a class="el" href="struct_system_1_1_single.html#a24599b8e758a54f68aaa4379cc0a83ad">System.Single</a>, <a class="el" href="struct_system_1_1_byte.html#a73ffd114f519d9ece8ce4647242155af">System.Byte</a>, <a class="el" href="struct_system_1_1_int32.html#a7f8991e23986357dd1779c32ca8a2239">System.Int32</a>, <a class="el" href="struct_system_1_1_u_int32.html#aab90178fa2d98bd6c771ace36f43809a">System.UInt32</a>, <a class="el" href="struct_system_1_1_u_int64.html#acf462e15885ea1837f44d84399cf5810">System.UInt64</a>, <a class="el" href="struct_system_1_1_int64.html#a9af632d80ab7fc804c7cd5db78d90ca9">System.Int64</a>, <a class="el" href="struct_system_1_1_s_byte.html#a9c0a9c44cec27838eafb32a2b7b353e4">System.SByte</a>, <a class="el" href="struct_system_1_1_u_int16.html#aa938b098e09d0b261b955352bce78574">System.UInt16</a>, <a class="el" href="struct_system_1_1_int16.html#a6ee2532400e111ed0c33d064850d357a">System.Int16</a>, <a class="el" href="struct_system_1_1_boolean.html#a84e4390327cb5c3c5fc46b087f698da4">System.Boolean</a>, and <a class="el" href="class_system_1_1_d_b_null.html#a0a7750766bc916ec9685520b43fb48b6">System.DBNull</a>.</p>
 
@@ -659,7 +659,7 @@ Public Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this interface was generated from the following file:<ul>
-<li>System/<a class="el" href="_i_convertible_8cs_source.html">IConvertible.cs</a></li>
+<li>D:/All cs/System/<a class="el" href="_i_convertible_8cs_source.html">IConvertible.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

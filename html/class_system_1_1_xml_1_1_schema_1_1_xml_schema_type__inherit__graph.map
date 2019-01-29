@@ -1,0 +1,6 @@
+<map id="System.Xml.Schema.XmlSchemaType" name="System.Xml.Schema.XmlSchemaType">
+<area shape="rect" id="node1" title="The base class for all simple types and complex types." alt="" coords="111,80,357,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_complex_type.html" title="Represents the complexType element from XML Schema as specified by the World Wide Web Consortium (W3C..." alt="" coords="5,155,223,196"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_type.html" title="Represents the simpleType element for simple content from XML Schema as specified by the World Wide W..." alt="" coords="247,155,464,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="159,5,309,32"/>
+</map>

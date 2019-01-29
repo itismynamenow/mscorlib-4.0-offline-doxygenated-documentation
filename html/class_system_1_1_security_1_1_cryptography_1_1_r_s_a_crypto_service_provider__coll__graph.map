@@ -1,8 +1,5 @@
 <map id="System.Security.Cryptography.RSACryptoServiceProvider" name="System.Security.Cryptography.RSACryptoServiceProvider">
-<area shape="rect" id="node1" title="Performs asymmetric encryption and decryption using the implementation of the T:System...." alt="" coords="135,276,339,317"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="111,200,160,227"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_asymmetric_algorithm.html" title="Represents the abstract base class from which all implementations of asymmetric algorithms must inher..." alt="" coords="62,124,209,151"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,13,95,39"/>
-<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_key_sizes.html" title="Determines the set of valid key sizes for the symmetric cryptographic algorithms." alt="" coords="119,5,323,47"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_cryptography_1_1_i_csp_asymmetric_algorithm.html" title="Defines methods that allow an T:System.Security.Cryptography.AsymmetricAlgorithm class to enumerate k..." alt="" coords="185,200,358,227"/>
+<area shape="rect" id="node1" title="Performs asymmetric encryption and decryption using the implementation of the T:System...." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="15,5,64,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_cryptography_1_1_i_csp_asymmetric_algorithm.html" title="Defines methods that allow an T:System.Security.Cryptography.AsymmetricAlgorithm class to enumerate k..." alt="" coords="89,5,262,32"/>
 </map>

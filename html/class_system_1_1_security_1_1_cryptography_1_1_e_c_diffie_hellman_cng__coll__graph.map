@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ECDiffieHellmanCng" name="System.Security.Cryptography.ECDiffieHellmanCng">
+<area shape="rect" id="node1" title="Provides a Cryptography Next Generation (CNG) implementation of the Elliptic Curve Diffie&#45;Hellman (EC..." alt="" coords="53,109,257,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_e_c_diffie_hellman.html" title="Provides an abstract base class that Elliptic Curve Diffie&#45;Hellman (ECDH) algorithm implementations c..." alt="" coords="5,13,120,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_e_c_diffie_hellman_public_key.html" title="Provides an abstract base class from which all T:System.Security.Cryptography.ECDiffieHellmanCngPubli..." alt="" coords="145,5,349,47"/>
+</map>

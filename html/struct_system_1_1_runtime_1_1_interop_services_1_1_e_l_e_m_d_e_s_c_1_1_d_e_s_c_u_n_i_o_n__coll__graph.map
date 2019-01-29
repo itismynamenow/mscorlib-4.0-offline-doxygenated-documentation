@@ -1,7 +1,5 @@
 <map id="System.Runtime.InteropServices.ELEMDESC.DESCUNION" name="System.Runtime.InteropServices.ELEMDESC.DESCUNION">
-<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC.DESCUNION instead." alt="" coords="84,275,299,316"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_i_d_l_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.IDLDESC instead." alt="" coords="5,171,220,212"/>
-<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_p_a_r_a_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.PARAMDESC instead." alt="" coords="244,171,459,212"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="300,81,403,108"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="305,5,397,32"/>
+<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC.DESCUNION instead." alt="" coords="124,109,339,151"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_i_d_l_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.IDLDESC instead." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_p_a_r_a_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.PARAMDESC instead." alt="" coords="244,5,459,47"/>
 </map>

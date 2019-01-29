@@ -1,0 +1,5 @@
+<map id="System.Xml.Schema.XmlSchemaException" name="System.Xml.Schema.XmlSchemaException">
+<area shape="rect" id="node1" title="Returns detailed information about the schema exception." alt="" coords="57,109,274,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="5,13,131,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_object.html" title="Represents the root class for the Xml schema object model hierarchy and serves as a base class for cl..." alt="" coords="155,5,373,47"/>
+</map>

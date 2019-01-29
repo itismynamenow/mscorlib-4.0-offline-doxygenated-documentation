@@ -1,6 +1,0 @@
-<map id="System.Deployment.Internal.Isolation.StoreOperationUnpinDeployment" name="System.Deployment.Internal.Isolation.StoreOperationUnpinDeployment">
-<area shape="rect" id="node1" title=" " alt="" coords="93,185,356,227"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="5,89,108,115"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="11,5,103,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_definition_app_id.html" title=" " alt="" coords="185,81,376,123"/>
-</map>

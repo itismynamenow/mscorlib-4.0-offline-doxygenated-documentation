@@ -1,0 +1,5 @@
+<map id="System.CodeDom.CodeTypeMember" name="System.CodeDom.CodeTypeMember">
+<area shape="rect" id="node1" title="Provides a base class for a member of a type. Type members include fields, methods,..." alt="" coords="21,109,259,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_object.html" title="Provides a common base class for most Code Document Object Model (CodeDOM) objects." alt="" coords="5,13,96,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_code_dom_1_1_code_comment_statement_collection.html" title="Represents a collection of T:System.CodeDom.CodeCommentStatement objects." alt="" coords="120,5,339,47"/>
+</map>

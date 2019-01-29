@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.PerformanceCounter" name="System.Diagnostics.PerformanceCounter">
+<area shape="rect" id="node1" title="Represents a Windows NT performance counter component." alt="" coords="5,80,221,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_component.html" title="Provides the base implementation for the T:System.ComponentModel.IComponent interface and enables obj..." alt="" coords="7,5,95,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_component_model_1_1_i_support_initialize.html" title="Specifies that this object supports a simple, transacted notification for batch initialization." alt="" coords="119,5,236,32"/>
+</map>

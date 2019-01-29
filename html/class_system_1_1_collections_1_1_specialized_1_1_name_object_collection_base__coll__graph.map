@@ -1,0 +1,7 @@
+<map id="System.Collections.Specialized.NameObjectCollectionBase" name="System.Collections.Specialized.NameObjectCollectionBase">
+<area shape="rect" id="node1" title="Provides the abstract base class for a collection of associated T:System.String keys and T:System...." alt="" coords="43,155,254,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="51,80,134,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="159,80,251,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="275,80,435,107"/>
+</map>

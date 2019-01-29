@@ -1,0 +1,4 @@
+<map id="System.Security.Permissions.StorePermissionAttribute" name="System.Security.Permissions.StorePermissionAttribute">
+<area shape="rect" id="node1" title="Allows security actions for T:System.Security.Permissions.StorePermission to be applied to code using..." alt="" coords="5,80,204,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_code_access_security_attribute.html" title="Specifies the base attribute class for code access security." alt="" coords="8,5,201,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="System.Xml.XmlElement" name="System.Xml.XmlElement">
+<area shape="rect" id="node1" title="Represents an element." alt="" coords="635,75,800,101"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xml_document.html" title="Represents an XML document. You can use this class to load, validate, edit, add, and position XML in ..." alt="" coords="960,120,1136,147"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_linked_node.html" title="Gets the node immediately preceding or following this node." alt="" coords="385,5,495,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_xml_1_1_schema_1_1_i_xml_schema_info.html" title="Defines the post&#45;schema&#45;validation infoset of a validated XML node." alt="" coords="5,105,245,132"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="367,216,513,243"/>
+</map>

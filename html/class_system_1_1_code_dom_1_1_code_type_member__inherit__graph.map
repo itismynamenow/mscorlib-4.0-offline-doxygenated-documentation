@@ -1,0 +1,10 @@
+<map id="System.CodeDom.CodeTypeMember" name="System.CodeDom.CodeTypeMember">
+<area shape="rect" id="node1" title="Provides a base class for a member of a type. Type members include fields, methods,..." alt="" coords="144,177,381,203"/>
+<area shape="rect" id="node3" href="$class_system_1_1_code_dom_1_1_code_member_event.html" title="Represents a declaration for an event of a type." alt="" coords="452,5,661,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_code_dom_1_1_code_member_field.html" title="Represents a declaration for a field of a type." alt="" coords="452,71,661,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_code_dom_1_1_code_member_method.html" title="Represents a declaration for a method of a type." alt="" coords="452,136,661,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_code_dom_1_1_code_member_property.html" title="Represents a declaration for a property of a type." alt="" coords="452,201,661,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_code_dom_1_1_code_snippet_type_member.html" title="Represents a member of a type using a literal code fragment." alt="" coords="453,267,660,308"/>
+<area shape="rect" id="node8" href="$class_system_1_1_code_dom_1_1_code_type_declaration.html" title="Represents a type declaration for a class, structure, interface, or enumeration." alt="" coords="429,333,684,359"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_object.html" title="Provides a common base class for most Code Document Object Model (CodeDOM) objects." alt="" coords="5,177,96,203"/>
+</map>

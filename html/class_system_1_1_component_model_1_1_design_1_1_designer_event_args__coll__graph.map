@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.Design.DesignerEventArgs" name="System.ComponentModel.Design.DesignerEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.ComponentModel.Design.IDesignerEventService.DesignerCreated and E:Syst..." alt="" coords="23,109,243,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,13,87,39"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_component_model_1_1_design_1_1_i_designer_host.html" title="Provides an interface for managing designer transactions and components." alt="" coords="111,5,331,47"/>
+</map>

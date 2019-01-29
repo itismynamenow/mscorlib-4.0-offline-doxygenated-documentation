@@ -1,0 +1,7 @@
+<map id="System.ComponentModel.IContainer" name="System.ComponentModel.IContainer">
+<area shape="rect" id="node1" title="Provides functionality for containers. Containers are objects that logically contain zero or more com..." alt="" coords="143,56,377,83"/>
+<area shape="rect" id="node3" href="$class_system_1_1_component_model_1_1_container.html" title="Encapsulates zero or more components." alt="" coords="425,5,656,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_component_model_1_1_nested_container.html" title="Provides the base implementation for the T:System.ComponentModel.INestedContainer interface,..." alt="" coords="704,49,921,90"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_component_model_1_1_i_nested_container.html" title="Provides functionality for nested containers, which logically contain zero or more other components a..." alt="" coords="431,107,651,149"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,56,95,83"/>
+</map>

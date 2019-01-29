@@ -1,5 +1,0 @@
-<map id="System.Security.Policy.PEFileEvidenceFactory" name="System.Security.Policy.PEFileEvidenceFactory">
-<area shape="rect" id="node1" title=" " alt="" coords="87,109,290,151"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_policy_1_1_i_runtime_evidence_factory.html" title=" " alt="" coords="5,13,175,39"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="199,5,378,47"/>
-</map>

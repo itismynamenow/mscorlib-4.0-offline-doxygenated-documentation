@@ -1,5 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.ClientContextTerminatorSink" name="System.Runtime.Remoting.Messaging.ClientContextTerminatorSink">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,260,121"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_internal_sink.html" title=" " alt="" coords="27,5,118,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message_sink.html" title="Defines the interface for a message sink." alt="" coords="142,5,246,32"/>
-</map>

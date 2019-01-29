@@ -1,9 +1,0 @@
-<map id="System.Runtime.InteropServices.WindowsRuntime.DictionaryValueCollection&lt; TKey, TValue &gt;" name="System.Runtime.InteropServices.WindowsRuntime.DictionaryValueCollection&lt; TKey, TValue &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="1288,53,1563,109"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title=" " alt="" coords="1092,68,1239,95"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="787,61,975,102"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="455,93,580,120"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title="Exposes the enumerator, which supports a simple iteration over a collection of a specified type...." alt="" coords="149,94,337,135"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="604,140,763,167"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,43,100,69"/>
-</map>

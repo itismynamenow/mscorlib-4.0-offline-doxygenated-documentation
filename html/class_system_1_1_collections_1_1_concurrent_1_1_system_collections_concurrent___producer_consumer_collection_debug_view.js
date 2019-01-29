@@ -1,5 +1,0 @@
-var class_system_1_1_collections_1_1_concurrent_1_1_system_collections_concurrent___producer_consumer_collection_debug_view =
-[
-    [ "SystemCollectionsConcurrent_ProducerConsumerCollectionDebugView", "class_system_1_1_collections_1_1_concurrent_1_1_system_collections_concurrent___producer_consumer_collection_debug_view.html#a0cebef8a3f982b63da535179cf179d41", null ],
-    [ "Items", "class_system_1_1_collections_1_1_concurrent_1_1_system_collections_concurrent___producer_consumer_collection_debug_view.html#a7bead444075b77f5a120d0c468e67eb9", null ]
-];

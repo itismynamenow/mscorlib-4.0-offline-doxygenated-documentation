@@ -1,23 +1,5 @@
 <map id="System.Runtime.Remoting.Messaging.IMessageSink" name="System.Runtime.Remoting.Messaging.IMessageSink">
-<area shape="rect" id="node1" title="Defines the interface for a message sink." alt="" coords="5,627,188,668"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_async_work_item.html" title=" " alt="" coords="284,5,467,47"/>
-<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_cross_app_domain_sink.html" title=" " alt="" coords="272,71,479,112"/>
-<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_cross_context_channel.html" title=" " alt="" coords="272,136,479,177"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_formatter_sink.html" title="Marks a sink as a client formatter sink that serializes messages into a stream." alt="" coords="276,201,475,243"/>
-<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_server_async_reply_terminator_sink.html" title=" " alt="" coords="239,267,512,308"/>
-<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_remoting_1_1_com_redirection_proxy.html" title=" " alt="" coords="284,332,467,373"/>
-<area shape="rect" id="node8" href="$class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_synchronized_client_context_sink.html" title=" " alt="" coords="245,397,506,439"/>
-<area shape="rect" id="node9" href="$class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_synchronized_server_context_sink.html" title=" " alt="" coords="243,463,507,504"/>
-<area shape="rect" id="node10" href="$class_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_lease_sink.html" title=" " alt="" coords="284,528,467,569"/>
-<area shape="rect" id="node11" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_async_reply_sink.html" title=" " alt="" coords="283,593,468,635"/>
-<area shape="rect" id="node12" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_async_result.html" title="Encapsulates the results of an asynchronous operation on a delegate." alt="" coords="284,659,467,700"/>
-<area shape="rect" id="node13" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_client_async_reply_terminator_sink.html" title=" " alt="" coords="236,724,515,765"/>
-<area shape="rect" id="node14" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_client_context_terminator_sink.html" title=" " alt="" coords="248,789,503,831"/>
-<area shape="rect" id="node15" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_dispose_sink.html" title=" " alt="" coords="284,855,467,896"/>
-<area shape="rect" id="node16" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_envoy_terminator_sink.html" title=" " alt="" coords="270,920,481,961"/>
-<area shape="rect" id="node17" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_server_context_terminator_sink.html" title=" " alt="" coords="247,985,504,1027"/>
-<area shape="rect" id="node18" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_server_object_terminator_sink.html" title=" " alt="" coords="250,1051,501,1092"/>
-<area shape="rect" id="node19" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_stack_builder_sink.html" title=" " alt="" coords="281,1116,470,1157"/>
-<area shape="rect" id="node20" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_transition_call.html" title=" " alt="" coords="284,1181,467,1223"/>
-<area shape="rect" id="node21" href="$class_system_1_1_runtime_1_1_remoting_1_1_redirection_proxy.html" title=" " alt="" coords="284,1247,467,1288"/>
+<area shape="rect" id="node1" title="Defines the interface for a message sink." alt="" coords="5,39,188,80"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_formatter_sink.html" title="Marks a sink as a client formatter sink that serializes messages into a stream." alt="" coords="236,5,435,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_async_result.html" title="Encapsulates the results of an asynchronous operation on a delegate." alt="" coords="244,71,427,112"/>
 </map>

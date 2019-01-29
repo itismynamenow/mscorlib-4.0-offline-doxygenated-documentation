@@ -1,5 +1,11 @@
 var searchData=
 [
-  ['designernamespaceresolve',['DesignerNamespaceResolve',['../class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_metadata.html#a3bdc1b0fb1b67e8a4e54cf49756ea877',1,'System::Runtime::InteropServices::WindowsRuntime::WindowsRuntimeMetadata']]],
-  ['domainunload',['DomainUnload',['../interface_system_1_1___app_domain.html#aa5086b44ccf7f1348bf48453b4588d77',1,'System::_AppDomain']]]
+  ['collectionchanged',['CollectionChanged',['../class_system_1_1_collections_1_1_object_model_1_1_observable_collection.html#af4a88823a7235293115b1d962f2dcc12',1,'System.Collections.ObjectModel.ObservableCollection.CollectionChanged()'],['../class_system_1_1_collections_1_1_object_model_1_1_read_only_observable_collection.html#a93d19b63143f790217fae9769d0188fb',1,'System.Collections.ObjectModel.ReadOnlyObservableCollection.CollectionChanged()'],['../interface_system_1_1_collections_1_1_specialized_1_1_i_notify_collection_changed.html#aaabac28f3fd0eb9be7ffbf9ad93ea2bc',1,'System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged()']]],
+  ['componentadded',['ComponentAdded',['../interface_system_1_1_component_model_1_1_design_1_1_i_component_change_service.html#ad26fa2115414987f9b8cf49f98451625',1,'System::ComponentModel::Design::IComponentChangeService']]],
+  ['componentadding',['ComponentAdding',['../interface_system_1_1_component_model_1_1_design_1_1_i_component_change_service.html#ab7a7df48d6a3d3a67988bdd378c8578e',1,'System::ComponentModel::Design::IComponentChangeService']]],
+  ['componentchanged',['ComponentChanged',['../interface_system_1_1_component_model_1_1_design_1_1_i_component_change_service.html#a7da4a2902f51c1aa75c4413aecec2385',1,'System::ComponentModel::Design::IComponentChangeService']]],
+  ['componentchanging',['ComponentChanging',['../interface_system_1_1_component_model_1_1_design_1_1_i_component_change_service.html#a5b199daaf44a6128fce2c6be38c0b269',1,'System::ComponentModel::Design::IComponentChangeService']]],
+  ['componentremoved',['ComponentRemoved',['../interface_system_1_1_component_model_1_1_design_1_1_i_component_change_service.html#a422e529beea993d5d381552d6482e418',1,'System::ComponentModel::Design::IComponentChangeService']]],
+  ['componentremoving',['ComponentRemoving',['../interface_system_1_1_component_model_1_1_design_1_1_i_component_change_service.html#a98b392ea0ddcc0cc5beb42bb1e2b69d1',1,'System::ComponentModel::Design::IComponentChangeService']]],
+  ['componentrename',['ComponentRename',['../interface_system_1_1_component_model_1_1_design_1_1_i_component_change_service.html#a85b2cc67955fb40907dcd38d2c672047',1,'System::ComponentModel::Design::IComponentChangeService']]]
 ];

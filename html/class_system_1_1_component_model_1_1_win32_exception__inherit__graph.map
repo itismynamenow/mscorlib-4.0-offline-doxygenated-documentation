@@ -1,0 +1,9 @@
+<map id="System.ComponentModel.Win32Exception" name="System.ComponentModel.Win32Exception">
+<area shape="rect" id="node1" title="Throws an exception for a Win32 error code." alt="" coords="181,90,395,131"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_http_listener_exception.html" title="The exception that is thrown when an error occurs processing an HTTP request." alt="" coords="443,5,665,32"/>
+<area shape="rect" id="node5" href="$class_system_1_1_net_1_1_network_information_1_1_network_information_exception.html" title="The exception that is thrown when an error occurs while retrieving network information." alt="" coords="449,57,659,98"/>
+<area shape="rect" id="node6" href="$class_system_1_1_net_1_1_sockets_1_1_socket_exception.html" title="The exception that is thrown when a socket error occurs." alt="" coords="460,122,648,163"/>
+<area shape="rect" id="node7" href="$class_system_1_1_net_1_1_web_sockets_1_1_web_socket_exception.html" title="Represents an exception that occurred when performing an operation on a WebSocket connection." alt="" coords="453,187,655,229"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_external_exception.html" title="The base exception type for all COM interop exceptions and structured exception handling (SEH) except..." alt="" coords="5,72,133,99"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="23,123,115,149"/>
+</map>

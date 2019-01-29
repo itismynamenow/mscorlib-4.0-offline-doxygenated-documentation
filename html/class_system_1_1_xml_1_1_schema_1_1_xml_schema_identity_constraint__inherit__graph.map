@@ -1,0 +1,7 @@
+<map id="System.Xml.Schema.XmlSchemaIdentityConstraint" name="System.Xml.Schema.XmlSchemaIdentityConstraint">
+<area shape="rect" id="node1" title="Class for the identity constraints: key, keyref, and unique elements." alt="" coords="204,57,421,98"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_key.html" title="This class represents the key element from XMLSchema as specified by the World Wide Web Consortium (W..." alt="" coords="469,5,709,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_keyref.html" title="This class represents the keyref element from XMLSchema as specified by the World Wide Web Consortium..." alt="" coords="481,57,698,98"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_unique.html" title="Represents the unique element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="481,122,698,163"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="5,64,156,91"/>
+</map>

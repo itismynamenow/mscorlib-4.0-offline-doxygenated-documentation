@@ -1,5 +1,4 @@
 <map id="System.Globalization.EastAsianLunisolarCalendar" name="System.Globalization.EastAsianLunisolarCalendar">
-<area shape="rect" id="node1" title="Represents a calendar that divides time into months, days, years, and eras, and has dates that are ba..." alt="" coords="5,155,183,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="57,80,131,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="53,5,135,32"/>
+<area shape="rect" id="node1" title="Represents a calendar that divides time into months, days, years, and eras, and has dates that are ba..." alt="" coords="5,80,183,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="57,5,131,32"/>
 </map>

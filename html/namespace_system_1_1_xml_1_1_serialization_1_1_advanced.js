@@ -1,0 +1,5 @@
+var namespace_system_1_1_xml_1_1_serialization_1_1_advanced =
+[
+    [ "SchemaImporterExtension", "class_system_1_1_xml_1_1_serialization_1_1_advanced_1_1_schema_importer_extension.html", "class_system_1_1_xml_1_1_serialization_1_1_advanced_1_1_schema_importer_extension" ],
+    [ "SchemaImporterExtensionCollection", "class_system_1_1_xml_1_1_serialization_1_1_advanced_1_1_schema_importer_extension_collection.html", "class_system_1_1_xml_1_1_serialization_1_1_advanced_1_1_schema_importer_extension_collection" ]
+];

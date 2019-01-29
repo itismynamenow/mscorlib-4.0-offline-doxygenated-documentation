@@ -1,0 +1,4 @@
+<map id="System.HttpStyleUriParser" name="System.HttpStyleUriParser">
+<area shape="rect" id="node1" title="A customizable parser based on the HTTP scheme." alt="" coords="5,80,184,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_uri_parser.html" title="Parses a new URI scheme. This is an abstract class." alt="" coords="57,5,133,32"/>
+</map>

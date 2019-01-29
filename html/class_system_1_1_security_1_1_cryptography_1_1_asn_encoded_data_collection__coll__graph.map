@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.AsnEncodedDataCollection" name="System.Security.Cryptography.AsnEncodedDataCollection">
+<area shape="rect" id="node1" title="Represents a collection of T:System.Security.Cryptography.AsnEncodedData objects. This class cannot b..." alt="" coords="5,155,209,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="106,80,189,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="60,5,155,32"/>
+</map>

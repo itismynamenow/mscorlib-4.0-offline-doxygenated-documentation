@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.IO.DirectoryInfo Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.IO.DirectoryInfo Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -100,13 +100,13 @@ $(document).ready(function(){initNavTree('class_system_1_1_i_o_1_1_directory_inf
 <div class="dynheader">
 Inheritance diagram for System.IO.DirectoryInfo:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_i_o_1_1_directory_info__inherit__graph.svg" width="270" height="187"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_i_o_1_1_directory_info__inherit__graph.svg" width="171" height="112"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for System.IO.DirectoryInfo:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_i_o_1_1_directory_info__coll__graph.svg" width="270" height="187"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_i_o_1_1_directory_info__coll__graph.svg" width="171" height="112"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -528,7 +528,7 @@ Additional Inherited Members</h2></td></tr>
   <table class="exception">
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The directory contains a read-only file.</td></tr>
     <tr><td class="paramname">T:System.IO.DirectoryNotFoundException</td><td>The directory described by this T:System.IO.DirectoryInfo object does not exist or could not be found.</td></tr>
-    <tr><td class="paramname">T:System.IO.IOException</td><td>The directory is not empty. -or-The directory is the application's current working directory.-or-There is an open handle on the directory, and the operating system is <a class="el" href="namespace_windows.html">Windows</a> XP or earlier. This open handle can result from enumerating directories. For more information, see How to: Enumerate Directories and Files.</td></tr>
+    <tr><td class="paramname">T:System.IO.IOException</td><td>The directory is not empty. -or-The directory is the application's current working directory.-or-There is an open handle on the directory, and the operating system is Windows XP or earlier. This open handle can result from enumerating directories. For more information, see How to: Enumerate Directories and Files.</td></tr>
     <tr><td class="paramname">T:System.Security.SecurityException</td><td>The caller does not have the required permission. </td></tr>
   </table>
   </dd>
@@ -567,7 +567,7 @@ Additional Inherited Members</h2></td></tr>
   <table class="exception">
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The directory contains a read-only file.</td></tr>
     <tr><td class="paramname">T:System.IO.DirectoryNotFoundException</td><td>The directory described by this T:System.IO.DirectoryInfo object does not exist or could not be found.</td></tr>
-    <tr><td class="paramname">T:System.IO.IOException</td><td>The directory is read-only.-or- The directory contains one or more files or subdirectories and <em>recursive</em>  is <code>false</code>.-or-The directory is the application's current working directory. -or-There is an open handle on the directory or on one of its files, and the operating system is <a class="el" href="namespace_windows.html">Windows</a> XP or earlier. This open handle can result from enumerating directories and files. For more information, see How to: Enumerate Directories and Files.</td></tr>
+    <tr><td class="paramname">T:System.IO.IOException</td><td>The directory is read-only.-or- The directory contains one or more files or subdirectories and <em>recursive</em>  is <code>false</code>.-or-The directory is the application's current working directory. -or-There is an open handle on the directory or on one of its files, and the operating system is Windows XP or earlier. This open handle can result from enumerating directories and files. For more information, see How to: Enumerate Directories and Files.</td></tr>
     <tr><td class="paramname">T:System.Security.SecurityException</td><td>The caller does not have the required permission. </td></tr>
   </table>
   </dd>
@@ -944,7 +944,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">T:System.SystemException</td><td>The directory could not be found or modified.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The current process does not have access to open the directory.</td></tr>
     <tr><td class="paramname">T:System.IO.IOException</td><td>An I/O error occurred while opening the directory.</td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_microsoft.html">Microsoft</a> <a class="el" href="namespace_windows.html">Windows</a> 2000 or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Microsoft Windows 2000 or later.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The directory is read-only.-or- This operation is not supported on the current platform.-or- The caller does not have the required permission.</td></tr>
   </table>
   </dd>
@@ -977,7 +977,7 @@ Additional Inherited Members</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>A T:System.Security.AccessControl.DirectorySecurity object that encapsulates the access control rules for the file described by the <em>path</em>  parameter.ExceptionsException typeCondition T:System.SystemException The directory could not be found or modified. T:System.UnauthorizedAccessException The current process does not have access to open the directory. T:System.IO.IOException An I/O error occurred while opening the directory. T:System.PlatformNotSupportedException The current operating system is not <a class="el" href="namespace_microsoft.html">Microsoft</a> <a class="el" href="namespace_windows.html">Windows</a> 2000 or later. T:System.UnauthorizedAccessException The directory is read-only.-or- This operation is not supported on the current platform.-or- The caller does not have the required permission.</dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>A T:System.Security.AccessControl.DirectorySecurity object that encapsulates the access control rules for the file described by the <em>path</em>  parameter.ExceptionsException typeCondition T:System.SystemException The directory could not be found or modified. T:System.UnauthorizedAccessException The current process does not have access to open the directory. T:System.IO.IOException An I/O error occurred while opening the directory. T:System.PlatformNotSupportedException The current operating system is not Microsoft Windows 2000 or later. T:System.UnauthorizedAccessException The directory is read-only.-or- This operation is not supported on the current platform.-or- The caller does not have the required permission.</dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="_directory_info_8cs_source.html#l00266">266</a> of file <a class="el" href="_directory_info_8cs_source.html">DirectoryInfo.cs</a>.</p>
 
@@ -1400,7 +1400,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">T:System.ArgumentNullException</td><td>The <em>directorySecurity</em>  parameter is <code>null</code>.</td></tr>
     <tr><td class="paramname">T:System.SystemException</td><td>The file could not be found or modified.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The current process does not have access to open the file.</td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_microsoft.html">Microsoft</a> <a class="el" href="namespace_windows.html">Windows</a> 2000 or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Microsoft Windows 2000 or later.</td></tr>
   </table>
   </dd>
 </dl>
@@ -1573,7 +1573,7 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System.IO/<a class="el" href="_directory_info_8cs_source.html">DirectoryInfo.cs</a></li>
+<li>D:/All cs/System.IO/<a class="el" href="_directory_info_8cs_source.html">DirectoryInfo.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

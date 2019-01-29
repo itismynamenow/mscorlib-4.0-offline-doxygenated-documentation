@@ -1,7 +1,7 @@
 <map id="System.Security.Cryptography.SHA256" name="System.Security.Cryptography.SHA256">
-<area shape="rect" id="node1" title="Computes the T:System.Security.Cryptography.SHA256 hash for the input data." alt="" coords="5,229,209,271"/>
-<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_s_h_a256_managed.html" title="Computes the T:System.Security.Cryptography.SHA256 hash for the input data using the managed library." alt="" coords="5,319,209,360"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_hash_algorithm.html" title="Represents the base class from which all implementations of cryptographic hash algorithms must derive..." alt="" coords="54,155,161,181"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_cryptography_1_1_i_crypto_transform.html" title="Defines the basic operations of cryptographic transformations." alt="" coords="97,80,217,107"/>
+<area shape="rect" id="node1" title="Computes the T:System.Security.Cryptography.SHA256 hash for the input data." alt="" coords="160,71,364,112"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_s_h_a256_cng.html" title="Provides a Cryptography Next Generation (CNG) implementation of the Secure Hash Algorithm (SHA) for 2..." alt="" coords="412,5,616,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_s_h_a256_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) implementation of the T:S..." alt="" coords="412,71,616,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_s_h_a256_managed.html" title="Computes the T:System.Security.Cryptography.SHA256 hash for the input data using the managed library." alt="" coords="412,136,616,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_hash_algorithm.html" title="Represents the base class from which all implementations of cryptographic hash algorithms must derive..." alt="" coords="5,78,112,105"/>
 </map>

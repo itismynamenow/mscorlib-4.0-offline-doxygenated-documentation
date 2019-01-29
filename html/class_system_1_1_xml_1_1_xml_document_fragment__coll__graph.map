@@ -1,0 +1,6 @@
+<map id="System.Xml.XmlDocumentFragment" name="System.Xml.XmlDocumentFragment">
+<area shape="rect" id="node1" title="Represents a lightweight object that is useful for tree insert operations." alt="" coords="5,379,236,405"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="87,200,160,227"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xml_document.html" title="Represents an XML document. You can use this class to load, validate, edit, add, and position XML in ..." alt="" coords="158,289,334,316"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="50,29,197,55"/>
+</map>

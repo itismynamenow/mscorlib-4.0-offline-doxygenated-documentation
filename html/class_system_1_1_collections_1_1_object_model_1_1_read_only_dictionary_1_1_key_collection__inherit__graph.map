@@ -1,11 +1,8 @@
 <map id="System.Collections.ObjectModel.ReadOnlyDictionary&lt; TKey, TValue &gt;.KeyCollection" name="System.Collections.ObjectModel.ReadOnlyDictionary&lt; TKey, TValue &gt;.KeyCollection">
-<area shape="rect" id="node1" title="Represents a read&#45;only collection of the keys of a T:System.Collections.ObjectModel...." alt="" coords="1269,79,1477,135"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="361,43,497,69"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,93,100,120"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="671,93,753,120"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title="Represents a strongly&#45;typed, read&#45;only collection of elements." alt="" coords="777,144,965,200"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title="Exposes the enumerator, which supports a simple iteration over a collection of a specified type...." alt="" coords="149,195,337,237"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="1072,211,1220,237"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="1077,145,1215,186"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="521,197,647,224"/>
+<area shape="rect" id="node1" title="Represents a read&#45;only collection of the keys of a T:System.Collections.ObjectModel...." alt="" coords="344,63,552,119"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="154,27,290,53"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,27,100,53"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="181,77,263,104"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="148,128,296,155"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="153,179,291,221"/>
 </map>

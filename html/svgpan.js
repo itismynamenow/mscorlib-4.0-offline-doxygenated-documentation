@@ -204,11 +204,11 @@ function handleMouseWheel(evt)
     var delta;
     if (evt.wheelDelta)
     {
-      delta = evt.wheelDelta / 1200; // Opera/Chrome/IE9/Safari
+      delta = evt.wheelDelta / 7200; // Opera/Chrome/IE9/Safari
     }
     else
     {
-      delta = evt.detail / -30; // Mozilla
+      delta = evt.detail / -180; // Mozilla
     }
     var svgDoc = evt.target.ownerDocument;
     var g = svgDoc.getElementById("viewport");

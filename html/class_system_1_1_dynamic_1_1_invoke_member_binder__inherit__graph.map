@@ -1,0 +1,4 @@
+<map id="System.Dynamic.InvokeMemberBinder" name="System.Dynamic.InvokeMemberBinder">
+<area shape="rect" id="node1" title="Represents the invoke member dynamic operation at the call site, providing the binding semantic and t..." alt="" coords="5,80,215,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_dynamic_1_1_dynamic_meta_object_binder.html" title="The dynamic call site binder that participates in the T:System.Dynamic.DynamicMetaObject binding prot..." alt="" coords="21,5,199,32"/>
+</map>

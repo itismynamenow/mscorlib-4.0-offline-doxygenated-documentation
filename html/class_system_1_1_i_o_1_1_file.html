@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.IO.File Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.IO.File Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -1044,7 +1044,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.IO.FileNotFoundException</td><td>The file described by the <em>path</em>  parameter could not be found.</td></tr>
     <tr><td class="paramname">T:System.IO.IOException</td><td>An I/O error occurred while opening the file. For example, the encrypted file is already open. -or-This operation is not supported on the current platform.</td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td>The file system is not NTFS.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The <em>path</em>  parameter specified a file that is read-only.-or- This operation is not supported on the current platform.-or- The <em>path</em>  parameter specified a directory.-or- The caller does not have the required permission.</td></tr>
   </table>
@@ -1091,7 +1091,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.ArgumentException</td><td><em>path</em>  is a zero-length string, contains only white space, or contains one or more invalid characters as defined by F:System.IO.Path.InvalidPathChars. </td></tr>
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>path</em>  is <code>null</code>. </td></tr>
     <tr><td class="paramname">T:System.IO.DirectoryNotFoundException</td><td>The specified path is invalid (for example, it is on an unmapped drive). </td></tr>
-    <tr><td class="paramname">T:System.IO.IOException</td><td>The specified file is in use. -or-There is an open handle on the file, and the operating system is <a class="el" href="namespace_windows.html">Windows</a> XP or earlier. This open handle can result from enumerating directories and files. For more information, see How to: Enumerate Directories and Files.</td></tr>
+    <tr><td class="paramname">T:System.IO.IOException</td><td>The specified file is in use. -or-There is an open handle on the file, and the operating system is Windows XP or earlier. This open handle can result from enumerating directories and files. For more information, see How to: Enumerate Directories and Files.</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td><em>path</em>  is in an invalid format. </td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters. </td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission.-or- The file is an executable file that is in use.-or- <em>path</em>  is a directory.-or- <em>path</em>  specified a read-only file. </td></tr>
@@ -1142,7 +1142,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.IO.FileNotFoundException</td><td>The file described by the <em>path</em>  parameter could not be found.</td></tr>
     <tr><td class="paramname">T:System.IO.IOException</td><td>An I/O error occurred while opening the file.-or-This operation is not supported on the current platform.</td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td>The file system is not NTFS.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The <em>path</em>  parameter specified a file that is read-only.-or- This operation is not supported on the current platform.-or- The <em>path</em>  parameter specified a directory.-or- The caller does not have the required permission.</td></tr>
   </table>
@@ -2482,7 +2482,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.IO.FileNotFoundException</td><td>The file described by the current T:System.IO.FileInfo object could not be found.-or-The file described by the <em>destinationBackupFileName</em>  parameter could not be found. </td></tr>
     <tr><td class="paramname">T:System.IO.IOException</td><td>An I/O error occurred while opening the file.- or -The <em>sourceFileName</em>  and <em>destinationFileName</em>  parameters specify the same file.</td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The operating system is <a class="el" href="namespace_windows.html">Windows</a> 98 Second Edition or earlier and the files system is not NTFS.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The operating system is Windows 98 Second Edition or earlier and the files system is not NTFS.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The <em>sourceFileName</em>  or <em>destinationFileName</em>  parameter specifies a file that is read-only.-or- This operation is not supported on the current platform.-or- Source or destination parameters specify a directory instead of a file.-or- The caller does not have the required permission.</td></tr>
   </table>
   </dd>
@@ -2556,7 +2556,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.IO.FileNotFoundException</td><td>The file described by the current T:System.IO.FileInfo object could not be found.-or-The file described by the <em>destinationBackupFileName</em>  parameter could not be found. </td></tr>
     <tr><td class="paramname">T:System.IO.IOException</td><td>An I/O error occurred while opening the file.- or -The <em>sourceFileName</em>  and <em>destinationFileName</em>  parameters specify the same file.</td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The operating system is <a class="el" href="namespace_windows.html">Windows</a> 98 Second Edition or earlier and the files system is not NTFS.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The operating system is Windows 98 Second Edition or earlier and the files system is not NTFS.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The <em>sourceFileName</em>  or <em>destinationFileName</em>  parameter specifies a file that is read-only.-or- This operation is not supported on the current platform.-or- Source or destination parameters specify a directory instead of a file.-or- The caller does not have the required permission.</td></tr>
   </table>
   </dd>
@@ -3479,7 +3479,7 @@ Static Public Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System.IO/<a class="el" href="_file_8cs_source.html">File.cs</a></li>
+<li>D:/All cs/System.IO/<a class="el" href="_file_8cs_source.html">File.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

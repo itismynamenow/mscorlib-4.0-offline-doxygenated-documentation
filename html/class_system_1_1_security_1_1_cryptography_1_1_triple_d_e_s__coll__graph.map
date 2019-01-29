@@ -1,6 +1,4 @@
 <map id="System.Security.Cryptography.TripleDES" name="System.Security.Cryptography.TripleDES">
-<area shape="rect" id="node1" title="Represents the base class for Triple Data Encryption Standard algorithms from which all T:System...." alt="" coords="33,229,237,271"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="65,153,205,180"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,13,95,39"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_key_sizes.html" title="Determines the set of valid key sizes for the symmetric cryptographic algorithms." alt="" coords="119,5,323,47"/>
+<area shape="rect" id="node1" title="Represents the base class for Triple Data Encryption Standard algorithms from which all T:System...." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="37,5,177,32"/>
 </map>

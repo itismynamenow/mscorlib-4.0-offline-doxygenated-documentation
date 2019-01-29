@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Lazy&lt; T &gt; Class Template Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Lazy&lt; T &gt; Class Template Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -86,7 +86,6 @@ $(document).ready(function(){initNavTree('class_system_1_1_lazy.html','');});
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#properties">Properties</a> &#124;
 <a href="class_system_1_1_lazy-members.html">List of all members</a>  </div>
@@ -97,6 +96,12 @@ $(document).ready(function(){initNavTree('class_system_1_1_lazy.html','');});
 
 <p>Provides support for lazy initialization.  
  <a href="class_system_1_1_lazy.html#details">More...</a></p>
+<div class="dynheader">
+Inheritance diagram for System.Lazy&lt; T &gt;:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_lazy__inherit__graph.svg" width="424" height="127"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -109,13 +114,13 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a355c6ab8626ba365b3beca296b6bee40"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_lazy.html#a355c6ab8626ba365b3beca296b6bee40">Lazy?</a> (bool isThreadSafe)</td></tr>
 <tr class="memdesc:a355c6ab8626ba365b3beca296b6bee40"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the T:System.Lazy`1 class. When lazy initialization occurs, the default constructor of the target type and the specified initialization mode are used.  <a href="#a355c6ab8626ba365b3beca296b6bee40">More...</a><br /></td></tr>
 <tr class="separator:a355c6ab8626ba365b3beca296b6bee40"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9245ee53b09551c868f05e704c2fd833"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_lazy.html#a9245ee53b09551c868f05e704c2fd833">Lazy</a> (<a class="el" href="namespace_system_1_1_threading.html#ad31a0fcf4e3d5edea8f60b5e324fec60">LazyThreadSafetyMode</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a15d61712450a686a7f365adf4fef581f">mode</a>)</td></tr>
+<tr class="memitem:a9245ee53b09551c868f05e704c2fd833"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_lazy.html#a9245ee53b09551c868f05e704c2fd833">Lazy</a> (<a class="el" href="namespace_system_1_1_threading.html#ad31a0fcf4e3d5edea8f60b5e324fec60">LazyThreadSafetyMode</a> mode)</td></tr>
 <tr class="memdesc:a9245ee53b09551c868f05e704c2fd833"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the T:System.Lazy`1 class that uses the default constructor of <em>T</em>  and the specified thread-safety mode.  <a href="#a9245ee53b09551c868f05e704c2fd833">More...</a><br /></td></tr>
 <tr class="separator:a9245ee53b09551c868f05e704c2fd833"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a92f7fb7eef505efbcefc6ca97bc90813"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_lazy.html#a92f7fb7eef505efbcefc6ca97bc90813">Lazy?</a> (Func&lt; <a class="el" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1ab9ece18c950afbfa6b0fdbfa4ff731d3">T</a> &gt; valueFactory, bool isThreadSafe)</td></tr>
 <tr class="memdesc:a92f7fb7eef505efbcefc6ca97bc90813"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the T:System.Lazy`1 class. When lazy initialization occurs, the specified initialization function and initialization mode are used.  <a href="#a92f7fb7eef505efbcefc6ca97bc90813">More...</a><br /></td></tr>
 <tr class="separator:a92f7fb7eef505efbcefc6ca97bc90813"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac732b667d5dd1542194c7c02e5263c1d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_lazy.html#ac732b667d5dd1542194c7c02e5263c1d">Lazy</a> (Func&lt; <a class="el" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1ab9ece18c950afbfa6b0fdbfa4ff731d3">T</a> &gt; valueFactory, <a class="el" href="namespace_system_1_1_threading.html#ad31a0fcf4e3d5edea8f60b5e324fec60">LazyThreadSafetyMode</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a15d61712450a686a7f365adf4fef581f">mode</a>)</td></tr>
+<tr class="memitem:ac732b667d5dd1542194c7c02e5263c1d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_lazy.html#ac732b667d5dd1542194c7c02e5263c1d">Lazy</a> (Func&lt; <a class="el" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1ab9ece18c950afbfa6b0fdbfa4ff731d3">T</a> &gt; valueFactory, <a class="el" href="namespace_system_1_1_threading.html#ad31a0fcf4e3d5edea8f60b5e324fec60">LazyThreadSafetyMode</a> mode)</td></tr>
 <tr class="memdesc:ac732b667d5dd1542194c7c02e5263c1d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the T:System.Lazy`1 class that uses the specified initialization function and thread-safety mode.  <a href="#ac732b667d5dd1542194c7c02e5263c1d">More...</a><br /></td></tr>
 <tr class="separator:ac732b667d5dd1542194c7c02e5263c1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac81ba22f7f796619097558092f030d86"><td class="memItemLeft" align="right" valign="top">override string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_lazy.html#ac81ba22f7f796619097558092f030d86">ToString</a> ()</td></tr>
@@ -443,7 +448,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System/<a class="el" href="_lazy_8cs_source.html">Lazy.cs</a></li>
+<li>D:/All cs/System/<a class="el" href="_lazy_8cs_source.html">Lazy.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

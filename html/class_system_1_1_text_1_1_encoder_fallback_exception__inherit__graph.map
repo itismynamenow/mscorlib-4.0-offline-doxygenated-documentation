@@ -1,8 +1,4 @@
 <map id="System.Text.EncoderFallbackException" name="System.Text.EncoderFallbackException">
-<area shape="rect" id="node1" title="The exception that is thrown when an encoder fallback operation fails. This class cannot be inherited..." alt="" coords="5,304,203,345"/>
-<area shape="rect" id="node2" href="$class_system_1_1_argument_exception.html" title="The exception that is thrown when one of the arguments provided to a method is not valid." alt="" coords="36,229,172,256"/>
-<area shape="rect" id="node3" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="92,155,217,181"/>
-<area shape="rect" id="node4" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="115,80,195,107"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="9,5,101,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="125,5,211,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when an encoder fallback operation fails. This class cannot be inherited..." alt="" coords="5,80,203,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_argument_exception.html" title="The exception that is thrown when one of the arguments provided to a method is not valid." alt="" coords="36,5,172,32"/>
 </map>

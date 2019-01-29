@@ -1,0 +1,7 @@
+<map id="System.Configuration.SettingsBase" name="System.Configuration.SettingsBase">
+<area shape="rect" id="node1" title="Provides the base class used to support user property settings." alt="" coords="345,111,573,138"/>
+<area shape="rect" id="node2" href="$class_system_1_1_configuration_1_1_settings_context.html" title="Provides contextual information that the provider can use when persisting settings." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_configuration_1_1_settings_provider_collection.html" title="Represents a collection of application settings providers." alt="" coords="5,71,204,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_configuration_1_1_settings_property_collection.html" title="Contains a collection of T:System.Configuration.SettingsProperty objects." alt="" coords="5,136,204,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_configuration_1_1_settings_property_value_collection.html" title="Contains a collection of settings property values that map T:System.Configuration...." alt="" coords="5,201,204,243"/>
+</map>

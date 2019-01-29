@@ -1,6 +1,8 @@
 <map id="System.Collections.DictionaryBase" name="System.Collections.DictionaryBase">
-<area shape="rect" id="node1" title="Provides the abstract base class for a strongly typed collection of key/value pairs." alt="" coords="5,229,232,256"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="77,155,160,181"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="141,80,224,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="57,5,151,32"/>
+<area shape="rect" id="node1" title="Provides the abstract base class for a strongly typed collection of key/value pairs." alt="" coords="409,46,636,73"/>
+<area shape="rect" id="node5" href="$class_system_1_1_diagnostics_1_1_instance_data_collection.html" title="Provides a strongly typed collection of T:System.Diagnostics.InstanceData objects." alt="" coords="684,5,876,47"/>
+<area shape="rect" id="node6" href="$class_system_1_1_diagnostics_1_1_instance_data_collection_collection.html" title="Provides a strongly typed collection of T:System.Diagnostics.InstanceDataCollection objects." alt="" coords="684,71,876,112"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="279,46,361,73"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="148,97,231,123"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,46,100,73"/>
 </map>

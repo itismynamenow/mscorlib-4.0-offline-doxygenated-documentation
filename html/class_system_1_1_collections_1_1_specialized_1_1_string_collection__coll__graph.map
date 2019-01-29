@@ -1,0 +1,6 @@
+<map id="System.Collections.Specialized.StringCollection" name="System.Collections.Specialized.StringCollection">
+<area shape="rect" id="node1" title="Represents a collection of strings." alt="" coords="5,229,216,271"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="87,155,134,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="135,80,217,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="50,5,145,32"/>
+</map>

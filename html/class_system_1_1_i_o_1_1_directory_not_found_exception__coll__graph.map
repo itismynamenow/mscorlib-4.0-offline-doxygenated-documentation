@@ -1,8 +1,4 @@
 <map id="System.IO.DirectoryNotFoundException" name="System.IO.DirectoryNotFoundException">
-<area shape="rect" id="node1" title="The exception that is thrown when part of a file or directory cannot be found." alt="" coords="9,304,205,345"/>
-<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_i_o_exception.html" title="The exception that is thrown when an I/O error occurs." alt="" coords="61,229,154,256"/>
-<area shape="rect" id="node3" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="45,155,170,181"/>
-<area shape="rect" id="node4" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="67,80,147,107"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,5,97,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="121,5,208,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when part of a file or directory cannot be found." alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_i_o_exception.html" title="The exception that is thrown when an I/O error occurs." alt="" coords="57,5,150,32"/>
 </map>

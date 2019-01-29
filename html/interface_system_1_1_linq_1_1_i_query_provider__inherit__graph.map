@@ -1,0 +1,4 @@
+<map id="System.Linq.IQueryProvider" name="System.Linq.IQueryProvider">
+<area shape="rect" id="node1" title="Defines methods to create and execute queries that are described by an T:System.Linq...." alt="" coords="31,5,214,32"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_enumerable_query.html" title="Represents an T:System.Collections.Generic.IEnumerable`1 collection as an T:System...." alt="" coords="5,80,240,107"/>
+</map>

@@ -1,13 +1,10 @@
 <map id="System.String" name="System.String">
-<area shape="rect" id="node1" title="Represents text as a sequence of UTF&#45;16 code units.To browse the .NET Framework source code for this ..." alt="" coords="525,157,631,184"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="353,5,448,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="359,56,442,83"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="357,107,445,133"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="353,157,448,184"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="325,208,476,235"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="39,208,182,235"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="329,259,472,285"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,259,216,285"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="331,309,470,336"/>
-<area shape="rect" id="node11" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="29,309,192,336"/>
+<area shape="rect" id="node1" title="Represents text as a sequence of UTF&#45;16 code units.To browse the .NET Framework source code for this ..." alt="" coords="204,157,309,184"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="33,5,128,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="39,56,122,83"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="37,107,125,133"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="33,157,128,184"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="5,208,156,235"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="9,259,152,285"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="11,309,150,336"/>
 </map>

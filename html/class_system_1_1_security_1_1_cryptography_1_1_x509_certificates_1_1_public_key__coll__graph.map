@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.X509Certificates.PublicKey" name="System.Security.Cryptography.X509Certificates.PublicKey">
+<area shape="rect" id="node1" title="Represents a certificate&#39;s public key information. This class cannot be inherited." alt="" coords="124,124,328,165"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_asn_encoded_data.html" title="Represents Abstract Syntax Notation One (ASN.1)&#45;encoded data." alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_oid.html" title="Represents a cryptographic object identifier. This class cannot be inherited." alt="" coords="234,13,458,39"/>
+</map>

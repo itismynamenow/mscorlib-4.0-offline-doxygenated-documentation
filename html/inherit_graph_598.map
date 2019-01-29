@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___event_builder.html" title="Exposes the T:System.Reflection.Emit.EventBuilder class to unmanaged code." alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_emit_1_1_event_builder.html" title="Defines events for a class." alt="" coords="268,5,463,47"/>
-</map>

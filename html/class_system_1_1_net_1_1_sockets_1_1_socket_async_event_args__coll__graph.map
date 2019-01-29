@@ -1,0 +1,8 @@
+<map id="System.Net.Sockets.SocketAsyncEventArgs" name="System.Net.Sockets.SocketAsyncEventArgs">
+<area shape="rect" id="node1" title="Represents an asynchronous socket operation." alt="" coords="585,99,773,141"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="203,5,285,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,77,95,104"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_sockets_1_1_socket.html" title="Implements the Berkeley sockets interface." alt="" coords="150,107,338,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="179,157,309,184"/>
+<area shape="rect" id="node6" href="$struct_system_1_1_net_1_1_sockets_1_1_i_p_packet_information.html" title="Presents the packet information from a call to M:System.Net.Sockets.Socket.ReceiveMessageFrom(System...." alt="" coords="144,209,344,250"/>
+</map>

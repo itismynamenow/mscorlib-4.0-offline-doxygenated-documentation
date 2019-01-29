@@ -1,0 +1,7 @@
+<map id="System.ComponentModel.PropertyDescriptorCollection" name="System.ComponentModel.PropertyDescriptorCollection">
+<area shape="rect" id="node1" title="Represents a collection of T:System.ComponentModel.PropertyDescriptor objects." alt="" coords="5,233,231,275"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="43,81,126,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="57,157,104,184"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="129,157,211,184"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="92,5,187,32"/>
+</map>

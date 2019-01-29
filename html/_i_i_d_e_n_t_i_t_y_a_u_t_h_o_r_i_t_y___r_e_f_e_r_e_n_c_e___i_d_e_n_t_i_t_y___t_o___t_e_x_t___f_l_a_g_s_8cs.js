@@ -1,6 +1,0 @@
-var _i_i_d_e_n_t_i_t_y_a_u_t_h_o_r_i_t_y___r_e_f_e_r_e_n_c_e___i_d_e_n_t_i_t_y___t_o___t_e_x_t___f_l_a_g_s_8cs =
-[
-    [ "IIDENTITYAUTHORITY_REFERENCE_IDENTITY_TO_TEXT_FLAGS", "_i_i_d_e_n_t_i_t_y_a_u_t_h_o_r_i_t_y___r_e_f_e_r_e_n_c_e___i_d_e_n_t_i_t_y___t_o___t_e_x_t___f_l_a_g_s_8cs.html#adfba12fe323a2d191918ff9f13c42cd9", [
-      [ "IIDENTITYAUTHORITY_REFERENCE_IDENTITY_TO_TEXT_FLAG_CANONICAL", "_i_i_d_e_n_t_i_t_y_a_u_t_h_o_r_i_t_y___r_e_f_e_r_e_n_c_e___i_d_e_n_t_i_t_y___t_o___t_e_x_t___f_l_a_g_s_8cs.html#adfba12fe323a2d191918ff9f13c42cd9a96748132b401944b16f778cb933a636f", null ]
-    ] ]
-];

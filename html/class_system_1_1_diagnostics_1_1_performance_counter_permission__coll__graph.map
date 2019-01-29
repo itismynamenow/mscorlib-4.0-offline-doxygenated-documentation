@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.PerformanceCounterPermission" name="System.Diagnostics.PerformanceCounterPermission">
+<area shape="rect" id="node1" title="Allows control of code access permissions for T:System.Diagnostics.PerformanceCounter." alt="" coords="5,80,221,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_resource_permission_base.html" title="Allows control of code access security permissions." alt="" coords="27,5,199,32"/>
+</map>

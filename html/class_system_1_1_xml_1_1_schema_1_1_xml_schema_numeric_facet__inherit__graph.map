@@ -1,0 +1,9 @@
+<map id="System.Xml.Schema.XmlSchemaNumericFacet" name="System.Xml.Schema.XmlSchemaNumericFacet">
+<area shape="rect" id="node1" title="Abstract class for defining numeric facets. This class is the base class for numeric facet classes su..." alt="" coords="177,136,395,177"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_fraction_digits_facet.html" title="Specifies a restriction on the number of digits that can be entered for the fraction value of a simpl..." alt="" coords="443,5,660,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_length_facet.html" title="Represents the length facet from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="443,71,660,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_max_length_facet.html" title="Represents the maxLength element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="443,136,660,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_min_length_facet.html" title="Represents the minLength element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="443,201,660,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_total_digits_facet.html" title="Represents the totalDigits facet from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="443,267,660,308"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_facet.html" title="Abstract class for all facets that are used when simple types are derived by restriction." alt="" coords="5,143,129,170"/>
+</map>

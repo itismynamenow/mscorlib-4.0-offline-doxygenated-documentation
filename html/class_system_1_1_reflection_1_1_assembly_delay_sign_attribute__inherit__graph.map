@@ -1,5 +1,4 @@
 <map id="System.Reflection.AssemblyDelaySignAttribute" name="System.Reflection.AssemblyDelaySignAttribute">
-<area shape="rect" id="node1" title="Specifies that the assembly is not fully signed when created." alt="" coords="5,155,196,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="65,80,136,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="61,5,140,32"/>
+<area shape="rect" id="node1" title="Specifies that the assembly is not fully signed when created." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="65,5,136,32"/>
 </map>

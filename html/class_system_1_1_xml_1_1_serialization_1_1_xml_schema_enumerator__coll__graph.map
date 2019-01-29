@@ -1,0 +1,7 @@
+<map id="System.Xml.Serialization.XmlSchemaEnumerator" name="System.Xml.Serialization.XmlSchemaEnumerator">
+<area shape="rect" id="node1" title="Enables iteration over a collection of T:System.Xml.Schema.XmlSchema objects." alt="" coords="231,95,402,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title=" " alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="215,5,304,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="328,5,420,32"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema.html" title="An in&#45;memory representation of an XML Schema, as specified in the World Wide Web Consortium (W3C) XML..." alt="" coords="444,5,661,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.INestedContainer" name="System.ComponentModel.INestedContainer">
+<area shape="rect" id="node1" title="Provides functionality for nested containers, which logically contain zero or more other components a..." alt="" coords="5,155,225,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_i_container.html" title="Provides functionality for containers. Containers are objects that logically contain zero or more com..." alt="" coords="114,80,194,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="71,5,160,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Xml.Serialization.CodeExporter" name="System.Xml.Serialization.CodeExporter">
+<area shape="rect" id="node1" title="Represents a class that can generate proxy code from an XML representation of a data structure." alt="" coords="5,39,176,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_serialization_1_1_soap_code_exporter.html" title="Generates types and attribute declarations from internal type mapping information for SOAP&#45;encoded me..." alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_serialization_1_1_xml_code_exporter.html" title="Generates types and attribute declarations from internal type mapping information for XML schema elem..." alt="" coords="224,71,395,112"/>
+</map>

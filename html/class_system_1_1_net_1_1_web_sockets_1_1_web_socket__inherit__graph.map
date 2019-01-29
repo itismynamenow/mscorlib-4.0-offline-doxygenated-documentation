@@ -1,0 +1,5 @@
+<map id="System.Net.WebSockets.WebSocket" name="System.Net.WebSockets.WebSocket">
+<area shape="rect" id="node1" title="The WebSocket class allows applications to send and receive data after the WebSocket upgrade has comp..." alt="" coords="8,80,209,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_web_sockets_1_1_client_web_socket.html" title="Provides a client for connecting to WebSocket services." alt="" coords="5,169,212,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="64,5,153,32"/>
+</map>

@@ -1,6 +1,0 @@
-var namespace_windows_1_1_foundation_1_1_diagnostics =
-[
-    [ "IAsyncCausalityTracerStatics", "interface_windows_1_1_foundation_1_1_diagnostics_1_1_i_async_causality_tracer_statics.html", "interface_windows_1_1_foundation_1_1_diagnostics_1_1_i_async_causality_tracer_statics" ],
-    [ "ITracingStatusChangedEventArgs", "interface_windows_1_1_foundation_1_1_diagnostics_1_1_i_tracing_status_changed_event_args.html", "interface_windows_1_1_foundation_1_1_diagnostics_1_1_i_tracing_status_changed_event_args" ],
-    [ "TracingStatusChangedEventArgs", "class_windows_1_1_foundation_1_1_diagnostics_1_1_tracing_status_changed_event_args.html", "class_windows_1_1_foundation_1_1_diagnostics_1_1_tracing_status_changed_event_args" ]
-];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Security/PermissionTokenType.cs Source File</title>
+<title>mscorlib(4.0.0.0) API with additions: D:/All cs/System.Security/PermissionTokenType.cs Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -89,17 +89,14 @@ $(document).ready(function(){initNavTree('_permission_token_type_8cs_source.html
 <div class="title">PermissionTokenType.cs</div>  </div>
 </div><!--header-->
 <div class="contents">
-<a href="_permission_token_type_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_system_1_1_security.html">System.Security</a></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;{</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;    [Flags]</div><div class="line"><a name="l00004"></a><span class="lineno"><a class="line" href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994">    4</a></span>&#160;    <span class="keyword">internal</span> <span class="keyword">enum</span> <a class="code" href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994">PermissionTokenType</a></div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;    {</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;        Normal = 0x1,</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        <a class="code" href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994adc7655fd5f685948e99c1b9c5577c692">IUnrestricted</a> = 0x2,</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;        <a class="code" href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994a0376265f1d915c2504844d6ed96becd3">DontKnow</a> = 0x4,</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        <a class="code" href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994aca8f2e8d70641ce17b9b304086c19657">BuiltIn</a> = 0x8</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    }</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;}</div><div class="ttc" id="namespace_system_1_1_security_html"><div class="ttname"><a href="namespace_system_1_1_security.html">System.Security</a></div><div class="ttdef"><b>Definition:</b> <a href="_allow_partially_trusted_callers_attribute_8cs_source.html#l00003">AllowPartiallyTrustedCallersAttribute.cs:3</a></div></div>
-<div class="ttc" id="namespace_system_1_1_security_html_a4e60d308c52db12e73a515c25e580994aca8f2e8d70641ce17b9b304086c19657"><div class="ttname"><a href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994aca8f2e8d70641ce17b9b304086c19657">System.Security.PermissionTokenType.BuiltIn</a></div></div>
-<div class="ttc" id="namespace_system_1_1_security_html_a4e60d308c52db12e73a515c25e580994"><div class="ttname"><a href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994">System.Security.PermissionTokenType</a></div><div class="ttdeci">PermissionTokenType</div><div class="ttdef"><b>Definition:</b> <a href="_permission_token_type_8cs_source.html#l00004">PermissionTokenType.cs:4</a></div></div>
-<div class="ttc" id="namespace_system_1_1_security_html_a4e60d308c52db12e73a515c25e580994a0376265f1d915c2504844d6ed96becd3"><div class="ttname"><a href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994a0376265f1d915c2504844d6ed96becd3">System.Security.PermissionTokenType.DontKnow</a></div></div>
-<div class="ttc" id="namespace_system_1_1_security_html_a4e60d308c52db12e73a515c25e580994adc7655fd5f685948e99c1b9c5577c692"><div class="ttname"><a href="namespace_system_1_1_security.html#a4e60d308c52db12e73a515c25e580994adc7655fd5f685948e99c1b9c5577c692">System.Security.PermissionTokenType.IUnrestricted</a></div></div>
+<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_system_1_1_security.html">System.Security</a></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;{</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;    [Flags]</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;    <span class="keyword">internal</span> <span class="keyword">enum</span> PermissionTokenType</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;    {</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;        <a class="code" href="namespace_system_1_1_component_model_1_1_design.html#aff20fb29f677198e393bdd3d2666c3baa960b44c579bc2f6818d2daaf9e4c16f0">Normal</a> = 0x1,</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        IUnrestricted = 0x2,</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;        DontKnow = 0x4,</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        BuiltIn = 0x8</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    }</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;}</div><div class="ttc" id="namespace_system_1_1_security_html"><div class="ttname"><a href="namespace_system_1_1_security.html">System.Security</a></div><div class="ttdef"><b>Definition:</b> <a href="_allow_partially_trusted_callers_attribute_8cs_source.html#l00003">AllowPartiallyTrustedCallersAttribute.cs:3</a></div></div>
+<div class="ttc" id="namespace_system_1_1_component_model_1_1_design_html_aff20fb29f677198e393bdd3d2666c3baa960b44c579bc2f6818d2daaf9e4c16f0"><div class="ttname"><a href="namespace_system_1_1_component_model_1_1_design.html#aff20fb29f677198e393bdd3d2666c3baa960b44c579bc2f6818d2daaf9e4c16f0">System.ComponentModel.Design.SelectionTypes.Normal</a></div><div class="ttdoc">Represents a regular selection. The selection service responds to the CTRL and SHIFT keys to support ...</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_a15cfcb3d3917d83f8cf57a680769153.html">System.Security</a></li><li class="navelem"><a class="el" href="_permission_token_type_8cs.html">PermissionTokenType.cs</a></li>
+    <li class="navelem"><a class="el" href="dir_0a866bd803450dacaf5899ba5fac7c9c.html">All cs</a></li><li class="navelem"><a class="el" href="dir_9c92198a20f99518c2cc7c46af7573f8.html">System.Security</a></li><li class="navelem"><b>PermissionTokenType.cs</b></li>
     <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.15 </li>

@@ -1,0 +1,4 @@
+<map id="System.Net.Sockets.IPPacketInformation" name="System.Net.Sockets.IPPacketInformation">
+<area shape="rect" id="node1" title="Presents the packet information from a call to M:System.Net.Sockets.Socket.ReceiveMessageFrom(System...." alt="" coords="5,171,205,212"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_i_p_address.html" title="Provides an Internet Protocol (IP) address." alt="" coords="28,43,183,70"/>
+</map>

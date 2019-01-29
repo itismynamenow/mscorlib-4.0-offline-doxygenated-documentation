@@ -8,109 +8,109 @@
  viewBox="0.00 0.00 622.00 256.87" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 252.865)">
 <title>System.Collections.Hashtable</title>
-<!-- Node8 -->
-<g id="node1" class="node"><title>Node8</title>
+<!-- Node9 -->
+<g id="node1" class="node"><title>Node9</title>
 <g id="a_node1"><a xlink:title="Represents a collection of key/value pairs that are organized based on the hash code of the key....">
 <polygon fill="#bfbfbf" stroke="black" points="466,-126 466,-145 614,-145 614,-126 466,-126"/>
 <text text-anchor="middle" x="540" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">System.Collections.Hashtable</text>
 </a>
 </g>
 </g>
-<!-- Node9 -->
-<g id="node2" class="node"><title>Node9</title>
+<!-- Node10 -->
+<g id="node2" class="node"><title>Node10</title>
 <g id="a_node2"><a xlink:href="interface_system_1_1_collections_1_1_i_dictionary.html" target="_top" xlink:title="Represents a nongeneric collection of key/value pairs.">
 <polygon fill="none" stroke="black" points="247,-202 247,-221 309,-221 309,-202 247,-202"/>
 <text text-anchor="middle" x="278" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00">IDictionary</text>
 </a>
 </g>
 </g>
-<!-- Node9&#45;&gt;Node8 -->
-<g id="edge1" class="edge"><title>Node9&#45;&gt;Node8</title>
+<!-- Node10&#45;&gt;Node9 -->
+<g id="edge1" class="edge"><title>Node10&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M319.367,-210.035C354.243,-207.775 405.571,-202.038 448,-187.5 477.78,-177.296 508.868,-157.136 525.897,-145.136"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="318.88,-206.558 309.1,-210.631 319.286,-213.546 318.88,-206.558"/>
 </g>
-<!-- Node10 -->
-<g id="node3" class="node"><title>Node10</title>
+<!-- Node11 -->
+<g id="node3" class="node"><title>Node11</title>
 <g id="a_node3"><a xlink:href="interface_system_1_1_collections_1_1_i_collection.html" target="_top" xlink:title="Defines size, enumerators, and synchronization methods for all nongeneric collections.">
 <polygon fill="none" stroke="black" points="108,-176 108,-195 170,-195 170,-176 108,-176"/>
 <text text-anchor="middle" x="139" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">ICollection</text>
 </a>
 </g>
 </g>
-<!-- Node10&#45;&gt;Node8 -->
-<g id="edge5" class="edge"><title>Node10&#45;&gt;Node8</title>
+<!-- Node11&#45;&gt;Node9 -->
+<g id="edge5" class="edge"><title>Node11&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M180.213,-181.271C239.077,-174.973 352.125,-162.474 448,-149.5 457.979,-148.15 468.558,-146.616 478.837,-145.071"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="179.784,-177.797 170.211,-182.337 180.526,-184.757 179.784,-177.797"/>
 </g>
-<!-- Node10&#45;&gt;Node9 -->
-<g id="edge2" class="edge"><title>Node10&#45;&gt;Node9</title>
+<!-- Node11&#45;&gt;Node10 -->
+<g id="edge2" class="edge"><title>Node11&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M180.083,-193.107C201.306,-197.135 226.953,-202.002 246.531,-205.718"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="180.542,-189.632 170.065,-191.206 179.237,-196.509 180.542,-189.632"/>
 </g>
-<!-- Node11 -->
-<g id="node4" class="node"><title>Node11</title>
+<!-- Node12 -->
+<g id="node4" class="node"><title>Node12</title>
 <g id="a_node4"><a xlink:href="interface_system_1_1_collections_1_1_i_enumerable.html" target="_top" xlink:title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection....">
 <polygon fill="none" stroke="black" points="0,-214 0,-233 71,-233 71,-214 0,-214"/>
 <text text-anchor="middle" x="35.5" y="-221" font-family="Helvetica,sans-Serif" font-size="10.00">IEnumerable</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node8 -->
-<g id="edge6" class="edge"><title>Node11&#45;&gt;Node8</title>
+<!-- Node12&#45;&gt;Node9 -->
+<g id="edge6" class="edge"><title>Node12&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M77.8998,-234.734C81.9621,-235.248 86.0439,-235.538 90,-235.5 249.491,-233.961 303.988,-279.06 448,-210.5 482.752,-193.956 515.539,-161.263 530.505,-145.062"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="78.3664,-231.264 67.9248,-233.059 77.2068,-238.167 78.3664,-231.264"/>
 </g>
-<!-- Node11&#45;&gt;Node9 -->
-<g id="edge4" class="edge"><title>Node11&#45;&gt;Node9</title>
+<!-- Node12&#45;&gt;Node10 -->
+<g id="edge4" class="edge"><title>Node12&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M81.385,-221.26C129.695,-218.85 205.194,-215.083 246.857,-213.004"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="81.027,-217.774 71.2139,-221.768 81.3759,-224.765 81.027,-217.774"/>
 </g>
-<!-- Node11&#45;&gt;Node10 -->
-<g id="edge3" class="edge"><title>Node11&#45;&gt;Node10</title>
+<!-- Node12&#45;&gt;Node11 -->
+<g id="edge3" class="edge"><title>Node12&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M71.5389,-210.382C84.9634,-205.356 100.015,-199.721 112.395,-195.086"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="70.2507,-207.127 62.1127,-213.911 72.7051,-213.683 70.2507,-207.127"/>
 </g>
-<!-- Node12 -->
-<g id="node5" class="node"><title>Node12</title>
+<!-- Node13 -->
+<g id="node5" class="node"><title>Node13</title>
 <g id="a_node5"><a xlink:href="interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" target="_top" xlink:title="Allows an object to control its own serialization and deserialization.">
 <polygon fill="none" stroke="black" points="243.5,-126 243.5,-145 312.5,-145 312.5,-126 243.5,-126"/>
 <text text-anchor="middle" x="278" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">ISerializable</text>
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node8 -->
-<g id="edge7" class="edge"><title>Node12&#45;&gt;Node8</title>
+<!-- Node13&#45;&gt;Node9 -->
+<g id="edge7" class="edge"><title>Node13&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M323.224,-135.5C362.296,-135.5 420.038,-135.5 465.96,-135.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="322.724,-132 312.724,-135.5 322.724,-139 322.724,-132"/>
 </g>
-<!-- Node13 -->
-<g id="node6" class="node"><title>Node13</title>
+<!-- Node14 -->
+<g id="node6" class="node"><title>Node14</title>
 <g id="a_node6"><a xlink:href="interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" target="_top" xlink:title="Indicates that a class is to be notified when deserialization of the entire object graph has been com...">
 <polygon fill="none" stroke="black" points="218,-88 218,-107 338,-107 338,-88 218,-88"/>
 <text text-anchor="middle" x="278" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">IDeserializationCallback</text>
 </a>
 </g>
 </g>
-<!-- Node13&#45;&gt;Node8 -->
-<g id="edge8" class="edge"><title>Node13&#45;&gt;Node8</title>
+<!-- Node14&#45;&gt;Node9 -->
+<g id="edge8" class="edge"><title>Node14&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M348.494,-107.657C387.313,-113.33 435.395,-120.358 473.542,-125.933"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="348.724,-104.153 338.323,-106.17 347.712,-111.08 348.724,-104.153"/>
 </g>
-<!-- Node14 -->
-<g id="node7" class="node"><title>Node14</title>
+<!-- Node15 -->
+<g id="node7" class="node"><title>Node15</title>
 <g id="a_node7"><a xlink:href="interface_system_1_1_i_cloneable.html" target="_top" xlink:title="Supports cloning, which creates a new instance of a class with the same value as an existing instance...">
 <polygon fill="none" stroke="black" points="247,-50 247,-69 309,-69 309,-50 247,-50"/>
 <text text-anchor="middle" x="278" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">ICloneable</text>
 </a>
 </g>
 </g>
-<!-- Node14&#45;&gt;Node8 -->
-<g id="edge9" class="edge"><title>Node14&#45;&gt;Node8</title>
+<!-- Node15&#45;&gt;Node9 -->
+<g id="edge9" class="edge"><title>Node15&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M318.959,-70.1987C328.792,-72.8719 339.286,-75.7591 349,-78.5 393.126,-90.9501 404.088,-94.3135 448,-107.5 468.106,-113.538 490.659,-120.476 508.283,-125.935"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="319.58,-66.7407 309.012,-67.5055 317.75,-73.4974 319.58,-66.7407"/>
 </g>
-<!-- Node15 -->
-<g id="node8" class="node"><title>Node15</title>
+<!-- Node16 -->
+<g id="node8" class="node"><title>Node16</title>
 <g id="a_node8"><a xlink:href="interface_system_1_1_collections_1_1_i_equality_comparer.html" target="_top" xlink:title="Defines methods to support the comparison of objects for equality.">
 <polygon fill="none" stroke="black" points="207,-0.5 207,-30.5 349,-30.5 349,-0.5 207,-0.5"/>
 <text text-anchor="start" x="215" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">System.Collections.IEquality</text>
@@ -118,8 +118,8 @@
 </a>
 </g>
 </g>
-<!-- Node15&#45;&gt;Node8 -->
-<g id="edge10" class="edge"><title>Node15&#45;&gt;Node8</title>
+<!-- Node16&#45;&gt;Node9 -->
+<g id="edge10" class="edge"><title>Node16&#45;&gt;Node9</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M352.012,-33.321C382.548,-42.1638 417.868,-54.2551 448,-69.5 479.52,-85.447 511.959,-111.837 528.261,-125.931"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="352.853,-29.9217 342.278,-30.5642 350.945,-36.6568 352.853,-29.9217"/>
 <text text-anchor="middle" x="407.5" y="-72.5" font-family="Helvetica,sans-Serif" font-size="10.00"> EqualityComparer</text>

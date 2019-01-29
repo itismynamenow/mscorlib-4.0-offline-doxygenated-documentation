@@ -1,0 +1,4 @@
+<map id="System.Net.DnsPermissionAttribute" name="System.Net.DnsPermissionAttribute">
+<area shape="rect" id="node1" title="Specifies permission to request information from Domain Name Servers." alt="" coords="11,80,193,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_code_access_security_attribute.html" title="Specifies the base attribute class for code access security." alt="" coords="5,5,199,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Xml.XPath.XPathItem" name="System.Xml.XPath.XPathItem">
+<area shape="rect" id="node1" title="Represents an item in the XQuery 1.0 and XPath 2.0 Data Model." alt="" coords="134,5,327,32"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_atomic_value.html" title="Represents the typed value of a validated XML element or attribute. The T:System.Xml...." alt="" coords="5,80,216,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_x_path_1_1_x_path_navigator.html" title="Provides a cursor model for navigating and editing XML data." alt="" coords="240,87,461,114"/>
+</map>

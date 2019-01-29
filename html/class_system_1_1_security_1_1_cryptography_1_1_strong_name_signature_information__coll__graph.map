@@ -1,0 +1,4 @@
+<map id="System.Security.Cryptography.StrongNameSignatureInformation" name="System.Security.Cryptography.StrongNameSignatureInformation">
+<area shape="rect" id="node1" title="Holds the strong name signature information for a manifest." alt="" coords="5,109,217,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_asymmetric_algorithm.html" title="Represents the abstract base class from which all implementations of asymmetric algorithms must inher..." alt="" coords="9,5,213,47"/>
+</map>

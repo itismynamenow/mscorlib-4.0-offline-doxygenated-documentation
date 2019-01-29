@@ -1,0 +1,4 @@
+<map id="System.Net.Mail.LinkedResource" name="System.Net.Mail.LinkedResource">
+<area shape="rect" id="node1" title="Represents an embedded external resource in an email attachment, such as an image in an HTML attachme..." alt="" coords="5,80,221,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_mail_1_1_attachment_base.html" title="Base class that represents an email attachment. Classes T:System.Net.Mail.Attachment,..." alt="" coords="54,5,173,32"/>
+</map>

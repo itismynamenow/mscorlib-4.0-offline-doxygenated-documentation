@@ -1,6 +1,0 @@
-var _i_i_d_e_n_t_i_t_y_a_u_t_h_o_r_i_t_y___d_o_e_s___d_e_f_i_n_i_t_i_o_n___m_a_t_c_h___r_e_f_e_r_e_n_c_e___f_l_a_g_s_8cs =
-[
-    [ "IIDENTITYAUTHORITY_DOES_DEFINITION_MATCH_REFERENCE_FLAGS", "_i_i_d_e_n_t_i_t_y_a_u_t_h_o_r_i_t_y___d_o_e_s___d_e_f_i_n_i_t_i_o_n___m_a_t_c_h___r_e_f_e_r_e_n_c_e___f_l_a_g_s_8cs.html#ada91e0a52dd97a6ed886e8caeda2ad39", [
-      [ "IIDENTITYAUTHORITY_DOES_DEFINITION_MATCH_REFERENCE_FLAG_EXACT_MATCH_REQUIRED", "_i_i_d_e_n_t_i_t_y_a_u_t_h_o_r_i_t_y___d_o_e_s___d_e_f_i_n_i_t_i_o_n___m_a_t_c_h___r_e_f_e_r_e_n_c_e___f_l_a_g_s_8cs.html#ada91e0a52dd97a6ed886e8caeda2ad39aac8483e50d9dfcf4cf71955699ca7898", null ]
-    ] ]
-];

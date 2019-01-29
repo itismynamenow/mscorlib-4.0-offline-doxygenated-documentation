@@ -1,0 +1,4 @@
+<map id="System.Security.AccessControl.SemaphoreAuditRule" name="System.Security.AccessControl.SemaphoreAuditRule">
+<area shape="rect" id="node1" title="Represents a set of access rights to be audited for a user or group. This class cannot be inherited." alt="" coords="5,80,217,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_audit_rule.html" title="Represents a combination of a user’s identity and an access mask." alt="" coords="72,5,151,32"/>
+</map>

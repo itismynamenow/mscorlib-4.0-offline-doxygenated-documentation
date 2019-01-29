@@ -1,0 +1,7 @@
+<map id="System.Linq.IQueryable" name="System.Linq.IQueryable">
+<area shape="rect" id="node1" title="Provides functionality to evaluate queries against a specific data source wherein the type of the dat..." alt="" coords="5,96,167,122"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_enumerable_query.html" title="Represents an T:System.Collections.Generic.IEnumerable`1 collection as an T:System...." alt="" coords="492,8,727,34"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_linq_1_1_i_ordered_queryable.html" title="Represents the result of a sorting operation." alt="" coords="506,159,713,200"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_linq_1_1_i_queryable.html" title="Provides functionality to evaluate queries against a specific data source wherein the type of the dat..." alt="" coords="266,88,427,130"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_linq_1_1_i_queryable.html" title=" " alt="" coords="251,37,443,64"/>
+</map>

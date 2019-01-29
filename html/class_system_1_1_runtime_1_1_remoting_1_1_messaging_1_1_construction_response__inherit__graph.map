@@ -1,11 +1,8 @@
 <map id="System.Runtime.Remoting.Messaging.ConstructionResponse" name="System.Runtime.Remoting.Messaging.ConstructionResponse">
-<area shape="rect" id="node1" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionReturnMessage interface to create a ..." alt="" coords="748,183,968,224"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_response.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="544,190,667,217"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_return_message.html" title="Defines the method call return message interface." alt="" coords="303,64,461,90"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_construction_return_message.html" title="Identifies a T:System.Runtime.Remoting.Messaging.IMethodReturnMessage that is returned after attempti..." alt="" coords="511,38,700,65"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="132,229,253,256"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="5,229,84,256"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="336,114,428,141"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_serialization_root_object.html" title=" " alt="" coords="301,165,463,192"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_internal_message.html" title=" " alt="" coords="322,216,442,242"/>
+<area shape="rect" id="node1" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionReturnMessage interface to create a ..." alt="" coords="745,99,965,141"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_response.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="541,5,664,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_return_message.html" title="Defines the method call return message interface." alt="" coords="301,56,460,83"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_construction_return_message.html" title="Identifies a T:System.Runtime.Remoting.Messaging.IMethodReturnMessage that is returned after attempti..." alt="" coords="508,107,697,133"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="132,107,253,133"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="5,107,84,133"/>
 </map>

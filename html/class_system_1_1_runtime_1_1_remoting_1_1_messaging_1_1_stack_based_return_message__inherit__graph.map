@@ -1,7 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.StackBasedReturnMessage" name="System.Runtime.Remoting.Messaging.StackBasedReturnMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="41,229,291,271"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_return_message.html" title="Defines the method call return message interface." alt="" coords="28,155,187,181"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="112,80,233,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="35,5,113,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_internal_message.html" title=" " alt="" coords="262,155,382,181"/>
-</map>

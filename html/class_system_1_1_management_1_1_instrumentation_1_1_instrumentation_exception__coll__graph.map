@@ -1,0 +1,4 @@
+<map id="System.Management.Instrumentation.InstrumentationException" name="System.Management.Instrumentation.InstrumentationException">
+<area shape="rect" id="node1" title="Represents a provider&#45;related exception.Note: the WMI .NET libraries are now considered in final stat..." alt="" coords="5,80,248,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_management_1_1_instrumentation_1_1_instrumentation_base_exception.html" title="Represents the base provider&#45;related exception.Note: the WMI .NET libraries are now considered in fin..." alt="" coords="27,5,226,32"/>
+</map>

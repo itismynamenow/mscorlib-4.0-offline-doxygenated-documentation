@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Collections.Concurrent.IProducerConsumerCollection&lt; T &gt; Interface Template Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Collections.Concurrent.IProducerConsumerCollection&lt; T &gt; Interface Template Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -98,13 +98,13 @@ $(document).ready(function(){initNavTree('interface_system_1_1_collections_1_1_c
 <div class="dynheader">
 Inheritance diagram for System.Collections.Concurrent.IProducerConsumerCollection&lt; T &gt;:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="interface_system_1_1_collections_1_1_concurrent_1_1_i_producer_consumer_collection__inherit__graph.svg" width="100%" height="410"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="interface_system_1_1_collections_1_1_concurrent_1_1_i_producer_consumer_collection__inherit__graph.svg" width="100%" height="437"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for System.Collections.Concurrent.IProducerConsumerCollection&lt; T &gt;:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="interface_system_1_1_collections_1_1_concurrent_1_1_i_producer_consumer_collection__coll__graph.svg" width="342" height="218"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_system_1_1_collections_1_1_concurrent_1_1_i_producer_consumer_collection__coll__graph.svg" width="294" height="202"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -202,7 +202,7 @@ Additional Inherited Members</h2></td></tr>
   </dd>
 </dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_queue.html#aebdf6097c2605a388c27e634b533368b">System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;</a>, and <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_stack.html#a8cc6d0a5a938e7cf46005cc01caa8e1b">System.Collections.Concurrent.ConcurrentStack&lt; T &gt;</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_bag.html#a6e893cfe4b46b3304456540d78c9ffb0">System.Collections.Concurrent.ConcurrentBag&lt; T &gt;</a>, <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_queue.html#aebdf6097c2605a388c27e634b533368b">System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;</a>, and <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_stack.html#a8cc6d0a5a938e7cf46005cc01caa8e1b">System.Collections.Concurrent.ConcurrentStack&lt; T &gt;</a>.</p>
 
 </div>
 </div>
@@ -224,7 +224,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Copies the elements contained in the T:System.Collections.Concurrent.IProducerConsumerCollection`1 to a new array. </p>
 <dl class="section return"><dt>Returns</dt><dd>A new array containing the elements copied from the T:System.Collections.Concurrent.IProducerConsumerCollection`1.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_stack.html#ad2f7a7fdb066673bba256e38f40e9976">System.Collections.Concurrent.ConcurrentStack&lt; T &gt;</a>, and <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_queue.html#afc32699569d770a0f9713ce0322050d0">System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;</a>.</p>
+<p>Implemented in <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_bag.html#aaa3f4e186cd1fab7d94580162b1b862d">System.Collections.Concurrent.ConcurrentBag&lt; T &gt;</a>, <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_stack.html#ad2f7a7fdb066673bba256e38f40e9976">System.Collections.Concurrent.ConcurrentStack&lt; T &gt;</a>, and <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_queue.html#afc32699569d770a0f9713ce0322050d0">System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;</a>.</p>
 
 </div>
 </div>
@@ -286,10 +286,12 @@ Additional Inherited Members</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if an object was removed and returned successfully; otherwise, false.</dd></dl>
 
+<p>Implemented in <a class="el" href="class_system_1_1_collections_1_1_concurrent_1_1_concurrent_bag.html#af0781d43b9b3aa8995addc2cd5728610">System.Collections.Concurrent.ConcurrentBag&lt; T &gt;</a>.</p>
+
 </div>
 </div>
 <hr/>The documentation for this interface was generated from the following file:<ul>
-<li>System.Collections.Concurrent/<a class="el" href="_i_producer_consumer_collection_8cs_source.html">IProducerConsumerCollection.cs</a></li>
+<li>D:/All cs/System.Collections.Concurrent/<a class="el" href="_i_producer_consumer_collection_8cs_source.html">IProducerConsumerCollection.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

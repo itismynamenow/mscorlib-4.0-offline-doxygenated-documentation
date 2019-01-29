@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Runtime.InteropServices.SafeHandle Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Runtime.InteropServices.SafeHandle Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -101,13 +101,13 @@ $(document).ready(function(){initNavTree('class_system_1_1_runtime_1_1_interop_s
 <div class="dynheader">
 Inheritance diagram for System.Runtime.InteropServices.SafeHandle:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle__inherit__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle__inherit__graph.svg" width="275" height="127"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for System.Runtime.InteropServices.SafeHandle:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle__coll__graph.svg" width="455" height="218"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle__coll__graph.svg" width="455" height="142"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -398,8 +398,6 @@ Properties</h2></td></tr>
 <p>When overridden in a derived class, executes the code required to free the handle. </p>
 <dl class="section return"><dt>Returns</dt><dd><code>true</code> if the handle is released successfully; otherwise, in the event of a catastrophic failure,<code> false</code>. In this case, it generates a releaseHandleFailed MDA Managed Debugging Assistant.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_safe_heap_handle.html#af155b0cc6f42005010fe07990ad1a674">System.Runtime.InteropServices.SafeHeapHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_access_token_handle.html#a3bb859bbabafeff15a33895d128948b8">Microsoft.Win32.SafeHandles.SafeAccessTokenHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_context_handle.html#a9e204225fe444da3cf651e375d0df0ac">System.Security.Cryptography.X509Certificates.SafeCertContextHandle</a>, <a class="el" href="class_system_1_1_security_1_1_safe_b_s_t_r_handle.html#afb9e64790789db184c11989dd32b6db9">System.Security.SafeBSTRHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_registry_handle.html#ac348ed80752983193ec4d314d15c40ca">Microsoft.Win32.SafeHandles.SafeRegistryHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_hash_handle.html#a24422b1228da00e6c6e2173bdc5d8815">System.Security.Cryptography.SafeHashHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_key_handle.html#a6a98c5bf563a8534bd40217ca985d5f9">System.Security.Cryptography.SafeKeyHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_prov_handle.html#a02ebd33546ca900d1e8ab57330b65015">System.Security.Cryptography.SafeProvHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_wait_handle.html#a310c41708c8ed9e7502bd0aba7772973">Microsoft.Win32.SafeHandles.SafeWaitHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_store_handle.html#a4fcc5eb301fb28faf85a85d0540353c6">System.Security.Cryptography.X509Certificates.SafeCertStoreHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_handle.html#aa62de6afdfab532551e8b137030a92c3">Microsoft.Win32.SafeHandles.SafeFileHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_local_alloc_handle.html#a68e44d23ed91c4f31fcb6aa5fbc71fbb">Microsoft.Win32.SafeHandles.SafeLocalAllocHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_memory_handle.html#ac8541ff0501a3e237495f5bec1181f87">Microsoft.Win32.SafeHandles.SafeLsaMemoryHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_return_buffer_handle.html#ade01a7736bd87a440c1100392556e7b7">Microsoft.Win32.SafeHandles.SafeLsaReturnBufferHandle</a>, <a class="el" href="class_system_1_1_threading_1_1_i_unknown_safe_handle.html#a7ebb4fe54423f3ab41f613a5a668c301">System.Threading.IUnknownSafeHandle</a>, <a class="el" href="class_system_1_1_threading_1_1_safe_compressed_stack_handle.html#a87c4f5769af2e1cc2a256da71cf88fed">System.Threading.SafeCompressedStackHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_mapping_handle.html#aa5b83f82c626f8c66067bd711b96ec9a">Microsoft.Win32.SafeHandles.SafeFileMappingHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_logon_process_handle.html#abda06b994d3087ea861da15f121265d6">Microsoft.Win32.SafeHandles.SafeLsaLogonProcessHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_policy_handle.html#a47c623f6ff4b60bf8cbe95b8e34763c9">Microsoft.Win32.SafeHandles.SafeLsaPolicyHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_process_handle.html#a1077740c4436a41d278bcb3495ee0b5a">Microsoft.Win32.SafeHandles.SafeProcessHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_view_of_file_handle.html#a6de168fa23d834f9d6a0e9869dfb077a">Microsoft.Win32.SafeHandles.SafeViewOfFileHandle</a>, <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_safe_isolated_storage_file_handle.html#a87d5e8e6701d7e3009200b20c39c55b2">System.IO.IsolatedStorage.SafeIsolatedStorageFileHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_p_e_file_handle.html#a519817b773eec281e116db20fe2b4306">Microsoft.Win32.SafeHandles.SafePEFileHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_thread_handle.html#a056f5be04bc6d8a3935d16b6be66ac35">Microsoft.Win32.SafeHandles.SafeThreadHandle</a>, <a class="el" href="class_system_1_1_safe_type_name_parser_handle.html#af21bc5052cf22c3efa5869edd58cc84b">System.SafeTypeNameParserHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_csp_handle.html#a8c389ddf1460c60c7c5eaac3bb36a480">System.Security.Cryptography.SafeCspHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_csp_hash_handle.html#ae7f88ac9e4342d855cb8e504deea31cd">System.Security.Cryptography.SafeCspHashHandle</a>, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_csp_key_handle.html#a6d07741394be9402436778fec7f0a8ee">System.Security.Cryptography.SafeCspKeyHandle</a>, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_library_handle.html#a5dee29723b77258d4d2e933ec5ebbdf4">Microsoft.Win32.SafeLibraryHandle</a>, and <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_find_handle.html#a393de3fca016c3132773c76f984a837f">Microsoft.Win32.SafeHandles.SafeFindHandle</a>.</p>
-
 </div>
 </div>
 <a id="a3fb15f153dbeb6d1885b4918eefdd25a"></a>
@@ -540,7 +538,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System.Runtime.InteropServices/<a class="el" href="_safe_handle_8cs_source.html">SafeHandle.cs</a></li>
+<li>D:/All cs/System.Runtime.InteropServices/<a class="el" href="_safe_handle_8cs_source.html">SafeHandle.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

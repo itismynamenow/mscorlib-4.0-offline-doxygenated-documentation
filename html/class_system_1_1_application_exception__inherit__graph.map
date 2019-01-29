@@ -1,11 +1,9 @@
 <map id="System.ApplicationException" name="System.ApplicationException">
-<area shape="rect" id="node1" title="Serves as the base class for application&#45;defined exceptions." alt="" coords="273,143,467,170"/>
-<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_invalid_filter_criteria_exception.html" title="The exception that is thrown in M:System.Type.FindMembers(System.Reflection.MemberTypes,..." alt="" coords="531,5,697,47"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_target_exception.html" title="Represents the exception that is thrown when an attempt is made to invoke an invalid target." alt="" coords="530,71,698,112"/>
-<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_target_invocation_exception.html" title="The exception that is thrown by methods invoked through reflection. This class cannot be inherited." alt="" coords="530,136,698,177"/>
-<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_target_parameter_count_exception.html" title="The exception that is thrown when the number of parameters for an invocation does not match the numbe..." alt="" coords="527,201,701,243"/>
-<area shape="rect" id="node9" href="$class_system_1_1_threading_1_1_wait_handle_cannot_be_opened_exception.html" title="The exception that is thrown when an attempt is made to open a system mutex, semaphore,..." alt="" coords="515,267,713,308"/>
-<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="145,143,225,170"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,118,97,145"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="8,169,95,195"/>
+<area shape="rect" id="node1" title="Serves as the base class for application&#45;defined exceptions." alt="" coords="133,143,327,170"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_invalid_filter_criteria_exception.html" title="The exception that is thrown in M:System.Type.FindMembers(System.Reflection.MemberTypes,..." alt="" coords="391,5,557,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_target_exception.html" title="Represents the exception that is thrown when an attempt is made to invoke an invalid target." alt="" coords="390,71,558,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_target_invocation_exception.html" title="The exception that is thrown by methods invoked through reflection. This class cannot be inherited." alt="" coords="390,136,558,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_target_parameter_count_exception.html" title="The exception that is thrown when the number of parameters for an invocation does not match the numbe..." alt="" coords="387,201,561,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_threading_1_1_wait_handle_cannot_be_opened_exception.html" title="The exception that is thrown when an attempt is made to open a system mutex, semaphore,..." alt="" coords="375,267,573,308"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="5,143,85,170"/>
 </map>

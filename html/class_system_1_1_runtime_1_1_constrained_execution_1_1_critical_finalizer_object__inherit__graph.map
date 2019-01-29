@@ -1,45 +1,8 @@
 <map id="System.Runtime.ConstrainedExecution.CriticalFinalizerObject" name="System.Runtime.ConstrainedExecution.CriticalFinalizerObject">
-<area shape="rect" id="node1" title="Ensures that all finalization code in derived classes is marked as critical." alt="" coords="5,815,216,856"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_critical_handle.html" title="Represents a wrapper class for handle resources." alt="" coords="274,528,489,569"/>
-<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle.html" title="Represents a wrapper class for operating system handles. This class must be inherited." alt="" coords="274,691,489,732"/>
-<area shape="rect" id="node39" href="$class_system_1_1_runtime_1_1_memory_fail_point.html" title="Checks for sufficient memory resources before executing an operation. This class cannot be inherited." alt="" coords="286,756,477,797"/>
-<area shape="rect" id="node40" href="$class_system_1_1_threading_1_1_gen2_gc_callback.html" title=" " alt="" coords="267,822,496,849"/>
-<area shape="rect" id="node41" href="$class_system_1_1_threading_1_1_reader_writer_lock.html" title="Defines a lock that supports single writers and multiple readers." alt="" coords="264,873,499,899"/>
-<area shape="rect" id="node42" href="$class_system_1_1_threading_1_1_registered_wait_handle_safe.html" title=" " alt="" coords="285,924,478,965"/>
-<area shape="rect" id="node43" href="$class_system_1_1_threading_1_1_thread.html" title="Creates and controls a thread, sets its priority, and gets its status." alt="" coords="296,990,467,1017"/>
-<area shape="rect" id="node3" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_critical_handle_minus_one_is_invalid.html" title="Provides a base class for Win32 critical handle implementations in which the value of &#45;1 indicates an..." alt="" coords="566,463,773,504"/>
-<area shape="rect" id="node4" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_critical_handle_zero_or_minus_one_is_invalid.html" title="Provides a base class for Win32 critical handle implementations in which the value of either 0 or &#45;1 ..." alt="" coords="547,528,792,569"/>
-<area shape="rect" id="node6" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_access_token_handle.html" title="Provides a safe handle to a Windows thread or process access token. For more information see Access T..." alt="" coords="571,593,768,635"/>
-<area shape="rect" id="node7" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_handle_minus_one_is_invalid.html" title="Provides a base class for Win32 safe handle implementations in which the value of &#45;1 indicates an inv..." alt="" coords="571,659,768,700"/>
-<area shape="rect" id="node8" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_handle_zero_or_minus_one_is_invalid.html" title="Provides a base class for Win32 safe handle implementations in which the value of either 0 or &#45;1 indi..." alt="" coords="554,724,785,765"/>
-<area shape="rect" id="node37" href="$class_system_1_1_threading_1_1_i_unknown_safe_handle.html" title=" " alt="" coords="576,789,763,831"/>
-<area shape="rect" id="node38" href="$class_system_1_1_threading_1_1_safe_compressed_stack_handle.html" title=" " alt="" coords="554,855,785,896"/>
-<area shape="rect" id="node9" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_handle.html" title="Represents a wrapper class for a file handle." alt="" coords="861,5,1059,47"/>
-<area shape="rect" id="node10" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_mapping_handle.html" title=" " alt="" coords="861,71,1059,112"/>
-<area shape="rect" id="node11" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_find_handle.html" title=" " alt="" coords="861,136,1059,177"/>
-<area shape="rect" id="node12" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_logon_process_handle.html" title=" " alt="" coords="861,201,1059,243"/>
-<area shape="rect" id="node13" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_policy_handle.html" title=" " alt="" coords="861,267,1059,308"/>
-<area shape="rect" id="node14" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_p_e_file_handle.html" title=" " alt="" coords="861,332,1059,373"/>
-<area shape="rect" id="node15" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_process_handle.html" title=" " alt="" coords="861,397,1059,439"/>
-<area shape="rect" id="node16" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_registry_handle.html" title="Represents a safe handle to the Windows registry." alt="" coords="861,463,1059,504"/>
-<area shape="rect" id="node17" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_thread_handle.html" title=" " alt="" coords="861,528,1059,569"/>
-<area shape="rect" id="node18" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_view_of_file_handle.html" title=" " alt="" coords="861,593,1059,635"/>
-<area shape="rect" id="node19" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_wait_handle.html" title="Represents a wrapper class for a wait handle." alt="" coords="861,659,1059,700"/>
-<area shape="rect" id="node20" href="$class_microsoft_1_1_win32_1_1_safe_library_handle.html" title=" " alt="" coords="867,724,1053,765"/>
-<area shape="rect" id="node21" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_safe_isolated_storage_file_handle.html" title=" " alt="" coords="861,789,1059,831"/>
-<area shape="rect" id="node22" href="$class_system_1_1_runtime_1_1_interop_services_1_1_safe_buffer.html" title="Provides a controlled memory buffer that can be used for reading and writing. Attempts to access memo..." alt="" coords="853,855,1067,896"/>
-<area shape="rect" id="node28" href="$class_system_1_1_safe_type_name_parser_handle.html" title=" " alt="" coords="861,920,1059,961"/>
-<area shape="rect" id="node29" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_csp_handle.html" title=" " alt="" coords="858,985,1062,1027"/>
-<area shape="rect" id="node30" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_csp_hash_handle.html" title=" " alt="" coords="858,1051,1062,1092"/>
-<area shape="rect" id="node31" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_csp_key_handle.html" title=" " alt="" coords="858,1116,1062,1157"/>
-<area shape="rect" id="node32" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_hash_handle.html" title=" " alt="" coords="858,1181,1062,1223"/>
-<area shape="rect" id="node33" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_key_handle.html" title=" " alt="" coords="858,1247,1062,1288"/>
-<area shape="rect" id="node34" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_prov_handle.html" title=" " alt="" coords="858,1312,1062,1353"/>
-<area shape="rect" id="node35" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_context_handle.html" title=" " alt="" coords="853,1378,1067,1434"/>
-<area shape="rect" id="node36" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_store_handle.html" title=" " alt="" coords="840,1459,1080,1500"/>
-<area shape="rect" id="node23" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_local_alloc_handle.html" title=" " alt="" coords="1141,724,1338,765"/>
-<area shape="rect" id="node24" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_memory_handle.html" title=" " alt="" coords="1141,789,1338,831"/>
-<area shape="rect" id="node25" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_return_buffer_handle.html" title=" " alt="" coords="1141,855,1338,896"/>
-<area shape="rect" id="node26" href="$class_system_1_1_runtime_1_1_interop_services_1_1_safe_heap_handle.html" title=" " alt="" coords="1132,920,1347,961"/>
-<area shape="rect" id="node27" href="$class_system_1_1_security_1_1_safe_b_s_t_r_handle.html" title=" " alt="" coords="1128,986,1351,1013"/>
+<area shape="rect" id="node1" title="Ensures that all finalization code in derived classes is marked as critical." alt="" coords="5,136,216,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_critical_handle.html" title="Represents a wrapper class for handle resources." alt="" coords="274,5,489,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle.html" title="Represents a wrapper class for operating system handles. This class must be inherited." alt="" coords="274,71,489,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_memory_fail_point.html" title="Checks for sufficient memory resources before executing an operation. This class cannot be inherited." alt="" coords="286,136,477,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_threading_1_1_reader_writer_lock.html" title="Defines a lock that supports single writers and multiple readers." alt="" coords="264,202,499,229"/>
+<area shape="rect" id="node6" href="$class_system_1_1_threading_1_1_thread.html" title="Creates and controls a thread, sets its priority, and gets its status." alt="" coords="296,253,467,279"/>
 </map>

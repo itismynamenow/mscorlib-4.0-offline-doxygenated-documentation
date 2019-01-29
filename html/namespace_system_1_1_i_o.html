@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.IO Namespace Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.IO Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -88,25 +88,15 @@ $(document).ready(function(){initNavTree('namespace_system_1_1_i_o.html','');});
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">System.IO Namespace Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:namespace_system_1_1_i_o_1_1_isolated_storage"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o_1_1_isolated_storage.html">IsolatedStorage</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_____console_stream.html">__ConsoleStream</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_____error.html">__Error</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_____h_results.html">__HResults</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html">BinaryReader</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reads primitive data types as binary values in a specific encoding.  <a href="class_system_1_1_i_o_1_1_binary_reader.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -122,8 +112,6 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_directory_info.html">DirectoryInfo</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Exposes instance methods for creating, moving, and enumerating through directories and subdirectories. This class cannot be inherited.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_directory_info.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_directory_info_result_handler.html">DirectoryInfoResultHandler</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_directory_not_found_exception.html">DirectoryNotFoundException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when part of a file or directory cannot be found.  <a href="class_system_1_1_i_o_1_1_directory_not_found_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -136,13 +124,14 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_end_of_stream_exception.html">EndOfStreamException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when reading is attempted past the end of a stream.  <a href="class_system_1_1_i_o_1_1_end_of_stream_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_error_event_args.html">ErrorEventArgs</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides data for the E:System.IO.FileSystemWatcher.Error event.  <a href="class_system_1_1_i_o_1_1_error_event_args.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file.html">File</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides static methods for the creation, copying, deletion, moving, and opening of a single file, and aids in the creation of T:System.IO.FileStream objects.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_file.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_info.html">FileInfo</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides properties and instance methods for the creation, copying, deletion, moving, and opening of files, and aids in the creation of T:System.IO.FileStream objects. This class cannot be inherited.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_file_info.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_info_result_handler.html">FileInfoResultHandler</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_load_exception.html">FileLoadException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a managed assembly is found but cannot be loaded.  <a href="class_system_1_1_i_o_1_1_file_load_exception.html#details">More...</a><br /></td></tr>
@@ -153,52 +142,38 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_stream.html">FileStream</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a T:System.IO.Stream for a file, supporting both synchronous and asynchronous read and write operations.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_file_stream.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_stream_async_result.html">FileStreamAsyncResult</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_system_enumerable_factory.html">FileSystemEnumerableFactory</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_system_enumerable_helpers.html">FileSystemEnumerableHelpers</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_system_enumerable_iterator.html">FileSystemEnumerableIterator</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_system_event_args.html">FileSystemEventArgs</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides data for the directory events: E:System.IO.FileSystemWatcher.Changed, E:System.IO.FileSystemWatcher.Created, E:System.IO.FileSystemWatcher.Deleted.  <a href="class_system_1_1_i_o_1_1_file_system_event_args.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_system_info.html">FileSystemInfo</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides the base class for both T:System.IO.FileInfo and T:System.IO.DirectoryInfo objects.  <a href="class_system_1_1_i_o_1_1_file_system_info.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_system_info_result_handler.html">FileSystemInfoResultHandler</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_file_system_watcher.html">FileSystemWatcher</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Listens to the file system change notifications and raises events when a directory, or file in a directory, changes.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_file_system_watcher.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_internal_buffer_overflow_exception.html">InternalBufferOverflowException</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception thrown when the internal buffer overflows.  <a href="class_system_1_1_i_o_1_1_internal_buffer_overflow_exception.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_invalid_data_exception.html">InvalidDataException</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a data stream is in an invalid format.  <a href="class_system_1_1_i_o_1_1_invalid_data_exception.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_i_o_description_attribute.html">IODescriptionAttribute</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the description visual designers can display when referencing an event, extender, or property.  <a href="class_system_1_1_i_o_1_1_i_o_description_attribute.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_i_o_exception.html">IOException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when an I/O error occurs.  <a href="class_system_1_1_i_o_1_1_i_o_exception.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_iterator.html">Iterator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_long_path.html">LongPath</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_long_path_directory.html">LongPathDirectory</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_long_path_file.html">LongPathFile</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_long_path_helper.html">LongPathHelper</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_memory_stream.html">MemoryStream</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a stream whose backing store is memory.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_memory_stream.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_path.html">Path</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs operations on <a class="el" href="namespace_system.html#af5c85727c0f673ec3ac1350b8b52cf87a27118326006d3829667a400ad23d5d98">T:System.String</a> instances that contain file or directory path information. These operations are performed in a cross-platform manner.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_path.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_i_o_1_1_path_helper.html">PathHelper</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_path_internal.html">PathInternal</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs operations on T:System.String instances that contain file or directory path information. These operations are performed in a cross-platform manner.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_path.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_path_too_long_exception.html">PathTooLongException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception that is thrown when a path or fully qualified file name is longer than the system-defined maximum length.  <a href="class_system_1_1_i_o_1_1_path_too_long_exception.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_pinned_buffer_memory_stream.html">PinnedBufferMemoryStream</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_read_lines_iterator.html">ReadLinesIterator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_search_result.html">SearchResult</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_search_result_handler.html">SearchResultHandler</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_renamed_event_args.html">RenamedEventArgs</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides data for the E:System.IO.FileSystemWatcher.Renamed event.  <a href="class_system_1_1_i_o_1_1_renamed_event_args.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_stream.html">Stream</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides a generic view of a sequence of bytes. This is an abstract class.To browse the .NET Framework source code for this type, see the Reference Source.  <a href="class_system_1_1_i_o_1_1_stream.html#details">More...</a><br /></td></tr>
@@ -211,8 +186,6 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_string_reader.html">StringReader</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Implements a T:System.IO.TextReader that reads from a string.  <a href="class_system_1_1_i_o_1_1_string_reader.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_string_result_handler.html">StringResultHandler</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_string_writer.html">StringWriter</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Implements a T:System.IO.TextWriter for writing information to a string. The information is stored in an underlying T:System.Text.StringBuilder.  <a href="class_system_1_1_i_o_1_1_string_writer.html#details">More...</a><br /></td></tr>
@@ -229,7 +202,8 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream.html">UnmanagedMemoryStream</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides access to unmanaged blocks of memory from managed code.  <a href="class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html">UnmanagedMemoryStreamWrapper</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_i_o_1_1_wait_for_changed_result.html">WaitForChangedResult</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains information on the change that occurred.  <a href="struct_system_1_1_i_o_1_1_wait_for_changed_result.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -302,14 +276,14 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="memdesc:a16ff3253438093bdbbb707fca1695775"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents advanced options for creating a T:System.IO.FileStream object.  <a href="namespace_system_1_1_i_o.html#a16ff3253438093bdbbb707fca1695775">More...</a><br /></td></tr>
 <tr class="separator:a16ff3253438093bdbbb707fca1695775"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3ac6e610399d494a5d63f493dc3811a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811a">FileSecurityStateAccess</a> { <br />
-&#160;&#160;<a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811aa88a12f09800c497f30b98781952b50f2">FileSecurityStateAccess.NoAccess</a> = 0x0, 
-<a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811aa7a1a5f3e79fdc91edf2f5ead9d66abb4">FileSecurityStateAccess.Read</a> = 0x1, 
-<a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811aa1129c0e4d43f2d121652a7302712cff6">FileSecurityStateAccess.Write</a> = 0x2, 
-<a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811aa3ac4692f3935a49a0b243eecf529faa9">FileSecurityStateAccess.Append</a> = 0x4, 
+<tr class="memitem:af3ac6e610399d494a5d63f493dc3811a"><td class="memItemLeft" align="right" valign="top"><a id="af3ac6e610399d494a5d63f493dc3811a"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>FileSecurityStateAccess</b> { <br />
+&#160;&#160;<b>NoAccess</b> = 0x0, 
+<b>Read</b> = 0x1, 
+<b>Write</b> = 0x2, 
+<b>Append</b> = 0x4, 
 <br />
-&#160;&#160;<a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811aaa5bccf741a146879da2ce1809cfcda59">FileSecurityStateAccess.PathDiscovery</a> = 0x8, 
-<a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811aac6a57f1b79f37f7ed94aa1a099289739">FileSecurityStateAccess.AllAccess</a> = 0xF
+&#160;&#160;<b>PathDiscovery</b> = 0x8, 
+<b>AllAccess</b> = 0xF
 <br />
  }</td></tr>
 <tr class="separator:af3ac6e610399d494a5d63f493dc3811a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -325,6 +299,35 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="memdesc:a73ab08798e3f755afefd1a7ad3914035"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains constants for controlling the kind of access other T:System.IO.FileStream objects can have to the same file.  <a href="namespace_system_1_1_i_o.html#a73ab08798e3f755afefd1a7ad3914035">More...</a><br /></td></tr>
 <tr class="separator:a73ab08798e3f755afefd1a7ad3914035"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ca4d0884459ab3813474ea39178efcc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#a8ca4d0884459ab3813474ea39178efcc">HandleInheritability</a> { <a class="el" href="namespace_system_1_1_i_o.html#a8ca4d0884459ab3813474ea39178efcca6adf97f83acf6453d4a6a4b1070f3754">HandleInheritability.None</a>, 
+<a class="el" href="namespace_system_1_1_i_o.html#a8ca4d0884459ab3813474ea39178efcca6711ce41907fd6bb07b48b7d1f6a60c5">HandleInheritability.Inheritable</a>
+ }</td></tr>
+<tr class="memdesc:a8ca4d0884459ab3813474ea39178efcc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies whether the underlying handle is inheritable by child processes.  <a href="namespace_system_1_1_i_o.html#a8ca4d0884459ab3813474ea39178efcc">More...</a><br /></td></tr>
+<tr class="separator:a8ca4d0884459ab3813474ea39178efcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00e5ce30f0cc57fc4331045a2d440348"><td class="memItemLeft" align="right" valign="top"><a id="a00e5ce30f0cc57fc4331045a2d440348"></a>enum &#160;</td><td class="memItemRight" valign="bottom"><b>LogRetentionOption</b> { <br />
+&#160;&#160;<b>SingleFileUnboundedSize</b> = 2, 
+<b>SingleFileBoundedSize</b> = 4, 
+<b>UnlimitedSequentialFiles</b> = 0, 
+<b>LimitedSequentialFiles</b> = 3, 
+<br />
+&#160;&#160;<b>LimitedCircularFiles</b> = 1
+<br />
+ }</td></tr>
+<tr class="separator:a00e5ce30f0cc57fc4331045a2d440348"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ed498d7ba1f75a73f8d59e70358aa09"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09">NotifyFilters</a> { <br />
+&#160;&#160;<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a1e621df39e053ff6bc7db7bb1c616cc1">NotifyFilters.FileName</a> = 0x1, 
+<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a0ea74e18ab553375efcef66e875be4f0">NotifyFilters.DirectoryName</a> = 0x2, 
+<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a287234a1ff35a314b5b6bc4e5828e745">NotifyFilters.Attributes</a> = 0x4, 
+<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a6f6cb72d544962fa333e2e34ce64f719">NotifyFilters.Size</a> = 0x8, 
+<br />
+&#160;&#160;<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a146c9062dd896406e0a992e1a04258d1">NotifyFilters.LastWrite</a> = 0x10, 
+<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a616d59238f8e2b7ab9fe59f7019b6a08">NotifyFilters.LastAccess</a> = 0x20, 
+<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a5b39c2762c29da434ce931d2265123ff">NotifyFilters.CreationTime</a> = 0x40, 
+<a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09a2fae32629d4ef4fc6341f1751b405e45">NotifyFilters.Security</a> = 0x100
+<br />
+ }</td></tr>
+<tr class="memdesc:a2ed498d7ba1f75a73f8d59e70358aa09"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies changes to watch for in a file or folder.  <a href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09">More...</a><br /></td></tr>
+<tr class="separator:a2ed498d7ba1f75a73f8d59e70358aa09"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75d2dc957d717ae4f3a25ff08ab33a98"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#a75d2dc957d717ae4f3a25ff08ab33a98">SearchOption</a> { <a class="el" href="namespace_system_1_1_i_o.html#a75d2dc957d717ae4f3a25ff08ab33a98a32166234cf352707e3d7b05bd208af0f">SearchOption.TopDirectoryOnly</a>, 
 <a class="el" href="namespace_system_1_1_i_o.html#a75d2dc957d717ae4f3a25ff08ab33a98a1a3a6757e2842b56dbab97e26ad7f269">SearchOption.AllDirectories</a>
  }</td></tr>
@@ -336,6 +339,29 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="memdesc:afd51a0f44040b5910277e76931a2d587"><td class="mdescLeft">&#160;</td><td class="mdescRight">Specifies the position in a stream to use for seeking.  <a href="namespace_system_1_1_i_o.html#afd51a0f44040b5910277e76931a2d587">More...</a><br /></td></tr>
 <tr class="separator:afd51a0f44040b5910277e76931a2d587"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a616fe350c15b9ae9e125644b603c3b19"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19">WatcherChangeTypes</a> { <br />
+&#160;&#160;<a class="el" href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19a0eceeb45861f9585dd7a97a3e36f85c6">WatcherChangeTypes.Created</a> = 0x1, 
+<a class="el" href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19a5fe6005bf6e415c950c011fb65f12b8f">WatcherChangeTypes.Deleted</a> = 0x2, 
+<a class="el" href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19a820dbd2b8f606aff866c0bbfb6b737c1">WatcherChangeTypes.Changed</a> = 0x4, 
+<a class="el" href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19ab28f2757ce8f7bb1a72486d7a3500a4e">WatcherChangeTypes.Renamed</a> = 0x8, 
+<br />
+&#160;&#160;<a class="el" href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19ab1c94ca2fbc3e78fc30069c8d0f01680">WatcherChangeTypes.All</a> = 0xF
+<br />
+ }</td></tr>
+<tr class="memdesc:a616fe350c15b9ae9e125644b603c3b19"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes that might occur to a file or directory.  <a href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19">More...</a><br /></td></tr>
+<tr class="separator:a616fe350c15b9ae9e125644b603c3b19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a058a9253c3d782c5261b38553bb8c4c8"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#a058a9253c3d782c5261b38553bb8c4c8">ErrorEventHandler</a> (object sender, <a class="el" href="class_system_1_1_i_o_1_1_error_event_args.html">ErrorEventArgs</a> e)</td></tr>
+<tr class="memdesc:a058a9253c3d782c5261b38553bb8c4c8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that will handle the E:System.IO.FileSystemWatcher.Error event of a T:System.IO.FileSystemWatcher object.  <a href="#a058a9253c3d782c5261b38553bb8c4c8">More...</a><br /></td></tr>
+<tr class="separator:a058a9253c3d782c5261b38553bb8c4c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6979d36ef9d81fd4a632213543f9850c"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#a6979d36ef9d81fd4a632213543f9850c">FileSystemEventHandler</a> (object sender, <a class="el" href="class_system_1_1_i_o_1_1_file_system_event_args.html">FileSystemEventArgs</a> e)</td></tr>
+<tr class="memdesc:a6979d36ef9d81fd4a632213543f9850c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that will handle the E:System.IO.FileSystemWatcher.Changed, E:System.IO.FileSystemWatcher.Created, or E:System.IO.FileSystemWatcher.Deleted event of a T:System.IO.FileSystemWatcher class.  <a href="#a6979d36ef9d81fd4a632213543f9850c">More...</a><br /></td></tr>
+<tr class="separator:a6979d36ef9d81fd4a632213543f9850c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5037821cc3f4b3d99f0fe4f34e25b7a6"><td class="memItemLeft" align="right" valign="top">delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_i_o.html#a5037821cc3f4b3d99f0fe4f34e25b7a6">RenamedEventHandler</a> (object sender, <a class="el" href="class_system_1_1_i_o_1_1_renamed_event_args.html">RenamedEventArgs</a> e)</td></tr>
+<tr class="memdesc:a5037821cc3f4b3d99f0fe4f34e25b7a6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the method that will handle the E:System.IO.FileSystemWatcher.Renamed event of a T:System.IO.FileSystemWatcher class.  <a href="#a5037821cc3f4b3d99f0fe4f34e25b7a6">More...</a><br /></td></tr>
+<tr class="separator:a5037821cc3f4b3d99f0fe4f34e25b7a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
 <a id="a822a5633c007fd04cf0f6eb71431cfd9"></a>
@@ -556,38 +582,6 @@ Enumerations</h2></td></tr>
 
 </div>
 </div>
-<a id="af3ac6e610399d494a5d63f493dc3811a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af3ac6e610399d494a5d63f493dc3811a">&#9670;&nbsp;</a></span>FileSecurityStateAccess</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811a">System.IO.FileSecurityStateAccess</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af3ac6e610399d494a5d63f493dc3811aa88a12f09800c497f30b98781952b50f2"></a>NoAccess&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af3ac6e610399d494a5d63f493dc3811aa7a1a5f3e79fdc91edf2f5ead9d66abb4"></a>Read&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af3ac6e610399d494a5d63f493dc3811aa1129c0e4d43f2d121652a7302712cff6"></a>Write&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af3ac6e610399d494a5d63f493dc3811aa3ac4692f3935a49a0b243eecf529faa9"></a>Append&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af3ac6e610399d494a5d63f493dc3811aaa5bccf741a146879da2ce1809cfcda59"></a>PathDiscovery&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af3ac6e610399d494a5d63f493dc3811aac6a57f1b79f37f7ed94aa1a099289739"></a>AllAccess&#160;</td><td class="fielddoc"></td></tr>
-</table>
-
-<p class="definition">Definition at line <a class="el" href="_file_security_state_access_8cs_source.html#l00004">4</a> of file <a class="el" href="_file_security_state_access_8cs_source.html">FileSecurityStateAccess.cs</a>.</p>
-
-</div>
-</div>
 <a id="a73ab08798e3f755afefd1a7ad3914035"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a73ab08798e3f755afefd1a7ad3914035">&#9670;&nbsp;</a></span>FileShare</h2>
 
@@ -625,6 +619,82 @@ Enumerations</h2></td></tr>
 </table>
 
 <p class="definition">Definition at line <a class="el" href="_file_share_8cs_source.html#l00009">9</a> of file <a class="el" href="_file_share_8cs_source.html">FileShare.cs</a>.</p>
+
+</div>
+</div>
+<a id="a8ca4d0884459ab3813474ea39178efcc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ca4d0884459ab3813474ea39178efcc">&#9670;&nbsp;</a></span>HandleInheritability</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_system_1_1_i_o.html#a8ca4d0884459ab3813474ea39178efcc">System.IO.HandleInheritability</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Specifies whether the underlying handle is inheritable by child processes. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8ca4d0884459ab3813474ea39178efcca6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"><p>Specifies that the handle is not inheritable by child processes. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a8ca4d0884459ab3813474ea39178efcca6711ce41907fd6bb07b48b7d1f6a60c5"></a>Inheritable&#160;</td><td class="fielddoc"><p>Specifies that the handle is inheritable by child processes. </p>
+</td></tr>
+</table>
+
+<p class="definition">Definition at line <a class="el" href="_handle_inheritability_8cs_source.html#l00006">6</a> of file <a class="el" href="_handle_inheritability_8cs_source.html">HandleInheritability.cs</a>.</p>
+
+</div>
+</div>
+<a id="a2ed498d7ba1f75a73f8d59e70358aa09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ed498d7ba1f75a73f8d59e70358aa09">&#9670;&nbsp;</a></span>NotifyFilters</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_system_1_1_i_o.html#a2ed498d7ba1f75a73f8d59e70358aa09">System.IO.NotifyFilters</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Specifies changes to watch for in a file or folder. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a1e621df39e053ff6bc7db7bb1c616cc1"></a>FileName&#160;</td><td class="fielddoc"><p>The name of the file. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a0ea74e18ab553375efcef66e875be4f0"></a>DirectoryName&#160;</td><td class="fielddoc"><p>The name of the directory. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a287234a1ff35a314b5b6bc4e5828e745"></a>Attributes&#160;</td><td class="fielddoc"><p>The attributes of the file or folder. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a6f6cb72d544962fa333e2e34ce64f719"></a>Size&#160;</td><td class="fielddoc"><p>The size of the file or folder. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a146c9062dd896406e0a992e1a04258d1"></a>LastWrite&#160;</td><td class="fielddoc"><p>The date the file or folder last had anything written to it. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a616d59238f8e2b7ab9fe59f7019b6a08"></a>LastAccess&#160;</td><td class="fielddoc"><p>The date the file or folder was last opened. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a5b39c2762c29da434ce931d2265123ff"></a>CreationTime&#160;</td><td class="fielddoc"><p>The time the file or folder was created. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a2ed498d7ba1f75a73f8d59e70358aa09a2fae32629d4ef4fc6341f1751b405e45"></a>Security&#160;</td><td class="fielddoc"><p>The security settings of the file or folder. </p>
+</td></tr>
+</table>
+
+<p class="definition">Definition at line <a class="el" href="_notify_filters_8cs_source.html#l00005">5</a> of file <a class="el" href="_notify_filters_8cs_source.html">NotifyFilters.cs</a>.</p>
 
 </div>
 </div>
@@ -691,6 +761,156 @@ Enumerations</h2></td></tr>
 </table>
 
 <p class="definition">Definition at line <a class="el" href="_seek_origin_8cs_source.html#l00009">9</a> of file <a class="el" href="_seek_origin_8cs_source.html">SeekOrigin.cs</a>.</p>
+
+</div>
+</div>
+<a id="a616fe350c15b9ae9e125644b603c3b19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a616fe350c15b9ae9e125644b603c3b19">&#9670;&nbsp;</a></span>WatcherChangeTypes</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_system_1_1_i_o.html#a616fe350c15b9ae9e125644b603c3b19">System.IO.WatcherChangeTypes</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Changes that might occur to a file or directory. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a616fe350c15b9ae9e125644b603c3b19a0eceeb45861f9585dd7a97a3e36f85c6"></a>Created&#160;</td><td class="fielddoc"><p>The creation of a file or folder. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a616fe350c15b9ae9e125644b603c3b19a5fe6005bf6e415c950c011fb65f12b8f"></a>Deleted&#160;</td><td class="fielddoc"><p>The deletion of a file or folder. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a616fe350c15b9ae9e125644b603c3b19a820dbd2b8f606aff866c0bbfb6b737c1"></a>Changed&#160;</td><td class="fielddoc"><p>The change of a file or folder. The types of changes include: changes to size, attributes, security settings, last write, and last access time. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a616fe350c15b9ae9e125644b603c3b19ab28f2757ce8f7bb1a72486d7a3500a4e"></a>Renamed&#160;</td><td class="fielddoc"><p>The renaming of a file or folder. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a616fe350c15b9ae9e125644b603c3b19ab1c94ca2fbc3e78fc30069c8d0f01680"></a>All&#160;</td><td class="fielddoc"><p>The creation, deletion, change, or renaming of a file or folder. </p>
+</td></tr>
+</table>
+
+<p class="definition">Definition at line <a class="el" href="_watcher_change_types_8cs_source.html#l00005">5</a> of file <a class="el" href="_watcher_change_types_8cs_source.html">WatcherChangeTypes.cs</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a058a9253c3d782c5261b38553bb8c4c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a058a9253c3d782c5261b38553bb8c4c8">&#9670;&nbsp;</a></span>ErrorEventHandler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">delegate void System.IO.ErrorEventHandler </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_system_1_1_i_o_1_1_error_event_args.html">ErrorEventArgs</a>&#160;</td>
+          <td class="paramname"><em>e</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Represents the method that will handle the E:System.IO.FileSystemWatcher.Error event of a T:System.IO.FileSystemWatcher object. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The source of the event. </td></tr>
+    <tr><td class="paramname">e</td><td>An T:System.IO.ErrorEventArgs object that contains the event data. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a6979d36ef9d81fd4a632213543f9850c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6979d36ef9d81fd4a632213543f9850c">&#9670;&nbsp;</a></span>FileSystemEventHandler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">delegate void System.IO.FileSystemEventHandler </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_system_1_1_i_o_1_1_file_system_event_args.html">FileSystemEventArgs</a>&#160;</td>
+          <td class="paramname"><em>e</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Represents the method that will handle the E:System.IO.FileSystemWatcher.Changed, E:System.IO.FileSystemWatcher.Created, or E:System.IO.FileSystemWatcher.Deleted event of a T:System.IO.FileSystemWatcher class. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The source of the event. </td></tr>
+    <tr><td class="paramname">e</td><td>The T:System.IO.FileSystemEventArgs that contains the event data. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a5037821cc3f4b3d99f0fe4f34e25b7a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5037821cc3f4b3d99f0fe4f34e25b7a6">&#9670;&nbsp;</a></span>RenamedEventHandler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">delegate void System.IO.RenamedEventHandler </td>
+          <td>(</td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_system_1_1_i_o_1_1_renamed_event_args.html">RenamedEventArgs</a>&#160;</td>
+          <td class="paramname"><em>e</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Represents the method that will handle the E:System.IO.FileSystemWatcher.Renamed event of a T:System.IO.FileSystemWatcher class. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sender</td><td>The source of the event. </td></tr>
+    <tr><td class="paramname">e</td><td>The T:System.IO.RenamedEventArgs that contains the event data. </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>

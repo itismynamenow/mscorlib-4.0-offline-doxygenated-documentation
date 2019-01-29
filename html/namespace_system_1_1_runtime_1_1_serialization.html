@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Runtime.Serialization Namespace Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Runtime.Serialization Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -95,17 +95,8 @@ $(document).ready(function(){initNavTree('namespace_system_1_1_runtime_1_1_seria
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:namespace_system_1_1_runtime_1_1_serialization_1_1_formatters"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_runtime_1_1_serialization_1_1_formatters.html">Formatters</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_fixup_holder.html">FixupHolder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_fixup_holder_list.html">FixupHolderList</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatter.html">Formatter</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides base functionality for the common language runtime serialization formatters.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_formatter.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -116,7 +107,7 @@ Classes</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides static methods to aid with the implementation of a T:System.Runtime.Serialization.Formatter for serialization. This class cannot be inherited.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_formatter_services.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html">IDeserializationCallback</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Indicates that a class is to be notified when deserialization of the entire object graph has been completed. Note that this interface is not called when deserializing with the XmlSerializer (System.Xml.Serialization.XmlSerializer).  <a href="interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Indicates that a class is to be notified when deserialization of the entire object graph has been completed. Note that this interface is not called when deserializing with the XmlSerializer (<a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html" title="Serializes and deserializes objects into and from XML documents. The T:System.Xml....">System.Xml.Serialization.XmlSerializer</a>).  <a href="interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_runtime_1_1_serialization_1_1_i_formatter.html">IFormatter</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides functionality for formatting serialized objects.  <a href="interface_system_1_1_runtime_1_1_serialization_1_1_i_formatter.html#details">More...</a><br /></td></tr>
@@ -138,18 +129,6 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_runtime_1_1_serialization_1_1_i_surrogate_selector.html">ISurrogateSelector</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Indicates a serialization surrogate selector class.  <a href="interface_system_1_1_runtime_1_1_serialization_1_1_i_surrogate_selector.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_long_list.html">LongList</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_member_holder.html">MemberHolder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_clone_helper.html">ObjectCloneHelper</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_holder.html">ObjectHolder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_holder_list.html">ObjectHolderList</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_holder_list_enumerator.html">ObjectHolderListEnumerator</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_i_d_generator.html">ObjectIDGenerator</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates IDs for objects.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_object_i_d_generator.html#details">More...</a><br /></td></tr>
@@ -175,22 +154,14 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_safe_serialization_event_args.html">SafeSerializationEventArgs</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides data for the E:System.Exception.SerializeObjectState event.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_safe_serialization_event_args.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_safe_serialization_manager.html">SafeSerializationManager</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_binder.html">SerializationBinder</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allows users to control class loading and mandate what class to load.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_binder.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_runtime_1_1_serialization_1_1_serialization_entry.html">SerializationEntry</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Holds the value, T:System.Type, and name of a serialized object.  <a href="struct_system_1_1_runtime_1_1_serialization_1_1_serialization_entry.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_events.html">SerializationEvents</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_events_cache.html">SerializationEventsCache</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_exception.html">SerializationException</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The exception thrown when an error occurs during serialization or deserialization.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_exception.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_field_info.html">SerializationFieldInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_info.html">SerializationInfo</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores all the data needed to serialize or deserialize an object. This class cannot be inherited.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_info.html#details">More...</a><br /></td></tr>
@@ -204,18 +175,8 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html">StreamingContext</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Describes the source and destination of a given serialized stream, and provides an additional caller-defined context.  <a href="struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_surrogate_for_cyclical_reference.html">SurrogateForCyclicalReference</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_surrogate_hashtable.html">SurrogateHashtable</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_surrogate_key.html">SurrogateKey</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_surrogate_selector.html">SurrogateSelector</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Assists formatters in selection of the serialization surrogate to delegate the serialization or deserialization process to.  <a href="class_system_1_1_runtime_1_1_serialization_1_1_surrogate_selector.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_type_load_exception_holder.html">TypeLoadExceptionHolder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_value_type_fixup_info.html">ValueTypeFixupInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -239,9 +200,11 @@ Enumerations</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ae694144d0e12b75589c620eb6dcdf397"><td class="memItemLeft" align="right" valign="top">internal delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_runtime_1_1_serialization.html#ae694144d0e12b75589c620eb6dcdf397">DeserializationEventHandler</a> (object sender)</td></tr>
+<tr class="memitem:ae694144d0e12b75589c620eb6dcdf397"><td class="memItemLeft" align="right" valign="top"><a id="ae694144d0e12b75589c620eb6dcdf397"></a>
+internal delegate void&#160;</td><td class="memItemRight" valign="bottom"><b>DeserializationEventHandler</b> (object sender)</td></tr>
 <tr class="separator:ae694144d0e12b75589c620eb6dcdf397"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb06c81906d836ee441ddcdb5763d678"><td class="memItemLeft" align="right" valign="top">internal delegate void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_system_1_1_runtime_1_1_serialization.html#acb06c81906d836ee441ddcdb5763d678">SerializationEventHandler</a> (<a class="el" href="struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html">StreamingContext</a> context)</td></tr>
+<tr class="memitem:acb06c81906d836ee441ddcdb5763d678"><td class="memItemLeft" align="right" valign="top"><a id="acb06c81906d836ee441ddcdb5763d678"></a>
+internal delegate void&#160;</td><td class="memItemRight" valign="bottom"><b>SerializationEventHandler</b> (<a class="el" href="struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html">StreamingContext</a> context)</td></tr>
 <tr class="separator:acb06c81906d836ee441ddcdb5763d678"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
@@ -288,43 +251,6 @@ Functions</h2></td></tr>
 </table>
 
 <p class="definition">Definition at line <a class="el" href="_streaming_context_states_8cs_source.html#l00009">9</a> of file <a class="el" href="_streaming_context_states_8cs_source.html">StreamingContextStates.cs</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ae694144d0e12b75589c620eb6dcdf397"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae694144d0e12b75589c620eb6dcdf397">&#9670;&nbsp;</a></span>DeserializationEventHandler()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal delegate void System.Runtime.Serialization.DeserializationEventHandler </td>
-          <td>(</td>
-          <td class="paramtype">object&#160;</td>
-          <td class="paramname"><em>sender</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="acb06c81906d836ee441ddcdb5763d678"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb06c81906d836ee441ddcdb5763d678">&#9670;&nbsp;</a></span>SerializationEventHandler()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal delegate void System.Runtime.Serialization.SerializationEventHandler </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html">StreamingContext</a>&#160;</td>
-          <td class="paramname"><em>context</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>

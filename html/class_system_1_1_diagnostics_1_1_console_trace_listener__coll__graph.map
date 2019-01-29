@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.ConsoleTraceListener" name="System.Diagnostics.ConsoleTraceListener">
+<area shape="rect" id="node1" title="Directs tracing or debugging output to either the standard output or the standard error stream." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_text_writer_trace_listener.html" title="Directs tracing or debugging output to a T:System.IO.TextWriter or to a T:System.IO...." alt="" coords="21,5,181,32"/>
+</map>

@@ -1,11 +1,5 @@
 <map id="System.Runtime.InteropServices.MarshalAsAttribute" name="System.Runtime.InteropServices.MarshalAsAttribute">
-<area shape="rect" id="node1" title="Indicates how to marshal the data between managed and unmanaged code." alt="" coords="66,261,281,303"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="46,157,117,184"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="18,81,97,108"/>
-<area shape="rect" id="node4" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="189,157,288,184"/>
-<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="121,81,210,108"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="234,81,291,108"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="315,81,381,108"/>
+<area shape="rect" id="node1" title="Indicates how to marshal the data between managed and unmanaged code." alt="" coords="5,109,220,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="40,5,111,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="135,5,234,32"/>
 </map>

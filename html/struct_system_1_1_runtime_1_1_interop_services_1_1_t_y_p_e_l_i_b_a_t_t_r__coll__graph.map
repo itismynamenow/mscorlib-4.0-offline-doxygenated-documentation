@@ -1,10 +1,4 @@
 <map id="System.Runtime.InteropServices.TYPELIBATTR" name="System.Runtime.InteropServices.TYPELIBATTR">
-<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.TYPELIBATTR instead." alt="" coords="108,260,323,301"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="166,171,265,197"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="5,95,100,121"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="124,95,219,121"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="243,95,388,121"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="240,5,383,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="419,95,553,121"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="407,5,570,32"/>
+<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.TYPELIBATTR instead." alt="" coords="5,95,220,136"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="63,5,162,32"/>
 </map>

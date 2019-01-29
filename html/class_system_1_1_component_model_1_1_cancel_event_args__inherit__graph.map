@@ -1,0 +1,6 @@
+<map id="System.ComponentModel.CancelEventArgs" name="System.ComponentModel.CancelEventArgs">
+<area shape="rect" id="node1" title="Provides data for a cancelable event." alt="" coords="135,39,351,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_component_model_1_1_do_work_event_args.html" title="Provides data for the E:System.ComponentModel.BackgroundWorker.DoWork event handler." alt="" coords="399,5,591,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_configuration_1_1_setting_changing_event_args.html" title="Provides data for the E:System.Configuration.ApplicationSettingsBase.SettingChanging event." alt="" coords="399,71,590,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,46,87,73"/>
+</map>

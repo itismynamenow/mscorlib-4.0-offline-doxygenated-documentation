@@ -1,0 +1,5 @@
+<map id="System.Net.NetworkInformation.IPAddressInformation" name="System.Net.NetworkInformation.IPAddressInformation">
+<area shape="rect" id="node1" title="Provides information about a network interface address." alt="" coords="5,39,215,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_network_information_1_1_multicast_i_p_address_information.html" title="Provides information about a network interface&#39;s multicast address." alt="" coords="263,5,472,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_network_information_1_1_unicast_i_p_address_information.html" title="Provides information about a network interface&#39;s unicast address." alt="" coords="263,71,472,112"/>
+</map>

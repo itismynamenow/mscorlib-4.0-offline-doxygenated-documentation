@@ -1,0 +1,4 @@
+<map id="System.Threading.BarrierPostPhaseException" name="System.Threading.BarrierPostPhaseException">
+<area shape="rect" id="node1" title="The exception that is thrown when the post&#45;phase action of a T:System.Threading.Barrier fails" alt="" coords="5,80,175,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="50,5,130,32"/>
+</map>

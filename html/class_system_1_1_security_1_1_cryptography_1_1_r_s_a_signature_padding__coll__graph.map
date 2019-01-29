@@ -1,5 +1,4 @@
 <map id="System.Security.Cryptography.RSASignaturePadding" name="System.Security.Cryptography.RSASignaturePadding">
-<area shape="rect" id="node1" title="Specifies the padding mode and parameters to use with RSA signature creation or verification operatio..." alt="" coords="5,185,209,227"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="19,95,196,136"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="26,5,189,32"/>
+<area shape="rect" id="node1" title="Specifies the padding mode and parameters to use with RSA signature creation or verification operatio..." alt="" coords="5,96,209,137"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="19,5,196,47"/>
 </map>

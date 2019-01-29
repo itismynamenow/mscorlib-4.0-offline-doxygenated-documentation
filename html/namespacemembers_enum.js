@@ -15,7 +15,6 @@ var namespacemembers_enum =
     [ "n", "namespacemembers_enum_n.html", null ],
     [ "o", "namespacemembers_enum_o.html", null ],
     [ "p", "namespacemembers_enum_p.html", null ],
-    [ "q", "namespacemembers_enum_q.html", null ],
     [ "r", "namespacemembers_enum_r.html", null ],
     [ "s", "namespacemembers_enum_s.html", null ],
     [ "t", "namespacemembers_enum_t.html", null ],

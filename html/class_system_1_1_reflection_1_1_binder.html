@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Reflection.Binder Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Reflection.Binder Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -95,12 +95,8 @@ $(document).ready(function(){initNavTree('class_system_1_1_reflection_1_1_binder
 
 <p>Selects a member from a list of candidates, and performs type conversion from actual argument type to formal argument type.  
  <a href="class_system_1_1_reflection_1_1_binder.html#details">More...</a></p>
-<div class="dynheader">
-Inheritance diagram for System.Reflection.Binder:</div>
-<div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_system_1_1_reflection_1_1_binder__inherit__graph.svg" width="180" height="187"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
-<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
+
+<p>Inherited by System.DefaultBinder.</p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -194,8 +190,6 @@ Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_default_binder.html#a3e9c5db0105ec5b1548dc9a8a939adb1">System.DefaultBinder</a>.</p>
-
 </div>
 </div>
 <a id="a6bb8d5c346e7038ae9237f31845469f4"></a>
@@ -271,7 +265,7 @@ Public Member Functions</h2></td></tr>
     <tr><td class="paramname">modifiers</td><td>An array of parameter modifiers that enable binding to work with parameter signatures in which the types have been modified. The default binder implementation does not use this parameter.</td></tr>
     <tr><td class="paramname">culture</td><td>An instance of T:System.Globalization.CultureInfo that is used to control the coercion of data types, in binder implementations that coerce types. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. Note   For example, if a binder implementation allows coercion of string values to numeric types, this parameter is necessary to convert a <code><a class="el" href="class_system_1_1_string.html" title="Represents text as a sequence of UTF-16 code units.To browse the .NET Framework source code for this ...">String</a></code> that represents 1000 to a <code><a class="el" href="struct_system_1_1_double.html" title="Represents a double-precision floating-point number.">Double</a></code> value, because 1000 is represented differently by different cultures. The default binder does not do such string coercions.</td></tr>
     <tr><td class="paramname">names</td><td>The parameter names, if parameter names are to be considered when matching, or <code>null</code> if arguments are to be treated as purely positional. For example, parameter names must be used if arguments are not supplied in positional order. </td></tr>
-    <tr><td class="paramname">state</td><td>After the method returns, <em>state</em>  contains a binder-provided object that keeps track of argument reordering. The binder creates this object, and the binder is the sole consumer of this object. If <em>state</em>  is not <code>null</code> when <code><a class="el" href="class_system_1_1_reflection_1_1_binder.html#a6bb8d5c346e7038ae9237f31845469f4" title="Selects a method to invoke from the given set of methods, based on the supplied arguments.">BindToMethod</a></code> returns, you must pass <em>state</em>  to the M:System.Reflection.Binder.ReorderArgumentArray(System.Object[]@,System.Object) method if you want to restore <em>args</em>  to its original order, for example, so that you can retrieve the values of <code>ref</code> parameters (<code><a class="el" href="namespace_system_1_1_reflection.html#a00b13d34a9eea959535b8261dc292594ab258d664af5b4b0c670e9038511ff214">ByRef</a></code> parameters in Visual Basic). </td></tr>
+    <tr><td class="paramname">state</td><td>After the method returns, <em>state</em>  contains a binder-provided object that keeps track of argument reordering. The binder creates this object, and the binder is the sole consumer of this object. If <em>state</em>  is not <code>null</code> when <code><a class="el" href="class_system_1_1_reflection_1_1_binder.html#a6bb8d5c346e7038ae9237f31845469f4" title="Selects a method to invoke from the given set of methods, based on the supplied arguments.">BindToMethod</a></code> returns, you must pass <em>state</em>  to the M:System.Reflection.Binder.ReorderArgumentArray(System.Object[]@,System.Object) method if you want to restore <em>args</em>  to its original order, for example, so that you can retrieve the values of <code>ref</code> parameters (<code>ByRef</code> parameters in Visual Basic). </td></tr>
   </table>
   </dd>
 </dl>
@@ -284,8 +278,6 @@ Public Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-
-<p>Implemented in <a class="el" href="class_system_1_1_default_binder.html#ad19f3f13a77d040cf72cf35f4e8bbe7b">System.DefaultBinder</a>.</p>
 
 </div>
 </div>
@@ -340,8 +332,6 @@ Public Member Functions</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>An object that contains the given value as the new type.</dd></dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_default_binder.html#aefa352376b53f75f1606263824bc0e0c">System.DefaultBinder</a>, and <a class="el" href="class_system_1_1_ole_aut_binder.html#a49b3f47143066006a696912b3f7067c2">System.OleAutBinder</a>.</p>
-
 </div>
 </div>
 <a id="a6b80ab43013e035fe83cd22e0e53d723"></a>
@@ -386,8 +376,6 @@ Public Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-
-<p>Implemented in <a class="el" href="class_system_1_1_default_binder.html#aa1e58f94182e65a4b4207dfbd27e94d7">System.DefaultBinder</a>.</p>
 
 </div>
 </div>
@@ -450,13 +438,11 @@ Public Member Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>The matching method, if found; otherwise, <code>null</code>.</dd></dl>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
-    <tr><td class="paramname">T:System.Reflection.AmbiguousMatchException</td><td>For the default binder, <em>match</em>  contains multiple methods that are equally good matches for the parameter types described by <em>types</em> . For example, the array in <em>types</em>  contains a <a class="el" href="namespace_system_1_1_reflection.html#af227e3cf5a78a312634f47e4cd8f3365aa1fa27779242b4902f7ae3bdd5c6d508">T:System.Type</a> object for MyClass and the array in <em>match</em>  contains a method that takes a base class of MyClass and a method that takes an interface that MyClass implements. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td>For the default binder, <em>match</em>  is <code>null</code> or an empty array.-or-An element of <em>types</em>  derives from <a class="el" href="namespace_system_1_1_reflection.html#af227e3cf5a78a312634f47e4cd8f3365aa1fa27779242b4902f7ae3bdd5c6d508">T:System.Type</a>, but is not of type <code><a class="el" href="class_system_1_1_runtime_type.html">RuntimeType</a></code>.</td></tr>
+    <tr><td class="paramname">T:System.Reflection.AmbiguousMatchException</td><td>For the default binder, <em>match</em>  contains multiple methods that are equally good matches for the parameter types described by <em>types</em> . For example, the array in <em>types</em>  contains a T:System.Type object for MyClass and the array in <em>match</em>  contains a method that takes a base class of MyClass and a method that takes an interface that MyClass implements. </td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td>For the default binder, <em>match</em>  is <code>null</code> or an empty array.-or-An element of <em>types</em>  derives from T:System.Type, but is not of type <code>RuntimeType</code>.</td></tr>
   </table>
   </dd>
 </dl>
-
-<p>Implemented in <a class="el" href="class_system_1_1_default_binder.html#a70a4ced9f835f849b08933e14594d739">System.DefaultBinder</a>.</p>
 
 </div>
 </div>
@@ -532,12 +518,10 @@ Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p>Implemented in <a class="el" href="class_system_1_1_default_binder.html#a67d2bb00ae69dcc235726965bf474aae">System.DefaultBinder</a>.</p>
-
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System.Reflection/<a class="el" href="_binder_8cs_source.html">Binder.cs</a></li>
+<li>D:/All cs/System.Reflection/<a class="el" href="_binder_8cs_source.html">Binder.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

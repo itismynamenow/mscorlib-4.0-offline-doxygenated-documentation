@@ -1,6 +1,0 @@
-<map id="System.RuntimeTypeHandle.IntroducedMethodEnumerator" name="System.RuntimeTypeHandle.IntroducedMethodEnumerator">
-<area shape="rect" id="node1" title=" " alt="" coords="11,275,203,316"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_runtime_method_handle_internal.html" title=" " alt="" coords="5,171,208,212"/>
-<area shape="rect" id="node3" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="55,81,158,108"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="61,5,153,32"/>
-</map>

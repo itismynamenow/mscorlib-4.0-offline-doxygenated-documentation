@@ -1,11 +1,6 @@
 <map id="System.OperatingSystem" name="System.OperatingSystem">
-<area shape="rect" id="node1" title="Represents information about an operating system, such as the version and platform identifier...." alt="" coords="74,260,246,287"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,95,88,121"/>
-<area shape="rect" id="node4" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="103,171,217,197"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="242,171,334,197"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="113,95,207,121"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="232,95,395,121"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="242,5,385,32"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="419,95,570,121"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="413,5,576,32"/>
+<area shape="rect" id="node1" title="Represents information about an operating system, such as the version and platform identifier...." alt="" coords="23,171,195,197"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="52,81,167,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="191,81,283,108"/>
 </map>

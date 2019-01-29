@@ -1,9 +1,0 @@
-<map id="System.Security.Util.DirectoryString" name="System.Security.Util.DirectoryString">
-<area shape="rect" id="node1" title=" " alt="" coords="11,399,209,440"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_util_1_1_site_string.html" title=" " alt="" coords="71,323,149,349"/>
-<area shape="rect" id="node3" href="$class_system_1_1_collections_1_1_array_list.html" title="Implements the T:System.Collections.IList interface using an array whose size is dynamically increase..." alt="" coords="15,233,205,260"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="43,157,89,184"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="90,81,173,108"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,100,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="165,157,247,184"/>
-</map>

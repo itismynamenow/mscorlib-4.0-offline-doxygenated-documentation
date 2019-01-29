@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_system_1_1_security_1_1_security_state.html" title="Provides a base class for requesting the security status of an action from the T:System...." alt="" coords="5,5,176,47"/>
-<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_security_state.html" title="Provides settings for maintaining the quota size for isolated storage." alt="" coords="224,5,415,47"/>
-</map>

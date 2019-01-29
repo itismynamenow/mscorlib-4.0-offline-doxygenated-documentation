@@ -1,5 +1,0 @@
-<map id="System.Runtime.Remoting.ComRedirectionProxy" name="System.Runtime.Remoting.ComRedirectionProxy">
-<area shape="rect" id="node1" title=" " alt="" coords="58,80,241,121"/>
-<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message_sink.html" title="Defines the interface for a message sink." alt="" coords="171,5,275,32"/>
-</map>

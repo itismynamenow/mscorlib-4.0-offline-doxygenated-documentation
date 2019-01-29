@@ -1,0 +1,5 @@
+<map id="System.Configuration.SettingsLoadedEventArgs" name="System.Configuration.SettingsLoadedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Configuration.ApplicationSettingsBase.SettingsLoaded event." alt="" coords="28,109,227,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,13,87,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_configuration_1_1_settings_provider.html" title="Acts as a base class for deriving custom settings providers in the application settings architecture." alt="" coords="111,5,309,47"/>
+</map>

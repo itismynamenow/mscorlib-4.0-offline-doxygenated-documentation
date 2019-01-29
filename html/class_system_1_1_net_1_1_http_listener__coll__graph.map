@@ -1,0 +1,5 @@
+<map id="System.Net.HttpListener" name="System.Net.HttpListener">
+<area shape="rect" id="node1" title="Provides a simple, programmatically controlled HTTP protocol listener. This class cannot be inherited..." alt="" coords="455,35,620,61"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="97,5,187,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_service_name_collection.html" title="The T:System.Security.Authentication.ExtendedProtection.ServiceNameCollection class is a read&#45;only co..." alt="" coords="5,57,279,98"/>
+</map>

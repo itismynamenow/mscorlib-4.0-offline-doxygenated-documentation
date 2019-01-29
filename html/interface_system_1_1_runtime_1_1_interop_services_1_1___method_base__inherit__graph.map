@@ -1,15 +1,4 @@
 <map id="System.Runtime.InteropServices._MethodBase" name="System.Runtime.InteropServices._MethodBase">
-<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.MethodBase class to unmanaged code." alt="" coords="5,219,220,260"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="268,226,473,253"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_constructor_info.html" title="Discovers the attributes of a class constructor and provides access to constructor metadata." alt="" coords="521,111,740,138"/>
-<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_method_info.html" title="Discovers the attributes of a method and provides access to method metadata." alt="" coords="533,339,728,366"/>
-<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_emit_1_1_constructor_builder.html" title="Defines and represents a constructor of a dynamic class." alt="" coords="788,5,1019,47"/>
-<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_emit_1_1_constructor_on_type_builder_instantiation.html" title=" " alt="" coords="788,71,1019,112"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_runtime_constructor_info.html" title=" " alt="" coords="813,136,993,177"/>
-<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_emit_1_1_dynamic_method.html" title="Defines and represents a dynamic method that can be compiled, executed, and discarded...." alt="" coords="796,201,1011,243"/>
-<area shape="rect" id="node9" href="$class_system_1_1_reflection_1_1_emit_1_1_method_builder.html" title="Defines and represents a method (or constructor) on a dynamic class." alt="" coords="800,267,1007,308"/>
-<area shape="rect" id="node10" href="$class_system_1_1_reflection_1_1_emit_1_1_method_builder_instantiation.html" title=" " alt="" coords="800,332,1007,373"/>
-<area shape="rect" id="node11" href="$class_system_1_1_reflection_1_1_emit_1_1_method_on_type_builder_instantiation.html" title=" " alt="" coords="800,397,1007,439"/>
-<area shape="rect" id="node12" href="$class_system_1_1_reflection_1_1_emit_1_1_symbol_method.html" title=" " alt="" coords="800,463,1007,504"/>
-<area shape="rect" id="node13" href="$class_system_1_1_reflection_1_1_runtime_method_info.html" title=" " alt="" coords="813,528,993,569"/>
+<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.MethodBase class to unmanaged code." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="10,95,215,121"/>
 </map>

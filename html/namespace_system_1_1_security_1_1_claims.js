@@ -5,5 +5,5 @@ var namespace_system_1_1_security_1_1_claims =
     [ "ClaimsPrincipal", "class_system_1_1_security_1_1_claims_1_1_claims_principal.html", "class_system_1_1_security_1_1_claims_1_1_claims_principal" ],
     [ "ClaimTypes", "class_system_1_1_security_1_1_claims_1_1_claim_types.html", "class_system_1_1_security_1_1_claims_1_1_claim_types" ],
     [ "ClaimValueTypes", "class_system_1_1_security_1_1_claims_1_1_claim_value_types.html", "class_system_1_1_security_1_1_claims_1_1_claim_value_types" ],
-    [ "RoleClaimProvider", "class_system_1_1_security_1_1_claims_1_1_role_claim_provider.html", "class_system_1_1_security_1_1_claims_1_1_role_claim_provider" ]
+    [ "DynamicRoleClaimProvider", "class_system_1_1_security_1_1_claims_1_1_dynamic_role_claim_provider.html", "class_system_1_1_security_1_1_claims_1_1_dynamic_role_claim_provider" ]
 ];

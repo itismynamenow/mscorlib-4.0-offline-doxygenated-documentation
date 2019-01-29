@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.TextWriterTraceListener" name="System.Diagnostics.TextWriterTraceListener">
+<area shape="rect" id="node1" title="Directs tracing or debugging output to a T:System.IO.TextWriter or to a T:System.IO...." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_trace_listener.html" title="Provides the abstract base class for the listeners who monitor trace and debug output." alt="" coords="57,5,157,32"/>
+</map>

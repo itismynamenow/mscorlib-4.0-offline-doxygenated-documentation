@@ -1,5 +1,0 @@
-<map id="System.Runtime.Remoting.Activation.ActivationListener" name="System.Runtime.Remoting.Activation.ActivationListener">
-<area shape="rect" id="node1" title=" " alt="" coords="49,80,233,121"/>
-<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_activator.html" title="Provides the basic functionality for a remoting activator class." alt="" coords="171,5,245,32"/>
-</map>

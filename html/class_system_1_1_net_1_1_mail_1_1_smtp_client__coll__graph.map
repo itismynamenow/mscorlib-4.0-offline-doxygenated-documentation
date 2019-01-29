@@ -1,0 +1,5 @@
+<map id="System.Net.Mail.SmtpClient" name="System.Net.Mail.SmtpClient">
+<area shape="rect" id="node1" title="Allows applications to send e&#45;mail by using the Simple Mail Transfer Protocol (SMTP)." alt="" coords="361,39,548,65"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,153,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate_collection.html" title="Defines a collection that stores T:System.Security.Cryptography.X509Certificates.X509Certificate obje..." alt="" coords="5,56,211,112"/>
+</map>

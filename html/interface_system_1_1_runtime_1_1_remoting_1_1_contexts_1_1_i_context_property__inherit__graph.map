@@ -1,8 +1,4 @@
 <map id="System.Runtime.Remoting.Contexts.IContextProperty" name="System.Runtime.Remoting.Contexts.IContextProperty">
-<area shape="rect" id="node1" title="Gathers naming information from the context property and determines whether the new context is ok for..." alt="" coords="5,108,188,149"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_context_attribute.html" title="Provides the default implementations of the T:System.Runtime.Remoting.Contexts.IContextAttribute and ..." alt="" coords="243,71,425,112"/>
-<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_lease_life_time_service_property.html" title=" " alt="" coords="236,137,432,193"/>
-<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_local_activator.html" title=" " alt="" coords="499,5,681,47"/>
-<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_url_attribute.html" title="Defines an attribute that can be used at the call site to specify the URL where the activation will h..." alt="" coords="499,71,681,112"/>
-<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_synchronization_attribute.html" title="Enforces a synchronization domain for the current context and all contexts that share the same instan..." alt="" coords="480,136,700,177"/>
+<area shape="rect" id="node1" title="Gathers naming information from the context property and determines whether the new context is ok for..." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_context_attribute.html" title="Provides the default implementations of the T:System.Runtime.Remoting.Contexts.IContextAttribute and ..." alt="" coords="5,95,188,136"/>
 </map>

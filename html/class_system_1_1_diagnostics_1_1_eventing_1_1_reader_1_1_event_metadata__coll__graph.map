@@ -1,0 +1,7 @@
+<map id="System.Diagnostics.Eventing.Reader.EventMetadata" name="System.Diagnostics.Eventing.Reader.EventMetadata">
+<area shape="rect" id="node1" title="Contains the metadata (properties and settings) for an event that is defined in an event provider." alt="" coords="299,104,495,145"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_link.html" title="Represents a link between an event provider and an event log that the provider publishes events into...." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_opcode.html" title="Contains an event opcode that is defined in an event provider. An opcode defines a numeric value that..." alt="" coords="5,71,201,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_task.html" title="Contains an event task that is defined in an event provider. The task identifies a portion of an appl..." alt="" coords="5,136,201,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_level.html" title="Contains an event level that is defined in an event provider. The level signifies the severity of the..." alt="" coords="5,201,201,243"/>
+</map>

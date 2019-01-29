@@ -1,5 +1,4 @@
 <map id="System.Security.Policy.FileCodeGroup" name="System.Security.Policy.FileCodeGroup">
-<area shape="rect" id="node1" title="Grants permission to manipulate files located in the code assemblies to code assemblies that match th..." alt="" coords="35,80,219,121"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="5,5,92,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_policy_1_1_i_union_semantic_code_group.html" title=" " alt="" coords="117,5,295,32"/>
+<area shape="rect" id="node1" title="Grants permission to manipulate files located in the code assemblies to code assemblies that match th..." alt="" coords="5,80,189,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="54,5,141,32"/>
 </map>

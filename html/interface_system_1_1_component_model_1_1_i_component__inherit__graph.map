@@ -1,0 +1,6 @@
+<map id="System.ComponentModel.IComponent" name="System.ComponentModel.IComponent">
+<area shape="rect" id="node1" title="Provides functionality required by all components." alt="" coords="132,80,377,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_component_model_1_1_component.html" title="Provides the base implementation for the T:System.ComponentModel.IComponent interface and enables obj..." alt="" coords="5,162,248,189"/>
+<area shape="rect" id="node4" href="$class_system_1_1_component_model_1_1_marshal_by_value_component.html" title="Implements T:System.ComponentModel.IComponent and provides the base implementation for remotable comp..." alt="" coords="273,155,495,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="210,5,299,32"/>
+</map>

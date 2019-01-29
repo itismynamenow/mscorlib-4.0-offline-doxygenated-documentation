@@ -1,0 +1,4 @@
+<map id="System.Net.WebSockets.WebSocketContext" name="System.Net.WebSockets.WebSocketContext">
+<area shape="rect" id="node1" title="Used for accessing the information in the WebSocket handshake." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_web_sockets_1_1_http_listener_web_socket_context.html" title="Provides access to information received by the T:System.Net.HttpListener class when accepting WebSock..." alt="" coords="7,95,205,136"/>
+</map>

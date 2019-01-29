@@ -1,4 +1,5 @@
 <map id="System.IO.UnmanagedMemoryAccessor" name="System.IO.UnmanagedMemoryAccessor">
-<area shape="rect" id="node1" title="Provides random access to unmanaged blocks of memory from managed code." alt="" coords="5,80,209,121"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+<area shape="rect" id="node1" title="Provides random access to unmanaged blocks of memory from managed code." alt="" coords="10,80,214,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_i_o_1_1_memory_mapped_files_1_1_memory_mapped_view_accessor.html" title="Represents a randomly accessed view of a memory&#45;mapped file." alt="" coords="5,169,219,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="67,5,157,32"/>
 </map>

@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_system_1_1_text_1_1_decoder_fallback.html" title="Provides a failure&#45;handling mechanism, called a fallback, for an encoded input byte sequence that can..." alt="" coords="5,78,203,105"/>
-<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_decoder_exception_fallback.html" title="Provides a failure&#45;handling mechanism, called a fallback, for an encoded input byte sequence that can..." alt="" coords="259,5,466,47"/>
-<area shape="rect" id="node3" href="$class_system_1_1_text_1_1_decoder_replacement_fallback.html" title="Provides a failure&#45;handling mechanism, called a fallback, for an encoded input byte sequence that can..." alt="" coords="251,71,475,112"/>
-<area shape="rect" id="node4" href="$class_system_1_1_text_1_1_internal_decoder_best_fit_fallback.html" title=" " alt="" coords="267,136,458,177"/>
-</map>

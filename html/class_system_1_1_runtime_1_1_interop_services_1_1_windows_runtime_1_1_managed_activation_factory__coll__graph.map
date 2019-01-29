@@ -1,5 +1,0 @@
-<map id="System.Runtime.InteropServices.WindowsRuntime.ManagedActivationFactory" name="System.Runtime.InteropServices.WindowsRuntime.ManagedActivationFactory">
-<area shape="rect" id="node1" title=" " alt="" coords="16,80,296,121"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_activation_factory.html" title="Enables classes to be activated by the Windows Runtime." alt="" coords="5,5,131,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_managed_activation_factory.html" title=" " alt="" coords="155,5,333,32"/>
-</map>

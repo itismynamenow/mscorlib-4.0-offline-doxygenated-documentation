@@ -1,5 +1,4 @@
 <map id="System.Globalization.ThaiBuddhistCalendar" name="System.Globalization.ThaiBuddhistCalendar">
-<area shape="rect" id="node1" title="Represents the Thai Buddhist calendar." alt="" coords="5,155,180,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="56,80,129,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="51,5,134,32"/>
+<area shape="rect" id="node1" title="Represents the Thai Buddhist calendar." alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="56,5,129,32"/>
 </map>

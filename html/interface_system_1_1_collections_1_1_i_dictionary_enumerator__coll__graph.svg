@@ -8,8 +8,8 @@
  viewBox="0.00 0.00 158.00 95.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 91)">
 <title>System.Collections.IDictionaryEnumerator</title>
-<!-- Node5 -->
-<g id="node1" class="node"><title>Node5</title>
+<!-- Node4 -->
+<g id="node1" class="node"><title>Node4</title>
 <g id="a_node1"><a xlink:title="Enumerates the elements of a nongeneric dictionary.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-30.5 150,-30.5 150,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">System.Collections.IDictionary</text>
@@ -17,16 +17,16 @@
 </a>
 </g>
 </g>
-<!-- Node6 -->
-<g id="node2" class="node"><title>Node6</title>
+<!-- Node5 -->
+<g id="node2" class="node"><title>Node5</title>
 <g id="a_node2"><a xlink:href="interface_system_1_1_collections_1_1_i_enumerator.html" target="_top" xlink:title="Supports a simple iteration over a non&#45;generic collection.">
 <polygon fill="none" stroke="black" points="40.5,-67.5 40.5,-86.5 109.5,-86.5 109.5,-67.5 40.5,-67.5"/>
 <text text-anchor="middle" x="75" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">IEnumerator</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node5 -->
-<g id="edge1" class="edge"><title>Node6&#45;&gt;Node5</title>
+<!-- Node5&#45;&gt;Node4 -->
+<g id="edge1" class="edge"><title>Node5&#45;&gt;Node4</title>
 <path fill="none" stroke="midnightblue" d="M75,-57.2349C75,-48.5864 75,-38.4969 75,-30.523"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="71.5001,-57.4751 75,-67.4751 78.5001,-57.4751 71.5001,-57.4751"/>
 </g>

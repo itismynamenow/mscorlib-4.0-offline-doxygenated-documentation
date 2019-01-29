@@ -1,5 +1,0 @@
-<map id="System.Runtime.InteropServices.ComEventsSink" name="System.Runtime.InteropServices.ComEventsSink">
-<area shape="rect" id="node1" title=" " alt="" coords="76,80,291,121"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,175,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_i_custom_query_interface.html" title="Enables developers to provide a custom, managed implementation of the IUnknown::QueryInterface(REFIID..." alt="" coords="199,5,354,32"/>
-</map>

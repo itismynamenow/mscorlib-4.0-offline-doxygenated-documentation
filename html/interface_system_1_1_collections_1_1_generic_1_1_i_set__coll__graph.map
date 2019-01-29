@@ -1,0 +1,6 @@
+<map id="System.Collections.Generic.ISet&lt; T &gt;" name="System.Collections.Generic.ISet&lt; T &gt;">
+<area shape="rect" id="node1" title="Provides the base interface for the abstraction of sets." alt="" coords="42,155,230,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="79,80,193,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="169,5,263,32"/>
+</map>

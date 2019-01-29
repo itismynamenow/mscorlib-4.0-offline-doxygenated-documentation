@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.LicenseContext" name="System.ComponentModel.LicenseContext">
+<area shape="rect" id="node1" title="Specifies when you can use a licensed object and provides a way of obtaining additional services need..." alt="" coords="5,80,227,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_component_model_1_1_design_1_1_designtime_license_context.html" title="Represents a design&#45;time license context that can support a license provider at design time." alt="" coords="6,169,226,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_service_provider.html" title="Defines a mechanism for retrieving a service object; that is, an object that provides custom support ..." alt="" coords="59,5,173,32"/>
+</map>

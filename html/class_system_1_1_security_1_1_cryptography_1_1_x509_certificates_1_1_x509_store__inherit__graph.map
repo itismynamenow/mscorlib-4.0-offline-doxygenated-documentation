@@ -1,0 +1,4 @@
+<map id="System.Security.Cryptography.X509Certificates.X509Store" name="System.Security.Cryptography.X509Certificates.X509Store">
+<area shape="rect" id="node1" title="Represents an X.509 store, which is a physical store where certificates are persisted and managed...." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+</map>

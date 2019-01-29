@@ -1,0 +1,5 @@
+<map id="System.Xml.Xsl.XsltException" name="System.Xml.Xsl.XsltException">
+<area shape="rect" id="node1" title="The exception that is thrown when an error occurs while processing an XSLT transformation." alt="" coords="5,80,201,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xsl_1_1_xslt_compile_exception.html" title="The exception that is thrown by the Load method when an error is found in the XSLT style sheet." alt="" coords="11,155,196,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="41,5,166,32"/>
+</map>

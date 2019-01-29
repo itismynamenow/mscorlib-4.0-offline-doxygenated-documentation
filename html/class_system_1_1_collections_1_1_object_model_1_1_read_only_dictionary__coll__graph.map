@@ -1,12 +1,8 @@
 <map id="System.Collections.ObjectModel.ReadOnlyDictionary&lt; TKey, TValue &gt;" name="System.Collections.ObjectModel.ReadOnlyDictionary&lt; TKey, TValue &gt;">
-<area shape="rect" id="node1" title="Represents a read&#45;only, generic collection of key/value pairs." alt="" coords="859,195,1036,251"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="658,5,787,47"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="281,13,481,39"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,79,232,106"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="340,122,423,149"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,138,100,165"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_dictionary.html" title="Represents a generic read&#45;only collection of key/value pairs." alt="" coords="653,345,793,387"/>
-<area shape="rect" id="node6" title=" " alt="" coords="636,173,809,215"/>
-<area shape="rect" id="node7" title=" " alt="" coords="289,291,474,332"/>
-<area shape="rect" id="node10" title=" " alt="" coords="302,407,461,463"/>
+<area shape="rect" id="node1" title="Represents a read&#45;only, generic collection of key/value pairs." alt="" coords="513,107,691,163"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="336,5,465,47"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,147,100,174"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="359,122,442,149"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="177,173,259,199"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_dictionary.html" title="Represents a generic read&#45;only collection of key/value pairs." alt="" coords="148,224,288,265"/>
 </map>

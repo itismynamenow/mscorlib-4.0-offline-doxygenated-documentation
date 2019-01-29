@@ -1,0 +1,5 @@
+<map id="System.Net.WebRequest" name="System.Net.WebRequest">
+<area shape="rect" id="node1" title="Makes a request to a Uniform Resource Identifier (URI). This is an abstract class." alt="" coords="61,80,232,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="171,5,263,32"/>
+</map>

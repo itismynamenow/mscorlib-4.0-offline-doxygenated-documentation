@@ -1,10 +1,8 @@
 <map id="System.Double" name="System.Double">
-<area shape="rect" id="node1" title="Represents a double&#45;precision floating&#45;point number." alt="" coords="232,171,343,197"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="5,95,100,121"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="124,95,219,121"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="243,95,331,121"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="356,95,512,121"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="361,5,504,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="537,95,683,121"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="529,5,691,32"/>
+<area shape="rect" id="node1" title="Represents a double&#45;precision floating&#45;point number." alt="" coords="232,80,343,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="124,5,219,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="243,5,331,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="356,5,512,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="536,5,681,32"/>
 </map>

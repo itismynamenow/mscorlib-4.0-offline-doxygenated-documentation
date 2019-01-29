@@ -1,14 +1,5 @@
 <map id="System.Globalization.UmAlQuraCalendar" name="System.Globalization.UmAlQuraCalendar">
-<area shape="rect" id="node1" title="Represents the Saudi Hijri (Um Al Qura) calendar." alt="" coords="841,77,1024,118"/>
-<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="549,29,623,56"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="345,5,428,32"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_date_time.html" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="523,157,649,184"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="339,56,434,83"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="339,107,434,133"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="343,157,431,184"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="341,208,433,235"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="300,259,473,285"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="15,259,158,285"/>
-<area shape="rect" id="node11" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="305,309,468,336"/>
-<area shape="rect" id="node12" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="5,309,168,336"/>
+<area shape="rect" id="node1" title="Represents the Saudi Hijri (Um Al Qura) calendar." alt="" coords="5,112,188,153"/>
+<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="19,7,92,33"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_date_time.html" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="116,7,243,33"/>
 </map>

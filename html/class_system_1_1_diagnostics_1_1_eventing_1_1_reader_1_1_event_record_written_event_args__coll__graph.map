@@ -1,0 +1,6 @@
+<map id="System.Diagnostics.Eventing.Reader.EventRecordWrittenEventArgs" name="System.Diagnostics.Eventing.Reader.EventRecordWrittenEventArgs">
+<area shape="rect" id="node1" title="When the E:System.Diagnostics.Eventing.Reader.EventLogWatcher.EventRecordWritten event is raised,..." alt="" coords="88,109,329,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,13,87,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_record.html" title="Defines the properties of an event instance for an event that is received from an T:System...." alt="" coords="111,5,307,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="331,13,460,39"/>
+</map>

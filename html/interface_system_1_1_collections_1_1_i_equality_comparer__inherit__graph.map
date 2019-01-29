@@ -1,13 +1,5 @@
 <map id="System.Collections.IEqualityComparer" name="System.Collections.IEqualityComparer">
-<area shape="rect" id="node1" title="Defines methods to support the comparison of objects for equality." alt="" coords="5,169,195,211"/>
-<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_compatible_comparer.html" title=" " alt="" coords="309,5,513,47"/>
-<area shape="rect" id="node3" href="$class_system_1_1_collections_1_1_structural_equality_comparer.html" title=" " alt="" coords="313,71,508,112"/>
-<area shape="rect" id="node4" href="$class_system_1_1_resources_1_1_fast_resource_comparer.html" title=" " alt="" coords="301,136,520,177"/>
-<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_permission_token_key_comparer.html" title=" " alt="" coords="317,201,505,243"/>
-<area shape="rect" id="node6" href="$class_system_1_1_string_comparer.html" title="Represents a string comparison operation that uses specific case and culture&#45;based or ordinal compari..." alt="" coords="330,267,491,294"/>
-<area shape="rect" id="node11" href="$interface_system_1_1_collections_1_1_i_equality_comparer.html" title=" " alt="" coords="316,319,505,360"/>
-<area shape="rect" id="node7" href="$class_system_1_1_culture_aware_comparer.html" title=" " alt="" coords="577,179,781,206"/>
-<area shape="rect" id="node8" href="$class_system_1_1_culture_aware_randomized_comparer.html" title=" " alt="" coords="569,231,789,272"/>
-<area shape="rect" id="node9" href="$class_system_1_1_ordinal_comparer.html" title=" " alt="" coords="595,297,763,323"/>
-<area shape="rect" id="node10" href="$class_system_1_1_ordinal_randomized_comparer.html" title=" " alt="" coords="587,348,771,389"/>
+<area shape="rect" id="node1" title="Defines methods to support the comparison of objects for equality." alt="" coords="91,5,281,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_string_comparer.html" title="Represents a string comparison operation that uses specific case and culture&#45;based or ordinal compari..." alt="" coords="5,117,167,143"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_equality_comparer.html" title=" " alt="" coords="191,109,381,151"/>
 </map>

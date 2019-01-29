@@ -1,23 +1,21 @@
 var searchData=
 [
   ['fieldattributes',['FieldAttributes',['../namespace_system_1_1_reflection.html#a7ce3103c54e8792fc467854d4ebd096b',1,'System::Reflection']]],
+  ['fielddirection',['FieldDirection',['../namespace_system_1_1_code_dom.html#afafa124d5d18e7c87799560311db8d1f',1,'System::CodeDom']]],
   ['fileaccess',['FileAccess',['../namespace_system_1_1_i_o.html#a482862b3c03fa32a3249d7904b91d586',1,'System::IO']]],
-  ['fileassociationentryfieldid',['FileAssociationEntryFieldId',['../namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a9f49389bbfd006e3e0a36fe3ce503993',1,'System::Deployment::Internal::Isolation::Manifest']]],
   ['fileattributes',['FileAttributes',['../namespace_system_1_1_i_o.html#aa519826a0f50e8e3d435cde71ba7b740',1,'System::IO']]],
   ['filedialogpermissionaccess',['FileDialogPermissionAccess',['../namespace_system_1_1_security_1_1_permissions.html#a8d8e61cc885bf305caf3b3b737f45132',1,'System::Security::Permissions']]],
-  ['fileentryfieldid',['FileEntryFieldId',['../namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#aee0a45a4177947615d365ee885e7409d',1,'System::Deployment::Internal::Isolation::Manifest']]],
   ['fileiopermissionaccess',['FileIOPermissionAccess',['../namespace_system_1_1_security_1_1_permissions.html#a408c43cc9ad05c45e9b1546bbbd0f749',1,'System::Security::Permissions']]],
   ['filemode',['FileMode',['../namespace_system_1_1_i_o.html#a806eadc224c3dfd0d87ac587bb376184',1,'System::IO']]],
   ['fileoptions',['FileOptions',['../namespace_system_1_1_i_o.html#a16ff3253438093bdbbb707fca1695775',1,'System::IO']]],
-  ['filesecuritystateaccess',['FileSecurityStateAccess',['../namespace_system_1_1_i_o.html#af3ac6e610399d494a5d63f493dc3811a',1,'System::IO']]],
   ['fileshare',['FileShare',['../namespace_system_1_1_i_o.html#a73ab08798e3f755afefd1a7ad3914035',1,'System::IO']]],
   ['filesystemrights',['FileSystemRights',['../namespace_system_1_1_security_1_1_access_control.html#aad233f3b7a2386db9a4744e33ef73f1a',1,'System::Security::AccessControl']]],
   ['flowcontrol',['FlowControl',['../namespace_system_1_1_reflection_1_1_emit.html#a7973b37d5a2fb0536f14eb79e8973a71',1,'System::Reflection::Emit']]],
-  ['forkjoinoperationtype',['ForkJoinOperationType',['../class_system_1_1_threading_1_1_tasks_1_1_tpl_etw_provider.html#ad43d0e4f9c78c4d3c72d390ac048fb17',1,'System::Threading::Tasks::TplEtwProvider']]],
-  ['formatflags',['FORMATFLAGS',['../namespace_system_1_1_globalization.html#a3b71a782a6a6c903c2088e10a6670635',1,'System::Globalization']]],
   ['formatterassemblystyle',['FormatterAssemblyStyle',['../namespace_system_1_1_runtime_1_1_serialization_1_1_formatters.html#a63e0f62496a45611b9cea9a0a1ea8714',1,'System::Runtime::Serialization::Formatters']]],
   ['formattertypestyle',['FormatterTypeStyle',['../namespace_system_1_1_runtime_1_1_serialization_1_1_formatters.html#a90b4cc84caba39c517cca34defd1d9ec',1,'System::Runtime::Serialization::Formatters']]],
+  ['formatting',['Formatting',['../namespace_system_1_1_xml.html#ae7dc70c569899185b1ce295838b14d31',1,'System::Xml']]],
   ['frombase64transformmode',['FromBase64TransformMode',['../namespace_system_1_1_security_1_1_cryptography.html#ae30da1f043516aa983299431d2424836',1,'System::Security::Cryptography']]],
+  ['ftpstatuscode',['FtpStatusCode',['../namespace_system_1_1_net.html#aba53376d3a471a679df256b0848d27c8',1,'System::Net']]],
   ['funcflags',['FUNCFLAGS',['../namespace_system_1_1_runtime_1_1_interop_services.html#add30b3fbe91c4e8d7f75e59204c6ad72',1,'System.Runtime.InteropServices.FUNCFLAGS()'],['../namespace_system_1_1_runtime_1_1_interop_services_1_1_com_types.html#ab14873f60c0a496447c84b6781a37d12',1,'System.Runtime.InteropServices.ComTypes.FUNCFLAGS()']]],
   ['funckind',['FUNCKIND',['../namespace_system_1_1_runtime_1_1_interop_services.html#aeec17755e951d47a3c0c765a8dc5c0ef',1,'System.Runtime.InteropServices.FUNCKIND()'],['../namespace_system_1_1_runtime_1_1_interop_services_1_1_com_types.html#a436f22b3ab36a3f672cc1eecbf55316d',1,'System.Runtime.InteropServices.ComTypes.FUNCKIND()']]]
 ];

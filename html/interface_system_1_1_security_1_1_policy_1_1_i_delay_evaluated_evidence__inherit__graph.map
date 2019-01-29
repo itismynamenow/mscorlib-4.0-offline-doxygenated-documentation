@@ -1,4 +1,0 @@
-<map id="System.Security.Policy.IDelayEvaluatedEvidence" name="System.Security.Policy.IDelayEvaluatedEvidence">
-<area shape="rect" id="node1" title=" " alt="" coords="23,5,222,47"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_strong_name.html" title="Provides the strong name of a code assembly as evidence for policy evaluation. This class cannot be i..." alt="" coords="5,95,240,121"/>
-</map>

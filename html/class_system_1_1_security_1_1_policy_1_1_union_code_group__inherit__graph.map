@@ -1,5 +1,4 @@
 <map id="System.Security.Policy.UnionCodeGroup" name="System.Security.Policy.UnionCodeGroup">
-<area shape="rect" id="node1" title="Represents a code group whose policy statement is the union of the current code group&#39;s policy statem..." alt="" coords="29,80,225,121"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="5,5,92,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_policy_1_1_i_union_semantic_code_group.html" title=" " alt="" coords="117,5,295,32"/>
+<area shape="rect" id="node1" title="Represents a code group whose policy statement is the union of the current code group&#39;s policy statem..." alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="60,5,147,32"/>
 </map>

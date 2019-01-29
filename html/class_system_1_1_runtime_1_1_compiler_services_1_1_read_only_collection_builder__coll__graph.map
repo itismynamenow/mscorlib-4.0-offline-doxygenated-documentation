@@ -1,0 +1,9 @@
+<map id="System.Runtime.CompilerServices.ReadOnlyCollectionBuilder&lt; T &gt;" name="System.Runtime.CompilerServices.ReadOnlyCollectionBuilder&lt; T &gt;">
+<area shape="rect" id="node1" title="The builder for read only collection." alt="" coords="244,229,471,271"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title=" " alt="" coords="5,155,83,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title=" " alt="" coords="107,155,221,181"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="245,155,371,181"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="411,5,506,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="446,155,493,181"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="496,80,579,107"/>
+</map>

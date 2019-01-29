@@ -1,0 +1,5 @@
+<map id="System.Net.Sockets.UdpReceiveResult" name="System.Net.Sockets.UdpReceiveResult">
+<area shape="rect" id="node1" title="Presents UDP receive result information from a call to the M:System.Net.Sockets.UdpClient...." alt="" coords="109,95,324,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_i_p_end_point.html" title="Represents a network endpoint as an IP address and a port number." alt="" coords="242,5,402,32"/>
+</map>

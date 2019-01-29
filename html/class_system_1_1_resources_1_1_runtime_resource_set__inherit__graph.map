@@ -1,6 +1,0 @@
-<map id="System.Resources.RuntimeResourceSet" name="System.Resources.RuntimeResourceSet">
-<area shape="rect" id="node1" title=" " alt="" coords="29,155,215,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_resources_1_1_resource_set.html" title="Stores all the resources localized for one particular culture, ignoring all other cultures,..." alt="" coords="31,80,128,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="119,5,213,32"/>
-</map>

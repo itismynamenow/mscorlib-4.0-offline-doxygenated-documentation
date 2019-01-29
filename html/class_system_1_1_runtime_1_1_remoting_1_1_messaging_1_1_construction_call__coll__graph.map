@@ -1,14 +1,8 @@
 <map id="System.Runtime.Remoting.Messaging.ConstructionCall" name="System.Runtime.Remoting.Messaging.ConstructionCall">
-<area shape="rect" id="node1" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionCallMessage interface to create a re..." alt="" coords="899,122,1083,163"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodCallMessage interface to create a request m..." alt="" coords="719,321,806,348"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_call_message.html" title="Defines the method call message interface." alt="" coords="349,195,491,221"/>
-<area shape="rect" id="node12" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_construction_call_message.html" title="Represents the construction call request of an object." alt="" coords="676,79,849,105"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="149,161,271,188"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="13,161,92,188"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="374,397,466,424"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_internal_message.html" title=" " alt="" coords="360,448,480,475"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_serialization_root_object.html" title=" " alt="" coords="339,347,501,373"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="320,499,520,525"/>
-<area shape="rect" id="node10" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="169,469,251,496"/>
-<area shape="rect" id="node11" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,503,100,529"/>
+<area shape="rect" id="node1" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionCallMessage interface to create a re..." alt="" coords="64,304,248,345"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodCallMessage interface to create a request m..." alt="" coords="31,229,118,256"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_call_message.html" title="Defines the method call message interface." alt="" coords="133,155,275,181"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_construction_call_message.html" title="Represents the construction call request of an object." alt="" coords="193,229,367,256"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="193,80,314,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="115,5,194,32"/>
 </map>

@@ -1,5 +1,0 @@
-<map id="System.Runtime.Remoting.Channels.DispatchChannelSink" name="System.Runtime.Remoting.Channels.DispatchChannelSink">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,209,196"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_server_channel_sink.html" title="Provides methods used for security and transport sinks." alt="" coords="93,80,228,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_channel_sink_base.html" title="Provides the base interface for channel sinks." alt="" coords="43,5,171,32"/>
-</map>

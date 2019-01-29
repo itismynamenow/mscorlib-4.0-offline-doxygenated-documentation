@@ -1,7 +1,5 @@
 <map id="System.Runtime.Remoting.Channels.SinkProviderData" name="System.Runtime.Remoting.Channels.SinkProviderData">
-<area shape="rect" id="node1" title="Stores sink provider data for sink providers." alt="" coords="113,247,295,288"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="5,157,168,184"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="153,81,236,108"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="192,157,392,184"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="147,5,242,32"/>
+<area shape="rect" id="node1" title="Stores sink provider data for sink providers." alt="" coords="98,95,281,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="192,5,392,32"/>
 </map>

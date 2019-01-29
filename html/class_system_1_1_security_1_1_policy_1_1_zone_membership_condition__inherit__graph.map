@@ -1,8 +1,6 @@
 <map id="System.Security.Policy.ZoneMembershipCondition" name="System.Security.Policy.ZoneMembershipCondition">
-<area shape="rect" id="node1" title="Determines whether an assembly belongs to a code group by testing its zone of origin...." alt="" coords="695,51,885,92"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_policy_1_1_i_membership_condition.html" title="Defines the test to determine whether a code assembly is a member of a code group." alt="" coords="224,58,375,85"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_policy_1_1_i_report_match_membership_condition.html" title=" " alt="" coords="423,58,647,85"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="23,7,158,34"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_security_policy_encodable.html" title="Supports the methods that convert permission object state to and from an XML element representation." alt="" coords="5,109,176,135"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_policy_1_1_i_constant_membership_condition.html" title=" " alt="" coords="433,109,636,135"/>
+<area shape="rect" id="node1" title="Determines whether an assembly belongs to a code group by testing its zone of origin...." alt="" coords="67,155,257,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_policy_1_1_i_membership_condition.html" title="Defines the test to determine whether a code assembly is a member of a code group." alt="" coords="87,80,237,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_security_policy_encodable.html" title="Supports the methods that convert permission object state to and from an XML element representation." alt="" coords="177,5,347,32"/>
 </map>

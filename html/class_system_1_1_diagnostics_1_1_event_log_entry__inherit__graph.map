@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.EventLogEntry" name="System.Diagnostics.EventLogEntry">
+<area shape="rect" id="node1" title="Encapsulates a single record in the event log. This class cannot be inherited." alt="" coords="19,80,194,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_component.html" title="Provides the base implementation for the T:System.ComponentModel.IComponent interface and enables obj..." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="118,5,210,32"/>
+</map>

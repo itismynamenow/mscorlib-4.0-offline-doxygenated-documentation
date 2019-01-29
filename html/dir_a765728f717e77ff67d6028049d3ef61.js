@@ -1,0 +1,28 @@
+var dir_a765728f717e77ff67d6028049d3ef61 =
+[
+    [ "_WinInetCache.cs", "___win_inet_cache_8cs_source.html", null ],
+    [ "BaseWrapperStream.cs", "_base_wrapper_stream_8cs_source.html", null ],
+    [ "CacheFreshnessStatus.cs", "_cache_freshness_status_8cs_source.html", null ],
+    [ "CacheValidationStatus.cs", "_cache_validation_status_8cs_source.html", null ],
+    [ "CombinedReadStream.cs", "_combined_read_stream_8cs_source.html", null ],
+    [ "ForwardingReadStream.cs", "_forwarding_read_stream_8cs_source.html", null ],
+    [ "FtpRequestCacheValidator.cs", "_ftp_request_cache_validator_8cs_source.html", null ],
+    [ "HttpCacheAgeControl.cs", "_http_cache_age_control_8cs_source.html", null ],
+    [ "HttpMethod.cs", "_http_method_8cs_source.html", null ],
+    [ "HttpRequestCacheLevel.cs", "_http_request_cache_level_8cs_source.html", null ],
+    [ "HttpRequestCachePolicy.cs", "_http_request_cache_policy_8cs_source.html", null ],
+    [ "HttpRequestCacheValidator.cs", "_http_request_cache_validator_8cs_source.html", null ],
+    [ "MetadataUpdateStream.cs", "_metadata_update_stream_8cs_source.html", null ],
+    [ "RangeStream.cs", "_range_stream_8cs_source.html", null ],
+    [ "RequestCache.cs", "_request_cache_8cs_source.html", null ],
+    [ "RequestCacheBinding.cs", "_request_cache_binding_8cs_source.html", null ],
+    [ "RequestCacheEntry.cs", "_request_cache_entry_8cs_source.html", null ],
+    [ "RequestCacheLevel.cs", "_request_cache_level_8cs_source.html", null ],
+    [ "RequestCacheManager.cs", "_request_cache_manager_8cs_source.html", null ],
+    [ "RequestCachePolicy.cs", "_request_cache_policy_8cs_source.html", null ],
+    [ "RequestCacheProtocol.cs", "_request_cache_protocol_8cs_source.html", null ],
+    [ "RequestCacheValidator.cs", "_request_cache_validator_8cs_source.html", null ],
+    [ "ResponseCacheControl.cs", "_response_cache_control_8cs_source.html", null ],
+    [ "Rfc2616.cs", "_rfc2616_8cs_source.html", null ],
+    [ "SingleItemRequestCache.cs", "_single_item_request_cache_8cs_source.html", null ]
+];

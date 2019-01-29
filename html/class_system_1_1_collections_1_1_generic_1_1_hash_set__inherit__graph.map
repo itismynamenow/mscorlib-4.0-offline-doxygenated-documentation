@@ -1,0 +1,10 @@
+<map id="System.Collections.Generic.HashSet&lt; T &gt;" name="System.Collections.Generic.HashSet&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents a set of values.To browse the .NET Framework source code for this type,..." alt="" coords="559,111,747,152"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="179,68,292,94"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_generic_1_1_i_set.html" title="Provides the base interface for the abstraction of sets." alt="" coords="387,68,463,94"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="5,17,131,44"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="21,118,115,145"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="379,118,471,145"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="345,169,505,196"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="340,270,511,297"/>
+</map>

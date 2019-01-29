@@ -1,10 +1,4 @@
 <map id="System.Runtime.InteropServices._MethodInfo" name="System.Runtime.InteropServices._MethodInfo">
-<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.MethodInfo class to unmanaged code." alt="" coords="5,169,220,211"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_info.html" title="Discovers the attributes of a method and provides access to method metadata." alt="" coords="268,177,463,203"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_emit_1_1_dynamic_method.html" title="Defines and represents a dynamic method that can be compiled, executed, and discarded...." alt="" coords="511,5,725,47"/>
-<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_emit_1_1_method_builder.html" title="Defines and represents a method (or constructor) on a dynamic class." alt="" coords="515,71,721,112"/>
-<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_emit_1_1_method_builder_instantiation.html" title=" " alt="" coords="515,136,721,177"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_emit_1_1_method_on_type_builder_instantiation.html" title=" " alt="" coords="515,201,721,243"/>
-<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_emit_1_1_symbol_method.html" title=" " alt="" coords="515,267,721,308"/>
-<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_runtime_method_info.html" title=" " alt="" coords="528,332,708,373"/>
+<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.MethodInfo class to unmanaged code." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_info.html" title="Discovers the attributes of a method and provides access to method metadata." alt="" coords="15,95,210,121"/>
 </map>

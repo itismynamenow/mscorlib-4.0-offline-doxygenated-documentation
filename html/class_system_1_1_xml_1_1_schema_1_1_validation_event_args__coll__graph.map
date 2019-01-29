@@ -1,0 +1,5 @@
+<map id="System.Xml.Schema.ValidationEventArgs" name="System.Xml.Schema.ValidationEventArgs">
+<area shape="rect" id="node1" title="Returns detailed information related to the ValidationEventHandler." alt="" coords="30,109,235,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,13,87,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_exception.html" title="Returns detailed information about the schema exception." alt="" coords="111,5,328,47"/>
+</map>

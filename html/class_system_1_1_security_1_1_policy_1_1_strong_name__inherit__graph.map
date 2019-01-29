@@ -1,6 +1,5 @@
 <map id="System.Security.Policy.StrongName" name="System.Security.Policy.StrongName">
-<area shape="rect" id="node1" title="Provides the strong name of a code assembly as evidence for policy evaluation. This class cannot be i..." alt="" coords="104,80,339,107"/>
+<area shape="rect" id="node1" title="Provides the strong name of a code assembly as evidence for policy evaluation. This class cannot be i..." alt="" coords="21,80,256,107"/>
 <area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="5,5,109,32"/>
 <area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_policy_1_1_i_identity_permission_factory.html" title="Defines the method that creates a new identity permission." alt="" coords="133,5,309,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_policy_1_1_i_delay_evaluated_evidence.html" title=" " alt="" coords="334,5,501,32"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.AsnEncodedDataEnumerator" name="System.Security.Cryptography.AsnEncodedDataEnumerator">
+<area shape="rect" id="node1" title="Provides the ability to navigate through an T:System.Security.Cryptography.AsnEncodedDataCollection o..." alt="" coords="35,109,239,151"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,13,97,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_asn_encoded_data.html" title="Represents Abstract Syntax Notation One (ASN.1)&#45;encoded data." alt="" coords="121,5,325,47"/>
+</map>

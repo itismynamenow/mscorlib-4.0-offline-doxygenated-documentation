@@ -1,0 +1,5 @@
+<map id="System.Xml.XmlNodeList" name="System.Xml.XmlNodeList">
+<area shape="rect" id="node1" title="Represents an ordered collection of nodes." alt="" coords="26,80,194,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="124,5,213,32"/>
+</map>

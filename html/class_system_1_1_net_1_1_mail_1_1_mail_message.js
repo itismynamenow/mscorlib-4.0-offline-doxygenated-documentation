@@ -1,0 +1,28 @@
+var class_system_1_1_net_1_1_mail_1_1_mail_message =
+[
+    [ "MailMessage", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#adeb4e0f5e4375b5d8dc287cf01557e24", null ],
+    [ "MailMessage", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a234f5af3801fc8abf4a344a1f5d0316f", null ],
+    [ "MailMessage", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a2a7bda8c7cdf41443a4c279dff1b6861", null ],
+    [ "MailMessage", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#acc0dff51538ec720ce5d15bd25684b93", null ],
+    [ "Dispose", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a91ee6cfd63702db75aa17229ba1f52e1", null ],
+    [ "Dispose", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#aea62ef8e015a2904256f1eb38cf9b973", null ],
+    [ "Bcc", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a4ed15627f0d61a09f503c287030ca2a7", null ],
+    [ "CC", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#adec03382cf58c14fd16c140a5b818d75", null ],
+    [ "Headers", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a18f04ac526986b08afe11ac6cb05e20f", null ],
+    [ "ReplyToList", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#abe344501cac3fe00a40ee4c6916a474b", null ],
+    [ "To", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#abea9e86df5f250cdb2cabed53d05c6c0", null ],
+    [ "AlternateViews", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a545febf8c331e62c50762415527d598b", null ],
+    [ "Attachments", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a90aa5ed2d995322899d00be6a0e5a937", null ],
+    [ "Body", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#acaa0c456178c4edfcd7ceea2a9f986ea", null ],
+    [ "BodyEncoding", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#afe0cb9db018dc02afd976947701cb44d", null ],
+    [ "BodyTransferEncoding", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#ac113af0f2505745c5ba5b97a115108ec", null ],
+    [ "DeliveryNotificationOptions", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#adc7861fbb533740ad335b33ea2d8a459", null ],
+    [ "From", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a160a43247071ee699289950e26bf1c8a", null ],
+    [ "HeadersEncoding", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a107d6999925b4319cc42e0f0fc07935d", null ],
+    [ "IsBodyHtml", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#af0e217228733b383fa9e1dc70d33c8d4", null ],
+    [ "Priority", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#ab84a46c15afd0bf1d925e79f641243b1", null ],
+    [ "ReplyTo", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a82b7de5e5ca981a0b52425b04247d90b", null ],
+    [ "Sender", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#ace4972f8e37fe8c2ced631db30120fe0", null ],
+    [ "Subject", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a0832b5c1b83631d4e8bc1227a75317ff", null ],
+    [ "SubjectEncoding", "class_system_1_1_net_1_1_mail_1_1_mail_message.html#a8627f7bfc53bf667106a72cb03b14d94", null ]
+];

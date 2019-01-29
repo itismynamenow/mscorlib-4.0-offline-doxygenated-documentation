@@ -1,0 +1,5 @@
+<map id="System.Net.CookieException" name="System.Net.CookieException">
+<area shape="rect" id="node1" title="The exception that is thrown when an error is made adding a T:System.Net.Cookie to a T:System...." alt="" coords="35,80,228,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_format_exception.html" title="The exception that is thrown when the format of an argument is invalid, or when a composite format st..." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="151,5,243,32"/>
+</map>

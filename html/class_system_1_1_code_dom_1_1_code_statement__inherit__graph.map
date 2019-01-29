@@ -1,0 +1,18 @@
+<map id="System.CodeDom.CodeStatement" name="System.CodeDom.CodeStatement">
+<area shape="rect" id="node1" title="Represents the abstract base class from which all code statements derive." alt="" coords="144,425,367,451"/>
+<area shape="rect" id="node3" href="$class_system_1_1_code_dom_1_1_code_assign_statement.html" title="Represents a simple assignment statement." alt="" coords="439,5,641,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_code_dom_1_1_code_attach_event_statement.html" title="Represents a statement that attaches an event&#45;handler delegate to an event." alt="" coords="440,71,640,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_code_dom_1_1_code_comment_statement.html" title="Represents a statement consisting of a single comment." alt="" coords="431,136,649,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_code_dom_1_1_code_condition_statement.html" title="Represents a conditional branch statement, typically represented as an if statement." alt="" coords="432,201,648,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_code_dom_1_1_code_expression_statement.html" title="Represents a statement that consists of a single expression." alt="" coords="427,267,653,308"/>
+<area shape="rect" id="node8" href="$class_system_1_1_code_dom_1_1_code_goto_statement.html" title="Represents a goto statement." alt="" coords="415,333,665,359"/>
+<area shape="rect" id="node9" href="$class_system_1_1_code_dom_1_1_code_iteration_statement.html" title="Represents a for statement, or a loop through a block of statements, using a test expression as a con..." alt="" coords="436,384,644,425"/>
+<area shape="rect" id="node10" href="$class_system_1_1_code_dom_1_1_code_labeled_statement.html" title="Represents a labeled statement or a stand&#45;alone label." alt="" coords="437,449,643,491"/>
+<area shape="rect" id="node11" href="$class_system_1_1_code_dom_1_1_code_method_return_statement.html" title="Represents a return value statement." alt="" coords="437,515,643,556"/>
+<area shape="rect" id="node12" href="$class_system_1_1_code_dom_1_1_code_remove_event_statement.html" title="Represents a statement that removes an event handler." alt="" coords="436,580,644,621"/>
+<area shape="rect" id="node13" href="$class_system_1_1_code_dom_1_1_code_snippet_statement.html" title="Represents a statement using a literal code fragment." alt="" coords="437,645,643,687"/>
+<area shape="rect" id="node14" href="$class_system_1_1_code_dom_1_1_code_throw_exception_statement.html" title="Represents a statement that throws an exception." alt="" coords="442,711,638,752"/>
+<area shape="rect" id="node15" href="$class_system_1_1_code_dom_1_1_code_try_catch_finally_statement.html" title="Represents a try block with any number of catch clauses and, optionally, a finally block." alt="" coords="433,776,647,817"/>
+<area shape="rect" id="node16" href="$class_system_1_1_code_dom_1_1_code_variable_declaration_statement.html" title="Represents a variable declaration." alt="" coords="435,841,645,883"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_object.html" title="Provides a common base class for most Code Document Object Model (CodeDOM) objects." alt="" coords="5,425,96,451"/>
+</map>

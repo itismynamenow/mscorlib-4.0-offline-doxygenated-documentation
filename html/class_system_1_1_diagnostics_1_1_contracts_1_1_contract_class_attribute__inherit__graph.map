@@ -1,5 +1,4 @@
 <map id="System.Diagnostics.Contracts.ContractClassAttribute" name="System.Diagnostics.Contracts.ContractClassAttribute">
-<area shape="rect" id="node1" title="Specifies that a separate type contains the code contracts for this type." alt="" coords="5,155,208,196"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="71,80,142,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="67,5,146,32"/>
+<area shape="rect" id="node1" title="Specifies that a separate type contains the code contracts for this type." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="71,5,142,32"/>
 </map>

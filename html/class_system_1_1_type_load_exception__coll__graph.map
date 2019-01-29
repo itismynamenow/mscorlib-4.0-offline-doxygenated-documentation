@@ -1,7 +1,5 @@
 <map id="System.TypeLoadException" name="System.TypeLoadException">
-<area shape="rect" id="node1" title="The exception that is thrown when type&#45;loading failures occur." alt="" coords="8,229,193,256"/>
-<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="89,155,214,181"/>
-<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="111,80,191,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,5,97,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="121,5,208,32"/>
+<area shape="rect" id="node1" title="The exception that is thrown when type&#45;loading failures occur." alt="" coords="42,80,227,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="155,5,247,32"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.X509Certificates.X509Chain" name="System.Security.Cryptography.X509Certificates.X509Chain">
+<area shape="rect" id="node1" title="Represents a chain&#45;building engine for T:System.Security.Cryptography.X509Certificates...." alt="" coords="375,31,579,73"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="75,5,164,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_chain_element_collection.html" title="Represents a collection of T:System.Security.Cryptography.X509Certificates.X509ChainElement objects...." alt="" coords="5,56,233,112"/>
+</map>

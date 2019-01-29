@@ -1,5 +1,4 @@
 <map id="System.CLSCompliantAttribute" name="System.CLSCompliantAttribute">
-<area shape="rect" id="node1" title="Indicates whether a program element is compliant with the Common Language Specification (CLS)...." alt="" coords="5,155,208,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="71,80,142,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="67,5,146,32"/>
+<area shape="rect" id="node1" title="Indicates whether a program element is compliant with the Common Language Specification (CLS)...." alt="" coords="5,80,208,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="71,5,142,32"/>
 </map>

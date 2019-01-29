@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.EventLogEntryCollection" name="System.Diagnostics.EventLogEntryCollection">
+<area shape="rect" id="node1" title="Defines size and enumerators for a collection of T:System.Diagnostics.EventLogEntry instances." alt="" coords="5,155,180,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="91,80,174,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="45,5,140,32"/>
+</map>

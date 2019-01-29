@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.EventSchemaTraceListener" name="System.Diagnostics.EventSchemaTraceListener">
+<area shape="rect" id="node1" title="Directs tracing or debugging output of end&#45;to&#45;end events to an XML&#45;encoded, schema&#45;compliant log file..." alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_text_writer_trace_listener.html" title="Directs tracing or debugging output to a T:System.IO.TextWriter or to a T:System.IO...." alt="" coords="13,5,173,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.CodeDom.CodeTryCatchFinallyStatement" name="System.CodeDom.CodeTryCatchFinallyStatement">
+<area shape="rect" id="node1" title="Represents a try block with any number of catch clauses and, optionally, a finally block." alt="" coords="381,57,596,98"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_statement.html" title="Represents the abstract base class from which all code statements derive." alt="" coords="61,5,173,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_code_dom_1_1_code_catch_clause_collection.html" title="Represents a collection of T:System.CodeDom.CodeCatchClause objects." alt="" coords="19,57,215,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_code_dom_1_1_code_statement_collection.html" title="Represents a collection of T:System.CodeDom.CodeStatement objects." alt="" coords="5,122,228,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.InstanceDataCollectionCollection" name="System.Diagnostics.InstanceDataCollectionCollection">
+<area shape="rect" id="node1" title="Provides a strongly typed collection of T:System.Diagnostics.InstanceDataCollection objects." alt="" coords="54,109,246,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_dictionary_base.html" title="Provides the abstract base class for a strongly typed collection of key/value pairs." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="140,5,339,32"/>
+</map>

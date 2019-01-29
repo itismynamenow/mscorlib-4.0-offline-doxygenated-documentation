@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Activator Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Activator Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -405,7 +405,7 @@ Additional Inherited Members</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>type</em>  is <code>null</code>. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code><a class="el" href="class_system_1_1_runtime_type.html">RuntimeType</a></code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code>RuntimeType</code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td><em>type</em>  cannot be a T:System.Reflection.Emit.TypeBuilder.-or- Creation of T:System.TypedReference, T:System.ArgIterator, T:System.Void, and T:System.RuntimeArgumentHandle types, or arrays of those types, is not supported. -or- The assembly that contains <em>type</em>  is a dynamic assembly that was created with F:System.Reflection.Emit.AssemblyBuilderAccess.Save.-or-The constructor that best matches <em>args</em>  has <code>varargs</code> arguments.</td></tr>
     <tr><td class="paramname">T:System.Reflection.TargetInvocationException</td><td>The constructor being called throws an exception. </td></tr>
     <tr><td class="paramname">T:System.MethodAccessException</td><td>The caller does not have permission to call this constructor. </td></tr>
@@ -488,7 +488,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>type</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>type</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -496,7 +496,7 @@ Additional Inherited Members</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>type</em>  is <code>null</code>. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code><a class="el" href="class_system_1_1_runtime_type.html">RuntimeType</a></code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code>RuntimeType</code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td><em>type</em>  cannot be a T:System.Reflection.Emit.TypeBuilder.-or- Creation of T:System.TypedReference, T:System.ArgIterator, T:System.Void, and T:System.RuntimeArgumentHandle types, or arrays of those types, is not supported.-or- <em>activationAttributes</em>  is not an empty array, and the type being created does not derive from T:System.MarshalByRefObject. -or- The assembly that contains <em>type</em>  is a dynamic assembly that was created with F:System.Reflection.Emit.AssemblyBuilderAccess.Save.-or-The constructor that best matches <em>args</em>  has <code>varargs</code> arguments.</td></tr>
     <tr><td class="paramname">T:System.Reflection.TargetInvocationException</td><td>The constructor being called throws an exception. </td></tr>
     <tr><td class="paramname">T:System.MethodAccessException</td><td>The caller does not have permission to call this constructor. </td></tr>
@@ -559,13 +559,13 @@ Additional Inherited Members</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>type</em>  is <code>null</code>. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code><a class="el" href="class_system_1_1_runtime_type.html">RuntimeType</a></code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code>RuntimeType</code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td><em>type</em>  cannot be a T:System.Reflection.Emit.TypeBuilder.-or- Creation of T:System.TypedReference, T:System.ArgIterator, T:System.Void, and T:System.RuntimeArgumentHandle types, or arrays of those types, is not supported. -or- The assembly that contains <em>type</em>  is a dynamic assembly that was created with F:System.Reflection.Emit.AssemblyBuilderAccess.Save.-or-The constructor that best matches <em>args</em>  has <code>varargs</code> arguments. </td></tr>
     <tr><td class="paramname">T:System.Reflection.TargetInvocationException</td><td>The constructor being called throws an exception. </td></tr>
-    <tr><td class="paramname">T:System.MethodAccessException</td><td>In the .NET for <a class="el" href="namespace_windows.html">Windows</a> Store apps or the Portable Class Library, catch the base class exception, T:System.MemberAccessException, instead.The caller does not have permission to call this constructor. </td></tr>
+    <tr><td class="paramname">T:System.MethodAccessException</td><td>In the .NET for Windows Store apps or the Portable Class Library, catch the base class exception, T:System.MemberAccessException, instead.The caller does not have permission to call this constructor. </td></tr>
     <tr><td class="paramname">T:System.MemberAccessException</td><td>Cannot create an instance of an abstract class, or this member was invoked with a late-binding mechanism. </td></tr>
     <tr><td class="paramname">T:System.Runtime.InteropServices.InvalidComObjectException</td><td>The COM type was not obtained through Overload:System.Type.GetTypeFromProgID or Overload:System.Type.GetTypeFromCLSID. </td></tr>
-    <tr><td class="paramname">T:System.MissingMethodException</td><td>In the .NET for <a class="el" href="namespace_windows.html">Windows</a> Store apps or the Portable Class Library, catch the base class exception, T:System.MissingMemberException, instead.No matching public constructor was found. </td></tr>
+    <tr><td class="paramname">T:System.MissingMethodException</td><td>In the .NET for Windows Store apps or the Portable Class Library, catch the base class exception, T:System.MissingMemberException, instead.No matching public constructor was found. </td></tr>
     <tr><td class="paramname">T:System.Runtime.InteropServices.COMException</td><td><em>type</em>  is a COM object but the class identifier used to obtain the type is invalid, or the identified class is not registered. </td></tr>
     <tr><td class="paramname">T:System.TypeLoadException</td><td><em>type</em>  is not a valid type. </td></tr>
   </table>
@@ -621,7 +621,7 @@ Additional Inherited Members</h2></td></tr>
   <table class="params">
     <tr><td class="paramname">type</td><td>The type of object to create. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -629,7 +629,7 @@ Additional Inherited Members</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>type</em>  is <code>null</code>. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code><a class="el" href="class_system_1_1_runtime_type.html">RuntimeType</a></code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code>RuntimeType</code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td><em>type</em>  cannot be a T:System.Reflection.Emit.TypeBuilder.-or- Creation of T:System.TypedReference, T:System.ArgIterator, T:System.Void, and T:System.RuntimeArgumentHandle types, or arrays of those types, is not supported.-or- <em>activationAttributes</em>  is not an empty array, and the type being created does not derive from T:System.MarshalByRefObject. -or- The assembly that contains <em>type</em>  is a dynamic assembly that was created with F:System.Reflection.Emit.AssemblyBuilderAccess.Save.-or-The constructor that best matches <em>args</em>  has <code>varargs</code> arguments.</td></tr>
     <tr><td class="paramname">T:System.Reflection.TargetInvocationException</td><td>The constructor being called throws an exception. </td></tr>
     <tr><td class="paramname">T:System.MethodAccessException</td><td>The caller does not have permission to call this constructor. </td></tr>
@@ -681,13 +681,13 @@ Additional Inherited Members</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>type</em>  is <code>null</code>. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code><a class="el" href="class_system_1_1_runtime_type.html">RuntimeType</a></code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code>RuntimeType</code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td><em>type</em>  cannot be a T:System.Reflection.Emit.TypeBuilder.-or- Creation of T:System.TypedReference, T:System.ArgIterator, T:System.Void, and T:System.RuntimeArgumentHandle types, or arrays of those types, is not supported.-or- The assembly that contains <em>type</em>  is a dynamic assembly that was created with F:System.Reflection.Emit.AssemblyBuilderAccess.Save. </td></tr>
     <tr><td class="paramname">T:System.Reflection.TargetInvocationException</td><td>The constructor being called throws an exception. </td></tr>
-    <tr><td class="paramname">T:System.MethodAccessException</td><td>In the .NET for <a class="el" href="namespace_windows.html">Windows</a> Store apps or the Portable Class Library, catch the base class exception, T:System.MemberAccessException, instead.The caller does not have permission to call this constructor. </td></tr>
+    <tr><td class="paramname">T:System.MethodAccessException</td><td>In the .NET for Windows Store apps or the Portable Class Library, catch the base class exception, T:System.MemberAccessException, instead.The caller does not have permission to call this constructor. </td></tr>
     <tr><td class="paramname">T:System.MemberAccessException</td><td>Cannot create an instance of an abstract class, or this member was invoked with a late-binding mechanism. </td></tr>
     <tr><td class="paramname">T:System.Runtime.InteropServices.InvalidComObjectException</td><td>The COM type was not obtained through Overload:System.Type.GetTypeFromProgID or Overload:System.Type.GetTypeFromCLSID. </td></tr>
-    <tr><td class="paramname">T:System.MissingMethodException</td><td>In the .NET for <a class="el" href="namespace_windows.html">Windows</a> Store apps or the Portable Class Library, catch the base class exception, T:System.MissingMemberException, instead.No matching public constructor was found. </td></tr>
+    <tr><td class="paramname">T:System.MissingMethodException</td><td>In the .NET for Windows Store apps or the Portable Class Library, catch the base class exception, T:System.MissingMemberException, instead.No matching public constructor was found. </td></tr>
     <tr><td class="paramname">T:System.Runtime.InteropServices.COMException</td><td><em>type</em>  is a COM object but the class identifier used to obtain the type is invalid, or the identified class is not registered. </td></tr>
     <tr><td class="paramname">T:System.TypeLoadException</td><td><em>type</em>  is not a valid type. </td></tr>
   </table>
@@ -807,7 +807,7 @@ Additional Inherited Members</h2></td></tr>
   <table class="params">
     <tr><td class="paramname">assemblyName</td><td>The name of the assembly where the type named <em>typeName</em>  is sought. If <em>assemblyName</em>  is <code>null</code>, the executing assembly is searched. </td></tr>
     <tr><td class="paramname">typeName</td><td>The fully qualified name of the preferred type. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -879,7 +879,7 @@ Additional Inherited Members</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>type</em>  is <code>null</code>. </td></tr>
-    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code><a class="el" href="class_system_1_1_runtime_type.html">RuntimeType</a></code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
+    <tr><td class="paramname">T:System.ArgumentException</td><td><em>type</em>  is not a <code>RuntimeType</code>. -or- <em>type</em>  is an open generic type (that is, the P:System.Type.ContainsGenericParameters property returns <code>true</code>).</td></tr>
     <tr><td class="paramname">T:System.NotSupportedException</td><td><em>type</em>  cannot be a T:System.Reflection.Emit.TypeBuilder.-or- Creation of T:System.TypedReference, T:System.ArgIterator, T:System.Void, and T:System.RuntimeArgumentHandle types, or arrays of those types, is not supported. -or- The assembly that contains <em>type</em>  is a dynamic assembly that was created with F:System.Reflection.Emit.AssemblyBuilderAccess.Save.</td></tr>
     <tr><td class="paramname">T:System.Reflection.TargetInvocationException</td><td>The constructor being called throws an exception. </td></tr>
     <tr><td class="paramname">T:System.MethodAccessException</td><td>The caller does not have permission to call this constructor. </td></tr>
@@ -982,7 +982,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>typeName</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>typeName</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
     <tr><td class="paramname">securityInfo</td><td>Information used to make security policy decisions and grant code permissions. </td></tr>
   </table>
   </dd>
@@ -1089,7 +1089,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>typeName</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>typeName</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -1393,7 +1393,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>typeName</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>typeName</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -1537,7 +1537,7 @@ Additional Inherited Members</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>A reference to the newly created object.</dd></dl>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
-    <tr><td class="paramname">T:System.MissingMethodException</td><td>In the .NET for <a class="el" href="namespace_windows.html">Windows</a> Store apps or the Portable Class Library, catch the base class exception, T:System.MissingMemberException, instead.The type that is specified for <em>T</em>  does not have a parameterless constructor. </td></tr>
+    <tr><td class="paramname">T:System.MissingMethodException</td><td>In the .NET for Windows Store apps or the Portable Class Library, catch the base class exception, T:System.MissingMemberException, instead.The type that is specified for <em>T</em>  does not have a parameterless constructor. </td></tr>
   </table>
   </dd>
 </dl>
@@ -1653,7 +1653,7 @@ Additional Inherited Members</h2></td></tr>
   <table class="params">
     <tr><td class="paramname">assemblyFile</td><td>The name of a file that contains an assembly where the type named <em>typeName</em>  is sought. </td></tr>
     <tr><td class="paramname">typeName</td><td>The name of the preferred type. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -1764,7 +1764,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>typeName</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>typeName</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
     <tr><td class="paramname">securityInfo</td><td>Information used to make security policy decisions and grant code permissions. </td></tr>
   </table>
   </dd>
@@ -1870,7 +1870,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>typeName</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>typeName</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -2057,7 +2057,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>typeName</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>typeName</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
     <tr><td class="paramname">securityAttributes</td><td>Information used to make security policy decisions and grant code permissions. </td></tr>
   </table>
   </dd>
@@ -2170,7 +2170,7 @@ Additional Inherited Members</h2></td></tr>
     <tr><td class="paramname">binder</td><td>An object that uses <em>bindingAttr</em>  and <em>args</em>  to seek and identify the <em>typeName</em>  constructor. If <em>binder</em>  is <code>null</code>, the default binder is used. </td></tr>
     <tr><td class="paramname">args</td><td>An array of arguments that match in number, order, and type the parameters of the constructor to invoke. If <em>args</em>  is an empty array or <code>null</code>, the constructor that takes no parameters (the default constructor) is invoked. </td></tr>
     <tr><td class="paramname">culture</td><td>Culture-specific information that governs the coercion of <em>args</em>  to the formal types declared for the <em>typeName</em>  constructor. If <em>culture</em>  is <code>null</code>, the T:System.Globalization.CultureInfo for the current thread is used. </td></tr>
-    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use <a class="el" href="namespace_windows.html">Windows</a> Communication Foundation.</td></tr>
+    <tr><td class="paramname">activationAttributes</td><td>An array of one or more attributes that can participate in activation. This is typically an array that contains a single T:System.Runtime.Remoting.Activation.UrlAttribute object that specifies the URL that is required to activate a remote object. This parameter is related to client-activated objects. Client activation is a legacy technology that is retained for backward compatibility but is not recommended for new development. Distributed applications should instead use Windows Communication Foundation.</td></tr>
   </table>
   </dd>
 </dl>
@@ -2315,7 +2315,7 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System/<a class="el" href="_activator_8cs_source.html">Activator.cs</a></li>
+<li>D:/All cs/System/<a class="el" href="_activator_8cs_source.html">Activator.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

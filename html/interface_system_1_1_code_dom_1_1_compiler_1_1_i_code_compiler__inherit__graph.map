@@ -1,0 +1,4 @@
+<map id="System.CodeDom.Compiler.ICodeCompiler" name="System.CodeDom.Compiler.ICodeCompiler">
+<area shape="rect" id="node1" title="Defines an interface for invoking compilation of source code or a CodeDOM tree using a specific compi..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_compiler_1_1_code_compiler.html" title="Provides an example implementation of the T:System.CodeDom.Compiler.ICodeCompiler interface." alt="" coords="5,95,192,136"/>
+</map>

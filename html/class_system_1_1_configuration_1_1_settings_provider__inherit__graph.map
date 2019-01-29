@@ -1,0 +1,4 @@
+<map id="System.Configuration.SettingsProvider" name="System.Configuration.SettingsProvider">
+<area shape="rect" id="node1" title="Acts as a base class for deriving custom settings providers in the application settings architecture." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_configuration_1_1_local_file_settings_provider.html" title="Provides persistence for application settings classes." alt="" coords="14,95,195,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.Design.IDesignerOptionService" name="System.ComponentModel.Design.IDesignerOptionService">
+<area shape="rect" id="node1" title="Provides access to the designer options located on the Tools menu under the Options command in the Vi..." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_design_1_1_designer_option_service.html" title="Provides a base class for getting and setting option values for a designer." alt="" coords="5,95,225,136"/>
+</map>

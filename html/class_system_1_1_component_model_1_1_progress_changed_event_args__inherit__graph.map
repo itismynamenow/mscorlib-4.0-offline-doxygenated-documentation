@@ -1,0 +1,6 @@
+<map id="System.ComponentModel.ProgressChangedEventArgs" name="System.ComponentModel.ProgressChangedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.ComponentModel.BackgroundWorker.ProgressChanged event." alt="" coords="135,39,363,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_download_progress_changed_event_args.html" title="Provides data for the E:System.Net.WebClient.DownloadProgressChanged event of a T:System...." alt="" coords="411,5,613,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_upload_progress_changed_event_args.html" title="Provides data for the E:System.Net.WebClient.UploadProgressChanged event of a T:System...." alt="" coords="419,71,605,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,46,87,73"/>
+</map>

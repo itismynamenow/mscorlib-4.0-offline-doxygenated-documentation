@@ -1,6 +1,4 @@
 <map id="System.Security.Cryptography.RijndaelManaged" name="System.Security.Cryptography.RijndaelManaged">
-<area shape="rect" id="node1" title="Accesses the managed version of the T:System.Security.Cryptography.Rijndael algorithm...." alt="" coords="5,229,209,271"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_rijndael.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="73,155,141,181"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="37,80,177,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+<area shape="rect" id="node1" title="Accesses the managed version of the T:System.Security.Cryptography.Rijndael algorithm...." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_rijndael.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="73,5,141,32"/>
 </map>

@@ -1,0 +1,13 @@
+<map id="System.CodeDom.CodeObject" name="System.CodeDom.CodeObject">
+<area shape="rect" id="node1" title="Provides a common base class for most Code Document Object Model (CodeDOM) objects." alt="" coords="5,237,205,264"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_comment.html" title="Represents a comment." alt="" coords="269,5,488,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_code_dom_1_1_code_compile_unit.html" title="Provides a container for a CodeDOM program graph." alt="" coords="263,56,495,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_code_dom_1_1_code_directive.html" title="Serves as the base class for code directive classes." alt="" coords="273,107,484,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_code_dom_1_1_code_expression.html" title="Represents a code expression. This is a base class for other code expression objects that is never in..." alt="" coords="265,157,492,184"/>
+<area shape="rect" id="node6" href="$class_system_1_1_code_dom_1_1_code_namespace.html" title="Represents a namespace declaration." alt="" coords="263,208,494,235"/>
+<area shape="rect" id="node7" href="$class_system_1_1_code_dom_1_1_code_namespace_import.html" title="Represents a namespace import directive that indicates a namespace to use." alt="" coords="263,259,494,301"/>
+<area shape="rect" id="node8" href="$class_system_1_1_code_dom_1_1_code_statement.html" title="Represents the abstract base class from which all code statements derive." alt="" coords="267,325,490,352"/>
+<area shape="rect" id="node9" href="$class_system_1_1_code_dom_1_1_code_type_member.html" title="Provides a base class for a member of a type. Type members include fields, methods,..." alt="" coords="260,376,497,403"/>
+<area shape="rect" id="node10" href="$class_system_1_1_code_dom_1_1_code_type_parameter.html" title="Represents a type parameter of a generic type or method." alt="" coords="253,427,504,453"/>
+<area shape="rect" id="node11" href="$class_system_1_1_code_dom_1_1_code_type_reference.html" title="Represents a reference to a type." alt="" coords="255,477,503,504"/>
+</map>

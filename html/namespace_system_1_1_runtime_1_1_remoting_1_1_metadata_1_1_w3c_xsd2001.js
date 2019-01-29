@@ -30,7 +30,6 @@ var namespace_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001 =
     [ "SoapQName", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_q_name.html", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_q_name" ],
     [ "SoapTime", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_time.html", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_time" ],
     [ "SoapToken", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_token.html", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_token" ],
-    [ "SoapType", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_type.html", null ],
     [ "SoapYear", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_year.html", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_year" ],
     [ "SoapYearMonth", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_year_month.html", "class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_w3c_xsd2001_1_1_soap_year_month" ]
 ];

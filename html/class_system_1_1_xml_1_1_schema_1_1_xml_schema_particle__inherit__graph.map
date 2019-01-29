@@ -1,0 +1,8 @@
+<map id="System.Xml.Schema.XmlSchemaParticle" name="System.Xml.Schema.XmlSchemaParticle">
+<area shape="rect" id="node1" title="Abstract class for that is the base class for all particle types (e.g. T:System.Xml...." alt="" coords="204,90,421,131"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_any.html" title="Represents the World Wide Web Consortium (W3C) any element." alt="" coords="469,5,709,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_element.html" title="Represents the element element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="481,57,698,98"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_group_base.html" title="An abstract class for T:System.Xml.Schema.XmlSchemaAll, T:System.Xml.Schema.XmlSchemaChoice,..." alt="" coords="481,122,698,163"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_group_ref.html" title="Represents the group element with ref attribute from the XML Schema as specified by the World Wide We..." alt="" coords="481,187,698,229"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="5,97,156,124"/>
+</map>

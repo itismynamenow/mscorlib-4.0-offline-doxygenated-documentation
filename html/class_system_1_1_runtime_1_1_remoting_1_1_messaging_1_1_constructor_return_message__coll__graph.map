@@ -1,8 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.ConstructorReturnMessage" name="System.Runtime.Remoting.Messaging.ConstructorReturnMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="745,99,992,141"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_return_message.html" title="Holds a message returned in response to a method call on a remote object." alt="" coords="546,5,659,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_return_message.html" title="Defines the method call return message interface." alt="" coords="301,56,460,83"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_construction_return_message.html" title="Identifies a T:System.Runtime.Remoting.Messaging.IMethodReturnMessage that is returned after attempti..." alt="" coords="508,107,697,133"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="132,107,253,133"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="5,107,84,133"/>
-</map>

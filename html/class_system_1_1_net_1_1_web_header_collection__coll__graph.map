@@ -1,0 +1,5 @@
+<map id="System.Net.WebHeaderCollection" name="System.Net.WebHeaderCollection">
+<area shape="rect" id="node1" title="Contains protocol headers associated with a request or response." alt="" coords="41,80,261,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_specialized_1_1_name_value_collection.html" title="Represents a collection of associated T:System.String keys and T:System.String values that can be acc..." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="177,5,269,32"/>
+</map>

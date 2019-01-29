@@ -1,7 +1,6 @@
 <map id="System.Runtime.CompilerServices.StateMachineAttribute" name="System.Runtime.CompilerServices.StateMachineAttribute">
-<area shape="rect" id="node1" title="Allows you to determine whether a method is a state machine method." alt="" coords="251,39,477,80"/>
-<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_async_state_machine_attribute.html" title="Indicates whether a method is marked with either the Async (Visual Basic) or async (C# Reference) mod..." alt="" coords="525,5,752,47"/>
-<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_iterator_state_machine_attribute.html" title="Indicates whether a method in Visual Basic is marked with the Iterator modifier." alt="" coords="525,71,752,112"/>
-<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="132,46,203,73"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="5,46,84,73"/>
+<area shape="rect" id="node1" title="Allows you to determine whether a method is a state machine method." alt="" coords="124,39,351,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_async_state_machine_attribute.html" title="Indicates whether a method is marked with either the Async (Visual Basic) or async (C# Reference) mod..." alt="" coords="399,5,625,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_iterator_state_machine_attribute.html" title="Indicates whether a method in Visual Basic is marked with the Iterator modifier." alt="" coords="399,71,625,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="5,46,76,73"/>
 </map>

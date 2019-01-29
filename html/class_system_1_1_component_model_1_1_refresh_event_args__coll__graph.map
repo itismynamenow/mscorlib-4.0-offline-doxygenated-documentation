@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.RefreshEventArgs" name="System.ComponentModel.RefreshEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.ComponentModel.TypeDescriptor.Refreshed event." alt="" coords="5,95,225,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="36,5,117,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="142,5,241,32"/>
+</map>

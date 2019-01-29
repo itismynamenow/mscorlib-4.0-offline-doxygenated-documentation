@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Diagnostics.SymbolStore.ISymbolMethod Interface Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.Diagnostics.SymbolStore.ISymbolMethod Interface Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -106,10 +106,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a8a4562e8c1d526f0c3e1e2bad1da07f2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the most enclosing lexical scope when given an offset within a method.  <a href="#a8a4562e8c1d526f0c3e1e2bad1da07f2">More...</a><br /></td></tr>
 <tr class="separator:a8a4562e8c1d526f0c3e1e2bad1da07f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1f44d2838dc40392225503d7c5feddb0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_diagnostics_1_1_symbol_store_1_1_i_symbol_method.html#a1f44d2838dc40392225503d7c5feddb0">GetOffset</a> (<a class="el" href="interface_system_1_1_diagnostics_1_1_symbol_store_1_1_i_symbol_document.html">ISymbolDocument</a> document, int line, int column)</td></tr>
-<tr class="memdesc:a1f44d2838dc40392225503d7c5feddb0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the <a class="el" href="namespace_microsoft.html">Microsoft</a> intermediate language (MSIL) offset within the method that corresponds to the specified position.  <a href="#a1f44d2838dc40392225503d7c5feddb0">More...</a><br /></td></tr>
+<tr class="memdesc:a1f44d2838dc40392225503d7c5feddb0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the Microsoft intermediate language (MSIL) offset within the method that corresponds to the specified position.  <a href="#a1f44d2838dc40392225503d7c5feddb0">More...</a><br /></td></tr>
 <tr class="separator:a1f44d2838dc40392225503d7c5feddb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a62ff41ad32f6ba4b2b529ac2ac88f99b"><td class="memItemLeft" align="right" valign="top">int []&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_diagnostics_1_1_symbol_store_1_1_i_symbol_method.html#a62ff41ad32f6ba4b2b529ac2ac88f99b">GetRanges</a> (<a class="el" href="interface_system_1_1_diagnostics_1_1_symbol_store_1_1_i_symbol_document.html">ISymbolDocument</a> document, int line, int column)</td></tr>
-<tr class="memdesc:a62ff41ad32f6ba4b2b529ac2ac88f99b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets an array of start and end offset pairs that correspond to the ranges of <a class="el" href="namespace_microsoft.html">Microsoft</a> intermediate language (MSIL) that a given position covers within this method.  <a href="#a62ff41ad32f6ba4b2b529ac2ac88f99b">More...</a><br /></td></tr>
+<tr class="memdesc:a62ff41ad32f6ba4b2b529ac2ac88f99b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets an array of start and end offset pairs that correspond to the ranges of Microsoft intermediate language (MSIL) that a given position covers within this method.  <a href="#a62ff41ad32f6ba4b2b529ac2ac88f99b">More...</a><br /></td></tr>
 <tr class="separator:a62ff41ad32f6ba4b2b529ac2ac88f99b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a10ea16c0bfbb5b9fdbf6de8334dca975"><td class="memItemLeft" align="right" valign="top"><a class="el" href="interface_system_1_1_diagnostics_1_1_symbol_store_1_1_i_symbol_variable.html">ISymbolVariable</a> []&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_system_1_1_diagnostics_1_1_symbol_store_1_1_i_symbol_method.html#a10ea16c0bfbb5b9fdbf6de8334dca975">GetParameters</a> ()</td></tr>
 <tr class="memdesc:a10ea16c0bfbb5b9fdbf6de8334dca975"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the parameters for the current method.  <a href="#a10ea16c0bfbb5b9fdbf6de8334dca975">More...</a><br /></td></tr>
@@ -190,7 +190,7 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Gets the <a class="el" href="namespace_microsoft.html">Microsoft</a> intermediate language (MSIL) offset within the method that corresponds to the specified position. </p>
+<p>Gets the Microsoft intermediate language (MSIL) offset within the method that corresponds to the specified position. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">document</td><td>The document for which the offset is requested. </td></tr>
@@ -255,7 +255,7 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Gets an array of start and end offset pairs that correspond to the ranges of <a class="el" href="namespace_microsoft.html">Microsoft</a> intermediate language (MSIL) that a given position covers within this method. </p>
+<p>Gets an array of start and end offset pairs that correspond to the ranges of Microsoft intermediate language (MSIL) that a given position covers within this method. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">document</td><td>The document for which the offset is requested. </td></tr>
@@ -488,7 +488,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this interface was generated from the following file:<ul>
-<li>System.Diagnostics.SymbolStore/<a class="el" href="_i_symbol_method_8cs_source.html">ISymbolMethod.cs</a></li>
+<li>D:/All cs/System.Diagnostics.SymbolStore/<a class="el" href="_i_symbol_method_8cs_source.html">ISymbolMethod.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

@@ -1,0 +1,6 @@
+<map id="System.Xml.Schema.XmlSchemaException" name="System.Xml.Schema.XmlSchemaException">
+<area shape="rect" id="node1" title="Returns detailed information about the schema exception." alt="" coords="179,39,396,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_inference_exception.html" title="Returns information about errors encountered by the T:System.Xml.Schema.XmlSchemaInference class whil..." alt="" coords="444,5,661,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_validation_exception.html" title="Represents the exception thrown when XML Schema Definition Language (XSD) schema validation errors an..." alt="" coords="444,71,661,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="5,46,131,73"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.PerformanceCounterPermissionAttribute" name="System.Diagnostics.PerformanceCounterPermissionAttribute">
+<area shape="rect" id="node1" title="Allows declaritive performance counter permission checks." alt="" coords="5,80,221,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_code_access_security_attribute.html" title="Specifies the base attribute class for code access security." alt="" coords="17,5,210,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="System.Collections.Generic.LinkedList&lt; T &gt;" name="System.Collections.Generic.LinkedList&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents a doubly linked list." alt="" coords="400,135,588,176"/>
+<area shape="rect" id="node9" href="$class_system_1_1_collections_1_1_generic_1_1_linked_list.html" title=" " alt="" coords="835,69,1030,111"/>
+<area shape="rect" id="node10" href="$class_system_1_1_collections_1_1_generic_1_1_linked_list.html" title=" " alt="" coords="827,135,1038,176"/>
+<area shape="rect" id="node11" href="$class_system_1_1_collections_1_1_generic_1_1_linked_list.html" title=" " alt="" coords="809,200,1056,241"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="209,41,322,67"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="5,9,131,35"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="224,91,307,118"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="21,109,115,135"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="180,193,351,219"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="219,243,311,270"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="185,294,345,321"/>
+</map>

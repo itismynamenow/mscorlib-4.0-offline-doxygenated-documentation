@@ -1,0 +1,4 @@
+<map id="System.Xml.XmlSecureResolver" name="System.Xml.XmlSecureResolver">
+<area shape="rect" id="node1" title="Helps to secure another implementation of T:System.Xml.XmlResolver by wrapping the T:System...." alt="" coords="5,80,212,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_resolver.html" title="Resolves external XML resources named by a Uniform Resource Identifier (URI)." alt="" coords="63,5,155,32"/>
+</map>

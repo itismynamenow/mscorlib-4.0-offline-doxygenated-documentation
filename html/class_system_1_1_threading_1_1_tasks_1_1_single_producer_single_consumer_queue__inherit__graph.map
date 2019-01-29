@@ -1,7 +1,0 @@
-<map id="System.Threading.Tasks.SingleProducerSingleConsumerQueue&lt; T &gt;" name="System.Threading.Tasks.SingleProducerSingleConsumerQueue&lt; T &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="95,247,334,288"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_threading_1_1_tasks_1_1_i_producer_consumer_queue.html" title=" " alt="" coords="112,171,317,197"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="48,95,173,121"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,216,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="234,95,329,121"/>
-</map>

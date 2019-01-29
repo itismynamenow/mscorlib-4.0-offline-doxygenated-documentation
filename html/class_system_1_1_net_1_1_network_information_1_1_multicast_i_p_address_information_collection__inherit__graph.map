@@ -1,0 +1,6 @@
+<map id="System.Net.NetworkInformation.MulticastIPAddressInformationCollection" name="System.Net.NetworkInformation.MulticastIPAddressInformationCollection">
+<area shape="rect" id="node1" title="Stores a set of T:System.Net.NetworkInformation.MulticastIPAddressInformation types." alt="" coords="272,71,527,112"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title=" " alt="" coords="11,5,218,47"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="5,71,224,112"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="67,137,162,163"/>
+</map>

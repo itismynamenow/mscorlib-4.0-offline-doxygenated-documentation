@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.Eventing.Reader.EventLogInvalidDataException" name="System.Diagnostics.Eventing.Reader.EventLogInvalidDataException">
+<area shape="rect" id="node1" title="Represents the exception thrown when an event provider publishes invalid data in an event." alt="" coords="5,80,245,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_exception.html" title="Represents the base class for all the exceptions that are thrown when an error occurs while reading e..." alt="" coords="59,5,192,32"/>
+</map>

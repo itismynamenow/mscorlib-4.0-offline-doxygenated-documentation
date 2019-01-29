@@ -1,6 +1,5 @@
 <map id="System.Text.DecoderFallbackBuffer" name="System.Text.DecoderFallbackBuffer">
-<area shape="rect" id="node1" title="Provides a buffer that allows a fallback handler to return an alternate string to a decoder when it c..." alt="" coords="5,71,203,112"/>
+<area shape="rect" id="node1" title="Provides a buffer that allows a fallback handler to return an alternate string to a decoder when it c..." alt="" coords="5,39,203,80"/>
 <area shape="rect" id="node2" href="$class_system_1_1_text_1_1_decoder_exception_fallback_buffer.html" title="Throws T:System.Text.DecoderFallbackException when an encoded input byte sequence cannot be converted..." alt="" coords="259,5,466,47"/>
 <area shape="rect" id="node3" href="$class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html" title="Represents a substitute output string that is emitted when the original input byte sequence cannot be..." alt="" coords="251,71,475,112"/>
-<area shape="rect" id="node4" href="$class_system_1_1_text_1_1_internal_decoder_best_fit_fallback_buffer.html" title=" " alt="" coords="267,136,458,177"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="System.Dynamic.SetIndexBinder" name="System.Dynamic.SetIndexBinder">
+<area shape="rect" id="node1" title="Represents the dynamic set index operation at the call site, providing the binding semantic and the d..." alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_dynamic_1_1_dynamic_meta_object_binder.html" title="The dynamic call site binder that participates in the T:System.Dynamic.DynamicMetaObject binding prot..." alt="" coords="24,5,201,32"/>
+</map>

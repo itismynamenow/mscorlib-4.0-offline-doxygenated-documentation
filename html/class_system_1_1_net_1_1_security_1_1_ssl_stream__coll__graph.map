@@ -1,0 +1,6 @@
+<map id="System.Net.Security.SslStream" name="System.Net.Security.SslStream">
+<area shape="rect" id="node1" title="Provides a stream used for client&#45;server communication that uses the Secure Socket Layer (SSL) securi..." alt="" coords="363,56,571,83"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_security_1_1_authenticated_stream.html" title="Provides methods for passing credentials across a stream and requesting or performing authentication ..." alt="" coords="36,5,180,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_transport_context.html" title="The T:System.Net.TransportContext class provides additional context about the underlying transport la..." alt="" coords="11,56,205,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate.html" title="Provides methods that help you use X.509 v.3 certificates." alt="" coords="5,107,211,149"/>
+</map>

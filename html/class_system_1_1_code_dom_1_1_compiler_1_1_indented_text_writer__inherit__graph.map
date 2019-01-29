@@ -1,0 +1,4 @@
+<map id="System.CodeDom.Compiler.IndentedTextWriter" name="System.CodeDom.Compiler.IndentedTextWriter">
+<area shape="rect" id="node1" title="Provides a text writer that can indent new lines by a tab string token." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_text_writer.html" title="Represents a writer that can write a sequential series of characters. This class is abstract." alt="" coords="57,5,140,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Net.DownloadProgressChangedEventArgs" name="System.Net.DownloadProgressChangedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Net.WebClient.DownloadProgressChanged event of a T:System...." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_progress_changed_event_args.html" title="Provides data for the E:System.ComponentModel.BackgroundWorker.ProgressChanged event." alt="" coords="15,5,199,32"/>
+</map>

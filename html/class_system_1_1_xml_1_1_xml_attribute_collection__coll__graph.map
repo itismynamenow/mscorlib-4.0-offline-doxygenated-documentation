@@ -1,0 +1,6 @@
+<map id="System.Xml.XmlAttributeCollection" name="System.Xml.XmlAttributeCollection">
+<area shape="rect" id="node1" title="Represents a collection of attributes that can be accessed by name or index." alt="" coords="5,155,228,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_named_node_map.html" title="Represents a collection of nodes that can be accessed by name or index." alt="" coords="47,80,186,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="69,5,164,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="210,80,293,107"/>
+</map>

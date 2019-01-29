@@ -1,0 +1,18 @@
+<map id="System.Xml.Schema.XmlSchemaAnnotated" name="System.Xml.Schema.XmlSchemaAnnotated">
+<area shape="rect" id="node1" title="The base class for any element that can contain annotation elements." alt="" coords="183,431,400,472"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_any_attribute.html" title="Represents the World Wide Web Consortium (W3C) anyAttribute element." alt="" coords="462,5,679,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_attribute.html" title="Represents the attribute element from the XML Schema as specified by the World Wide Web Consortium (W..." alt="" coords="462,71,679,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_attribute_group.html" title="Represents the attributeGroup element from the XML Schema as specified by the World Wide Web Consorti..." alt="" coords="462,136,679,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_attribute_group_ref.html" title="Represents the attributeGroup element with the ref attribute from the XML Schema as specified by the ..." alt="" coords="462,201,679,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_content.html" title="An abstract class for schema content." alt="" coords="462,267,679,308"/>
+<area shape="rect" id="node8" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_content_model.html" title="Specifies the order and structure of the child elements of a type." alt="" coords="462,332,679,373"/>
+<area shape="rect" id="node9" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_facet.html" title="Abstract class for all facets that are used when simple types are derived by restriction." alt="" coords="462,397,679,439"/>
+<area shape="rect" id="node10" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_group.html" title="Represents the group element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="462,463,679,504"/>
+<area shape="rect" id="node11" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_identity_constraint.html" title="Class for the identity constraints: key, keyref, and unique elements." alt="" coords="462,528,679,569"/>
+<area shape="rect" id="node12" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_notation.html" title="Represents the notation element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="462,593,679,635"/>
+<area shape="rect" id="node13" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_particle.html" title="Abstract class for that is the base class for all particle types (e.g. T:System.Xml...." alt="" coords="462,659,679,700"/>
+<area shape="rect" id="node14" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_type_content.html" title="Abstract class for simple type content classes." alt="" coords="462,724,679,765"/>
+<area shape="rect" id="node15" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_type.html" title="The base class for all simple types and complex types." alt="" coords="448,790,693,817"/>
+<area shape="rect" id="node16" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_x_path.html" title="Represents the World Wide Web Consortium (W3C) selector element." alt="" coords="462,841,679,883"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_object.html" title="Represents the root class for the Xml schema object model hierarchy and serves as a base class for cl..." alt="" coords="5,438,135,465"/>
+</map>

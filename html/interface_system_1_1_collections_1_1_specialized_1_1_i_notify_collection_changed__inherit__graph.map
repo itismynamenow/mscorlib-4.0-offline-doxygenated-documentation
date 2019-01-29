@@ -1,0 +1,5 @@
+<map id="System.Collections.Specialized.INotifyCollectionChanged" name="System.Collections.Specialized.INotifyCollectionChanged">
+<area shape="rect" id="node1" title="Notifies listeners of dynamic changes, such as when an item is added and removed or the whole list is..." alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_object_model_1_1_observable_collection.html" title="Represents a dynamic data collection that provides notifications when items get added,..." alt="" coords="293,5,506,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_collections_1_1_object_model_1_1_read_only_observable_collection.html" title="Represents a read&#45;only T:System.Collections.ObjectModel.ObservableCollection`1." alt="" coords="264,71,535,112"/>
+</map>

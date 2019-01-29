@@ -1,0 +1,8 @@
+<map id="System.Security.Cryptography.X509Certificates.X509Extension" name="System.Security.Cryptography.X509Certificates.X509Extension">
+<area shape="rect" id="node1" title="Represents an X509 extension." alt="" coords="176,130,381,171"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_basic_constraints_extension.html" title="Defines the constraints set on a certificate. This class cannot be inherited." alt="" coords="439,5,685,61"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_enhanced_key_usage_extension.html" title="Defines the collection of object identifiers (OIDs) that indicates the applications that use the key...." alt="" coords="448,85,676,141"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_key_usage_extension.html" title="Defines the usage of a key contained within an X.509 certificate. This class cannot be inherited." alt="" coords="429,166,695,207"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_subject_key_identifier_extension.html" title="Defines a string that identifies a certificate&#39;s subject key identifier (SKI). This class cannot be i..." alt="" coords="431,232,693,288"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_asn_encoded_data.html" title="Represents Abstract Syntax Notation One (ASN.1)&#45;encoded data." alt="" coords="5,137,128,164"/>
+</map>

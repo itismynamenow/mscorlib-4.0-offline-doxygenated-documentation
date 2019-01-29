@@ -1,0 +1,27 @@
+var class_system_1_1_configuration_1_1_application_settings_base =
+[
+    [ "ApplicationSettingsBase", "class_system_1_1_configuration_1_1_application_settings_base.html#ac9ce7bdf23caa391658e664a7c541c4a", null ],
+    [ "ApplicationSettingsBase", "class_system_1_1_configuration_1_1_application_settings_base.html#a74c4edc4cb1daafe4c47678e3b3624fb", null ],
+    [ "ApplicationSettingsBase", "class_system_1_1_configuration_1_1_application_settings_base.html#a34296d1cffdaad3fb0fd2568d007f7a1", null ],
+    [ "ApplicationSettingsBase", "class_system_1_1_configuration_1_1_application_settings_base.html#afbcac61b40a8c7cbded62a17c0d82dbf", null ],
+    [ "GetPreviousVersion", "class_system_1_1_configuration_1_1_application_settings_base.html#ae29848bc398be364ed0a86e68447c056", null ],
+    [ "OnPropertyChanged", "class_system_1_1_configuration_1_1_application_settings_base.html#ae2cdaf53f5c5922bcafb8f9a5973ed99", null ],
+    [ "OnSettingChanging", "class_system_1_1_configuration_1_1_application_settings_base.html#af370c01e786ad51ba9367833a6a8de19", null ],
+    [ "OnSettingsLoaded", "class_system_1_1_configuration_1_1_application_settings_base.html#a672f8cab536c3871ee4fe6709f2854e3", null ],
+    [ "OnSettingsSaving", "class_system_1_1_configuration_1_1_application_settings_base.html#adf8cee416f47ea4e4645aa063890f2c6", null ],
+    [ "Reload", "class_system_1_1_configuration_1_1_application_settings_base.html#ae1d74fec075488099f6b9c81ce796d91", null ],
+    [ "Reset", "class_system_1_1_configuration_1_1_application_settings_base.html#a94243bec6a352e183417c4c5737cb73f", null ],
+    [ "Save", "class_system_1_1_configuration_1_1_application_settings_base.html#a96d5b8236b05391d619de32a91b6be5c", null ],
+    [ "Upgrade", "class_system_1_1_configuration_1_1_application_settings_base.html#a24fe9f386c8a07b8c3b0e6683c8aeab9", null ],
+    [ "Context", "class_system_1_1_configuration_1_1_application_settings_base.html#a12a61906d4d16987943bbd0864ea4465", null ],
+    [ "Initializer", "class_system_1_1_configuration_1_1_application_settings_base.html#afc2d4b1506768ca720057b001766c46e", null ],
+    [ "Properties", "class_system_1_1_configuration_1_1_application_settings_base.html#a3bf6ff65375edc1a6ccc356b11eeb646", null ],
+    [ "PropertyChanged", "class_system_1_1_configuration_1_1_application_settings_base.html#abc448fbd2add4b4b86e516c3c0908678", null ],
+    [ "PropertyValues", "class_system_1_1_configuration_1_1_application_settings_base.html#af1fbf531f52fadf8d7438deae4af0a3d", null ],
+    [ "Providers", "class_system_1_1_configuration_1_1_application_settings_base.html#aae1de7e38be51806161dec363e024e40", null ],
+    [ "SettingChanging", "class_system_1_1_configuration_1_1_application_settings_base.html#acb5e8dfce68bed1a02d8a8eca4b68cca", null ],
+    [ "SettingsKey", "class_system_1_1_configuration_1_1_application_settings_base.html#a5899834abe52426a00242bd77d989c0b", null ],
+    [ "SettingsLoaded", "class_system_1_1_configuration_1_1_application_settings_base.html#ada5305c540651784073eafca31b22317", null ],
+    [ "SettingsSaving", "class_system_1_1_configuration_1_1_application_settings_base.html#a0f52214cf4cd073c07ba08731300b977", null ],
+    [ "this[string propertyName]", "class_system_1_1_configuration_1_1_application_settings_base.html#a7fa395f72af240acc924b4b328430991", null ]
+];

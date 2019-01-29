@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.ProcessThreadCollection" name="System.Diagnostics.ProcessThreadCollection">
+<area shape="rect" id="node1" title="Provides a strongly typed collection of T:System.Diagnostics.ProcessThread objects." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_read_only_collection_base.html" title="Provides the abstract base class for a strongly typed non&#45;generic read&#45;only collection." alt="" coords="17,5,184,32"/>
+</map>

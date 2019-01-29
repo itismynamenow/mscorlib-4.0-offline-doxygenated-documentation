@@ -1,0 +1,4 @@
+<map id="System.Xml.XmlXapResolver" name="System.Xml.XmlXapResolver">
+<area shape="rect" id="node1" title="The XmlXapResolver type is used to resolve resources in the Silverlight application’s XAP package." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_resolver.html" title="Resolves external XML resources named by a Uniform Resource Identifier (URI)." alt="" coords="53,5,145,32"/>
+</map>

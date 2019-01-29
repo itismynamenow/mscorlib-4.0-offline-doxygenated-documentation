@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.Design.CommandID" name="System.ComponentModel.Design.CommandID">
+<area shape="rect" id="node1" title="Represents a unique command identifier that consists of a numeric command ID and a GUID menu group id..." alt="" coords="5,95,225,136"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="66,5,165,32"/>
+</map>

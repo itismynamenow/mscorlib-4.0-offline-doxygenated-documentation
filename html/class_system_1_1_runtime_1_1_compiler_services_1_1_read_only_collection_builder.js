@@ -1,0 +1,28 @@
+var class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder =
+[
+    [ "ReadOnlyCollectionBuilder", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a20b692a005c5953dcc0bd4df848183ba", null ],
+    [ "ReadOnlyCollectionBuilder", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a073a851d019c06852b0bd979705a2dbf", null ],
+    [ "ReadOnlyCollectionBuilder", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a4b9a5d9ab7662a265eed37f21b08d22c", null ],
+    [ "Add", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a81e4cb0a8b352f4a1864cc6ad4eae2f9", null ],
+    [ "Clear", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a51a4bfa237b87d31aa2dccee367aac96", null ],
+    [ "Contains", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#ae20019d8d214f2affa11c5cb54194dad", null ],
+    [ "CopyTo", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a981fb33faaeb815357b75f49c3d6b9e0", null ],
+    [ "GetEnumerator", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a68872c831f6bd1ef3cc59fd8be89b325", null ],
+    [ "IndexOf", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a3ae14edc0f4c3bee8717fa6f96c7ab56", null ],
+    [ "Insert", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#af38b33329ccacdad575a125dfc8f3a2f", null ],
+    [ "Remove", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a172cdcf2a3e63265c0f6f9dd08fbbf96", null ],
+    [ "RemoveAt", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a079e29834e844136f8964df0b23ddf42", null ],
+    [ "Reverse", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a25e91409b954659082d1582f2a2bc312", null ],
+    [ "Reverse", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#adb2c86029bbe261895970c335d6e79ed", null ],
+    [ "ToArray", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#ad4af698bff25cae78b113fba297bd86d", null ],
+    [ "ToReadOnlyCollection", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a12b232584e8d079439e7239d58513ebe", null ],
+    [ "Count", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#ad530f4b71e61759d122531439ece42eb", null ],
+    [ "Capacity", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a5dd996d465fe1d40009b48f0389a25ef", null ],
+    [ "IsFixedSize", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a7212c4b8f66623ce51b71833bf0fc405", null ],
+    [ "IsReadOnly", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#ab43b656fb6e8d877de55c9e385cd892a", null ],
+    [ "IsReadOnly", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a469d09131128546d573ec500e8405ffd", null ],
+    [ "IsSynchronized", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#aad0ee9d1c5fdc6ed92b6dd256b637102", null ],
+    [ "SyncRoot", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a60aaccf6b21db919aa9383752ca98130", null ],
+    [ "this[int index]", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#afb5e9f2a3dd178e0bf146cc54cbf3d5e", null ],
+    [ "this[int index]", "class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#af878f00f5dac6221c62501f0401f80e3", null ]
+];

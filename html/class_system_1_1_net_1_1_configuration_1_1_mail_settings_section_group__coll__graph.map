@@ -1,0 +1,4 @@
+<map id="System.Net.Configuration.MailSettingsSectionGroup" name="System.Net.Configuration.MailSettingsSectionGroup">
+<area shape="rect" id="node1" title="Initializes a new instance of the T:System.Net.Configuration.MailSettingsSectionGroup class." alt="" coords="5,109,180,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_configuration_1_1_smtp_section.html" title="Represents the SMTP section in the System.Net configuration file." alt="" coords="5,5,180,47"/>
+</map>

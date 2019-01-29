@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.DoubleConverter" name="System.ComponentModel.DoubleConverter">
+<area shape="rect" id="node1" title="Provides a type converter to convert double&#45;precision, floating point number objects to and from vari..." alt="" coords="5,80,221,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_base_number_converter.html" title="Provides a base type converter for nonfloating&#45;point numerical types." alt="" coords="38,5,189,32"/>
+</map>

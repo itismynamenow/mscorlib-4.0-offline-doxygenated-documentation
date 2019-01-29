@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.PerformanceData.CounterSetInstance" name="System.Diagnostics.PerformanceData.CounterSetInstance">
+<area shape="rect" id="node1" title="Creates an instance of the logical counters defined in the T:System.Diagnostics.PerformanceData...." alt="" coords="5,185,221,227"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="97,5,186,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_performance_data_1_1_counter_set_instance_counter_data_set.html" title="Contains the collection of counter values." alt="" coords="129,81,388,123"/>
+</map>

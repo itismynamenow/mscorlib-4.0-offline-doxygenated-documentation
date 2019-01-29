@@ -1,0 +1,4 @@
+<map id="System.Security.Cryptography.X509Certificates.TimestampInformation" name="System.Security.Cryptography.X509Certificates.TimestampInformation">
+<area shape="rect" id="node1" title="Provides details about the time stamp that was applied to an Authenticode signature for a manifest." alt="" coords="5,97,252,139"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_date_time.html" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="65,7,192,33"/>
+</map>

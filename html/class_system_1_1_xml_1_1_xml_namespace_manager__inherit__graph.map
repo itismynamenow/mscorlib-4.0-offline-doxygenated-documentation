@@ -1,0 +1,6 @@
+<map id="System.Xml.XmlNamespaceManager" name="System.Xml.XmlNamespaceManager">
+<area shape="rect" id="node1" title="Resolves, adds, and removes namespaces to a collection and provides scope management for these namesp..." alt="" coords="45,80,281,107"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_xsl_1_1_xslt_context.html" title="Encapsulates the current execution context of the Extensible Stylesheet Language for Transformations ..." alt="" coords="72,155,255,181"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_xml_1_1_i_xml_namespace_resolver.html" title="Provides read&#45;only access to a set of prefix and namespace mappings." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="193,5,288,32"/>
+</map>

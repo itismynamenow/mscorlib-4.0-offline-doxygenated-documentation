@@ -1,0 +1,4 @@
+<map id="System.Dynamic.DynamicObject" name="System.Dynamic.DynamicObject">
+<area shape="rect" id="node1" title="Provides a base class for specifying dynamic behavior at run time. This class must be inherited from;..." alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_dynamic_1_1_i_dynamic_meta_object_provider.html" title="Represents a dynamic object, that can have its operations bound at runtime." alt="" coords="18,5,207,32"/>
+</map>

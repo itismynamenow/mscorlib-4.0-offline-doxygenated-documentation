@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.X509Certificates.X509ChainElement" name="System.Security.Cryptography.X509Certificates.X509ChainElement">
+<area shape="rect" id="node1" title="Represents an element of an X.509 chain." alt="" coords="396,39,624,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2.html" title="Represents an X.509 certificate." alt="" coords="9,5,221,47"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_chain_status.html" title="Provides a simple structure for storing X509 chain status and error information." alt="" coords="5,71,224,112"/>
+</map>

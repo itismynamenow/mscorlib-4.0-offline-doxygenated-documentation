@@ -1,0 +1,5 @@
+<map id="System.Collections.Specialized.StringDictionary" name="System.Collections.Specialized.StringDictionary">
+<area shape="rect" id="node1" title="Implements a hash table with the key and the value strongly typed to be strings rather than objects." alt="" coords="5,185,216,227"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="85,5,179,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="127,81,326,108"/>
+</map>

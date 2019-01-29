@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: Class Members - Functions</title>
+<title>mscorlib(4.0.0.0) API with additions: Class Members - Functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -95,6 +95,9 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RaiseDeserializationEvent()
 : <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_manager.html#abd1e4a9c20407284537f68badfcd6d56">System.Runtime.Serialization.ObjectManager</a>
 </li>
+<li>RaiseExceptionIfNecessary()
+: <a class="el" href="class_system_1_1_component_model_1_1_async_completed_event_args.html#a48a6db8cdc4a5a25fd41fdbb4e4a6c4e">System.ComponentModel.AsyncCompletedEventArgs</a>
+</li>
 <li>RaiseOnDeserializingEvent()
 : <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_manager.html#a181053a653a42d775ea4043e86975ddc">System.Runtime.Serialization.ObjectManager</a>
 </li>
@@ -102,16 +105,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_object_manager.html#a4605a5b086e2f4fce8be4e4233131c09">System.Runtime.Serialization.SerializationObjectManager</a>
 </li>
 <li>Random()
-: <a class="el" href="class_system_1_1_random.html#abab7b56c567e7345896b0deb7fd1aaea">System.Random</a>
+: <a class="el" href="class_system_1_1_random.html#a6d8af2623b9590467a1353028e0c4da4">System.Random</a>
 </li>
-<li>RandomizedObjectEqualityComparer()
-: <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_randomized_object_equality_comparer.html#a2fb3b22aee6a9c01823947fb1165dea1">System.Collections.Generic.RandomizedObjectEqualityComparer</a>
-</li>
-<li>RandomizedStringEqualityComparer()
-: <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_randomized_string_equality_comparer.html#a2ddb518463f695d18fc08ddc8d8ae10e">System.Collections.Generic.RandomizedStringEqualityComparer</a>
-</li>
-<li>RangeWorker()
-: <a class="el" href="struct_system_1_1_threading_1_1_tasks_1_1_range_worker.html#acf8b2aa466e6374bf5afc12c756cd53f">System.Threading.Tasks.RangeWorker</a>
+<li>Range()
+: <a class="el" href="class_system_1_1_linq_1_1_enumerable.html#ad533f17c5747f800f0c1d6f9a4242e15">System.Linq.Enumerable</a>
+, <a class="el" href="class_system_1_1_linq_1_1_parallel_enumerable.html#a00798b3e706e92a59661016a3971a85d">System.Linq.ParallelEnumerable</a>
 </li>
 <li>RankException()
 : <a class="el" href="class_system_1_1_rank_exception.html#a3fd6437d6b42738d3bb434a300617cb9">System.RankException</a>
@@ -130,41 +128,33 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 </li>
 <li>Read()
 : <a class="el" href="class_system_1_1_console.html#a485fd51a30de78a9eee5aa8844adb8d6">System.Console</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_____console_stream.html#a8240c2e5782bfb55bc7e6334c81f9462">System.IO.__ConsoleStream</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#a433ea8048636861b53ed35bb5a8caecc">System.IO.BinaryReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_buffered_stream.html#a10f8b1653cf7eff2570dc89b84c91c37">System.IO.BufferedStream</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_compression_1_1_deflate_stream.html#a8566e0b04de403d376d1cb7213766602">System.IO.Compression.DeflateStream</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_compression_1_1_g_zip_stream.html#a5a408e2fb8322c3186545ad2e57620ee">System.IO.Compression.GZipStream</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_file_stream.html#add32fedfe35b2c0212214fcac8cf4398">System.IO.FileStream</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_file_stream.html#a455d18898b072f2f506b93c59feeb80e">System.IO.IsolatedStorage.IsolatedStorageFileStream</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_memory_stream.html#a938f84a8657a12a16eff03bf02b23311">System.IO.MemoryStream</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_stream.html#ac98d82de74bffdde114a2726870459d7">System.IO.Pipes.PipeStream</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_ports_1_1_serial_port.html#a407a3629c6dba6543267aa61b1a17db1">System.IO.Ports.SerialPort</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_stream.html#a8257832075927d5540999561c8a023ff">System.IO.Stream</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_stream_reader.html#ade519b7f7d03eb43cd5373925b53141b">System.IO.StreamReader</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_stream_reader.html#a872ca7a280c38170303a812527c6ebc5">System.IO.StreamReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_string_reader.html#a06e71fa2f18188a1862277753ef79fed">System.IO.StringReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_text_reader.html#a0d94ee910591e5aeece55a071fce2513">System.IO.TextReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#ac9aa8927839d59705363e19cdaed5249">System.IO.UnmanagedMemoryStream</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a26f9a7e96cc31601d1eec231435838cc">System.IO.UnmanagedMemoryStreamWrapper</a>
+, <a class="el" href="class_system_1_1_net_1_1_security_1_1_negotiate_stream.html#a8e448465074feedf7edc47f7b7e5480b">System.Net.Security.NegotiateStream</a>
+, <a class="el" href="class_system_1_1_net_1_1_security_1_1_ssl_stream.html#ae2d50598f7af38e790941e8683db23e9">System.Net.Security.SslStream</a>
+, <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_network_stream.html#a7f1b084bc456cb9c203113c4aeea43f3">System.Net.Sockets.NetworkStream</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_stream.html#a79756f7f97f3c804d273fc9d2bda05a0">System.Runtime.InteropServices.ComTypes.IStream</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_stream.html#a7b2d3099e95db0612580c5ecbc7148be">System.Runtime.InteropServices.UCOMIStream</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_array.html#a5a7c2be3d626a57cc60b8e710d64c0d8">System.Runtime.Serialization.Formatters.Binary.BinaryArray</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_assembly.html#a6c27668050dcc2442bbec685d3005d16">System.Runtime.Serialization.Formatters.Binary.BinaryAssembly</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_cross_app_domain_assembly.html#ac9ff2982c228bcb3676276f9eb1dcb67">System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainAssembly</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_cross_app_domain_map.html#a1aa0cfd608ed144d5dbc428b5d16e520">System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainMap</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_cross_app_domain_string.html#a6acba54b3499eadd11f6f44d41211da8">System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainString</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_method_return.html#aab5645bda969b11b3c2ea36073cd30e0">System.Runtime.Serialization.Formatters.Binary.BinaryMethodReturn</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_object.html#ac0c483953a91873c63189d08eb62fa08">System.Runtime.Serialization.Formatters.Binary.BinaryObject</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_object_string.html#a016e223cef9cff4e3feebf39728dfcfd">System.Runtime.Serialization.Formatters.Binary.BinaryObjectString</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_object_with_map.html#a264d1a8d1bd7f5a07dec05fd4fc0d6e2">System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMap</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_object_with_map_typed.html#a4239e7d9cc83bbb50cd64e053a80b161">System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMapTyped</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_i_streamable.html#a62964b0abe414326f4994de482ff1eb9">System.Runtime.Serialization.Formatters.Binary.IStreamable</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_member_primitive_typed.html#a8ca5bbc46b104dee0b7448cda1c9f734">System.Runtime.Serialization.Formatters.Binary.MemberPrimitiveTyped</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_member_primitive_un_typed.html#ac734a9839c38f3258c7f9a37ebf65802">System.Runtime.Serialization.Formatters.Binary.MemberPrimitiveUnTyped</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_member_reference.html#ad427e6e0bc8f6f3dd8972f8a1b03391a">System.Runtime.Serialization.Formatters.Binary.MemberReference</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_message_end.html#aa0dec203ad6ffa086341c457b8b08541">System.Runtime.Serialization.Formatters.Binary.MessageEnd</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_object_null.html#aaebceb73da6cf0e82a5cac8f025a5593">System.Runtime.Serialization.Formatters.Binary.ObjectNull</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_serialization_header_record.html#a2bea6d3fdcd0e0e4cea4d0dd5a0eef24">System.Runtime.Serialization.Formatters.Binary.SerializationHeaderRecord</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_crypto_stream.html#a7496af8adcb819355704e311c90f2501">System.Security.Cryptography.CryptoStream</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_tail_stream.html#a12fe4df02fe6ca6950663d2271732c88">System.Security.Cryptography.TailStream</a>
 , <a class="el" href="class_system_1_1_threading_1_1_interlocked.html#a94be7a863d6fd9584cca4f84b1a3ab61">System.Threading.Interlocked</a>
-, <a class="el" href="class_system_1_1_threading_1_1_volatile.html#a123a7e1b5278c8a7ca403b152443c5e4">System.Threading.Volatile</a>
+, <a class="el" href="class_system_1_1_threading_1_1_volatile.html#a1c00dfb7c475b3988e29e082fb105402">System.Threading.Volatile</a>
+, <a class="el" href="class_system_1_1_xml_1_1_schema_1_1_xml_schema.html#a056085636d32c8f3a2c9bb08ae5960b6">System.Xml.Schema.XmlSchema</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#a637b905d73d74c79c952acc0264ef448">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#af065111cb826a4fe1b0d04d3fa8ec804">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#a28937ff97ce49e64ff85b44459acb4e8">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#a38a68b399dcf9c7223c86a16ce26f5f2">System.Xml.XmlValidatingReader</a>
 </li>
 <li>Read7BitEncodedInt()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#ae51e515386bc273d0f25b7d7cc54eff8">System.IO.BinaryReader</a>
@@ -196,13 +186,20 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_i_o_1_1_string_reader.html#a74a0126a52ccf655c8d2f7be7a3b5a7e">System.IO.StringReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_text_reader.html#ae3fcec9b611fa8e0136e5f9573786dae">System.IO.TextReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a4a068a86965fe5bbfa6fa14f1c6f8b65">System.IO.UnmanagedMemoryStream</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#aed946cdae1d76afe41476ad40d45d614">System.IO.UnmanagedMemoryStreamWrapper</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_crypto_stream.html#a0487783b9f1276fb8834017b176495bf">System.Security.Cryptography.CryptoStream</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a3a19d40937a664cbc663466b41c00c26">System.Xml.XmlReader</a>
 </li>
-<li>ReadBestFitTable()
-: <a class="el" href="class_system_1_1_text_1_1_base_code_page_encoding.html#af7d82bbfa13b815a5c778a69b0bca837">System.Text.BaseCodePageEncoding</a>
-, <a class="el" href="class_system_1_1_text_1_1_d_b_c_s_code_page_encoding.html#a3dd51add2d35a4c22aaeff44d481f609">System.Text.DBCSCodePageEncoding</a>
-, <a class="el" href="class_system_1_1_text_1_1_s_b_c_s_code_page_encoding.html#aedd697e29b722e87cf7e938a8aa4ef99">System.Text.SBCSCodePageEncoding</a>
+<li>ReadAttributeValue()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#a282c50193d2beb165934dbb1ffb1aef8">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a66bb7c753d1adf2285ae44ca929d0839">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#abb90bbe2e81ae7e84cc1dbf88924e751">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#aed759eeefdeb293e662a15c326fa10d0">System.Xml.XmlValidatingReader</a>
+</li>
+<li>ReadBase64()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#a31de29bb8c1f888831967df31bc9e6cc">System.Xml.XmlTextReader</a>
+</li>
+<li>ReadBinHex()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#a220a4244237d40320ffca1e99e6f3e21">System.Xml.XmlTextReader</a>
 </li>
 <li>ReadBlock()
 : <a class="el" href="class_system_1_1_i_o_1_1_stream_reader.html#a4dc8dcc4f08f30b08a427015fa0f377d">System.IO.StreamReader</a>
@@ -223,24 +220,87 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_i_o_1_1_file_stream.html#ac94591a9d878cb74758e5343f323cd35">System.IO.FileStream</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_file_stream.html#a9c906397b2ea8a2b518296a057489cc4">System.IO.IsolatedStorage.IsolatedStorageFileStream</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_memory_stream.html#a214d729dd507fd6dd5259bdacaa335ca">System.IO.MemoryStream</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_stream.html#a2e4a1879f4e88060bb88d8778f27fe6a">System.IO.Pipes.PipeStream</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_ports_1_1_serial_port.html#ac236413b1b26edfe6339962e11d6792f">System.IO.Ports.SerialPort</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_stream.html#a14710027834539b992c00b84bd6ba934">System.IO.Stream</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_accessor.html#a07b6e1a99b7a61b1ab2a9a5fc431c573">System.IO.UnmanagedMemoryAccessor</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a59a6fa7e995fa6d0e0a43d21da544432">System.IO.UnmanagedMemoryStream</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#abe1bb210fb82c8cc03af886c90479dad">System.IO.UnmanagedMemoryStreamWrapper</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_marshal.html#a4fd515ca8e21d69c4490985f9cb84ada">System.Runtime.InteropServices.Marshal</a>
 </li>
 <li>ReadBytes()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#aa98d2006628991ce9c0cf744bcb819aa">System.IO.BinaryReader</a>
 </li>
-<li>ReadCache()
-: <a class="el" href="class_microsoft_1_1_win32_1_1_fusion.html#ad97d32b47b63c9df46b17b46364d8a6c">Microsoft.Win32.Fusion</a>
+<li>ReadCategory()
+: <a class="el" href="class_system_1_1_diagnostics_1_1_performance_counter_category.html#a5561c6f5c85cdcfea2b170d0e1105d3e">System.Diagnostics.PerformanceCounterCategory</a>
 </li>
 <li>ReadChar()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#af8c8a3d24fa7e440930464fbcff8532c">System.IO.BinaryReader</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_ports_1_1_serial_port.html#a6ccd5a6af7defde33b45a004ab7c5390">System.IO.Ports.SerialPort</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_accessor.html#ac1992ed7456ac737379b1f5753faadf1">System.IO.UnmanagedMemoryAccessor</a>
 </li>
 <li>ReadChars()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#a7f68e8adf7591e851b73fc70493fff34">System.IO.BinaryReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#ae1ac77ce6c954b73d42777103097b9fa">System.Xml.XmlTextReader</a>
+</li>
+<li>ReadContentAs()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a4adee062aba7e075ba7eff41e05788a1">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a2c578645cbbdafe497bb0473e632ac4e">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsBase64()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#ae372444843172eafa2401affab92ea1b">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#ac4bf419cc90fa19e8030e55fd88fcc33">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#aee1c900be42f3288faf87007d4555ad0">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#a4fdf73ebfdb7a4b4075c2d43d20cc5f9">System.Xml.XmlValidatingReader</a>
+</li>
+<li>ReadContentAsBase64Async()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a149939df59cf45939611430b09484869">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsBinHex()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#aa60d289ba0cc6e887e587f017500fee7">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a77d8863f34d19e14f0a0f8530919e5ea">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#a18a788f339e32bac12c65cf6a7d80339">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#a6c7a33ff4074444e14ef710abfe7355e">System.Xml.XmlValidatingReader</a>
+</li>
+<li>ReadContentAsBinHexAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a31219045502f90d2f0daf69574255780">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsBoolean()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a7a67a147a0ca87eaa9038dca87cd474d">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsDateTime()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#ab15fb7ecca73ed89724e590929bb7de2">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsDateTimeOffset()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a6ddc755a6b0232d80318736f599f1e73">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsDecimal()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a93db8e1d0e0fa5409e072690512d617c">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsDouble()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#aa23ad6b4a280bee49d7f2d49406c0f77">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsFloat()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a77df13b1ddbd6f588b61857de576e6ec">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsInt()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a78301769d53244c485c3b656c4a971f6">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsLong()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a180b2ea17d9969f325a21d4e08fbe05d">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsObject()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a9781471697d7f23dc3230c955054337a">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsObjectAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a898a594372515f3b30647c8cfcc13870">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsString()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a0821be7469415ea9166cae7682d582f0">System.Xml.XmlReader</a>
+</li>
+<li>ReadContentAsStringAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a81d4fcaa832771f1ec0f84ae599ee3c6">System.Xml.XmlReader</a>
 </li>
 <li>ReadDecimal()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#ad6a07450df3ed30dff32708b5ba9e258">System.IO.BinaryReader</a>
@@ -250,8 +310,90 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#a06a5380bf55b0f2470970e136dbd3fa5">System.IO.BinaryReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_accessor.html#aaa09ff7eb5b16a631048fc7b61ebd9dc">System.IO.UnmanagedMemoryAccessor</a>
 </li>
+<li>ReadElementContentAs()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a124a7319e3ec75dcbfc5be0fc60fc703">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a1492c050c1aa4322f56f2fd629e3189e">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsBase64()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#a938f0d16c47daaed8b335f7fa40cb557">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a93726758a8241583a2e273c40c03d9d6">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#a4a057be8fe78380bfa5653266376daaf">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#aac255e06b1695b39aef831e152eb323e">System.Xml.XmlValidatingReader</a>
+</li>
+<li>ReadElementContentAsBase64Async()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a4a10e659e84e0d3777b3e61f21471eb2">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsBinHex()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#a72ba87f5f348a3ab3686683ffe39f10d">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#ade9299269db6a477de8d787a4ac76673">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#aae4e9f0898323f90f11b27ee73b437a9">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#a34b109ba4e47e9c71d920210892e3f42">System.Xml.XmlValidatingReader</a>
+</li>
+<li>ReadElementContentAsBinHexAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#af662b7af6be9efa16a8a253268c9454d">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsBoolean()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#aeb1ce9f2d11db16ab92d8b54e4075821">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsDateTime()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a29a31b698d95992bbbfbf2527bdb9490">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsDecimal()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#adf5debd6ffa8f82fff14c19e512e72ca">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsDouble()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a3f66851a3ed4fe7f1471b5861e3e2cce">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsFloat()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#ad06b41169503be1e4b25e888dd82b968">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsInt()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#ab682e12387e1225403972814cdf4ac3d">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsLong()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a351dbf18d6cc1c3e585e36849637851b">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsObject()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a0a079d77a1d19f65b4040e48887ece4e">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsObjectAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a66f0d1af277b6dc4c9c01ed8fdcdeb74">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsString()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#af11d52c066eae91f4cbf55561d039ec0">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementContentAsStringAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a95c8d2b1a3b1e6979ac20262a8533a20">System.Xml.XmlReader</a>
+</li>
+<li>ReadElementQualifiedName()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#af4c02884ff6243d4ad05d11b981354a3">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadElementString()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#abee2be1af2fe7c9ab9bb3d7e03c97725">System.Xml.XmlReader</a>
+</li>
+<li>ReadEndElement()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a78e7340cc9dfe223c6d695d1a14cef01">System.Xml.Serialization.XmlSerializationReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a4d29c4a1563821d4b8aca26a87ae7879">System.Xml.XmlReader</a>
+</li>
 <li>ReaderWriterLock()
 : <a class="el" href="class_system_1_1_threading_1_1_reader_writer_lock.html#aa36126d0c2ca7631b7bab29636f91824">System.Threading.ReaderWriterLock</a>
+</li>
+<li>ReaderWriterLockSlim()
+: <a class="el" href="class_system_1_1_threading_1_1_reader_writer_lock_slim.html#a4f9f2cbdc6f6dd63cb4f889ba513aeaa">System.Threading.ReaderWriterLockSlim</a>
+</li>
+<li>ReadEvent()
+: <a class="el" href="class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_reader.html#a937d6e1416d9187cdf55f6dcae110e57">System.Diagnostics.Eventing.Reader.EventLogReader</a>
+</li>
+<li>ReadExisting()
+: <a class="el" href="class_system_1_1_i_o_1_1_ports_1_1_serial_port.html#a5d8aac0f5189e30ac4a072792a04aa56">System.IO.Ports.SerialPort</a>
+</li>
+<li>ReadInnerXml()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a52783f034fd23a69494e884ccf1ca808">System.Xml.XmlReader</a>
+</li>
+<li>ReadInnerXmlAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a503aab5a58d7db51bffb568fe6c48b14">System.Xml.XmlReader</a>
 </li>
 <li>ReadInt16()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#ab0a2650e047b07c7bf06fcc24da2d66d">System.IO.BinaryReader</a>
@@ -276,6 +418,7 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 </li>
 <li>ReadLine()
 : <a class="el" href="class_system_1_1_console.html#a144550b90716e0a5b0a6bea7e5e9968f">System.Console</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_ports_1_1_serial_port.html#a23d9a548917b1c7dcd965cec7d37669b">System.IO.Ports.SerialPort</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_stream_reader.html#a942127c04a81ae26e57eab3cca4ff20e">System.IO.StreamReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_string_reader.html#aa04c7306071801519f319d871468f1ac">System.IO.StringReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_text_reader.html#add43b81545790486f7ae44b751519605">System.IO.TextReader</a>
@@ -291,6 +434,18 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>ReadLock()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#acbe1a1142facbd0eb8d2599f253e0b81">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 </li>
+<li>ReadNode()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_document.html#a58af75ef4c85a8e3a73c5193e19c4cf0">System.Xml.XmlDocument</a>
+</li>
+<li>ReadNull()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#af1d649f68a324667f432b516aad5da3b">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadNullableQualifiedName()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a1003430f42bd9bc96b80265eeb9e0c8c">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadNullableString()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a44774ea7d5861ef9459cd5827e20739a">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
 <li>ReadOnly()
 : <a class="el" href="class_system_1_1_collections_1_1_array_list.html#a83a8336cf08a2d7358d691120c6a5ae3">System.Collections.ArrayList</a>
 , <a class="el" href="class_system_1_1_globalization_1_1_calendar.html#a228b2bcba7b00f956408c0b169b73183">System.Globalization.Calendar</a>
@@ -301,26 +456,41 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>ReadOnlyArrayAttribute()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_array_attribute.html#a17db1e576de48cdb6441922607f942bd">System.Runtime.InteropServices.WindowsRuntime.ReadOnlyArrayAttribute</a>
 </li>
+<li>ReadOnlyAttribute()
+: <a class="el" href="class_system_1_1_component_model_1_1_read_only_attribute.html#a17927c0029857662f071efc250c3c56a">System.ComponentModel.ReadOnlyAttribute</a>
+</li>
 <li>ReadOnlyCollection()
 : <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_read_only_collection.html#a0299dc5526fad5f6341019f21c3d8838">System.Collections.ObjectModel.ReadOnlyCollection&lt; T &gt;</a>
+</li>
+<li>ReadOnlyCollectionBuilder()
+: <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a20b692a005c5953dcc0bd4df848183ba">System.Runtime.CompilerServices.ReadOnlyCollectionBuilder&lt; T &gt;</a>
 </li>
 <li>ReadOnlyDictionary()
 : <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a0d2480d12185da47d192c2c893c0d037">System.Collections.ObjectModel.ReadOnlyDictionary&lt; TKey, TValue &gt;</a>
 </li>
-<li>ReadOnlyDictionaryKeyCollection()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_key_collection.html#a6022d7826dee2b57c03c13958c92194d">System.Runtime.InteropServices.WindowsRuntime.ReadOnlyDictionaryKeyCollection&lt; TKey, TValue &gt;</a>
-</li>
-<li>ReadOnlyDictionaryKeyEnumerator()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_key_enumerator.html#a98d553a0d95722f5e0e86d5f0a8d56e6">System.Runtime.InteropServices.WindowsRuntime.ReadOnlyDictionaryKeyEnumerator&lt; TKey, TValue &gt;</a>
-</li>
-<li>ReadOnlyDictionaryValueCollection()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_value_collection.html#ab588f0b6500f491a1e92d81bbb25cea3">System.Runtime.InteropServices.WindowsRuntime.ReadOnlyDictionaryValueCollection&lt; TKey, TValue &gt;</a>
-</li>
-<li>ReadOnlyDictionaryValueEnumerator()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_value_enumerator.html#ad1133ae434198dc4e94420d87aa228ac">System.Runtime.InteropServices.WindowsRuntime.ReadOnlyDictionaryValueEnumerator&lt; TKey, TValue &gt;</a>
+<li>ReadOnlyObservableCollection()
+: <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_read_only_observable_collection.html#a131e43d468bad9472ca4fe63bc2b1989">System.Collections.ObjectModel.ReadOnlyObservableCollection&lt; T &gt;</a>
 </li>
 <li>ReadOnlyPermissionSet()
 : <a class="el" href="class_system_1_1_security_1_1_read_only_permission_set.html#ad37341d70d3064e83623b3f9865100ce">System.Security.ReadOnlyPermissionSet</a>
+</li>
+<li>ReadOuterXml()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a9084dbdb5f514e4df934e12a796e498f">System.Xml.XmlReader</a>
+</li>
+<li>ReadOuterXmlAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#ac7b9503746ebbd6ea6ac7a19986638a4">System.Xml.XmlReader</a>
+</li>
+<li>ReadReference()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#aab124420471494b88eae6d57c70122a1">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadReferencedElement()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a63364494c72871004ed1f36cbf714e08">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadReferencedElements()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#aaf89adb25923f790bbd6639b22d86378">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadReferencingElement()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#aedf8c78bc412c8d04f96468d1d51500e">System.Xml.Serialization.XmlSerializationReader</a>
 </li>
 <li>ReadResources()
 : <a class="el" href="class_system_1_1_resources_1_1_resource_set.html#a710c6964adc1348729bf5cf9c3bf90c5">System.Resources.ResourceSet</a>
@@ -329,12 +499,33 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#a8daef2281a81fda1b76fe86deb3903d9">System.IO.BinaryReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_accessor.html#ab0b503659ddc9a30291290b2891cce28">System.IO.UnmanagedMemoryAccessor</a>
 </li>
+<li>ReadSerializable()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#ae834f65d5f19315b1d6ebf65368d2c77">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
 <li>ReadSingle()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#a1e1ac4277df3c128585cbfa8fbd5bd7d">System.IO.BinaryReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_unmanaged_memory_accessor.html#aecc7d2153d4f1a30b42bb8a0d56c1aaa">System.IO.UnmanagedMemoryAccessor</a>
 </li>
+<li>ReadStartElement()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a36805ae2bd21b77a2fcfea7b0ea4dc4b">System.Xml.XmlReader</a>
+</li>
 <li>ReadString()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#a38403f554cbbd69b844f37d02a5d311f">System.IO.BinaryReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a1ed85e480b85a25b27997d793aff70a5">System.Xml.Serialization.XmlSerializationReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#a158e92b3714fd5f4083b49ab8bb11458">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#acab8816a0fe184ac3ae51befbdfbcc53">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#a9b6eee03101960700db6ea6357e486ce">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#a085659419cca51cd58d38c0b198f3c04">System.Xml.XmlValidatingReader</a>
+</li>
+<li>ReadSubtree()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a574535264ca160a7f28ffc4a4c55369e">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_x_path_1_1_x_path_navigator.html#a5f3cdc34c64045cb91363209ab797c29">System.Xml.XPath.XPathNavigator</a>
+</li>
+<li>ReadTo()
+: <a class="el" href="class_system_1_1_i_o_1_1_ports_1_1_serial_port.html#a212fd3b68b07ce81579c66e7ccde1c50">System.IO.Ports.SerialPort</a>
+</li>
+<li>ReadToDescendant()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#aaad257f18ebe75ac0e2f146dde5f0078">System.Xml.XmlReader</a>
 </li>
 <li>ReadToEnd()
 : <a class="el" href="class_system_1_1_i_o_1_1_stream_reader.html#a726ea3ed62c9c483fb8d47c5e7868d23">System.IO.StreamReader</a>
@@ -345,6 +536,21 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="class_system_1_1_i_o_1_1_stream_reader.html#ad72727403404f4e86f41bb9928a850ca">System.IO.StreamReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_string_reader.html#a42eb20801d3baed7d4d3ae542fef1647">System.IO.StringReader</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_text_reader.html#a684f06fa1f3ad284314bbff3113003f2">System.IO.TextReader</a>
+</li>
+<li>ReadToFollowing()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#aacc55b8a95072baec6f29989a71d244d">System.Xml.XmlReader</a>
+</li>
+<li>ReadToNextSibling()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a2bd3c9a17201511c408aaaa18b9f15e4">System.Xml.XmlReader</a>
+</li>
+<li>ReadTypedNull()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a0a048c3cb791e733c46c629e20aab856">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadTypedPrimitive()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a1617ec31c03a08481dc73981cb6378e9">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadTypedValue()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#a243a4a6628d1767f38c7d3d1ca750f33">System.Xml.XmlValidatingReader</a>
 </li>
 <li>ReadUInt16()
 : <a class="el" href="class_system_1_1_i_o_1_1_binary_reader.html#a925ccd86f38971f251b70410ee09d290">System.IO.BinaryReader</a>
@@ -361,6 +567,21 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>ReadUnlock()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#a6fcedd8d35699fa2303b2691a7e1fdb6">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 </li>
+<li>ReadValueChunk()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a705f8ce89ba8eae107cd567e017d3f4f">System.Xml.XmlReader</a>
+</li>
+<li>ReadValueChunkAsync()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#ae48ae469f96d993c6a3bf7c761af6370">System.Xml.XmlReader</a>
+</li>
+<li>ReadXml()
+: <a class="el" href="interface_system_1_1_xml_1_1_serialization_1_1_i_xml_serializable.html#af6108ba3704e0ba9df88755fb455f29f">System.Xml.Serialization.IXmlSerializable</a>
+</li>
+<li>ReadXmlDocument()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a40947183a8f5dfca627f81665e11b033">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReadXmlNode()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a2b5dba7174ceb4735375435e7db95ce5">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
 <li>ReAllocCoTaskMem()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_marshal.html#ad96683d39478e81fcecc79dbcf0d1bc0">System.Runtime.InteropServices.Marshal</a>
 </li>
@@ -369,6 +590,34 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 </li>
 <li>RealProxy()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_proxies_1_1_real_proxy.html#a0c52cfed445c99f7a919603d681f24c8">System.Runtime.Remoting.Proxies.RealProxy</a>
+</li>
+<li>Receive()
+: <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket.html#a8fda3684f4678f6ae4cf2498d1d6f1c7">System.Net.Sockets.Socket</a>
+, <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_udp_client.html#ae934e5e6e6defeefa01b890874221a48">System.Net.Sockets.UdpClient</a>
+</li>
+<li>ReceiveAsync()
+: <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket.html#a9ad6ac2f4be50d513041ffbf2d78406f">System.Net.Sockets.Socket</a>
+, <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket_task_extensions.html#a97d2e9eed5b008b5919a6cdc4d4113fc">System.Net.Sockets.SocketTaskExtensions</a>
+, <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_udp_client.html#a31e0c4675e992d868b6a753ce9f0b639">System.Net.Sockets.UdpClient</a>
+, <a class="el" href="class_system_1_1_net_1_1_web_sockets_1_1_client_web_socket.html#a09761f4ccdaa2fee6bdfe55de3927117">System.Net.WebSockets.ClientWebSocket</a>
+, <a class="el" href="class_system_1_1_net_1_1_web_sockets_1_1_web_socket.html#ac11b3bc927d66b6b864caec715a0ed41">System.Net.WebSockets.WebSocket</a>
+</li>
+<li>ReceiveFrom()
+: <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket.html#abe274c01c2380493229bbbd7c2e34259">System.Net.Sockets.Socket</a>
+</li>
+<li>ReceiveFromAsync()
+: <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket.html#a1b00dad588671630b9b909bf50047531">System.Net.Sockets.Socket</a>
+, <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket_task_extensions.html#a5c193353ad2ef429a4c0c5cf6080639c">System.Net.Sockets.SocketTaskExtensions</a>
+</li>
+<li>ReceiveMessageFrom()
+: <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket.html#a46b43349301790e40dfdb781e975e9c7">System.Net.Sockets.Socket</a>
+</li>
+<li>ReceiveMessageFromAsync()
+: <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket.html#a151b206211e53cc70ae316583c69a4d7">System.Net.Sockets.Socket</a>
+, <a class="el" href="class_system_1_1_net_1_1_sockets_1_1_socket_task_extensions.html#aad1abd34ce3cc5017c5a6fc2acbf0245">System.Net.Sockets.SocketTaskExtensions</a>
+</li>
+<li>RecommendedAsConfigurableAttribute()
+: <a class="el" href="class_system_1_1_component_model_1_1_recommended_as_configurable_attribute.html#ab7eb9e246fc03a8243a4a21142b315fe">System.ComponentModel.RecommendedAsConfigurableAttribute</a>
 </li>
 <li>RecordArrayElementFixup()
 : <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_manager.html#a6e1e747b0ece83408ac6406c0016c9a4">System.Runtime.Serialization.ObjectManager</a>
@@ -382,16 +631,38 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>Recover()
 : <a class="el" href="class_system_1_1_security_1_1_policy_1_1_policy_level.html#ad70e34e5aebdd445f51e1e6d480832ff">System.Security.Policy.PolicyLevel</a>
 </li>
-<li>Recycle()
-: <a class="el" href="class_system_1_1_security_1_1_util_1_1_tokenizer.html#aeb2bebb57a559d9d8f2d61e2cb971e98">System.Security.Util.Tokenizer</a>
+<li>Redirect()
+: <a class="el" href="class_system_1_1_net_1_1_http_listener_response.html#a949ac0099978b0c94eb059b26b680470">System.Net.HttpListenerResponse</a>
 </li>
 <li>Reduce()
-: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_moniker.html#af872af571575dda61276877c8e123185">System.Runtime.InteropServices.ComTypes.IMoniker</a>
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_binary_expression.html#aaa65795805670a13cc234e75cc18df21">System.Linq.Expressions.BinaryExpression</a>
+, <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#a8ad5fb4c00bbde703d48fbd3b7a9fa7c">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
+, <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_list_init_expression.html#a5a05a8828954d56468dbbe1b80c3dc61">System.Linq.Expressions.ListInitExpression</a>
+, <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_member_init_expression.html#ae4386684462cd253de726116b78f4c00">System.Linq.Expressions.MemberInitExpression</a>
+, <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_unary_expression.html#ab38cb1a23f2c617b86f4d50de2700a67">System.Linq.Expressions.UnaryExpression</a>
+, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_moniker.html#af872af571575dda61276877c8e123185">System.Runtime.InteropServices.ComTypes.IMoniker</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_moniker.html#aa7a35622e01234a6ba44436b88f470a6">System.Runtime.InteropServices.UCOMIMoniker</a>
-, <a class="el" href="class_system_1_1_security_1_1_util_1_1_string_expression_set.html#a4e43e1fe6db7202999cd90613bfac862">System.Security.Util.StringExpressionSet</a>
+</li>
+<li>ReduceAndCheck()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#a20212b30d0f797c3ec99c67f65baee28">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
+</li>
+<li>ReduceExtensions()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#ad4bcb353f1f12add08e3bd2ee37b141e">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
+</li>
+<li>ReferenceAssembly()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_i_type_resolution_service.html#a346b0ee982d3975f6e5f3aee97ddfbd4">System.ComponentModel.Design.ITypeResolutionService</a>
 </li>
 <li>ReferenceAssemblyAttribute()
 : <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_reference_assembly_attribute.html#ad2f6ae0c4609a985dbf571ec72a00484">System.Runtime.CompilerServices.ReferenceAssemblyAttribute</a>
+</li>
+<li>ReferenceConverter()
+: <a class="el" href="class_system_1_1_component_model_1_1_reference_converter.html#afed2dba88f78638e33881f9c6328d303">System.ComponentModel.ReferenceConverter</a>
+</li>
+<li>Referenced()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a4440994db80a79b85665478e5e6e7c33">System.Xml.Serialization.XmlSerializationReader</a>
+</li>
+<li>ReferenceEqual()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#a714ab0f020b71e49d7e95c763ff7704a">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
 </li>
 <li>ReferenceEquals()
 : <a class="el" href="class_system_1_1_object.html#a1bf62c8a3d30c02db8f8c00579e01253">System.Object</a>
@@ -399,18 +670,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>ReferenceMatchesDefinition()
 : <a class="el" href="class_system_1_1_reflection_1_1_assembly_name.html#a08af775f40be271c62f9f974c4cfdd54">System.Reflection.AssemblyName</a>
 </li>
-<li>ReferenceToText()
-: <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_app_id_authority.html#a6b670ae4f7a27f82f91bd46c4f37349d">System.Deployment.Internal.Isolation.IAppIdAuthority</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_identity_authority.html#a39ba51447bcd39b809d96792321f121b">System.Deployment.Internal.Isolation.IIdentityAuthority</a>
-</li>
-<li>ReferenceToTextBuffer()
-: <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_identity_authority.html#a69807283b90054a8fb2147b5a5a02758">System.Deployment.Internal.Isolation.IIdentityAuthority</a>
+<li>ReferenceNotEqual()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#acfd8d867ff97824abe0a459f48a411a2">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
 </li>
 <li>ReflectionContext()
 : <a class="el" href="class_system_1_1_reflection_1_1_reflection_context.html#a5a463478c0c03263cac1a8e907acb010">System.Reflection.ReflectionContext</a>
-</li>
-<li>ReflectionOnly()
-: <a class="el" href="class_microsoft_1_1_reflection_1_1_reflection_extensions.html#a51bcdb90561bbf492cc5cd0e09381354">Microsoft.Reflection.ReflectionExtensions</a>
 </li>
 <li>ReflectionOnlyGetAssemblies()
 : <a class="el" href="class_system_1_1_app_domain.html#a39102b40a1efa14bd043e3c4050e4daf">System.AppDomain</a>
@@ -434,19 +698,40 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="class_system_1_1_reflection_1_1_reflection_type_load_exception.html#a64c6a885286cd55e6b5a6b90a6030004">System.Reflection.ReflectionTypeLoadException</a>
 </li>
 <li>Refresh()
-: <a class="el" href="class_system_1_1_i_o_1_1_file_system_info.html#a3c03fcbd3613580b0a95ee3b898464ef">System.IO.FileSystemInfo</a>
+: <a class="el" href="class_system_1_1_component_model_1_1_type_descriptor.html#ad7a833989fb5fc257475fb1acd2b6ae3">System.ComponentModel.TypeDescriptor</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_process.html#ad1fc13c0532e5e5f8129f685d4efbbb3">System.Diagnostics.Process</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_trace.html#ae5077f0825ffcb6d9c369a015b1c5db9">System.Diagnostics.Trace</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_file_system_info.html#a3c03fcbd3613580b0a95ee3b898464ef">System.IO.FileSystemInfo</a>
+</li>
+<li>RefreshEventArgs()
+: <a class="el" href="class_system_1_1_component_model_1_1_refresh_event_args.html#a8e257ead9201644fa9c6d8c1851b18f1">System.ComponentModel.RefreshEventArgs</a>
+</li>
+<li>RefreshPropertiesAttribute()
+: <a class="el" href="class_system_1_1_component_model_1_1_refresh_properties_attribute.html#a61876f9c1dce2df671166e5274331423">System.ComponentModel.RefreshPropertiesAttribute</a>
+</li>
+<li>Regex()
+: <a class="el" href="class_system_1_1_text_1_1_regular_expressions_1_1_regex.html#a94b7abe6f5251549a7a16f024cf80982">System.Text.RegularExpressions.Regex</a>
+</li>
+<li>RegexCompilationInfo()
+: <a class="el" href="class_system_1_1_text_1_1_regular_expressions_1_1_regex_compilation_info.html#a3581c0b699ec251ea3d9bec552b129ed">System.Text.RegularExpressions.RegexCompilationInfo</a>
+</li>
+<li>RegexMatchTimeoutException()
+: <a class="el" href="class_system_1_1_text_1_1_regular_expressions_1_1_regex_match_timeout_exception.html#a730aade4abed4d34f4499288ebfafe38">System.Text.RegularExpressions.RegexMatchTimeoutException</a>
+</li>
+<li>RegexRunner()
+: <a class="el" href="class_system_1_1_text_1_1_regular_expressions_1_1_regex_runner.html#a08eb1877b7a97a7e83f3dcc56747100a">System.Text.RegularExpressions.RegexRunner</a>
 </li>
 <li>RegionInfo()
 : <a class="el" href="class_system_1_1_globalization_1_1_region_info.html#adbdebeecd84b2f89485cc9f4e9b845f7">System.Globalization.RegionInfo</a>
 </li>
 <li>Register()
-: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_running_object_table.html#a3cd60398ea37b6bedf0fb91678d5377b">System.Runtime.InteropServices.ComTypes.IRunningObjectTable</a>
+: <a class="el" href="class_system_1_1_net_1_1_authentication_manager.html#a291199db5ac87c471d49fa194a7fb387">System.Net.AuthenticationManager</a>
+, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_running_object_table.html#a3cd60398ea37b6bedf0fb91678d5377b">System.Runtime.InteropServices.ComTypes.IRunningObjectTable</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_running_object_table.html#ac7fcf070f0b2aeced6dca6a24de91054">System.Runtime.InteropServices.UCOMIRunningObjectTable</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_client_sponsor.html#a70fc743096d1ec4b9d7f2b01390c5d73">System.Runtime.Remoting.Lifetime.ClientSponsor</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_i_lease.html#a58b400f46e86f01d177f7ae2764b62b4">System.Runtime.Remoting.Lifetime.ILease</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_lease.html#acbb1c39a7804c7c55703cc2e19817a35">System.Runtime.Remoting.Lifetime.Lease</a>
 , <a class="el" href="struct_system_1_1_threading_1_1_cancellation_token.html#a62e3229ea2687c0b5f6e7ede454b8236">System.Threading.CancellationToken</a>
-, <a class="el" href="class_system_1_1_threading_1_1_gen2_gc_callback.html#a1dddb47ec75e3d5084103928dea2a021">System.Threading.Gen2GcCallback</a>
+, <a class="el" href="class_system_1_1_uri_parser.html#a14570805c8a731f53b1a8395de01e7ee">System.UriParser</a>
 </li>
 <li>RegisterActivatedClientType()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_remoting_configuration.html#a049b7d62940672650e366e08ce061e6f">System.Runtime.Remoting.RemotingConfiguration</a>
@@ -454,12 +739,18 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RegisterActivatedServiceType()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_remoting_configuration.html#a079dd651e705cea4c75a0a478a5c1702">System.Runtime.Remoting.RemotingConfiguration</a>
 </li>
+<li>RegisterApplicationResourceStreamResolver()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_xap_resolver.html#a7a3b1248deb7194359b6f13eec03de6b">System.Xml.XmlXapResolver</a>
+</li>
 <li>RegisterAssembly()
 : <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_i_registration_services.html#a6485efb2236f8b25034924df3b328418">System.Runtime.InteropServices.IRegistrationServices</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_registration_services.html#a8e3891c59c6edfbe38e1f43d3eab3468">System.Runtime.InteropServices.RegistrationServices</a>
 </li>
 <li>RegisterChannel()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_channel_services.html#a09e19c5f2734da5c0d0844f749746f88">System.Runtime.Remoting.Channels.ChannelServices</a>
+</li>
+<li>RegisterDisplayName()
+: <a class="el" href="class_system_1_1_diagnostics_1_1_event_log.html#a3374157add4dbec98e487a78c4f10379">System.Diagnostics.EventLog</a>
 </li>
 <li>RegisterDynamicProperty()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_context.html#a5cbb0fde1be3d9f7996afb6b7a61be30">System.Runtime.Remoting.Contexts.Context</a>
@@ -473,8 +764,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RegisterInteropXmlType()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_soap_services.html#a6963aeea3df74dd248c644ab7711c5ce">System.Runtime.Remoting.SoapServices</a>
 </li>
+<li>RegisterNetworkChange()
+: <a class="el" href="class_system_1_1_net_1_1_network_information_1_1_network_change.html#ab8539ab89b119cc9c825949e2fe7bcb5">System.Net.NetworkInformation.NetworkChange</a>
+</li>
 <li>RegisterObject()
-: <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_manager.html#a55ae594d3e553dfb3d817d30dcec0d22">System.Runtime.Serialization.ObjectManager</a>
+: <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_object_manager.html#a385976bf4658386ddc47fb7e3af437dc">System.Runtime.Serialization.ObjectManager</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_object_manager.html#adf7a6e6c4b8755758d2759b7841a5d30">System.Runtime.Serialization.SerializationObjectManager</a>
 </li>
 <li>RegisterObjectBound()
@@ -487,6 +781,15 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RegisterObjectParam()
 : <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_bind_ctx.html#a3a98920662f41cc311c69a8a707c5e06">System.Runtime.InteropServices.ComTypes.IBindCtx</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_bind_ctx.html#a753629d37e68c4ed721e6439b05f96a3">System.Runtime.InteropServices.UCOMIBindCtx</a>
+</li>
+<li>RegisterPortableWebRequestCreator()
+: <a class="el" href="class_system_1_1_net_1_1_web_request.html#ae7e242516849a22928672fdd80e8ab99">System.Net.WebRequest</a>
+</li>
+<li>RegisterPrefix()
+: <a class="el" href="class_system_1_1_net_1_1_web_request.html#a25e17666b579c7f00043fd7611c351ee">System.Net.WebRequest</a>
+</li>
+<li>RegisterPrefixes()
+: <a class="el" href="class_system_1_1_net_1_1_web_sockets_1_1_web_socket.html#ae4ef65e030834eab706b3d80810ef45e">System.Net.WebSockets.WebSocket</a>
 </li>
 <li>RegisterProvider()
 : <a class="el" href="class_system_1_1_text_1_1_encoding.html#a738455b65f7c010eb1bb2dc69f4cd14d">System.Text.Encoding</a>
@@ -525,25 +828,20 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RegistrySecurity()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#aa6eddcd914b2915d26dde00687f1f7a6">System.Security.AccessControl.RegistrySecurity</a>
 </li>
+<li>RejectChanges()
+: <a class="el" href="interface_system_1_1_component_model_1_1_i_revertible_change_tracking.html#a54ace03628a67446ccb56c2e2646fd03">System.ComponentModel.IRevertibleChangeTracking</a>
+</li>
 <li>RelativePathTo()
 : <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_moniker.html#aaf6de92101a1d8e2dacc481d5a416ca3">System.Runtime.InteropServices.ComTypes.IMoniker</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_moniker.html#adfa43f03c7a94ed6f91f19d0b4d085c6">System.Runtime.InteropServices.UCOMIMoniker</a>
 </li>
 <li>Release()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_marshal.html#accdfaaf3fb0d12c50368c7c386175fe1">System.Runtime.InteropServices.Marshal</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_safe_heap_handle_cache.html#aa55469335cce0ea276f1e09cfc8b7021">System.Runtime.InteropServices.SafeHeapHandleCache</a>
-, <a class="el" href="class_system_1_1_text_1_1_string_builder_cache.html#ac4a12a9805689d5c3142211364a92ad1">System.Text.StringBuilderCache</a>
-, <a class="el" href="struct_system_1_1_threading_1_1_deferred_disposable_lifetime.html#ab7144414703d842d0518ca5ddde9c082">System.Threading.DeferredDisposableLifetime&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_threading_1_1_semaphore.html#ab29663b7dab70c3b2cf118c2499beccc">System.Threading.Semaphore</a>
 , <a class="el" href="class_system_1_1_threading_1_1_semaphore_slim.html#a0d5381112bb1ee977c693f4730d38f03">System.Threading.SemaphoreSlim</a>
 </li>
 <li>ReleaseAllResources()
 : <a class="el" href="class_system_1_1_resources_1_1_resource_manager.html#a8c89c7423d670fddf32e9cd5167df64c">System.Resources.ResourceManager</a>
-</li>
-<li>ReleaseApplicationPath()
-: <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_store.html#a939081e1f1a2522b692de6443e5e8b97">System.Deployment.Internal.Isolation.IStore</a>
-</li>
-<li>ReleaseAssemblyPath()
-: <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_store.html#a2bae533f3b7aa5fde74c9e07ea938dfd">System.Deployment.Internal.Isolation.IStore</a>
 </li>
 <li>ReleaseBoundObjects()
 : <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_bind_ctx.html#ab88a091a456576c8d7ef3f15bc5dd6f6">System.Runtime.InteropServices.ComTypes.IBindCtx</a>
@@ -558,38 +856,8 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_type_info.html#a8dd18b4307638bd53837dbece779330b">System.Runtime.InteropServices.UCOMITypeInfo</a>
 </li>
 <li>ReleaseHandle()
-: <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_access_token_handle.html#a3bb859bbabafeff15a33895d128948b8">Microsoft.Win32.SafeHandles.SafeAccessTokenHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_handle.html#aa62de6afdfab532551e8b137030a92c3">Microsoft.Win32.SafeHandles.SafeFileHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_mapping_handle.html#aa5b83f82c626f8c66067bd711b96ec9a">Microsoft.Win32.SafeHandles.SafeFileMappingHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_find_handle.html#a393de3fca016c3132773c76f984a837f">Microsoft.Win32.SafeHandles.SafeFindHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_local_alloc_handle.html#a68e44d23ed91c4f31fcb6aa5fbc71fbb">Microsoft.Win32.SafeHandles.SafeLocalAllocHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_logon_process_handle.html#abda06b994d3087ea861da15f121265d6">Microsoft.Win32.SafeHandles.SafeLsaLogonProcessHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_memory_handle.html#ac8541ff0501a3e237495f5bec1181f87">Microsoft.Win32.SafeHandles.SafeLsaMemoryHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_policy_handle.html#a47c623f6ff4b60bf8cbe95b8e34763c9">Microsoft.Win32.SafeHandles.SafeLsaPolicyHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_return_buffer_handle.html#ade01a7736bd87a440c1100392556e7b7">Microsoft.Win32.SafeHandles.SafeLsaReturnBufferHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_p_e_file_handle.html#a519817b773eec281e116db20fe2b4306">Microsoft.Win32.SafeHandles.SafePEFileHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_process_handle.html#a1077740c4436a41d278bcb3495ee0b5a">Microsoft.Win32.SafeHandles.SafeProcessHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_registry_handle.html#ac348ed80752983193ec4d314d15c40ca">Microsoft.Win32.SafeHandles.SafeRegistryHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_thread_handle.html#a056f5be04bc6d8a3935d16b6be66ac35">Microsoft.Win32.SafeHandles.SafeThreadHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_view_of_file_handle.html#a6de168fa23d834f9d6a0e9869dfb077a">Microsoft.Win32.SafeHandles.SafeViewOfFileHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_wait_handle.html#a310c41708c8ed9e7502bd0aba7772973">Microsoft.Win32.SafeHandles.SafeWaitHandle</a>
-, <a class="el" href="class_microsoft_1_1_win32_1_1_safe_library_handle.html#a5dee29723b77258d4d2e933ec5ebbdf4">Microsoft.Win32.SafeLibraryHandle</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_safe_isolated_storage_file_handle.html#a87d5e8e6701d7e3009200b20c39c55b2">System.IO.IsolatedStorage.SafeIsolatedStorageFileHandle</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_critical_handle.html#a77b17bf672e465ae1a7e1e44cafaa862">System.Runtime.InteropServices.CriticalHandle</a>
+: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_critical_handle.html#a77b17bf672e465ae1a7e1e44cafaa862">System.Runtime.InteropServices.CriticalHandle</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle.html#a7f578e982da51ce3c42d7856f0986147">System.Runtime.InteropServices.SafeHandle</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_safe_heap_handle.html#af155b0cc6f42005010fe07990ad1a674">System.Runtime.InteropServices.SafeHeapHandle</a>
-, <a class="el" href="class_system_1_1_safe_type_name_parser_handle.html#af21bc5052cf22c3efa5869edd58cc84b">System.SafeTypeNameParserHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_csp_handle.html#a8c389ddf1460c60c7c5eaac3bb36a480">System.Security.Cryptography.SafeCspHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_csp_hash_handle.html#ae7f88ac9e4342d855cb8e504deea31cd">System.Security.Cryptography.SafeCspHashHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_csp_key_handle.html#a6d07741394be9402436778fec7f0a8ee">System.Security.Cryptography.SafeCspKeyHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_hash_handle.html#a24422b1228da00e6c6e2173bdc5d8815">System.Security.Cryptography.SafeHashHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_key_handle.html#a6a98c5bf563a8534bd40217ca985d5f9">System.Security.Cryptography.SafeKeyHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_safe_prov_handle.html#a02ebd33546ca900d1e8ab57330b65015">System.Security.Cryptography.SafeProvHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_context_handle.html#a9e204225fe444da3cf651e375d0df0ac">System.Security.Cryptography.X509Certificates.SafeCertContextHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_store_handle.html#a4fcc5eb301fb28faf85a85d0540353c6">System.Security.Cryptography.X509Certificates.SafeCertStoreHandle</a>
-, <a class="el" href="class_system_1_1_security_1_1_safe_b_s_t_r_handle.html#afb9e64790789db184c11989dd32b6db9">System.Security.SafeBSTRHandle</a>
-, <a class="el" href="class_system_1_1_threading_1_1_i_unknown_safe_handle.html#a7ebb4fe54423f3ab41f613a5a668c301">System.Threading.IUnknownSafeHandle</a>
-, <a class="el" href="class_system_1_1_threading_1_1_safe_compressed_stack_handle.html#a87c4f5769af2e1cc2a256da71cf88fed">System.Threading.SafeCompressedStackHandle</a>
 </li>
 <li>ReleaseLock()
 : <a class="el" href="class_system_1_1_threading_1_1_reader_writer_lock.html#af6d2c991edde4bf1c7409943fba99e08">System.Threading.ReaderWriterLock</a>
@@ -602,9 +870,6 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 </li>
 <li>ReleaseReaderLock()
 : <a class="el" href="class_system_1_1_threading_1_1_reader_writer_lock.html#a0453753506ce28d9aceef5e95a385b89">System.Threading.ReaderWriterLock</a>
-</li>
-<li>ReleaseSharedStringMaker()
-: <a class="el" href="class_system_1_1_shared_statics.html#a1b267dc90699b19ec0f2e2ee83a8d8bb">System.SharedStatics</a>
 </li>
 <li>ReleaseThreadCache()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_marshal.html#a527ffa18d861660bdbae513af9f37c56">System.Runtime.InteropServices.Marshal</a>
@@ -630,6 +895,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>ReliabilityContractAttribute()
 : <a class="el" href="class_system_1_1_runtime_1_1_constrained_execution_1_1_reliability_contract_attribute.html#a46144d2d7c383eb7e0cf78eb407ccb72">System.Runtime.ConstrainedExecution.ReliabilityContractAttribute</a>
 </li>
+<li>Reload()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_loader_host.html#a16ccc40876ac22b696e452a9a3e7bd51">System.ComponentModel.Design.Serialization.IDesignerLoaderHost</a>
+, <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_loader_service.html#a4d190c106bf0257746684e8f8b32efe2">System.ComponentModel.Design.Serialization.IDesignerLoaderService</a>
+, <a class="el" href="class_system_1_1_configuration_1_1_application_settings_base.html#ae1d74fec075488099f6b9c81ce796d91">System.Configuration.ApplicationSettingsBase</a>
+</li>
 <li>Remainder()
 : <a class="el" href="struct_system_1_1_decimal.html#add251cfdeb6790cc2c923871a4780c89">System.Decimal</a>
 </li>
@@ -638,9 +908,6 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 </li>
 <li>RemotingException()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_remoting_exception.html#a43e63daf6e94b627ebbbb2a40fb31c61">System.Runtime.Remoting.RemotingException</a>
-</li>
-<li>RemotingProxy()
-: <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_proxies_1_1_remoting_proxy.html#af8e130cba696bb3263faf8bc2fa5d367">System.Runtime.Remoting.Proxies.RemotingProxy</a>
 </li>
 <li>RemotingSurrogateSelector()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_remoting_surrogate_selector.html#abfcc342d5d12e7251befca8f5572803b">System.Runtime.Remoting.Messaging.RemotingSurrogateSelector</a>
@@ -653,43 +920,104 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 </li>
 <li>Remove()
 : <a class="el" href="struct_system_1_1_array_segment.html#a3674dfc1e42e2214b9efe3ed622c83c3">System.ArraySegment&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_attribute_argument_collection.html#a04eb710d638c415278c4679b3a6ffa5f">System.CodeDom.CodeAttributeArgumentCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_attribute_declaration_collection.html#a23f35fde6282e463bd7bfb9702e996db">System.CodeDom.CodeAttributeDeclarationCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_catch_clause_collection.html#a4a5481fae575e3c85c1a48bdb91399b7">System.CodeDom.CodeCatchClauseCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_comment_statement_collection.html#abc98e4bbce9869def2670a7fbcb36b33">System.CodeDom.CodeCommentStatementCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_directive_collection.html#a1f8ef1590a238872083673b1915253d9">System.CodeDom.CodeDirectiveCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_expression_collection.html#a47ecf82637f4d165f057b1b7fc8ad687">System.CodeDom.CodeExpressionCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_namespace_collection.html#a7ce2f23a921cd9284b86cea3fb7f4cf0">System.CodeDom.CodeNamespaceCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_parameter_declaration_expression_collection.html#afe9e16f3067356b42c8f40ae3238e231">System.CodeDom.CodeParameterDeclarationExpressionCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_statement_collection.html#a257c50fd80da45bc16f3c6ab637cd0db">System.CodeDom.CodeStatementCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_type_declaration_collection.html#aa64fb9e2ded85c4859c7f84d9877d68f">System.CodeDom.CodeTypeDeclarationCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_type_member_collection.html#a837db6890f02e764b46a63318a57f1d6">System.CodeDom.CodeTypeMemberCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_type_parameter_collection.html#adc553dff93200933d0097545759ae577">System.CodeDom.CodeTypeParameterCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_code_type_reference_collection.html#ab385999afe95d82fb3ed49427ac98403">System.CodeDom.CodeTypeReferenceCollection</a>
+, <a class="el" href="class_system_1_1_code_dom_1_1_compiler_1_1_compiler_error_collection.html#a5fa0ee4817c5533fdd1900ee2104be63">System.CodeDom.Compiler.CompilerErrorCollection</a>
 , <a class="el" href="class_system_1_1_collections_1_1_array_list.html#aaa3658811d64ef0f48e791ab25d9d19a">System.Collections.ArrayList</a>
-, <a class="el" href="class_system_1_1_collections_1_1_empty_read_only_dictionary_internal.html#aa59f3821fb19b4edd6384be41eb7765b">System.Collections.EmptyReadOnlyDictionaryInternal</a>
 , <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_dictionary.html#aeb8c1652b19fd65b356aff9b1b27a929">System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_hash_set.html#ad1a02120768a672aadb9feb4443034b0">System.Collections.Generic.HashSet&lt; T &gt;</a>
 , <a class="el" href="interface_system_1_1_collections_1_1_generic_1_1_i_collection.html#a36f1138438d05f9f4d3786e6c8ddee68">System.Collections.Generic.ICollection&lt; T &gt;</a>
 , <a class="el" href="interface_system_1_1_collections_1_1_generic_1_1_i_dictionary.html#a1fd1ae4985e46fd6710787b796674f34">System.Collections.Generic.IDictionary&lt; TKey, TValue &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_linked_list.html#a32330cf87e007c74750a69d03bc8ba8b">System.Collections.Generic.LinkedList&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_list.html#ad501bcb4e2e6d6391fd6efc9499542cb">System.Collections.Generic.List&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_sorted_dictionary.html#a234b5dd1f8bf32a8cc3270893e67edb2">System.Collections.Generic.SortedDictionary&lt; TKey, TValue &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_sorted_list.html#ab1bcd21ecfbe28e8296aa5a45928100a">System.Collections.Generic.SortedList&lt; TKey, TValue &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_sorted_set.html#ab703c820a75cb2f594337cd2a36f1734">System.Collections.Generic.SortedSet&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_collections_1_1_hashtable.html#ab712acc97d2c9ff786f06522dc8d7e47">System.Collections.Hashtable</a>
 , <a class="el" href="interface_system_1_1_collections_1_1_i_dictionary.html#a6b37f0d80714dd0337c02b00e4e3c829">System.Collections.IDictionary</a>
 , <a class="el" href="interface_system_1_1_collections_1_1_i_list.html#a7bf7f4ddfbe406aeb57c46d529cdbb5f">System.Collections.IList</a>
-, <a class="el" href="class_system_1_1_collections_1_1_list_dictionary_internal.html#ad977783b1dcc3a94c0488ff9bda66029">System.Collections.ListDictionaryInternal</a>
 , <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_collection.html#a6ebe87fbd6fd131b425bc27a4f6f6472">System.Collections.ObjectModel.Collection&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_keyed_collection.html#a5520997669b6fbc2f6c607721993daaf">System.Collections.ObjectModel.KeyedCollection&lt; TKey, TItem &gt;</a>
 , <a class="el" href="class_system_1_1_collections_1_1_sorted_list.html#ab21f32babd02dcd2424592f8f93865e8">System.Collections.SortedList</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_hybrid_dictionary.html#aee096dc5b1486cb436581812c843d480">System.Collections.Specialized.HybridDictionary</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_list_dictionary.html#aa01471de024484c3e26aab9e2bc63a0e">System.Collections.Specialized.ListDictionary</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_name_value_collection.html#acdf322c914b14c02ab7736fc93e68a4a">System.Collections.Specialized.NameValueCollection</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_ordered_dictionary.html#a595d1c3b6a4dcb753f7781dde7cd50a8">System.Collections.Specialized.OrderedDictionary</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_string_collection.html#a854baf8448462ba59915fc2de32df55d">System.Collections.Specialized.StringCollection</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_string_dictionary.html#a776aebcbdb51b5f52c8ffe447dfd735b">System.Collections.Specialized.StringDictionary</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_container.html#ac18babcedafafe44d76fc4415f6d5cd3">System.ComponentModel.Container</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_design_1_1_designer_verb_collection.html#a4e10ffd4ed489697d78f57ac4e6ce6ed">System.ComponentModel.Design.DesignerVerbCollection</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_event_descriptor_collection.html#a9b68cbe68b8221401e84493f33ee472b">System.ComponentModel.EventDescriptorCollection</a>
+, <a class="el" href="interface_system_1_1_component_model_1_1_i_container.html#a49a7ed9ff346d2ab91cae50af272196c">System.ComponentModel.IContainer</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_masked_text_provider.html#ab0008fa88c187f637f11e74b9848e58f">System.ComponentModel.MaskedTextProvider</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_property_descriptor_collection.html#ad92faa91ab209bcd1b13a282381094b7">System.ComponentModel.PropertyDescriptorCollection</a>
+, <a class="el" href="class_system_1_1_configuration_1_1_setting_element_collection.html#a40adc3fbbfc665c09e4ec3e7410dc3cf">System.Configuration.SettingElementCollection</a>
+, <a class="el" href="class_system_1_1_configuration_1_1_settings_property_collection.html#a31733adcbad4e5d7dc7aee0f2f5de6d9">System.Configuration.SettingsPropertyCollection</a>
+, <a class="el" href="class_system_1_1_configuration_1_1_settings_property_value_collection.html#ad06aba46560373302e711ee2f1a436b6">System.Configuration.SettingsPropertyValueCollection</a>
 , <a class="el" href="class_system_1_1_delegate.html#af9bd9ac28410c5a32e08d3dd82a21456">System.Delegate</a>
-, <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_event_payload.html#a39b2ec63c9b4799f86044096a69e407d">System.Diagnostics.Tracing.EventPayload</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_counter_creation_data_collection.html#abba77003e090025ca67c62ef08d3ac5d">System.Diagnostics.CounterCreationDataCollection</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_event_log_permission_entry_collection.html#a174176454b86ac01221233f9eb0a0811">System.Diagnostics.EventLogPermissionEntryCollection</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_performance_counter_permission_entry_collection.html#a92bf5c06be93e4a01e6fba27df8774f6">System.Diagnostics.PerformanceCounterPermissionEntryCollection</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_process_thread_collection.html#a58de560b78a37ee547e5c45f3b3a3ae1">System.Diagnostics.ProcessThreadCollection</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_trace_listener_collection.html#af337e01ae964bb84b9229351e26e8360">System.Diagnostics.TraceListenerCollection</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage.html#aadc1376133daf74682b23890d1171c7a">System.IO.IsolatedStorage.IsolatedStorage</a>
 , <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_file.html#a6a7dc605fdf48760207d2b5809a29288">System.IO.IsolatedStorage.IsolatedStorageFile</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_authentication_module_element_collection.html#af4b0bc16b659ce872339b98c1a32db9e">System.Net.Configuration.AuthenticationModuleElementCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_bypass_element_collection.html#a50f17c6d4d5217f6b0b4f3ae03fbc73f">System.Net.Configuration.BypassElementCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_connection_management_element_collection.html#ac9b81321929836a58153b96444ac9250">System.Net.Configuration.ConnectionManagementElementCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_web_request_module_element_collection.html#aa6195417cd11d7fc90bfb30a1c4ee8bd">System.Net.Configuration.WebRequestModuleElementCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_credential_cache.html#aedce86767b55f0357d3e30cf81993cca">System.Net.CredentialCache</a>
+, <a class="el" href="class_system_1_1_net_1_1_http_listener_prefix_collection.html#adfe56ad4ae79ca39ae60c67b5fc534cc">System.Net.HttpListenerPrefixCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_network_information_1_1_gateway_i_p_address_information_collection.html#a6f94d7b6c65af7907fedcd6e4b5adfaa">System.Net.NetworkInformation.GatewayIPAddressInformationCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_network_information_1_1_i_p_address_collection.html#aba13c789f6055e4dc1d305cdedf2c14f">System.Net.NetworkInformation.IPAddressCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_network_information_1_1_i_p_address_information_collection.html#abb5792cd1b6539df308620e5629f3956">System.Net.NetworkInformation.IPAddressInformationCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_network_information_1_1_multicast_i_p_address_information_collection.html#a664bf47bed661c40964da605d387a33a">System.Net.NetworkInformation.MulticastIPAddressInformationCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_network_information_1_1_unicast_i_p_address_information_collection.html#a18244937d57fb2ec57b564eb5c69bf85">System.Net.NetworkInformation.UnicastIPAddressInformationCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_web_header_collection.html#a728644509bda32056e9d843f316778a8">System.Net.WebHeaderCollection</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_conditional_weak_table.html#abe48e011fbe82514028ffdbcfc490c05">System.Runtime.CompilerServices.ConditionalWeakTable&lt; TKey, TValue &gt;</a>
+, <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a172cdcf2a3e63265c0f6f9dd08fbbf96">System.Runtime.CompilerServices.ReadOnlyCollectionBuilder&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_com_events_helper.html#aee67c779a4b9fe57dab6aa52f438a0f8">System.Runtime.InteropServices.ComEventsHelper</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_map.html#a402007ffd71c05627d6143c23c8c235b">System.Runtime.InteropServices.WindowsRuntime.IMap&lt; K, V &gt;</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_aggregate_dictionary.html#a7d6c4bac348d85b721ee675758cddf58">System.Runtime.Remoting.Channels.AggregateDictionary</a>
+, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_handle_collector.html#abd508d23f899112d025f83dc0bcf5d00">System.Runtime.InteropServices.HandleCollector</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_base_channel_object_with_properties.html#a55325e70e6855ae151352946a5bf7040">System.Runtime.Remoting.Channels.BaseChannelObjectWithProperties</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_message_dictionary.html#a4e44152d5489a884010b0ddcd59fa667">System.Runtime.Remoting.Messaging.MessageDictionary</a>
+, <a class="el" href="class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_service_name_element_collection.html#a101d901347ea8588c4bf02408b5da91c">System.Security.Authentication.ExtendedProtection.Configuration.ServiceNameElementCollection</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_asn_encoded_data_collection.html#a6bd3dfdb5573babc933f87df6fa9f225">System.Security.Cryptography.AsnEncodedDataCollection</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2_collection.html#af0d8976785b68b544d31fd9c56c30e12">System.Security.Cryptography.X509Certificates.X509Certificate2Collection</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate_collection.html#a958a116b4f7518e621d50a61ae8795e9">System.Security.Cryptography.X509Certificates.X509CertificateCollection</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_store.html#ab592b3f68a5d32136403cb13af541749">System.Security.Cryptography.X509Certificates.X509Store</a>
 , <a class="el" href="class_system_1_1_security_1_1_permissions_1_1_key_container_permission_access_entry_collection.html#ad2d254d2d67e27382e60cb70cb31c87d">System.Security.Permissions.KeyContainerPermissionAccessEntryCollection</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_application_trust_collection.html#ae3973f505a04a854303e29fa7c25d674">System.Security.Policy.ApplicationTrustCollection</a>
 , <a class="el" href="class_system_1_1_security_1_1_principal_1_1_identity_reference_collection.html#a564d5c84eda3f976696af9160d3af600">System.Security.Principal.IdentityReferenceCollection</a>
 , <a class="el" href="class_system_1_1_string.html#af58e317450c6a7e155c6a204f4f1f661">System.String</a>
 , <a class="el" href="class_system_1_1_text_1_1_string_builder.html#abbfd9dadc95a2eaa508f5676addd8337">System.Text.StringBuilder</a>
-</li>
-<li>remove_TracingStatusChanged()
-: <a class="el" href="interface_windows_1_1_foundation_1_1_diagnostics_1_1_i_async_causality_tracer_statics.html#af861ea4c2f50256057667477e2332438">Windows.Foundation.Diagnostics.IAsyncCausalityTracerStatics</a>
+, <a class="el" href="class_system_1_1_xml_1_1_resolvers_1_1_xml_preloaded_resolver.html#af8e0b7bbeeb33e146491159e5bc831f9">System.Xml.Resolvers.XmlPreloadedResolver</a>
+, <a class="el" href="class_system_1_1_xml_1_1_schema_1_1_xml_schema_object_collection.html#aa4753cde6e7e91201b9b8800187af9cd">System.Xml.Schema.XmlSchemaObjectCollection</a>
+, <a class="el" href="class_system_1_1_xml_1_1_schema_1_1_xml_schema_set.html#a0bf2aa12b0aa701c4752f9373ea56368">System.Xml.Schema.XmlSchemaSet</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_advanced_1_1_schema_importer_extension_collection.html#a6619671766c2e24543e98fd132d99265">System.Xml.Serialization.Advanced.SchemaImporterExtensionCollection</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_code_identifiers.html#ab317e37536708d6c580e06eb006ea038">System.Xml.Serialization.CodeIdentifiers</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extension_element_collection.html#ad27e4a55704a39d3dc30769b008e766c">System.Xml.Serialization.Configuration.SchemaImporterExtensionElementCollection</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_any_element_attributes.html#a44e955cc9a7d1824db868fb48139bef2">System.Xml.Serialization.XmlAnyElementAttributes</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_array_item_attributes.html#a0f3fbf1a8e78be1bccbc1170d7a8af21">System.Xml.Serialization.XmlArrayItemAttributes</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_element_attributes.html#a4329d518c9f10bb7010771d55e6bb17f">System.Xml.Serialization.XmlElementAttributes</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_schemas.html#a091a50e5321a612003d8fe9cea3d3369">System.Xml.Serialization.XmlSchemas</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_attribute_collection.html#a46842117bcc44368007d82df5f505e0c">System.Xml.XmlAttributeCollection</a>
 </li>
 <li>RemoveAccess()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_discretionary_acl.html#abbb99c6c967d9c2a924690cb14cc2e6b">System.Security.AccessControl.DiscretionaryAcl</a>
 </li>
 <li>RemoveAccessRule()
-: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#a54583feca93d29521c06ca5eded7e0db">System.Security.AccessControl.CommonObjectSecurity</a>
+: <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_security.html#a273c8bd3992d84b34b7ee414d6c3e0ad">System.IO.Pipes.PipeSecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#a54583feca93d29521c06ca5eded7e0db">System.Security.AccessControl.CommonObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_crypto_key_security.html#a003f25d9e20fbf4d3b9cea0c8dac3e39">System.Security.AccessControl.CryptoKeySecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_directory_object_security.html#a4366a0c83e79bc4240c645f7d5d471a8">System.Security.AccessControl.DirectoryObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_event_wait_handle_security.html#af7f0442a81c029d81f4dfd2dc93807c8">System.Security.AccessControl.EventWaitHandleSecurity</a>
@@ -697,6 +1025,7 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_mutex_security.html#a3b595c60e77c3cc923a190779c5310b6">System.Security.AccessControl.MutexSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#a950a823219255ccbba626b7b55e24a50">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#a37f56fd8f56243101dd82e7854e0e673">System.Security.AccessControl.RegistrySecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html#a488050be21e246f1e566be409135d0e1">System.Security.AccessControl.SemaphoreSecurity</a>
 </li>
 <li>RemoveAccessRuleAll()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#ae409a9df013ad4e6e1424a18dacb7b9c">System.Security.AccessControl.CommonObjectSecurity</a>
@@ -707,9 +1036,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_mutex_security.html#a20540ae4e86dd5316a2f4e967fd69875">System.Security.AccessControl.MutexSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#aedb4b8fbb7000a13cc0a9b4bab5c434d">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#a78941e60c094f92ec5af8351049c0951">System.Security.AccessControl.RegistrySecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html#a5efa3c200a01e64448e8c9d198b34199">System.Security.AccessControl.SemaphoreSecurity</a>
 </li>
 <li>RemoveAccessRuleSpecific()
-: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#afe2788526e1e85cadeb5718eb5489005">System.Security.AccessControl.CommonObjectSecurity</a>
+: <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_security.html#ab412a77fb0b7f8aacdc9fddfe7418c91">System.IO.Pipes.PipeSecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#afe2788526e1e85cadeb5718eb5489005">System.Security.AccessControl.CommonObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_crypto_key_security.html#ac8096d0f3bc67f63a5912c063bf0f55d">System.Security.AccessControl.CryptoKeySecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_directory_object_security.html#a68886a70d39dd10b34de3a5c0328ee79">System.Security.AccessControl.DirectoryObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_event_wait_handle_security.html#ab1e2d46764e63f3bda8f1266c1b76f8a">System.Security.AccessControl.EventWaitHandleSecurity</a>
@@ -717,6 +1048,7 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_mutex_security.html#a4489195338e6792914956a83e442bfb8">System.Security.AccessControl.MutexSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#a128f719a94d3c7c9608c48acb1539906">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#adaa97037cd1d14861781e4db5a564472">System.Security.AccessControl.RegistrySecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html#a0956567c8977ea5f3ecb7efeeaa9ad91">System.Security.AccessControl.SemaphoreSecurity</a>
 </li>
 <li>RemoveAccessSpecific()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_discretionary_acl.html#a9be0b7d30ef13488ab1b34228341a056">System.Security.AccessControl.DiscretionaryAcl</a>
@@ -727,9 +1059,21 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RemoveAll()
 : <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_list.html#ae1519ac04186fb54f2655a5e4ba54769">System.Collections.Generic.List&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_delegate.html#a6ade87da335744b5ba1ad7ca2c4cb533">System.Delegate</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_attribute_collection.html#a154c9194493b9c7b5b696ef0614b271b">System.Xml.XmlAttributeCollection</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_element.html#ac9dc217783f34430e474024358170a56">System.Xml.XmlElement</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_node.html#adc1b0a3b11eda52165be1e4031f31ab7">System.Xml.XmlNode</a>
+</li>
+<li>RemoveAllAttributes()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_element.html#a3a0f61893acf317aadb2a127893ae760">System.Xml.XmlElement</a>
 </li>
 <li>RemoveAllEventHandlers()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_marshal.html#ad84532aaabfad796b9757af3cb2851d2">System.Runtime.InteropServices.WindowsRuntime.WindowsRuntimeMarshal</a>
+</li>
+<li>RemoveAssociation()
+: <a class="el" href="class_system_1_1_component_model_1_1_type_descriptor.html#a1ca1e23c3be5c6e38990301bf1a4467c">System.ComponentModel.TypeDescriptor</a>
+</li>
+<li>RemoveAssociations()
+: <a class="el" href="class_system_1_1_component_model_1_1_type_descriptor.html#a9ba41129df8c9d709a2bc000f1016d84">System.ComponentModel.TypeDescriptor</a>
 </li>
 <li>RemoveAt()
 : <a class="el" href="struct_system_1_1_array_segment.html#ae95e060192b0d60083d2b4572b5c6174">System.ArraySegment&lt; T &gt;</a>
@@ -737,24 +1081,42 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_collections_1_1_collection_base.html#a3be7d62c685c8a49776a4db4b1b8e234">System.Collections.CollectionBase</a>
 , <a class="el" href="interface_system_1_1_collections_1_1_generic_1_1_i_list.html#a0eae8f09ec67f9bbad0de52427580be8">System.Collections.Generic.IList&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_list.html#ab57ecae29b3e279e27a46767dc1ca836">System.Collections.Generic.List&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_sorted_list.html#a68641fc332b263c444d5f8ddb3c769e3">System.Collections.Generic.SortedList&lt; TKey, TValue &gt;</a>
 , <a class="el" href="interface_system_1_1_collections_1_1_i_list.html#a4e16e31030a66772bb25171e659420f6">System.Collections.IList</a>
 , <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_collection.html#a92fbc143fa4143a23cf1c8aaa22f516b">System.Collections.ObjectModel.Collection&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_collections_1_1_sorted_list.html#aa441814142ce872d53528fc514f23e30">System.Collections.SortedList</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_bindable_vector.html#aee9ebc673165778a9b3c11ad2d45ebec">System.Runtime.InteropServices.WindowsRuntime.IBindableVector</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector.html#a228b7bdc716e4aeeb129dba9b6e8d841">System.Runtime.InteropServices.WindowsRuntime.IVector&lt; T &gt;</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector___raw.html#acd04a4f755aef3dd89c5edd20def18b6">System.Runtime.InteropServices.WindowsRuntime.IVector_Raw&lt; T &gt;</a>
+, <a class="el" href="interface_system_1_1_collections_1_1_specialized_1_1_i_ordered_dictionary.html#aeef5b549fcd64e686c1611275ba3768d">System.Collections.Specialized.IOrderedDictionary</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_ordered_dictionary.html#a48017caba42b5ee7bf5c004923aa127a">System.Collections.Specialized.OrderedDictionary</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_string_collection.html#ac4e13f12637e3289be2bc6db65808862">System.Collections.Specialized.StringCollection</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_event_descriptor_collection.html#ab63c2ccf76b1aadc13ac7a91167f4755">System.ComponentModel.EventDescriptorCollection</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_masked_text_provider.html#aafe718f389ac4ac96d30606499b3e659">System.ComponentModel.MaskedTextProvider</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_property_descriptor_collection.html#a7fc9516fc9b7578cb1a204181ce8997a">System.ComponentModel.PropertyDescriptorCollection</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_trace_listener_collection.html#a5cf02eca33d63a36437489c6017d6874">System.Diagnostics.TraceListenerCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_authentication_module_element_collection.html#ac24d84014cca8df5fbe2f04bb5aa0379">System.Net.Configuration.AuthenticationModuleElementCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_bypass_element_collection.html#a7aa76947c240975eda6fe8a34103b31d">System.Net.Configuration.BypassElementCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_connection_management_element_collection.html#aa81bc4ae5c548989482ec0d598f2f676">System.Net.Configuration.ConnectionManagementElementCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_web_request_module_element_collection.html#a5c677f62571ca83ee02e439374e8815b">System.Net.Configuration.WebRequestModuleElementCollection</a>
+, <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a079e29834e844136f8964df0b23ddf42">System.Runtime.CompilerServices.ReadOnlyCollectionBuilder&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_service_name_element_collection.html#a75474690525b35c86eaf7afba691c532">System.Security.Authentication.ExtendedProtection.Configuration.ServiceNameElementCollection</a>
 , <a class="el" href="class_system_1_1_security_1_1_secure_string.html#a9ddf17db557546d34a2c5de84f137ff1">System.Security.SecureString</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extension_element_collection.html#a6c45b3bfd95d97f567882bd27644589e">System.Xml.Serialization.Configuration.SchemaImporterExtensionElementCollection</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_attribute_collection.html#a1109b25b2f6b688182d1075b15c752f7">System.Xml.XmlAttributeCollection</a>
 </li>
-<li>RemoveAtEnd()
-: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_bindable_vector.html#a6f5952564dfe703317f7d5e61dfa6787">System.Runtime.InteropServices.WindowsRuntime.IBindableVector</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector.html#a0b0e818e83bb9714cc3d8e8fdfeb62d5">System.Runtime.InteropServices.WindowsRuntime.IVector&lt; T &gt;</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector___raw.html#a87c17f3bf7cedf526214c19726be2863">System.Runtime.InteropServices.WindowsRuntime.IVector_Raw&lt; T &gt;</a>
+<li>RemoveAttribute()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_element.html#aacdf93a3d2b7b7b897157dec951161cc">System.Xml.XmlElement</a>
+</li>
+<li>RemoveAttributeAt()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_element.html#a72d585f65b8acd09d768ae7930d3953a">System.Xml.XmlElement</a>
+</li>
+<li>RemoveAttributeNode()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_element.html#a7d45d69a3c2d08e8bd83c6bd50928eb5">System.Xml.XmlElement</a>
 </li>
 <li>RemoveAudit()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_system_acl.html#a85cce7d86952dae0905f885b07928f4d">System.Security.AccessControl.SystemAcl</a>
 </li>
 <li>RemoveAuditRule()
-: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#ad7993bc33596ff3734767f4b57d1ea3f">System.Security.AccessControl.CommonObjectSecurity</a>
+: <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_security.html#a615f003fea4f3f1aa8d041f7a598af3e">System.IO.Pipes.PipeSecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#ad7993bc33596ff3734767f4b57d1ea3f">System.Security.AccessControl.CommonObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_crypto_key_security.html#a4fc2a4d709c93e7b7b9bafc555487e55">System.Security.AccessControl.CryptoKeySecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_directory_object_security.html#a75a18c5e67d72a4c363c1dea373a9bc3">System.Security.AccessControl.DirectoryObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_event_wait_handle_security.html#a900826a84b8ca4502a5ce4e6bdcee3c6">System.Security.AccessControl.EventWaitHandleSecurity</a>
@@ -762,9 +1124,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_mutex_security.html#a541ae1ef6e8615f770d8ad141437e0ce">System.Security.AccessControl.MutexSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#a3ca332195dccd75cddda5ace41277026">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#a63c1359e5e77c948c9085b43bfb1becc">System.Security.AccessControl.RegistrySecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html#ae0d1d9c1d089b9048208045f576e5bc4">System.Security.AccessControl.SemaphoreSecurity</a>
 </li>
 <li>RemoveAuditRuleAll()
-: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#adba8f349ce824f0bbdc35b568289b0f1">System.Security.AccessControl.CommonObjectSecurity</a>
+: <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_security.html#a4def67efcd9138a1ea6d7a9d415fc7e0">System.IO.Pipes.PipeSecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#adba8f349ce824f0bbdc35b568289b0f1">System.Security.AccessControl.CommonObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_crypto_key_security.html#a39d5a7d30d3225335b1110c2f420822e">System.Security.AccessControl.CryptoKeySecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_directory_object_security.html#a7b1c7950f8bec825a342699404509e2b">System.Security.AccessControl.DirectoryObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_event_wait_handle_security.html#a95e93b3e4cd7ea087397d5035df9d527">System.Security.AccessControl.EventWaitHandleSecurity</a>
@@ -772,9 +1136,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_mutex_security.html#a3958f2eb65fc2444e85a0b513875e989">System.Security.AccessControl.MutexSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#a46859a5bd384bff46f496571509d7790">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#a4f3863d3ed57776d6715d18372579ce9">System.Security.AccessControl.RegistrySecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html#af4cc1970e36e31f6ccd4f335466c54a2">System.Security.AccessControl.SemaphoreSecurity</a>
 </li>
 <li>RemoveAuditRuleSpecific()
-: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#a912fe2306a9f784865a8bf1b84267f95">System.Security.AccessControl.CommonObjectSecurity</a>
+: <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_security.html#a0f7ce4bfa54e0a9b2d472859fedac62d">System.IO.Pipes.PipeSecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#a912fe2306a9f784865a8bf1b84267f95">System.Security.AccessControl.CommonObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_crypto_key_security.html#ae7e26724a8b946061b59327f06001a26">System.Security.AccessControl.CryptoKeySecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_directory_object_security.html#a4d231d39a89cc0a2b497c1e9ecf9b0e4">System.Security.AccessControl.DirectoryObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_event_wait_handle_security.html#a5ad85a018303d14a80cde6be7a857e2f">System.Security.AccessControl.EventWaitHandleSecurity</a>
@@ -782,218 +1148,314 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_mutex_security.html#a3493bd156d0cc74410c808428d84d6c3">System.Security.AccessControl.MutexSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#aad28a43584297313ccd5ad052cd0499b">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#a2064a5c2d1908c6265b3722c83c0f84c">System.Security.AccessControl.RegistrySecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html#adce5252f2fad7990d6c6e9993500fc54">System.Security.AccessControl.SemaphoreSecurity</a>
 </li>
 <li>RemoveAuditSpecific()
-: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_system_acl.html#a1b62ce99053ed2c472ded5fb5fbdacb3">System.Security.AccessControl.SystemAcl</a>
+: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_system_acl.html#a8200bf2835b893f5e35cf6a02bd4e7d1">System.Security.AccessControl.SystemAcl</a>
 </li>
 <li>RemoveChild()
 : <a class="el" href="class_system_1_1_security_1_1_policy_1_1_code_group.html#a4e476b8ca0b34e2c119d11516108c8fb">System.Security.Policy.CodeGroup</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_attribute.html#aef1e235bf3f0fe53969c6a5a7c7a5b65">System.Xml.XmlAttribute</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_node.html#ac28b347dbffd35e6fb31e34537af4a90">System.Xml.XmlNode</a>
 </li>
 <li>RemoveClaim()
 : <a class="el" href="class_system_1_1_security_1_1_claims_1_1_claims_identity.html#a4704f0b9c5f13dbe3f1c50779c5c7ce4">System.Security.Claims.ClaimsIdentity</a>
 </li>
-<li>RemoveEtwSession()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_etw_session.html#ae5667259949ed01d92b7aee0a8599e83">System.Diagnostics.Tracing.EtwSession</a>
+<li>RemoveCommand()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_i_menu_command_service.html#a4800a5b07dcb973505355aa98c422b35">System.ComponentModel.Design.IMenuCommandService</a>
+</li>
+<li>RemoveContextAttribute()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_i_help_service.html#a6c5cf2ec9bb18b09004d2f4fc4bda05b">System.ComponentModel.Design.IHelpService</a>
 </li>
 <li>RemoveEventHandler()
-: <a class="el" href="class_system_1_1_reflection_1_1_event_info.html#a580d07c217d71c28e3b70407df7fbe96">System.Reflection.EventInfo</a>
+: <a class="el" href="class_system_1_1_component_model_1_1_event_descriptor.html#a21f98d301506e4ecb4d2d46d0fc044cb">System.ComponentModel.EventDescriptor</a>
+, <a class="el" href="class_system_1_1_reflection_1_1_event_info.html#a580d07c217d71c28e3b70407df7fbe96">System.Reflection.EventInfo</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1___event_info.html#a050fbdbf618f012fb546faef8b4dec05">System.Runtime.InteropServices._EventInfo</a>
+, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_com_aware_event_info.html#a0aba11d6dde883e0a88357f77465f18f">System.Runtime.InteropServices.ComAwareEventInfo</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_event_registration_token_table.html#aaf1dc7adf0df904c1b144b53600a7055">System.Runtime.InteropServices.WindowsRuntime.EventRegistrationTokenTable&lt; T &gt;</a>
 </li>
 <li>RemoveEventHandler&lt; T &gt;()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_marshal.html#a15803aacfb308cb06fdafb4bf36941ca">System.Runtime.InteropServices.WindowsRuntime.WindowsRuntimeMarshal</a>
 </li>
+<li>RemoveExtenderProvider()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_i_extender_provider_service.html#ac4e77b727b7b475ad5018be921be218d">System.ComponentModel.Design.IExtenderProviderService</a>
+</li>
+<li>RemoveExtensionObject()
+: <a class="el" href="class_system_1_1_xml_1_1_xsl_1_1_xslt_argument_list.html#a0e63cbf8714978d5b78ceb053071ad21">System.Xml.Xsl.XsltArgumentList</a>
+</li>
+<li>RemoveFilter()
+: <a class="el" href="interface_system_1_1_component_model_1_1_i_binding_list_view.html#a3d40e63b314064b3d680d8f9c21d405f">System.ComponentModel.IBindingListView</a>
+</li>
+<li>RemoveFirst()
+: <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_linked_list.html#a8c7226aabd9ef84e36a4a79be28b96cd">System.Collections.Generic.LinkedList&lt; T &gt;</a>
+</li>
 <li>RemoveFullTrustAssembly()
 : <a class="el" href="class_system_1_1_security_1_1_policy_1_1_policy_level.html#a95de9d8568442bf68b614256df0d77ee">System.Security.Policy.PolicyLevel</a>
+</li>
+<li>RemoveHandler()
+: <a class="el" href="class_system_1_1_component_model_1_1_event_handler_list.html#a15e29c82eb3abf216a19f067ecadd2d1">System.ComponentModel.EventHandlerList</a>
 </li>
 <li>RemoveImpl()
 : <a class="el" href="class_system_1_1_delegate.html#ad84955de6291f65c8a59471b18cfcddd">System.Delegate</a>
 , <a class="el" href="class_system_1_1_multicast_delegate.html#a3fecf95c4052ce308b1277a5b8178cff">System.MulticastDelegate</a>
 </li>
+<li>RemoveIndex()
+: <a class="el" href="interface_system_1_1_component_model_1_1_i_binding_list.html#ae6ad9c2ef042f601fc5b01fcc38f4f9d">System.ComponentModel.IBindingList</a>
+</li>
 <li>RemoveInheritedAces()
 : <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_acl.html#a9588d9e9160e12d75fc0a0f233d39c09">System.Security.AccessControl.CommonAcl</a>
+</li>
+<li>RemoveInstance()
+: <a class="el" href="class_system_1_1_diagnostics_1_1_performance_counter.html#a99f1b2fa851b00a01851ee81d857b97a">System.Diagnostics.PerformanceCounter</a>
 </li>
 <li>RemoveItem()
 : <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_collection.html#a9d92b14387fba1bfa72fdee2a6628391">System.Collections.ObjectModel.Collection&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_keyed_collection.html#ab368a26f988c01e97c451488b726077d">System.Collections.ObjectModel.KeyedCollection&lt; TKey, TItem &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_object_model_1_1_observable_collection.html#a1b5ac98a81dbb8bde1a153228458412c">System.Collections.ObjectModel.ObservableCollection&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_binding_list.html#a532fb133cc1cd0c61df8c1fd3a770f8c">System.ComponentModel.BindingList&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_net_1_1_mail_1_1_alternate_view_collection.html#a4ee35ff740b7a511c6a797dea5b3fbf2">System.Net.Mail.AlternateViewCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_mail_1_1_attachment_collection.html#ae57b761639eac5bc4d2aa074be967818">System.Net.Mail.AttachmentCollection</a>
+, <a class="el" href="class_system_1_1_net_1_1_mail_1_1_linked_resource_collection.html#a059f31491b591eb4e0125f32fd9d9de4">System.Net.Mail.LinkedResourceCollection</a>
 </li>
-<li>RemoveLeadingInQuoteSpaces()
-: <a class="el" href="struct_system_1_1_____d_t_string.html#a838e26605a9cd404cbceaa196da8d3dd">System.__DTString</a>
+<li>RemoveLast()
+: <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_linked_list.html#a32c890caca58b8ee1c56375b5fd54f60">System.Collections.Generic.LinkedList&lt; T &gt;</a>
+</li>
+<li>RemoveLocalContext()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_i_help_service.html#a93ae6d5447a9d3ca89ad39e80065d86a">System.ComponentModel.Design.IHelpService</a>
 </li>
 <li>RemoveMember()
-: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_expando.html#aa1ecddc618fb1dde88d8185d6e032588">System.Runtime.InteropServices.ComTypes.IExpando</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_expando_1_1_i_expando.html#aa2331b5dc9a89f864276e690d5469365">System.Runtime.InteropServices.Expando.IExpando</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_expando.html#a901c8290e5cc1c4c3e973a2776242fd3">System.Runtime.InteropServices.UCOMIExpando</a>
+: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_expando_1_1_i_expando.html#aa2331b5dc9a89f864276e690d5469365">System.Runtime.InteropServices.Expando.IExpando</a>
 </li>
 <li>RemoveMemoryPressure()
 : <a class="el" href="class_system_1_1_g_c.html#a7794e463b4ef55132e32e3b47d197dc9">System.GC</a>
 </li>
-<li>RemoveMethod()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_com_events_sink.html#a47be925d936746437a22ab72ba4331a9">System.Runtime.InteropServices.ComEventsSink</a>
+<li>RemoveNamedItem()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_named_node_map.html#a8d84ee9cc6187994eff997fcf42a83f6">System.Xml.XmlNamedNodeMap</a>
 </li>
 <li>RemoveNamedPermissionSet()
-: <a class="el" href="class_system_1_1_security_1_1_policy_1_1_policy_level.html#a82b4f0b7537ccf39f114476871539abb">System.Security.Policy.PolicyLevel</a>
+: <a class="el" href="class_system_1_1_security_1_1_policy_1_1_policy_level.html#a8b724f661a8e20d4f1caadf32b711c64">System.Security.Policy.PolicyLevel</a>
 </li>
-<li>RemoveOnLogMessage()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_log.html#aa507685283c577fd16737cf4eedf6d67">System.Diagnostics.Log</a>
+<li>RemoveNamespace()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_namespace_manager.html#ae252ce31447117883997a11e0b7588d0">System.Xml.XmlNamespaceManager</a>
 </li>
-<li>RemoveOnLogSwitchLevel()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_log.html#ac272cc67eb270982404ea793096c6643">System.Diagnostics.Log</a>
+<li>RemoveParam()
+: <a class="el" href="class_system_1_1_xml_1_1_xsl_1_1_xslt_argument_list.html#ab3b71204fb2a7d9baac6ef0a47c18730">System.Xml.Xsl.XsltArgumentList</a>
+</li>
+<li>RemoveParticipant()
+: <a class="el" href="class_system_1_1_threading_1_1_barrier.html#a055cd61c14aa4ee444387888292d2a88">System.Threading.Barrier</a>
+</li>
+<li>RemoveParticipants()
+: <a class="el" href="class_system_1_1_threading_1_1_barrier.html#a6b36264247ec6fdf5fe459c93b1de28c">System.Threading.Barrier</a>
 </li>
 <li>RemovePermission()
 : <a class="el" href="class_system_1_1_security_1_1_permission_set.html#af721c3e66796c7c998a77ebc3fd8d6ec">System.Security.PermissionSet</a>
+</li>
+<li>RemovePermissionAccess()
+: <a class="el" href="class_system_1_1_security_1_1_permissions_1_1_resource_permission_base.html#ad5f3cb7ecdede49f90df0a86e77e17ad">System.Security.Permissions.ResourcePermissionBase</a>
 </li>
 <li>RemovePermissionImpl()
 : <a class="el" href="class_system_1_1_security_1_1_permission_set.html#a0456971cffeb09d6678f73d098618bc2">System.Security.PermissionSet</a>
 , <a class="el" href="class_system_1_1_security_1_1_read_only_permission_set.html#a086583475d18a69425c2afb0007d4f23">System.Security.ReadOnlyPermissionSet</a>
 </li>
+<li>RemoveProvider()
+: <a class="el" href="class_system_1_1_component_model_1_1_type_descriptor.html#a06b493f681fc4b5d6030b32fd1308ae7">System.ComponentModel.TypeDescriptor</a>
+</li>
+<li>RemoveProviderTransparent()
+: <a class="el" href="class_system_1_1_component_model_1_1_type_descriptor.html#a9001470d73bf61c44fe7ee090744cb38">System.ComponentModel.TypeDescriptor</a>
+</li>
 <li>RemoveRange()
 : <a class="el" href="class_system_1_1_collections_1_1_array_list.html#a88844e7aa7f7336de7b3718189693208">System.Collections.ArrayList</a>
 , <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_list.html#ac74899e17944f43a5aabe1ef70f772f9">System.Collections.Generic.List&lt; T &gt;</a>
-, <a class="el" href="class_system_1_1_security_1_1_policy_1_1_application_trust_collection.html#a34f98ad22ac575f670c686defb2e234b">System.Security.Policy.ApplicationTrustCollection</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2_collection.html#a4557b63deb812c0fbed6c2e0f56ea49f">System.Security.Cryptography.X509Certificates.X509Certificate2Collection</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_store.html#aa1fc3b4681c1dcba1d0dc2ed6072b637">System.Security.Cryptography.X509Certificates.X509Store</a>
+, <a class="el" href="class_system_1_1_security_1_1_policy_1_1_application_trust_collection.html#a7f426cb66df62d4bb7689618795a5bac">System.Security.Policy.ApplicationTrustCollection</a>
+</li>
+<li>RemoveRecursive()
+: <a class="el" href="class_system_1_1_xml_1_1_schema_1_1_xml_schema_set.html#a6059d03d206c251ad4ae70140376bbbb">System.Xml.Schema.XmlSchemaSet</a>
+</li>
+<li>RemoveReserved()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_code_identifiers.html#a3a814275f4d52162688f6598e19da78b">System.Xml.Serialization.CodeIdentifiers</a>
+</li>
+<li>RemoveSerializationProvider()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_serialization_manager.html#a5a1240b304bf01719e6218b2461af86c">System.ComponentModel.Design.Serialization.IDesignerSerializationManager</a>
+</li>
+<li>RemoveService()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_i_service_container.html#a13355b7b4726c1ecbf3f3cfdb70b990d">System.ComponentModel.Design.IServiceContainer</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_design_1_1_service_container.html#a75466feb6b41c3a978033bd5f465633b">System.ComponentModel.Design.ServiceContainer</a>
+</li>
+<li>RemoveSort()
+: <a class="el" href="interface_system_1_1_component_model_1_1_i_binding_list.html#aeed808fd71b6eaa0e5be5123caf979b1">System.ComponentModel.IBindingList</a>
+</li>
+<li>RemoveSortCore()
+: <a class="el" href="class_system_1_1_component_model_1_1_binding_list.html#a4281fa19e938bc9f66935e52963d2666">System.ComponentModel.BindingList&lt; T &gt;</a>
 </li>
 <li>RemoveSurrogate()
 : <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_surrogate_selector.html#a1ea06bfda541baf4b6a773ad4c509dff">System.Runtime.Serialization.SurrogateSelector</a>
 </li>
-<li>RemoveTrailingInQuoteSpaces()
-: <a class="el" href="struct_system_1_1_____d_t_string.html#ab7c5aae5ee28243475c9301068a702ad">System.__DTString</a>
-</li>
 <li>RemoveType()
 : <a class="el" href="class_system_1_1_security_1_1_policy_1_1_evidence.html#a1259c76fd47974f68136c901e697b707">System.Security.Policy.Evidence</a>
 </li>
+<li>RemoveValueChanged()
+: <a class="el" href="class_system_1_1_component_model_1_1_property_descriptor.html#a6f3a10a33b5157aa129a9b9f35745ebe">System.ComponentModel.PropertyDescriptor</a>
+</li>
+<li>RemoveVerb()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_i_menu_command_service.html#a6b3e08cd852850cb9af14d112200604f">System.ComponentModel.Design.IMenuCommandService</a>
+</li>
+<li>RemoveWhere()
+: <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_hash_set.html#a8ecc2272e0f29f236ef2b36f31b91540">System.Collections.Generic.HashSet&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_sorted_set.html#a08a196db312f61d18a6410a2532562c1">System.Collections.Generic.SortedSet&lt; T &gt;</a>
+</li>
+<li>RemoveWithoutUnsiting()
+: <a class="el" href="class_system_1_1_component_model_1_1_container.html#a84b9c312b400f00d46e972eadd968edc">System.ComponentModel.Container</a>
+</li>
+<li>RenamedEventArgs()
+: <a class="el" href="class_system_1_1_i_o_1_1_renamed_event_args.html#a57af781a390ff0386edd04b1610f137d">System.IO.RenamedEventArgs</a>
+</li>
 <li>Renew()
 : <a class="el" href="interface_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_i_lease.html#a59eed0257dae96daad27a5bb05141ab8">System.Runtime.Remoting.Lifetime.ILease</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_lease.html#a3a8658cd099965df39b8401e72ba37c3">System.Runtime.Remoting.Lifetime.Lease</a>
 </li>
 <li>Renewal()
 : <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_client_sponsor.html#aba00d6676f40758aae230050e1aa1b1a">System.Runtime.Remoting.Lifetime.ClientSponsor</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_i_sponsor.html#a60c8da9222e345fa2a373327116ea021">System.Runtime.Remoting.Lifetime.ISponsor</a>
 </li>
 <li>ReorderArgumentArray()
-: <a class="el" href="class_system_1_1_default_binder.html#aa1e58f94182e65a4b4207dfbd27e94d7">System.DefaultBinder</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_binder.html#a6b80ab43013e035fe83cd22e0e53d723">System.Reflection.Binder</a>
+: <a class="el" href="class_system_1_1_reflection_1_1_binder.html#a6b80ab43013e035fe83cd22e0e53d723">System.Reflection.Binder</a>
 </li>
 <li>Repeat()
 : <a class="el" href="class_system_1_1_collections_1_1_array_list.html#a8ba08498179988c8e084b125e74053e0">System.Collections.ArrayList</a>
 </li>
+<li>Repeat&lt; TResult &gt;()
+: <a class="el" href="class_system_1_1_linq_1_1_enumerable.html#a7d3985686f42bcfce08b4392b810c6d4">System.Linq.Enumerable</a>
+, <a class="el" href="class_system_1_1_linq_1_1_parallel_enumerable.html#ac04f15ffe88cee94544f0bc06110ee49">System.Linq.ParallelEnumerable</a>
+</li>
 <li>Replace()
-: <a class="el" href="class_system_1_1_i_o_1_1_file.html#ae8d7ee809831f95b47c80dad69ec7fe6">System.IO.File</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_file_info.html#a4f84a09f91ddeca271b38058392423e2">System.IO.FileInfo</a>
+: <a class="el" href="class_system_1_1_component_model_1_1_masked_text_provider.html#a3623a00821aeaa420ce6d00a6accf794">System.ComponentModel.MaskedTextProvider</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_file.html#ae8d7ee809831f95b47c80dad69ec7fe6">System.IO.File</a>
+, <a class="el" href="class_system_1_1_i_o_1_1_file_info.html#a1ee10249729389fb1087582de9a42663">System.IO.FileInfo</a>
 , <a class="el" href="class_system_1_1_string.html#a8c18935283e9e4d5aa187dbc2bb6f9fa">System.String</a>
-, <a class="el" href="class_system_1_1_text_1_1_string_builder.html#aba9ddbc7c586708cbd587d7832332c24">System.Text.StringBuilder</a>
+, <a class="el" href="class_system_1_1_text_1_1_regular_expressions_1_1_regex.html#a299699823733d1b9674de5210fe10564">System.Text.RegularExpressions.Regex</a>
+, <a class="el" href="class_system_1_1_text_1_1_string_builder.html#a8285ba310a8583145176689e1c31a0b7">System.Text.StringBuilder</a>
 </li>
-<li>ReplaceAll()
-: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector.html#acda6eac1a465923ebf21abf469768fd2">System.Runtime.InteropServices.WindowsRuntime.IVector&lt; T &gt;</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_vector___raw.html#a186ff1d34afc74554f3192768cbfe839">System.Runtime.InteropServices.WindowsRuntime.IVector_Raw&lt; T &gt;</a>
+<li>ReplaceChild()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_attribute.html#a051e75e384c010f1bb9cbcf03e85f457">System.Xml.XmlAttribute</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_node.html#a634d7d415ced09000a72ad5271a3d68c">System.Xml.XmlNode</a>
 </li>
-<li>ReplaceStringMacros()
-: <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_act_context.html#a555c7214e38c7ad031b5d83769a88ba7">System.Deployment.Internal.Isolation.IActContext</a>
+<li>ReplaceData()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_character_data.html#ad8e17e4f73908c8a7c932e26cf2fff2a">System.Xml.XmlCharacterData</a>
+</li>
+<li>ReplaceRange()
+: <a class="el" href="class_system_1_1_xml_1_1_x_path_1_1_x_path_navigator.html#a331454e72b655fccf7ba72f8b09b390f">System.Xml.XPath.XPathNavigator</a>
+</li>
+<li>ReplaceSelf()
+: <a class="el" href="class_system_1_1_xml_1_1_x_path_1_1_x_path_navigator.html#ab23d6ef2fc37ac9668bf5b281db84043">System.Xml.XPath.XPathNavigator</a>
 </li>
 <li>Report()
 : <a class="el" href="interface_system_1_1_i_progress.html#a5ddfc2ac025b1df2dfe8b6d6c0cfd5cc">System.IProgress&lt; in in T &gt;</a>
 </li>
+<li>ReportError()
+: <a class="el" href="interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_serialization_manager.html#aa99058280fd40c984e30aeea07e229d6">System.ComponentModel.Design.Serialization.IDesignerSerializationManager</a>
+</li>
 <li>ReportEvent()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_importer_callback.html#a3e63bd37f8c52104652c8ec48bf82555">System.Runtime.InteropServices.ImporterCallback</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_i_type_lib_exporter_notify_sink.html#a0e11d429507eae21c0db59c17f30e624">System.Runtime.InteropServices.ITypeLibExporterNotifySink</a>
+: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_i_type_lib_exporter_notify_sink.html#a0e11d429507eae21c0db59c17f30e624">System.Runtime.InteropServices.ITypeLibExporterNotifySink</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_i_type_lib_importer_notify_sink.html#a0ce412acd1e362fb96bfad4df4f7eb2a">System.Runtime.InteropServices.ITypeLibImporterNotifySink</a>
+</li>
+<li>ReportProgress()
+: <a class="el" href="class_system_1_1_component_model_1_1_background_worker.html#a5e55d6b8da7188fa695e2d5a559da268">System.ComponentModel.BackgroundWorker</a>
+</li>
+<li>Reprocess()
+: <a class="el" href="class_system_1_1_xml_1_1_schema_1_1_xml_schema_set.html#a24c7194989ecaa03e393bbd50bf20922">System.Xml.Schema.XmlSchemaSet</a>
+</li>
+<li>RequestCachePolicy()
+: <a class="el" href="class_system_1_1_net_1_1_cache_1_1_request_cache_policy.html#aa4dcfaa6a93acaac35e65d62c2a3cb96">System.Net.Cache.RequestCachePolicy</a>
+</li>
+<li>RequestCachingSection()
+: <a class="el" href="class_system_1_1_net_1_1_configuration_1_1_request_caching_section.html#aad5a1b2798a22ddebe7abfa104b4a8b5">System.Net.Configuration.RequestCachingSection</a>
 </li>
 <li>RequiredAttributeAttribute()
 : <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_required_attribute_attribute.html#a63159c607e8e51daa09c3da1d474b6de">System.Runtime.CompilerServices.RequiredAttributeAttribute</a>
 </li>
 <li>Requires()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_contracts_1_1_contract.html#a18e280e135c1ead93f7b77d9279339cf">System.Diagnostics.Contracts.Contract</a>
+: <a class="el" href="class_system_1_1_diagnostics_1_1_contracts_1_1_contract.html#a38280ede3fa66414cec9ebe2075c08c6">System.Diagnostics.Contracts.Contract</a>
 </li>
 <li>Requires&lt; TException &gt;()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_contracts_1_1_contract.html#ae910b49e3848d66948324bd1d26eb773">System.Diagnostics.Contracts.Contract</a>
+: <a class="el" href="class_system_1_1_diagnostics_1_1_contracts_1_1_contract.html#ab4ca3496470c5b553780da48fc37d8c4">System.Diagnostics.Contracts.Contract</a>
 </li>
 <li>ReRegisterForFinalize()
 : <a class="el" href="class_system_1_1_g_c.html#adf5c9a8b2aaf3f68dfda2f92da9b285a">System.GC</a>
 </li>
 <li>Reset()
-: <a class="el" href="interface_microsoft_1_1_win32_1_1_i_assembly_enum.html#a3fa03aa2a3fac081564a0b329ccc4f3b">Microsoft.Win32.IAssemblyEnum</a>
-, <a class="el" href="class_system_1_1_char_enumerator.html#a89778f30aeb196cd6b61d2d45a1a495f">System.CharEnumerator</a>
+: <a class="el" href="class_system_1_1_char_enumerator.html#a89778f30aeb196cd6b61d2d45a1a495f">System.CharEnumerator</a>
 , <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_enumerator.html#a6650f9da4064f29eca72b93d6e70993d">System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.Enumerator</a>
 , <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_key_collection_1_1_enumerator.html#ac8a32725d38e573f9c3b0e08c22b8463">System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.KeyCollection.Enumerator</a>
 , <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_value_collection_1_1_enumerator.html#ab787caaf85174c53f79654e3cf85dff3">System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.ValueCollection.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_hash_set_1_1_enumerator.html#a4209f463daad745695dc51f7be509161">System.Collections.Generic.HashSet&lt; T &gt;.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_linked_list_1_1_enumerator.html#a0fcee54ad8079c734af90ee30550ad79">System.Collections.Generic.LinkedList&lt; T &gt;.Enumerator</a>
 , <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_list_1_1_enumerator.html#ad16996407a444d2d13c29ea7a9886e83">System.Collections.Generic.List&lt; T &gt;.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_queue_1_1_enumerator.html#ab9c8ccb5c22c41213580f7464dca5c13">System.Collections.Generic.Queue&lt; T &gt;.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_sorted_dictionary_1_1_enumerator.html#aabd6a93c91d3feb4ac0ce059accbf7f0">System.Collections.Generic.SortedDictionary&lt; TKey, TValue &gt;.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_sorted_dictionary_1_1_key_collection_1_1_enumerator.html#a7945ba8e7a2b8c2d506108b18cfea1d3">System.Collections.Generic.SortedDictionary&lt; TKey, TValue &gt;.KeyCollection.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_sorted_dictionary_1_1_value_collection_1_1_enumerator.html#aa8b460ddecb97a9fbc4e93902b53d8a8">System.Collections.Generic.SortedDictionary&lt; TKey, TValue &gt;.ValueCollection.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_sorted_set_1_1_enumerator.html#aca4be97511213efba6bdf1b82878c49c">System.Collections.Generic.SortedSet&lt; T &gt;.Enumerator</a>
+, <a class="el" href="struct_system_1_1_collections_1_1_generic_1_1_stack_1_1_enumerator.html#a2725a8e432b3e8a5836511c1fc002083">System.Collections.Generic.Stack&lt; T &gt;.Enumerator</a>
 , <a class="el" href="interface_system_1_1_collections_1_1_i_enumerator.html#a787022ce7c6cd2c9d0020a48bed79a9b">System.Collections.IEnumerator</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_definition_identity.html#a8df79596a2d460877d53d4b6008cf07f">System.Deployment.Internal.Isolation.IEnumDefinitionIdentity</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_i_d_e_n_t_i_t_y___a_t_t_r_i_b_u_t_e.html#a4db70318ddf51cf852a6206cabd7dbae">System.Deployment.Internal.Isolation.IEnumIDENTITY_ATTRIBUTE</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_reference_identity.html#aa45ca98038f8ea4229143ef98712f8cb">System.Deployment.Internal.Isolation.IEnumReferenceIdentity</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___a_s_s_e_m_b_l_y.html#aa79a62176295f90ab1382126bd5d25ff">System.Deployment.Internal.Isolation.IEnumSTORE_ASSEMBLY</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___a_s_s_e_m_b_l_y___f_i_l_e.html#aad5c80be412a67b4902a77a05097a87b">System.Deployment.Internal.Isolation.IEnumSTORE_ASSEMBLY_FILE</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___a_s_s_e_m_b_l_4c765da971345ae051ff2207211c90f0.html#abe14342807a80ebd761eee204d2d01d0">System.Deployment.Internal.Isolation.IEnumSTORE_ASSEMBLY_INSTALLATION_REFERENCE</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___c_a_t_e_g_o_r_y.html#a43f642c840542a2903cb9b3153b64d20">System.Deployment.Internal.Isolation.IEnumSTORE_CATEGORY</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___c_a_t_e_g_o_r_y___i_n_s_t_a_n_c_e.html#aa46807d97bd744ad0b75ba8530ed622c">System.Deployment.Internal.Isolation.IEnumSTORE_CATEGORY_INSTANCE</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___c_a_t_e_g_o_r_y___s_u_b_c_a_t_e_g_o_r_y.html#a5e3cee721b0a2a337c329210fa79c440">System.Deployment.Internal.Isolation.IEnumSTORE_CATEGORY_SUBCATEGORY</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___d_e_p_l_o_y_m_e_n_t___m_e_t_a_d_a_t_a.html#a3f073a772266cb16fbae772adbfeb415">System.Deployment.Internal.Isolation.IEnumSTORE_DEPLOYMENT_METADATA</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_s_t_o_r_e___d_e_p_l_o_y_m_48751da2bd0d2914acee70e9e2f4e57c.html#a8a66961098e5fc8e10b9b272a59d63e5">System.Deployment.Internal.Isolation.IEnumSTORE_DEPLOYMENT_METADATA_PROPERTY</a>
-, <a class="el" href="interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_i_enum_unknown.html#aa726f5df584149bf88a585ba99dfef8c">System.Deployment.Internal.Isolation.IEnumUnknown</a>
-, <a class="el" href="class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_assembly_enumeration.html#a7adeaf59b4abb10dd06253f4aebba694">System.Deployment.Internal.Isolation.StoreAssemblyEnumeration</a>
-, <a class="el" href="class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_assembly_file_enumeration.html#a7857e0f8de7bca78f908503af1d5ab5e">System.Deployment.Internal.Isolation.StoreAssemblyFileEnumeration</a>
-, <a class="el" href="class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_category_enumeration.html#a9411a3fe92f98d9945167a432fdd95de">System.Deployment.Internal.Isolation.StoreCategoryEnumeration</a>
-, <a class="el" href="class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_category_instance_enumeration.html#a3e11ebb2a3b04b86d1d86f6d7cb06e5d">System.Deployment.Internal.Isolation.StoreCategoryInstanceEnumeration</a>
-, <a class="el" href="class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_deployment_metadata_enumeration.html#ad148bab6445faa3e664e166c1e8bad6d">System.Deployment.Internal.Isolation.StoreDeploymentMetadataEnumeration</a>
-, <a class="el" href="class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_deployment_metadata_property_enumeration.html#ab0bde1ee20fc54d7876b5282ab8ed30f">System.Deployment.Internal.Isolation.StoreDeploymentMetadataPropertyEnumeration</a>
-, <a class="el" href="class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_subcategory_enumeration.html#afa3965e5fc5b6b5b6f77d9ca65b207d1">System.Deployment.Internal.Isolation.StoreSubcategoryEnumeration</a>
+, <a class="el" href="class_system_1_1_collections_1_1_specialized_1_1_string_enumerator.html#a877a128551752777eea716644d2173e0">System.Collections.Specialized.StringEnumerator</a>
+, <a class="el" href="class_system_1_1_configuration_1_1_application_settings_base.html#a94243bec6a352e183417c4c5737cb73f">System.Configuration.ApplicationSettingsBase</a>
+, <a class="el" href="interface_system_1_1_configuration_1_1_i_application_settings_provider.html#a73814126a1637a4d9a8aacdde20e01b4">System.Configuration.IApplicationSettingsProvider</a>
+, <a class="el" href="class_system_1_1_configuration_1_1_local_file_settings_provider.html#a554438b0756c3c40f1075b78416b6f1e">System.Configuration.LocalFileSettingsProvider</a>
+, <a class="el" href="class_system_1_1_diagnostics_1_1_stopwatch.html#ad81ded8799f77c8cbbcdc08a2502bffc">System.Diagnostics.Stopwatch</a>
 , <a class="el" href="class_system_1_1_globalization_1_1_text_element_enumerator.html#a3035cdeb81b8f96aef88ea3a843a7f61">System.Globalization.TextElementEnumerator</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_file_enumerator.html#a8e032c91f21001bae9c7380422139198">System.IO.IsolatedStorage.IsolatedStorageFileEnumerator</a>
-, <a class="el" href="class_system_1_1_i_o_1_1_isolated_storage_1_1_two_level_file_enumerator.html#aa6cabb709331d137264e0e9f804eec8b">System.IO.IsolatedStorage.TwoLevelFileEnumerator</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enum_connection_points.html#a332f1b9fd2a40089b0f03e21934dee32">System.Runtime.InteropServices.ComTypes.IEnumConnectionPoints</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enum_connections.html#a3a1ed93fc6b134c5621579a7c698c9ba">System.Runtime.InteropServices.ComTypes.IEnumConnections</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enumerator.html#ad9486377f2305cc9d32b3b9c52a00337">System.Runtime.InteropServices.ComTypes.IEnumerator</a>
+, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enum_f_o_r_m_a_t_e_t_c.html#aa6325634cc8b1c49dccc12f211c37c44">System.Runtime.InteropServices.ComTypes.IEnumFORMATETC</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enum_moniker.html#a26fb119560c5701d12a91dd329365c83">System.Runtime.InteropServices.ComTypes.IEnumMoniker</a>
+, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enum_s_t_a_t_d_a_t_a.html#a95c23a0358c982dbcf80c03d98b019f5">System.Runtime.InteropServices.ComTypes.IEnumSTATDATA</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enum_string.html#ab3043601c34406f98e00fddb7cb9136f">System.Runtime.InteropServices.ComTypes.IEnumString</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_enum_v_a_r_i_a_n_t.html#a56c23e7cc0e3aa5bc9de5e5468e74f3c">System.Runtime.InteropServices.ComTypes.IEnumVARIANT</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_enum_connection_points.html#a02588c8383b51e22ee993967ba31b428">System.Runtime.InteropServices.UCOMIEnumConnectionPoints</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_enum_connections.html#ac5be1d2f2ae6f90114fc48e26d81f9ec">System.Runtime.InteropServices.UCOMIEnumConnections</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_enumerator.html#aa267cfc5657e2ee4c305735ee8de9929">System.Runtime.InteropServices.UCOMIEnumerator</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_enum_moniker.html#a994812297969976a8cd9d05f387600c8">System.Runtime.InteropServices.UCOMIEnumMoniker</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_enum_string.html#a10b8ed1bc22b3266e999398bf2d32b75">System.Runtime.InteropServices.UCOMIEnumString</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_enum_v_a_r_i_a_n_t.html#a35459d3fc27e36adac019d551731afd5">System.Runtime.InteropServices.UCOMIEnumVARIANT</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_dictionary_key_enumerator.html#affb1a169c67eb34539057f748806d3ef">System.Runtime.InteropServices.WindowsRuntime.DictionaryKeyEnumerator&lt; TKey, TValue &gt;</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_dictionary_value_enumerator.html#acd3977d3385eb7624dbc3bca1fe5420f">System.Runtime.InteropServices.WindowsRuntime.DictionaryValueEnumerator&lt; TKey, TValue &gt;</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_iterator_to_enumerator_adapter.html#a9a6c355f0615fd5678dd7efa83bace4d">System.Runtime.InteropServices.WindowsRuntime.IteratorToEnumeratorAdapter&lt; T &gt;</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_key_enumerator.html#a89a2a24bd1744a1834c2e30a0b1e1b16">System.Runtime.InteropServices.WindowsRuntime.ReadOnlyDictionaryKeyEnumerator&lt; TKey, TValue &gt;</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_value_enumerator.html#abaa3aa3b0ba3bef6db552c584a287b79">System.Runtime.InteropServices.WindowsRuntime.ReadOnlyDictionaryValueEnumerator&lt; TKey, TValue &gt;</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_dictionary_enumerator_by_keys.html#acde509a20caf32fffb8a29549bf0a249">System.Runtime.Remoting.Channels.DictionaryEnumeratorByKeys</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_message_dictionary_enumerator.html#a29c559a52de7119ce62d96de1320b993">System.Runtime.Remoting.Messaging.MessageDictionaryEnumerator</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_serialization_1_1_serialization_info_enumerator.html#a9a1a332955f06b3a8a53748d3283d016">System.Runtime.Serialization.SerializationInfoEnumerator</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_ace_enumerator.html#ac97b852a9f64bdca65990d9f7fc940ac">System.Security.AccessControl.AceEnumerator</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_asn_encoded_data_enumerator.html#aa81f2fa2547cf02c36e66a8360a2b477">System.Security.Cryptography.AsnEncodedDataEnumerator</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_crypto_a_p_i_transform.html#a37e5821d73753e278b4dfb7395807c7c">System.Security.Cryptography.CryptoAPITransform</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_derive_bytes.html#adc5cf07122f34861e3a4cc339888ca06">System.Security.Cryptography.DeriveBytes</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_oid_enumerator.html#a46a0212f27601aada98df9ee8f71403a">System.Security.Cryptography.OidEnumerator</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_password_derive_bytes.html#a8a48ab2e605c1a3a86147cc746b3024c">System.Security.Cryptography.PasswordDeriveBytes</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_rfc2898_derive_bytes.html#ab194c59187ea0e2af3a8731dcfdd5de5">System.Security.Cryptography.Rfc2898DeriveBytes</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_rijndael_managed_transform.html#a0d0b19116c312495b034d442e1a10a66">System.Security.Cryptography.RijndaelManagedTransform</a>
 , <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate.html#a8b9b777c7c8d9b105c67946c7cc32a25">System.Security.Cryptography.X509Certificates.X509Certificate</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2.html#aa7481f63b0ed6f38da252753bd6bb71d">System.Security.Cryptography.X509Certificates.X509Certificate2</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2_enumerator.html#adeb49da35c5f34fb2872f283af52ea14">System.Security.Cryptography.X509Certificates.X509Certificate2Enumerator</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate_collectionaf5c42ea9a613f7734bbc278999e1d78.html#a26d9d5d9799ea40e1e0502e548be21c1">System.Security.Cryptography.X509Certificates.X509CertificateCollection.X509CertificateEnumerator</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_chain.html#a5a2f583be1276e22533d03c3c631f641">System.Security.Cryptography.X509Certificates.X509Chain</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_chain_element_enumerator.html#aac577e39039c77366405bbbe1feb9180">System.Security.Cryptography.X509Certificates.X509ChainElementEnumerator</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_chain_policy.html#a0e407f975354b66391098ceefcf1b8a8">System.Security.Cryptography.X509Certificates.X509ChainPolicy</a>
+, <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_extension_enumerator.html#acb8ccf8426a392bbe49b845be6def512">System.Security.Cryptography.X509Certificates.X509ExtensionEnumerator</a>
 , <a class="el" href="class_system_1_1_security_1_1_permissions_1_1_key_container_permission_access_entry_enumerator.html#aa56f816d78eb107f1d4a32f32068253d">System.Security.Permissions.KeyContainerPermissionAccessEntryEnumerator</a>
-, <a class="el" href="class_system_1_1_security_1_1_permission_set_enumerator.html#a78c1d29d6b0f5753bac4e9f80a01f827">System.Security.PermissionSetEnumerator</a>
-, <a class="el" href="struct_system_1_1_security_1_1_permission_set_enumerator_internal.html#adbeec7857d43d4298e31a2f3c7d704c2">System.Security.PermissionSetEnumeratorInternal</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_application_trust_enumerator.html#abd12f5f7c4a7217083350cdf93281290">System.Security.Policy.ApplicationTrustEnumerator</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_policy_level.html#ab0f410fac6284b2de7319065c6bb46ff">System.Security.Policy.PolicyLevel</a>
-, <a class="el" href="class_system_1_1_security_1_1_principal_1_1_identity_reference_enumerator.html#ac86c47f0f568d7c78505e8d475a2c645">System.Security.Principal.IdentityReferenceEnumerator</a>
-, <a class="el" href="class_system_1_1_security_1_1_read_only_permission_set_enumerator.html#a7723b903391c50e063e09b00e2420218">System.Security.ReadOnlyPermissionSetEnumerator</a>
-, <a class="el" href="struct_system_1_1_security_1_1_util_1_1_token_based_set_enumerator.html#a413dc8d37eb44df90088640a70da3fa6">System.Security.Util.TokenBasedSetEnumerator</a>
 , <a class="el" href="class_system_1_1_text_1_1_decoder.html#a69cdc40fc3e0cc1e63e611505019eddd">System.Text.Decoder</a>
 , <a class="el" href="class_system_1_1_text_1_1_decoder_fallback_buffer.html#a83dcb05f2b03bdbe1bf9e0499d291b10">System.Text.DecoderFallbackBuffer</a>
-, <a class="el" href="class_system_1_1_text_1_1_decoder_n_l_s.html#a1330765aa8527d620343a07a80338187">System.Text.DecoderNLS</a>
 , <a class="el" href="class_system_1_1_text_1_1_decoder_replacement_fallback_buffer.html#afbb52ccc40f814b2363bbd004a5016dc">System.Text.DecoderReplacementFallbackBuffer</a>
 , <a class="el" href="class_system_1_1_text_1_1_encoder.html#a5af3f4fb32a0a07c97be610c593fc99c">System.Text.Encoder</a>
 , <a class="el" href="class_system_1_1_text_1_1_encoder_fallback_buffer.html#a1a320d5c1e1bced369c08884cd284438">System.Text.EncoderFallbackBuffer</a>
-, <a class="el" href="class_system_1_1_text_1_1_encoder_n_l_s.html#a059162c3e0b9ae871d36802e3ddedee6">System.Text.EncoderNLS</a>
 , <a class="el" href="class_system_1_1_text_1_1_encoder_replacement_fallback_buffer.html#a33a77adfd6d5f5fa876b6ba184e5c9c7">System.Text.EncoderReplacementFallbackBuffer</a>
-, <a class="el" href="class_system_1_1_text_1_1_internal_decoder_best_fit_fallback_buffer.html#a238badd1e0569f4118537135abc4b19c">System.Text.InternalDecoderBestFitFallbackBuffer</a>
-, <a class="el" href="class_system_1_1_text_1_1_internal_encoder_best_fit_fallback_buffer.html#a6ea713c9e158b0f9eadb7fbe64569277">System.Text.InternalEncoderBestFitFallbackBuffer</a>
 , <a class="el" href="class_system_1_1_threading_1_1_countdown_event.html#ab349d6a12ec29eabfa67df32a42a7eb8">System.Threading.CountdownEvent</a>
 , <a class="el" href="class_system_1_1_threading_1_1_event_wait_handle.html#ac5fb53918d539496e949054a951fbb2f">System.Threading.EventWaitHandle</a>
 , <a class="el" href="class_system_1_1_threading_1_1_manual_reset_event_slim.html#a7fe22038fa3661b27b7b91a926236ca8">System.Threading.ManualResetEventSlim</a>
 , <a class="el" href="struct_system_1_1_threading_1_1_spin_wait.html#ad5d6e0a944f7380b49717514ff0eab10">System.Threading.SpinWait</a>
+, <a class="el" href="class_system_1_1_xml_1_1_schema_1_1_xml_schema_object_enumerator.html#ada852bcdcc3d532c6cf1e3ae3c9491b6">System.Xml.Schema.XmlSchemaObjectEnumerator</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader_settings.html#a3c2224f1cf7665d998a20726af9cd7fe">System.Xml.XmlReaderSettings</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_writer_settings.html#ac89380ced292cbdc706ed853a3d6f5a5">System.Xml.XmlWriterSettings</a>
 </li>
 <li>ResetAbort()
 : <a class="el" href="class_system_1_1_threading_1_1_thread.html#a0e521adacfbacf40f75df3f855f2f23d">System.Threading.Thread</a>
 </li>
 <li>ResetAccessRule()
-: <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#aef9537e283fe590671db71c3306e6314">System.Security.AccessControl.CommonObjectSecurity</a>
+: <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_pipe_security.html#a75c542b28fa0739347ed75272db8023e">System.IO.Pipes.PipeSecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_common_object_security.html#aef9537e283fe590671db71c3306e6314">System.Security.AccessControl.CommonObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_crypto_key_security.html#a0a6604fa20dfcc51d67dc591e2d6b2c8">System.Security.AccessControl.CryptoKeySecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_directory_object_security.html#adc9d08ded2ea8c017eddf4ef9a095838">System.Security.AccessControl.DirectoryObjectSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_event_wait_handle_security.html#a65ae395537d40baab12cf507f620ac0b">System.Security.AccessControl.EventWaitHandleSecurity</a>
@@ -1001,26 +1463,55 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_mutex_security.html#a3f5fe2192387ee44e4c009885f7b3756">System.Security.AccessControl.MutexSecurity</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_object_security.html#a0823da5224ab93b91571aa13f4b00ac5">System.Security.AccessControl.ObjectSecurity&lt; T &gt;</a>
 , <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_registry_security.html#ab5a0368b7be1e9caf55ec2a98d414245">System.Security.AccessControl.RegistrySecurity</a>
+, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html#a936a69a51df92b7ffb0242c5e0075315">System.Security.AccessControl.SemaphoreSecurity</a>
+</li>
+<li>ResetBindings()
+: <a class="el" href="class_system_1_1_component_model_1_1_binding_list.html#a237e63f35ab69228e4f26ee14a63cb3c">System.ComponentModel.BindingList&lt; T &gt;</a>
 </li>
 <li>ResetColor()
 : <a class="el" href="class_system_1_1_console.html#a3eef595f150fc70360415e7693cdca0a">System.Console</a>
 </li>
+<li>ResetComponentSettings()
+: <a class="el" href="interface_system_1_1_configuration_1_1_i_persist_component_settings.html#afca5137ceab88fe079e6fbbfa0089edf">System.Configuration.IPersistComponentSettings</a>
+</li>
 <li>ResetConnectAccess()
 : <a class="el" href="class_system_1_1_security_1_1_policy_1_1_net_code_group.html#a7ae9e3473818ee824d978f32b7f1c064">System.Security.Policy.NetCodeGroup</a>
 </li>
-<li>Resize()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_safe_heap_handle.html#a0373533ec7edab4f64b109417f354bf5">System.Runtime.InteropServices.SafeHeapHandle</a>
+<li>ResetIdealProcessor()
+: <a class="el" href="class_system_1_1_diagnostics_1_1_process_thread.html#a5d384473640178d140dcd80fb314a8f1">System.Diagnostics.ProcessThread</a>
+</li>
+<li>ResetItem()
+: <a class="el" href="class_system_1_1_component_model_1_1_binding_list.html#af287c1f56cac797bb1e9b1464ecce1e5">System.ComponentModel.BindingList&lt; T &gt;</a>
+</li>
+<li>ResetState()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#ad7c88252a8996e3f663bf706740086b0">System.Xml.XmlTextReader</a>
+</li>
+<li>ResetValue()
+: <a class="el" href="class_system_1_1_component_model_1_1_property_descriptor.html#abd0b5d5b799baa12ec2739ea7ef4ec14">System.ComponentModel.PropertyDescriptor</a>
+, <a class="el" href="class_system_1_1_component_model_1_1_type_converter_1_1_simple_property_descriptor.html#a1351cc98456ca506ab13b38267d13916">System.ComponentModel.TypeConverter.SimplePropertyDescriptor</a>
 </li>
 <li>Resize&lt; T &gt;()
 : <a class="el" href="class_system_1_1_array.html#abd3078b2480ed77f9bd7fa3a024f33bb">System.Array</a>
 </li>
 <li>Resolve()
-: <a class="el" href="class_system_1_1_security_1_1_policy_1_1_code_group.html#a7734afd81499b0180739290f88177c70">System.Security.Policy.CodeGroup</a>
+: <a class="el" href="class_system_1_1_net_1_1_dns.html#ad50021de103f0c9f0142b5c0c22a636d">System.Net.Dns</a>
+, <a class="el" href="class_system_1_1_security_1_1_policy_1_1_code_group.html#a7734afd81499b0180739290f88177c70">System.Security.Policy.CodeGroup</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_file_code_group.html#a02542c556364dd0700aba95946b74651">System.Security.Policy.FileCodeGroup</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_first_match_code_group.html#aba724fb3cb60a44d3996fd2e45335856">System.Security.Policy.FirstMatchCodeGroup</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_net_code_group.html#a4a182628f1c146ceb54da5b96a276e04">System.Security.Policy.NetCodeGroup</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_policy_level.html#af12ba222b31f98e0e92f94e04b105252">System.Security.Policy.PolicyLevel</a>
 , <a class="el" href="class_system_1_1_security_1_1_policy_1_1_union_code_group.html#a5b47bee7d5398a0486d99f09607962b7">System.Security.Policy.UnionCodeGroup</a>
+, <a class="el" href="class_system_1_1_uri_parser.html#a8d55dd488095b5f64d6c8946554f5a4f">System.UriParser</a>
+</li>
+<li>ResolveDynamicAssembly()
+: <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html#a022b06405051774c4593125ba9746fe0">System.Xml.Serialization.XmlSerializationReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_writer.html#aac52cdee7a4f4c907e522bd0a736ced3">System.Xml.Serialization.XmlSerializationWriter</a>
+</li>
+<li>ResolveEntity()
+: <a class="el" href="class_system_1_1_xml_1_1_xml_node_reader.html#a2bd8d1813fca596e21cd26f7f98b7816">System.Xml.XmlNodeReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_reader.html#a1cd55c8c2c3d1a50706743bcdd9fad60">System.Xml.XmlReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_text_reader.html#a5b9b1329796196f2fb4167d54e15dddf">System.Xml.XmlTextReader</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_validating_reader.html#a189bc7ec69ffcb99b513d14736c91e34">System.Xml.XmlValidatingReader</a>
 </li>
 <li>ResolveEventArgs()
 : <a class="el" href="class_system_1_1_resolve_event_args.html#a5781c7eb1019c88b12f9fc9a6982afee">System.ResolveEventArgs</a>
@@ -1028,13 +1519,12 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>ResolveField()
 : <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_module_builder.html#a8e403acac9443d5ff0f8f6dea082fe3f">System.Reflection.Emit.ModuleBuilder</a>
 , <a class="el" href="class_system_1_1_reflection_1_1_module.html#ab854e600a28fcdb6a3d82671fefd6cfe">System.Reflection.Module</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_runtime_module.html#a295b58dd42fc4993cd4825a51a92cf4d">System.Reflection.RuntimeModule</a>
 </li>
 <li>ResolveFieldHandle()
-: <a class="el" href="struct_system_1_1_module_handle.html#a06f4d0eb2321a35f3d780cc3e8f20516">System.ModuleHandle</a>
+: <a class="el" href="struct_system_1_1_module_handle.html#a207caf6f69bf63550248841e67ad7356">System.ModuleHandle</a>
 </li>
-<li>ResolveFieldHandleInternal()
-: <a class="el" href="struct_system_1_1_module_handle.html#aaee605b140e327863d74754d6a446b7a">System.ModuleHandle</a>
+<li>ResolveFunction()
+: <a class="el" href="class_system_1_1_xml_1_1_xsl_1_1_xslt_context.html#a8e6ef261130ce69b422727955867e22f">System.Xml.Xsl.XsltContext</a>
 </li>
 <li>ResolveMatchingCodeGroups()
 : <a class="el" href="class_system_1_1_security_1_1_policy_1_1_code_group.html#a125ac26313cbc430328e1eb0e4b18647">System.Security.Policy.CodeGroup</a>
@@ -1046,48 +1536,40 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 </li>
 <li>ResolveMember()
 : <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_module_builder.html#aeb5deaa404fde023be7568bd7e7a85d2">System.Reflection.Emit.ModuleBuilder</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_module.html#a8ef1f08315de894010b38aaaae8caffc">System.Reflection.Module</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_runtime_module.html#a5bfed635cfe6d1fe0a6052bf0a99ef9f">System.Reflection.RuntimeModule</a>
+, <a class="el" href="class_system_1_1_reflection_1_1_module.html#a4e616e7b52772744529b9f77194b3d04">System.Reflection.Module</a>
 </li>
 <li>ResolveMethod()
 : <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_module_builder.html#ac5e50eb1892562544f8bffbe04703dca">System.Reflection.Emit.ModuleBuilder</a>
 , <a class="el" href="class_system_1_1_reflection_1_1_module.html#a99d58a3097375cec049262e525d160d3">System.Reflection.Module</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_runtime_module.html#a010929691db63ef03e61c4e23f35ba00">System.Reflection.RuntimeModule</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html#a864bc4f177536eac4f3ea02549633223">System.Runtime.Remoting.Messaging.MethodCall</a>
 </li>
 <li>ResolveMethodHandle()
-: <a class="el" href="struct_system_1_1_module_handle.html#aabaf27d322ce530f5a2150ee6d89d09b">System.ModuleHandle</a>
+: <a class="el" href="struct_system_1_1_module_handle.html#aebd14fb6c7cf00245116ce05ebadbb1a">System.ModuleHandle</a>
 </li>
-<li>ResolveMethodHandleInternal()
-: <a class="el" href="struct_system_1_1_module_handle.html#a51a455a16b2a768c7ef2fd819b488c94">System.ModuleHandle</a>
-</li>
-<li>ResolveMethodHandleInternalCore()
-: <a class="el" href="struct_system_1_1_module_handle.html#a0e076b31739993a67a9a21f77b11a68e">System.ModuleHandle</a>
+<li>ResolveNameEventArgs()
+: <a class="el" href="class_system_1_1_component_model_1_1_design_1_1_serialization_1_1_resolve_name_event_args.html#a91b255bec51c531db3c7976d5d0c1c09">System.ComponentModel.Design.Serialization.ResolveNameEventArgs</a>
 </li>
 <li>ResolveNamespace()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_metadata.html#a49b57b2d44283161ac01a05fce7b2f4f">System.Runtime.InteropServices.WindowsRuntime.WindowsRuntimeMetadata</a>
+: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_metadata.html#a253f6536d7bf2c0220b73b726543c97d">System.Runtime.InteropServices.WindowsRuntime.WindowsRuntimeMetadata</a>
 </li>
 <li>ResolvePolicy()
 : <a class="el" href="class_system_1_1_security_1_1_host_security_manager.html#ab87981d160bef86417c0e58d514d6b4f">System.Security.HostSecurityManager</a>
-, <a class="el" href="class_system_1_1_security_1_1_security_manager.html#a2422c09bc2be0db0009a240ee54c50ae">System.Security.SecurityManager</a>
+, <a class="el" href="class_system_1_1_security_1_1_security_manager.html#a8ac57cd9c6cee73a272dfc054e9afae6">System.Security.SecurityManager</a>
 </li>
 <li>ResolvePolicyGroups()
 : <a class="el" href="class_system_1_1_security_1_1_security_manager.html#a8c5989f7df89dbb1540f7b12dadcc2b2">System.Security.SecurityManager</a>
 </li>
 <li>ResolveRef()
-: <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_importer_callback.html#a629ef28355ecbef0d5dfcec977860b78">System.Runtime.InteropServices.ImporterCallback</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_i_type_lib_exporter_notify_sink.html#a05b36b163a52d71be77828e6bd11e8bc">System.Runtime.InteropServices.ITypeLibExporterNotifySink</a>
+: <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_i_type_lib_exporter_notify_sink.html#a05b36b163a52d71be77828e6bd11e8bc">System.Runtime.InteropServices.ITypeLibExporterNotifySink</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_i_type_lib_importer_notify_sink.html#a5150f4065a9c59cc33054e0893bb8ddb">System.Runtime.InteropServices.ITypeLibImporterNotifySink</a>
 </li>
 <li>ResolveSignature()
 : <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_module_builder.html#a2738c5ad1dbf1a24525d772fba06825b">System.Reflection.Emit.ModuleBuilder</a>
 , <a class="el" href="class_system_1_1_reflection_1_1_module.html#a895af7676430305b7d947cff7fcdf9d3">System.Reflection.Module</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_runtime_module.html#ac8a625fcce6b2fe0ea52fe45cd650b57">System.Reflection.RuntimeModule</a>
 </li>
 <li>ResolveString()
 : <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_module_builder.html#a92c8dfdf4158e56da3ee269f6ef0f3b8">System.Reflection.Emit.ModuleBuilder</a>
 , <a class="el" href="class_system_1_1_reflection_1_1_module.html#a900433fcab125880f4d9948cea5f5bdc">System.Reflection.Module</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_runtime_module.html#a3979cf397834ba449128b7a137257552">System.Reflection.RuntimeModule</a>
 </li>
 <li>ResolveSystemPolicy()
 : <a class="el" href="class_system_1_1_security_1_1_security_manager.html#a1872ce15fff9f65b4478c618e0aad026">System.Security.SecurityManager</a>
@@ -1095,91 +1577,33 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>ResolveType()
 : <a class="el" href="class_system_1_1_reflection_1_1_emit_1_1_module_builder.html#ac57558766d93b8be58eea52c745fe22b">System.Reflection.Emit.ModuleBuilder</a>
 , <a class="el" href="class_system_1_1_reflection_1_1_module.html#afe49baba095272f811c3384c692aac23">System.Reflection.Module</a>
-, <a class="el" href="class_system_1_1_reflection_1_1_runtime_module.html#a8d084871e72f4f1fb610b24b33af8e9e">System.Reflection.RuntimeModule</a>
 </li>
 <li>ResolveTypeHandle()
-: <a class="el" href="struct_system_1_1_module_handle.html#af25f220641101a27114cbf2727fd2e96">System.ModuleHandle</a>
+: <a class="el" href="struct_system_1_1_module_handle.html#a101549d654ef78786b3f56af8007dbd2">System.ModuleHandle</a>
 </li>
-<li>ResolveTypeHandleInternal()
-: <a class="el" href="struct_system_1_1_module_handle.html#a25a5fc0b86345c611dee6c54be536274">System.ModuleHandle</a>
+<li>ResolveUri()
+: <a class="el" href="class_system_1_1_xml_1_1_resolvers_1_1_xml_preloaded_resolver.html#ad63474a6297bfa27a742b228f1508569">System.Xml.Resolvers.XmlPreloadedResolver</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_resolver.html#ab1557c71817b23eed7b1fe86e73a5709">System.Xml.XmlResolver</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_secure_resolver.html#a13aaf9bd4af1af0c58dd2b6a7c4c39b6">System.Xml.XmlSecureResolver</a>
+, <a class="el" href="class_system_1_1_xml_1_1_xml_url_resolver.html#ab6a5ade9b8aeff3ce83635b80a4b7e96">System.Xml.XmlUrlResolver</a>
+</li>
+<li>ResolveVariable()
+: <a class="el" href="class_system_1_1_xml_1_1_xsl_1_1_xslt_context.html#ac0ff5eaa806aac623ac9b69fdbd670e5">System.Xml.Xsl.XsltContext</a>
 </li>
 <li>ResourceConsumptionAttribute()
-: <a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_resource_consumption_attribute.html#a1a1001fdf8b7b42a766de2c950d88e3d">System.Runtime.Versioning.ResourceConsumptionAttribute</a>
+: <a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_resource_consumption_attribute.html#a68905da4a2db1ce1f3cd9bd884e52cd0">System.Runtime.Versioning.ResourceConsumptionAttribute</a>
 </li>
 <li>ResourceExposureAttribute()
 : <a class="el" href="class_system_1_1_runtime_1_1_versioning_1_1_resource_exposure_attribute.html#a3203d2151be55b73afbfbaca3540fefb">System.Runtime.Versioning.ResourceExposureAttribute</a>
 </li>
-<li>ResourceLocator()
-: <a class="el" href="struct_system_1_1_resources_1_1_resource_locator.html#a7ecaea3d927dd0e5c3083edf3d77145f">System.Resources.ResourceLocator</a>
-</li>
 <li>ResourceManager()
-: <a class="el" href="class_system_1_1_resources_1_1_resource_manager.html#a1754a3fd6d478548a09a88e1103ea3a2">System.Resources.ResourceManager</a>
+: <a class="el" href="class_system_1_1_resources_1_1_resource_manager.html#ae0ab54bba9253e353a0a6fe20a75bc1e">System.Resources.ResourceManager</a>
 </li>
-<li>ResourceManagerAddingCultureFromConfigFile()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a842c08947fc5427334847b605a339a30">System.Diagnostics.Tracing.FrameworkEventSource</a>
+<li>ResourcePermissionBase()
+: <a class="el" href="class_system_1_1_security_1_1_permissions_1_1_resource_permission_base.html#acf7898a96c75de2cce176016593470f7">System.Security.Permissions.ResourcePermissionBase</a>
 </li>
-<li>ResourceManagerCaseInsensitiveResourceStreamLookupFailed()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#af122ee82d5c7642532a6731d95e91e67">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerCaseInsensitiveResourceStreamLookupSucceeded()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a6c80ed249cb3099fabc47962613c1cc9">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerCreatingResourceSet()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#ad3c1b40c7d1384b564b1e0dc248d93c6">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerCultureFoundInConfigFile()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a63fa7bc0435ceda52c223c50a0623ad5">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerCultureNotFoundInConfigFile()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#ae6f84237715ac795a4baee8c175c5095">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerFoundResourceSetInCache()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a8798928e8c262bd6ae43c031d6986a70">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerFoundResourceSetInCacheUnexpected()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#aa70917db407af5c4d414293436eaf8f4">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerGetSatelliteAssemblyFailed()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a02eb1ead641e2cc810e07cadbec20f62">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerGetSatelliteAssemblySucceeded()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a35e5ae41b8ec78f285ecea381b89b3da">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerLookingForResourceSet()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a6707d9220623f7cf95b65416e8e49722">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerLookupFailed()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a8fda139e23ee9a482a34dc5d20bf3dcc">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerLookupStarted()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a285a805b2c3a182a596ce19bda19f91c">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerManifestResourceAccessDenied()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#ad2eb1feec1631b04dc88a591b825f0a4">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerNeutralResourceAttributeMissing()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a27f4552c9a0176b301d41f9869d7943c">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerNeutralResourcesFound()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a89e7e63399cbf194d72f9fcc8e49c96d">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerNeutralResourcesNotFound()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a5fcc7425ef74c2a59e51d41e43ee746d">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerNeutralResourcesSufficient()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a0b2b0c3a81a4aee214f544da3b5d5625">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerNotCreatingResourceSet()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a000a24cf2e38ba8bcd6c872ad3026602">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerReleasingResources()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#ab1c7dbfcc922386eca9331e42659477a">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerStreamFound()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a463b546662f9d203a73885bf7210f512">System.Diagnostics.Tracing.FrameworkEventSource</a>
-</li>
-<li>ResourceManagerStreamNotFound()
-: <a class="el" href="class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html#a145bd16780c12468e45f95f652809cef">System.Diagnostics.Tracing.FrameworkEventSource</a>
+<li>ResourcePermissionBaseEntry()
+: <a class="el" href="class_system_1_1_security_1_1_permissions_1_1_resource_permission_base_entry.html#a1c555eb042161fb8945e9a8260aeb430">System.Security.Permissions.ResourcePermissionBaseEntry</a>
 </li>
 <li>ResourceReader()
 : <a class="el" href="class_system_1_1_resources_1_1_resource_reader.html#a31bc19f1acadd0cf649fe65c165a9f59">System.Resources.ResourceReader</a>
@@ -1188,7 +1612,10 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="class_system_1_1_resources_1_1_resource_set.html#a195291470b16ee85e4af52e955ded517">System.Resources.ResourceSet</a>
 </li>
 <li>ResourceWriter()
-: <a class="el" href="class_system_1_1_resources_1_1_resource_writer.html#aa7fc4b94aaf5c34ed19e16b8b437c2a8">System.Resources.ResourceWriter</a>
+: <a class="el" href="class_system_1_1_resources_1_1_resource_writer.html#ae5ccb6b854a3b19a225142b98cf8c5a8">System.Resources.ResourceWriter</a>
+</li>
+<li>Restart()
+: <a class="el" href="class_system_1_1_diagnostics_1_1_stopwatch.html#a2c734a70e508df2465eaf4ea2070a639">System.Diagnostics.Stopwatch</a>
 </li>
 <li>RestoreFlow()
 : <a class="el" href="class_system_1_1_security_1_1_security_context.html#a1259bf958701c44fe89583057fa653c7">System.Security.SecurityContext</a>
@@ -1197,33 +1624,42 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RestoreLock()
 : <a class="el" href="class_system_1_1_threading_1_1_reader_writer_lock.html#a3ba40b681d582ff9fbfa5ae18d24069b">System.Threading.ReaderWriterLock</a>
 </li>
+<li>Result()
+: <a class="el" href="class_system_1_1_text_1_1_regular_expressions_1_1_match.html#a8b2475dcb1a5f57da00af446f7b38543">System.Text.RegularExpressions.Match</a>
+</li>
 <li>Result&lt; T &gt;()
 : <a class="el" href="class_system_1_1_diagnostics_1_1_contracts_1_1_contract.html#a026fe20e04517f7de88a87379e51b3a9">System.Diagnostics.Contracts.Contract</a>
 </li>
 <li>Resume()
 : <a class="el" href="class_system_1_1_threading_1_1_thread.html#acda34981225dae8118fe90c5a0dfc282">System.Threading.Thread</a>
 </li>
-<li>Resumed()
-: <a class="el" href="class_system_1_1_app_domain_pause_manager.html#ac2121c3aa8fac7e63f4c4c3d5e1a8bf3">System.AppDomainPauseManager</a>
+<li>Rethrow()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#ae88dfc39605898d7c0807d043ddc7767">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
 </li>
-<li>Resuming()
-: <a class="el" href="class_system_1_1_app_domain_pause_manager.html#a4d48e58b8357383067f7d3aa490a2b62">System.AppDomainPauseManager</a>
+<li>Return()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#a2b86a674c2e7b04067dfc7ee23109ef3">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
 </li>
 <li>ReturnMessage()
-: <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_return_message.html#a63f473192622b49439ca176a11cbf5ff">System.Runtime.Remoting.Messaging.ReturnMessage</a>
+: <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_return_message.html#a3246c17f8d7d6930da2413cbab498b9d">System.Runtime.Remoting.Messaging.ReturnMessage</a>
 </li>
 <li>ReturnValueNameAttribute()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_return_value_name_attribute.html#a87add22185dccff8d49939c24a8e0e16">System.Runtime.InteropServices.WindowsRuntime.ReturnValueNameAttribute</a>
 </li>
 <li>Reverse()
-: <a class="el" href="class_system_1_1_array.html#a2626691311615e4ac0340d4d2a7fb907">System.Array</a>
-, <a class="el" href="class_system_1_1_collections_1_1_array_list.html#af5b42d59b59074db733c3479391bf9c3">System.Collections.ArrayList</a>
+: <a class="el" href="class_system_1_1_array.html#aa1bbff87f05caf9d49fd0b946f078766">System.Array</a>
+, <a class="el" href="class_system_1_1_collections_1_1_array_list.html#ab420c68e6c3c66978927af6a2ec83f5e">System.Collections.ArrayList</a>
 , <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_list.html#a45dbade8cb44c00493647f59a4604964">System.Collections.Generic.List&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_collections_1_1_generic_1_1_sorted_set.html#af288e19cfea6308dd01e83689ec4a6af">System.Collections.Generic.SortedSet&lt; T &gt;</a>
+, <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_read_only_collection_builder.html#a25e91409b954659082d1582f2a2bc312">System.Runtime.CompilerServices.ReadOnlyCollectionBuilder&lt; T &gt;</a>
+</li>
+<li>Reverse&lt; TSource &gt;()
+: <a class="el" href="class_system_1_1_linq_1_1_enumerable.html#a2ec8886b9024a0c7105e4abc8484b2e7">System.Linq.Enumerable</a>
+, <a class="el" href="class_system_1_1_linq_1_1_parallel_enumerable.html#a579762c5d40374f453915ecc79c7d445">System.Linq.ParallelEnumerable</a>
+, <a class="el" href="class_system_1_1_linq_1_1_queryable.html#a54105f74a423939e22fbc12a69d4434e">System.Linq.Queryable</a>
 </li>
 <li>Revert()
 : <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_stream.html#a99097904dc381bba8a139a36ed6755d7">System.Runtime.InteropServices.ComTypes.IStream</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_stream.html#a5670b23c0c5e6ca0daadfd1a499cac8a">System.Runtime.InteropServices.UCOMIStream</a>
-, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_privilege.html#a49687c2c33fedf2ff92b980682cb505f">System.Security.AccessControl.Privilege</a>
 , <a class="el" href="class_system_1_1_threading_1_1_host_execution_context_manager.html#aff4ac152439e6eb3c7cfbc7d8d1ab1c1">System.Threading.HostExecutionContextManager</a>
 </li>
 <li>RevertAll()
@@ -1251,8 +1687,17 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_bind_ctx.html#ae443bb9430f09c148f555e54577d8c36">System.Runtime.InteropServices.ComTypes.IBindCtx</a>
 , <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_u_c_o_m_i_bind_ctx.html#a670fdbd9c01696bbc61e26b35ccafa11">System.Runtime.InteropServices.UCOMIBindCtx</a>
 </li>
+<li>Rewrite()
+: <a class="el" href="interface_system_1_1_linq_1_1_expressions_1_1_i_dynamic_expression.html#a837f35e8bcc2fed3bc51dfd0f09c9567">System.Linq.Expressions.IDynamicExpression</a>
+</li>
 <li>Rfc2898DeriveBytes()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_rfc2898_derive_bytes.html#ab0f60060ad7f5ed98f7a2e3f23513291">System.Security.Cryptography.Rfc2898DeriveBytes</a>
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_rfc2898_derive_bytes.html#afdea57408c561fecb4501492f37ce853">System.Security.Cryptography.Rfc2898DeriveBytes</a>
+</li>
+<li>RightShift()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#a381c48ca1308cf442eb5e01dc95d427d">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
+</li>
+<li>RightShiftAssign()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#a2cb686e93672f99c85435950b3f543ee">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
 </li>
 <li>Rijndael()
 : <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_rijndael.html#a77a71d61fe93d826b1d12111b8ae8ee3">System.Security.Cryptography.Rijndael</a>
@@ -1267,71 +1712,58 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 : <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_i_p_e_m_d160_managed.html#a0394c87bf18a23ff0cbf66a8e2cbc901">System.Security.Cryptography.RIPEMD160Managed</a>
 </li>
 <li>RNGCryptoServiceProvider()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_n_g_crypto_service_provider.html#aef7c23f862848acdadb1efd88f396eac">System.Security.Cryptography.RNGCryptoServiceProvider</a>
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_n_g_crypto_service_provider.html#a8a8c24261a04dbaf20ad5a98d6c194ef">System.Security.Cryptography.RNGCryptoServiceProvider</a>
 </li>
-<li>RoleClaimProvider()
-: <a class="el" href="class_system_1_1_security_1_1_claims_1_1_role_claim_provider.html#a2781b4bc8ccf85ef318fb783ebbb1f28">System.Security.Claims.RoleClaimProvider</a>
+<li>RootDesignerSerializerAttribute()
+: <a class="el" href="class_system_1_1_component_model_1_1_design_1_1_serialization_1_1_root_designer_serializer_attribute.html#a47960a0b72ec5633dc6238e126c469ee">System.ComponentModel.Design.Serialization.RootDesignerSerializerAttribute</a>
 </li>
 <li>RootSetObjectData()
-: <a class="el" href="interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_serialization_root_object.html#a38e82d72bb470d419c65c11fe29d5a47">System.Runtime.Remoting.Messaging.ISerializationRootObject</a>
-, <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html#ab655d645fea8b11d07769e84116167f3">System.Runtime.Remoting.Messaging.MethodCall</a>
+: <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html#ab655d645fea8b11d07769e84116167f3">System.Runtime.Remoting.Messaging.MethodCall</a>
 , <a class="el" href="class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_response.html#ade1bd6214f066c76cd25e668b498bc01">System.Runtime.Remoting.Messaging.MethodResponse</a>
 </li>
 <li>Round()
 : <a class="el" href="struct_system_1_1_decimal.html#a119d0104387405e9d09027302d8bf708">System.Decimal</a>
-, <a class="el" href="class_system_1_1_math.html#a76984ca17d8d8849bde256e45a0ea3a4">System.Math</a>
+, <a class="el" href="class_system_1_1_math.html#ae786808364197198ba5bec293e801a57">System.Math</a>
+</li>
+<li>RSACng()
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_cng.html#a1f3982ee650fbd7511fcc502d968d34b">System.Security.Cryptography.RSACng</a>
 </li>
 <li>RSACryptoServiceProvider()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_crypto_service_provider.html#aede91ddcb011fec51eac6ce66f0a5410">System.Security.Cryptography.RSACryptoServiceProvider</a>
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_crypto_service_provider.html#a75805d2fddd1589d46a7162c94512d26">System.Security.Cryptography.RSACryptoServiceProvider</a>
 </li>
 <li>RSAOAEPKeyExchangeDeformatter()
 : <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_o_a_e_p_key_exchange_deformatter.html#a7e4243b72d2509beaeb509209be82278">System.Security.Cryptography.RSAOAEPKeyExchangeDeformatter</a>
 </li>
 <li>RSAOAEPKeyExchangeFormatter()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_o_a_e_p_key_exchange_formatter.html#a03e9b91b0c5a53e6dd620463cc280be5">System.Security.Cryptography.RSAOAEPKeyExchangeFormatter</a>
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_o_a_e_p_key_exchange_formatter.html#a28a3d3812a0b26304f2c101e0c5f523e">System.Security.Cryptography.RSAOAEPKeyExchangeFormatter</a>
 </li>
 <li>RSAPKCS1KeyExchangeDeformatter()
 : <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_key_exchange_deformatter.html#aeae876e53d4b3678e453fdee482c4e4e">System.Security.Cryptography.RSAPKCS1KeyExchangeDeformatter</a>
 </li>
 <li>RSAPKCS1KeyExchangeFormatter()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_key_exchange_formatter.html#a74f17a5684a9c7872724059534cdfa7e">System.Security.Cryptography.RSAPKCS1KeyExchangeFormatter</a>
-</li>
-<li>RSAPKCS1SHA1SignatureDescription()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a1_signature_description.html#adc59d5ac9130e965d7f2d8487fc4c720">System.Security.Cryptography.RSAPKCS1SHA1SignatureDescription</a>
-</li>
-<li>RSAPKCS1SHA256SignatureDescription()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a256_signature_description.html#ac012d03c7ffd8d13ff97c2205f29a806">System.Security.Cryptography.RSAPKCS1SHA256SignatureDescription</a>
-</li>
-<li>RSAPKCS1SHA384SignatureDescription()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a384_signature_description.html#ab41736b591cf28621af5b4d37979e8be">System.Security.Cryptography.RSAPKCS1SHA384SignatureDescription</a>
-</li>
-<li>RSAPKCS1SHA512SignatureDescription()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a512_signature_description.html#a988741246d1e6946c32e9da837848b66">System.Security.Cryptography.RSAPKCS1SHA512SignatureDescription</a>
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_key_exchange_formatter.html#a3086404520a04bd5404076a528fcf0ef">System.Security.Cryptography.RSAPKCS1KeyExchangeFormatter</a>
 </li>
 <li>RSAPKCS1SignatureDeformatter()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_signature_deformatter.html#a29e1571812f297c6b3d27151a3be4b2a">System.Security.Cryptography.RSAPKCS1SignatureDeformatter</a>
-</li>
-<li>RSAPKCS1SignatureDescription()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_signature_description.html#a0bd40e9adb4b4449130d3f5765d84763">System.Security.Cryptography.RSAPKCS1SignatureDescription</a>
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_signature_deformatter.html#a815c1c759788c4d88f2531e7b135477d">System.Security.Cryptography.RSAPKCS1SignatureDeformatter</a>
 </li>
 <li>RSAPKCS1SignatureFormatter()
-: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_signature_formatter.html#aba88c2b3cb0e974350424f222f8797cc">System.Security.Cryptography.RSAPKCS1SignatureFormatter</a>
+: <a class="el" href="class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_signature_formatter.html#ab075a25afbc857785900f3c7d4c16f51">System.Security.Cryptography.RSAPKCS1SignatureFormatter</a>
 </li>
 <li>Run()
-: <a class="el" href="class_system_1_1_security_1_1_security_context.html#a976cba4f27c5b98f8155d004ded3b6d0">System.Security.SecurityContext</a>
+: <a class="el" href="interface_system_1_1_net_1_1_i_web_proxy_script.html#a9191bab61cb8b8e311df8856c472c4ad">System.Net.IWebProxyScript</a>
+, <a class="el" href="class_system_1_1_security_1_1_security_context.html#a976cba4f27c5b98f8155d004ded3b6d0">System.Security.SecurityContext</a>
 , <a class="el" href="class_system_1_1_threading_1_1_compressed_stack.html#a33dd30037cc747d7ddbc4561adcb4c41">System.Threading.CompressedStack</a>
 , <a class="el" href="class_system_1_1_threading_1_1_execution_context.html#ac25d04be55ba37d5f603bf80c7f9dfed">System.Threading.ExecutionContext</a>
 , <a class="el" href="class_system_1_1_threading_1_1_tasks_1_1_task.html#aac7b9f525fc49971d8203dc613866583">System.Threading.Tasks.Task&lt; TResult &gt;</a>
 </li>
 <li>Run&lt; TResult &gt;()
-: <a class="el" href="class_system_1_1_threading_1_1_tasks_1_1_task.html#af0ae4a2f3675902caa628f81c2a9879e">System.Threading.Tasks.Task&lt; TResult &gt;</a>
+: <a class="el" href="class_system_1_1_threading_1_1_tasks_1_1_task.html#aec32928a4a33110d51f74a078c17f4e4">System.Threading.Tasks.Task&lt; TResult &gt;</a>
 </li>
-<li>RunCallback()
-: <a class="el" href="class_system_1_1_threading_1_1_tasks_1_1_await_task_continuation.html#a723cd916ae4f87cfb55728b41b0b77fc">System.Threading.Tasks.AwaitTaskContinuation</a>
+<li>RunAsClient()
+: <a class="el" href="class_system_1_1_i_o_1_1_pipes_1_1_named_pipe_server_stream.html#ae3d2196bde96e038ab385df6aa8a8ca6">System.IO.Pipes.NamedPipeServerStream</a>
 </li>
 <li>RunClassConstructor()
 : <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_runtime_helpers.html#afe1a0f0261d55bcf4b6f6e3be474b916">System.Runtime.CompilerServices.RuntimeHelpers</a>
-, <a class="el" href="interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_managed_activation_factory.html#a47e9a3db6d7880e45279923182c805ab">System.Runtime.InteropServices.WindowsRuntime.IManagedActivationFactory</a>
 </li>
 <li>RunImpersonated()
 : <a class="el" href="class_system_1_1_security_1_1_principal_1_1_windows_identity.html#a6d98e86e7927e605aa8a60d2a7746ebc">System.Security.Principal.WindowsIdentity</a>
@@ -1339,14 +1771,11 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RunImpersonated&lt; T &gt;()
 : <a class="el" href="class_system_1_1_security_1_1_principal_1_1_windows_identity.html#a2a25799094808c703ed021b6f8cd0e35">System.Security.Principal.WindowsIdentity</a>
 </li>
+<li>RunInstallerAttribute()
+: <a class="el" href="class_system_1_1_component_model_1_1_run_installer_attribute.html#a3ca8082747bbb587cd63e737b99d5896">System.ComponentModel.RunInstallerAttribute</a>
+</li>
 <li>RunModuleConstructor()
 : <a class="el" href="class_system_1_1_runtime_1_1_compiler_services_1_1_runtime_helpers.html#af49d85c0eda2e640e9b826d90f52e2f3">System.Runtime.CompilerServices.RuntimeHelpers</a>
-</li>
-<li>RunningContinuation()
-: <a class="el" href="class_system_1_1_threading_1_1_tasks_1_1_tpl_etw_provider.html#add91bcdfffb463bc702388175473d41b">System.Threading.Tasks.TplEtwProvider</a>
-</li>
-<li>RunningContinuationList()
-: <a class="el" href="class_system_1_1_threading_1_1_tasks_1_1_tpl_etw_provider.html#a29b9dd8ec9132c0e32124f62e86a590d">System.Threading.Tasks.TplEtwProvider</a>
 </li>
 <li>RunSynchronously()
 : <a class="el" href="class_system_1_1_threading_1_1_tasks_1_1_task.html#aa82f294c999e3697d9119e55bcd9ebed">System.Threading.Tasks.Task&lt; TResult &gt;</a>
@@ -1357,29 +1786,14 @@ $(document).ready(function(){initNavTree('functions_func_r.html','');});
 <li>RuntimeEnvironment()
 : <a class="el" href="class_system_1_1_runtime_1_1_interop_services_1_1_runtime_environment.html#a172c96c625d86a505513efe216e3122f">System.Runtime.InteropServices.RuntimeEnvironment</a>
 </li>
-<li>RuntimeFieldHandle()
-: <a class="el" href="struct_system_1_1_runtime_field_handle.html#a7dcc7f7d50c24041103f6ac2e952043f">System.RuntimeFieldHandle</a>
+<li>RuntimeVariables()
+: <a class="el" href="class_system_1_1_linq_1_1_expressions_1_1_expression.html#a174fba917421b181514d19d12a6879d1">System.Linq.Expressions.Expression&lt; TDelegate &gt;</a>
 </li>
-<li>RuntimeFieldHandleInternal()
-: <a class="el" href="struct_system_1_1_runtime_field_handle_internal.html#a8d6e4bdf013a867471a92dfb97ce0c89">System.RuntimeFieldHandleInternal</a>
+<li>RunWorkerAsync()
+: <a class="el" href="class_system_1_1_component_model_1_1_background_worker.html#aec3e13253fb48ef6e6e66e0a7f6afd23">System.ComponentModel.BackgroundWorker</a>
 </li>
-<li>RuntimeFieldInfo()
-: <a class="el" href="class_system_1_1_reflection_1_1_runtime_field_info.html#abcf5547805766492ee858a85706b0bc9">System.Reflection.RuntimeFieldInfo</a>
-</li>
-<li>RuntimeFieldInfoStub()
-: <a class="el" href="class_system_1_1_runtime_field_info_stub.html#abc75a5cd66dd0bb9393aad1adb61ab0d">System.RuntimeFieldInfoStub</a>
-</li>
-<li>RuntimeMethodHandle()
-: <a class="el" href="struct_system_1_1_runtime_method_handle.html#a0e762c007cd0857501f7f8ef84e0c89b">System.RuntimeMethodHandle</a>
-</li>
-<li>RuntimeMethodHandleInternal()
-: <a class="el" href="struct_system_1_1_runtime_method_handle_internal.html#a3d317d8fd1a035f6037ae1119bb22aaa">System.RuntimeMethodHandleInternal</a>
-</li>
-<li>RuntimeMethodInfoStub()
-: <a class="el" href="class_system_1_1_runtime_method_info_stub.html#a41ff1c5d40288ebd0ee6a041ecb2ab53">System.RuntimeMethodInfoStub</a>
-</li>
-<li>RuntimeTypeHandle()
-: <a class="el" href="struct_system_1_1_runtime_type_handle.html#acc7a28446f4b4e99ab52492b03d72144">System.RuntimeTypeHandle</a>
+<li>RunWorkerCompletedEventArgs()
+: <a class="el" href="class_system_1_1_component_model_1_1_run_worker_completed_event_args.html#aae6e67c327916c038f4616f9ab122378">System.ComponentModel.RunWorkerCompletedEventArgs</a>
 </li>
 </ul>
 </div><!-- contents -->

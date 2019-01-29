@@ -1,5 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.SerializationMonkey" name="System.Runtime.Remoting.Messaging.SerializationMonkey">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,212,121"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="9,5,101,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_i_field_info.html" title="Allows access to field names and field types of objects that support the T:System...." alt="" coords="125,5,199,32"/>
-</map>

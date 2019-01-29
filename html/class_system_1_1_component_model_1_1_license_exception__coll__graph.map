@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.LicenseException" name="System.ComponentModel.LicenseException">
+<area shape="rect" id="node1" title="Represents the exception thrown when a component cannot be granted a license." alt="" coords="5,95,227,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="9,5,135,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="159,5,257,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Diagnostics.BooleanSwitch" name="System.Diagnostics.BooleanSwitch">
+<area shape="rect" id="node1" title="Provides a simple on/off switch that controls debugging and tracing output." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_switch.html" title="Provides an abstract base class to create new debugging and tracing switches." alt="" coords="70,5,131,32"/>
+</map>

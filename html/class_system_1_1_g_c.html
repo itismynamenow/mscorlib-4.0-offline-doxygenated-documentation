@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.GC Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.GC Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -100,7 +100,7 @@ $(document).ready(function(){initNavTree('class_system_1_1_g_c.html','');});
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a7d907ba3c0c9c8f6eb84ff26a9d1e980"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a7d907ba3c0c9c8f6eb84ff26a9d1e980">GetGeneration</a> (object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637abe8f80182e0c983916da7338c2c1c040">obj</a>)</td></tr>
+<tr class="memitem:a7d907ba3c0c9c8f6eb84ff26a9d1e980"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a7d907ba3c0c9c8f6eb84ff26a9d1e980">GetGeneration</a> (object obj)</td></tr>
 <tr class="memdesc:a7d907ba3c0c9c8f6eb84ff26a9d1e980"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the current generation number of the specified object.  <a href="#a7d907ba3c0c9c8f6eb84ff26a9d1e980">More...</a><br /></td></tr>
 <tr class="separator:a7d907ba3c0c9c8f6eb84ff26a9d1e980"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -118,19 +118,19 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a4cb858d6d30c4160b04e21a074c96c16"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a4cb858d6d30c4160b04e21a074c96c16">Collect</a> ()</td></tr>
 <tr class="memdesc:a4cb858d6d30c4160b04e21a074c96c16"><td class="mdescLeft">&#160;</td><td class="mdescRight">Forces an immediate garbage collection of all generations.  <a href="#a4cb858d6d30c4160b04e21a074c96c16">More...</a><br /></td></tr>
 <tr class="separator:a4cb858d6d30c4160b04e21a074c96c16"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae68965b3000fa4187276486cabf499f9"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#ae68965b3000fa4187276486cabf499f9">Collect</a> (int generation, <a class="el" href="namespace_system.html#a011447069ea1286be8eac7ee19131341">GCCollectionMode</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a15d61712450a686a7f365adf4fef581f">mode</a>)</td></tr>
+<tr class="memitem:ae68965b3000fa4187276486cabf499f9"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#ae68965b3000fa4187276486cabf499f9">Collect</a> (int generation, <a class="el" href="namespace_system.html#a011447069ea1286be8eac7ee19131341">GCCollectionMode</a> mode)</td></tr>
 <tr class="memdesc:ae68965b3000fa4187276486cabf499f9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Forces a garbage collection from generation 0 through a specified generation, at a time specified by a T:System.GCCollectionMode value.  <a href="#ae68965b3000fa4187276486cabf499f9">More...</a><br /></td></tr>
 <tr class="separator:ae68965b3000fa4187276486cabf499f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8452e3c0c91ba554f85bb3eee1e5770"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#ac8452e3c0c91ba554f85bb3eee1e5770">Collect</a> (int generation, <a class="el" href="namespace_system.html#a011447069ea1286be8eac7ee19131341">GCCollectionMode</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a15d61712450a686a7f365adf4fef581f">mode</a>, bool blocking)</td></tr>
+<tr class="memitem:ac8452e3c0c91ba554f85bb3eee1e5770"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#ac8452e3c0c91ba554f85bb3eee1e5770">Collect</a> (int generation, <a class="el" href="namespace_system.html#a011447069ea1286be8eac7ee19131341">GCCollectionMode</a> mode, bool blocking)</td></tr>
 <tr class="memdesc:ac8452e3c0c91ba554f85bb3eee1e5770"><td class="mdescLeft">&#160;</td><td class="mdescRight">Forces a garbage collection from generation 0 through a specified generation, at a time specified by a T:System.GCCollectionMode value, with a value specifying whether the collection should be blocking.  <a href="#ac8452e3c0c91ba554f85bb3eee1e5770">More...</a><br /></td></tr>
 <tr class="separator:ac8452e3c0c91ba554f85bb3eee1e5770"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2dfd74d5b37c85dd89bb08066496e85"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#af2dfd74d5b37c85dd89bb08066496e85">Collect</a> (int generation, <a class="el" href="namespace_system.html#a011447069ea1286be8eac7ee19131341">GCCollectionMode</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a15d61712450a686a7f365adf4fef581f">mode</a>, bool blocking, bool compacting)</td></tr>
+<tr class="memitem:af2dfd74d5b37c85dd89bb08066496e85"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#af2dfd74d5b37c85dd89bb08066496e85">Collect</a> (int generation, <a class="el" href="namespace_system.html#a011447069ea1286be8eac7ee19131341">GCCollectionMode</a> mode, bool blocking, bool compacting)</td></tr>
 <tr class="memdesc:af2dfd74d5b37c85dd89bb08066496e85"><td class="mdescLeft">&#160;</td><td class="mdescRight">Forces a garbage collection from generation 0 through a specified generation, at a time specified by a T:System.GCCollectionMode value, with values that specify whether the collection should be blocking and compacting.  <a href="#af2dfd74d5b37c85dd89bb08066496e85">More...</a><br /></td></tr>
 <tr class="separator:af2dfd74d5b37c85dd89bb08066496e85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a13aec5e71b309f876af5355d33b7527c"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a13aec5e71b309f876af5355d33b7527c">CollectionCount</a> (int generation)</td></tr>
 <tr class="memdesc:a13aec5e71b309f876af5355d33b7527c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the number of times garbage collection has occurred for the specified generation of objects.  <a href="#a13aec5e71b309f876af5355d33b7527c">More...</a><br /></td></tr>
 <tr class="separator:a13aec5e71b309f876af5355d33b7527c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2649f54ad38a2532fb13445048399149"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a2649f54ad38a2532fb13445048399149">KeepAlive</a> (object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637abe8f80182e0c983916da7338c2c1c040">obj</a>)</td></tr>
+<tr class="memitem:a2649f54ad38a2532fb13445048399149"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a2649f54ad38a2532fb13445048399149">KeepAlive</a> (object obj)</td></tr>
 <tr class="memdesc:a2649f54ad38a2532fb13445048399149"><td class="mdescLeft">&#160;</td><td class="mdescRight">References the specified object, which makes it ineligible for garbage collection from the start of the current routine to the point where this method is called.  <a href="#a2649f54ad38a2532fb13445048399149">More...</a><br /></td></tr>
 <tr class="separator:a2649f54ad38a2532fb13445048399149"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75b6b4f6b3c0c216577f3414c67d1727"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a75b6b4f6b3c0c216577f3414c67d1727">GetGeneration</a> (<a class="el" href="class_system_1_1_weak_reference.html">WeakReference</a> wo)</td></tr>
@@ -139,10 +139,10 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:af2279c93a3224280b67b8f80f95be552"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#af2279c93a3224280b67b8f80f95be552">WaitForPendingFinalizers</a> ()</td></tr>
 <tr class="memdesc:af2279c93a3224280b67b8f80f95be552"><td class="mdescLeft">&#160;</td><td class="mdescRight">Suspends the current thread until the thread that is processing the queue of finalizers has emptied that queue.  <a href="#af2279c93a3224280b67b8f80f95be552">More...</a><br /></td></tr>
 <tr class="separator:af2279c93a3224280b67b8f80f95be552"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a666e3cf070bca41a325d53207ee8ba8f"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a666e3cf070bca41a325d53207ee8ba8f">SuppressFinalize</a> (object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637abe8f80182e0c983916da7338c2c1c040">obj</a>)</td></tr>
+<tr class="memitem:a666e3cf070bca41a325d53207ee8ba8f"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#a666e3cf070bca41a325d53207ee8ba8f">SuppressFinalize</a> (object obj)</td></tr>
 <tr class="memdesc:a666e3cf070bca41a325d53207ee8ba8f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Requests that the common language runtime not call the finalizer for the specified object.  <a href="#a666e3cf070bca41a325d53207ee8ba8f">More...</a><br /></td></tr>
 <tr class="separator:a666e3cf070bca41a325d53207ee8ba8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf5c9a8b2aaf3f68dfda2f92da9b285a"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#adf5c9a8b2aaf3f68dfda2f92da9b285a">ReRegisterForFinalize</a> (object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637abe8f80182e0c983916da7338c2c1c040">obj</a>)</td></tr>
+<tr class="memitem:adf5c9a8b2aaf3f68dfda2f92da9b285a"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#adf5c9a8b2aaf3f68dfda2f92da9b285a">ReRegisterForFinalize</a> (object obj)</td></tr>
 <tr class="memdesc:adf5c9a8b2aaf3f68dfda2f92da9b285a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Requests that the system call the finalizer for the specified object for which M:System.GC.SuppressFinalize(System.Object) has previously been called.  <a href="#adf5c9a8b2aaf3f68dfda2f92da9b285a">More...</a><br /></td></tr>
 <tr class="separator:adf5c9a8b2aaf3f68dfda2f92da9b285a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad57172833d026ec1334fdb8a0e826e8b"><td class="memItemLeft" align="right" valign="top">static long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_g_c.html#ad57172833d026ec1334fdb8a0e826e8b">GetTotalMemory</a> (bool forceFullCollection)</td></tr>
@@ -1335,7 +1335,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System/<a class="el" href="_g_c_8cs_source.html">GC.cs</a></li>
+<li>D:/All cs/System/<a class="el" href="_g_c_8cs_source.html">GC.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

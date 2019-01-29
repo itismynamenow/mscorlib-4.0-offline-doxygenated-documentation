@@ -1,0 +1,5 @@
+<map id="System.Xml.XmlNamedNodeMap" name="System.Xml.XmlNamedNodeMap">
+<area shape="rect" id="node1" title="Represents a collection of nodes that can be accessed by name or index." alt="" coords="10,80,223,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_attribute_collection.html" title="Represents a collection of attributes that can be accessed by name or index." alt="" coords="5,155,228,181"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="69,5,164,32"/>
+</map>

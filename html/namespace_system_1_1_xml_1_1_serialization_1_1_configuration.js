@@ -1,0 +1,10 @@
+var namespace_system_1_1_xml_1_1_serialization_1_1_configuration =
+[
+    [ "DateTimeSerializationSection", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_date_time_serialization_section.html", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_date_time_serialization_section" ],
+    [ "RootedPathValidator", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_rooted_path_validator.html", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_rooted_path_validator" ],
+    [ "SchemaImporterExtensionElement", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extension_element.html", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extension_element" ],
+    [ "SchemaImporterExtensionElementCollection", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extension_element_collection.html", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extension_element_collection" ],
+    [ "SchemaImporterExtensionsSection", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extensions_section.html", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_schema_importer_extensions_section" ],
+    [ "SerializationSectionGroup", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_serialization_section_group.html", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_serialization_section_group" ],
+    [ "XmlSerializerSection", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_xml_serializer_section.html", "class_system_1_1_xml_1_1_serialization_1_1_configuration_1_1_xml_serializer_section" ]
+];

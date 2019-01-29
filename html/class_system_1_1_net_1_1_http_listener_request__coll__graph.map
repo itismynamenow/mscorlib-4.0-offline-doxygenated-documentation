@@ -1,0 +1,6 @@
+<map id="System.Net.HttpListenerRequest" name="System.Net.HttpListenerRequest">
+<area shape="rect" id="node1" title="Describes an incoming HTTP request to an T:System.Net.HttpListener object. This class cannot be inher..." alt="" coords="175,95,388,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_transport_context.html" title="The T:System.Net.TransportContext class provides additional context about the underlying transport la..." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="224,5,339,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_uri.html" title="Provides an object representation of a uniform resource identifier (URI) and easy access to the parts..." alt="" coords="366,5,453,32"/>
+</map>

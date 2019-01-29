@@ -1,0 +1,26 @@
+var class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics =
+[
+    [ "IPGlobalStatistics", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#ad325a0aac2c9f9519e4b38fcfae94196", null ],
+    [ "DefaultTtl", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#ad47edd47becb4e61c1433bcc8ab76d50", null ],
+    [ "ForwardingEnabled", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a5a5599a1c9ae58dff172cb576a7786eb", null ],
+    [ "NumberOfInterfaces", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#acacd8ea41fcc210416ab988a514f5604", null ],
+    [ "NumberOfIPAddresses", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a2cd84980ed0a0c3b64390d45425e9e23", null ],
+    [ "NumberOfRoutes", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#ae328cbe5527cf7a6d369246bd210355f", null ],
+    [ "OutputPacketRequests", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a86d3f25efd5d2494f4125c7f72a2e9e8", null ],
+    [ "OutputPacketRoutingDiscards", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#acda55f53f8928a4e18af9a5a25d874fb", null ],
+    [ "OutputPacketsDiscarded", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a10744822f890798f698e4f39b76b209d", null ],
+    [ "OutputPacketsWithNoRoute", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#ad12c20bbf44d1db8a5014f39a2666a29", null ],
+    [ "PacketFragmentFailures", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a9bca7158ca16c8a98bf2d26248ff1d48", null ],
+    [ "PacketReassembliesRequired", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a57b63a7bca16b39f68b4e16dbadb1202", null ],
+    [ "PacketReassemblyFailures", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a28ce263f4f09f17c5a5c591240e96363", null ],
+    [ "PacketReassemblyTimeout", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a694be57c2f59806cf9c38970fd4283d3", null ],
+    [ "PacketsFragmented", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a3c58364bc86198a4497fdd63cfea9687", null ],
+    [ "PacketsReassembled", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a7df6d10ca0e6187dbbbf0c8574ee8189", null ],
+    [ "ReceivedPackets", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#ad967b7996570b97919467c8d38803a4b", null ],
+    [ "ReceivedPacketsDelivered", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#ac96a6a3f0c3c45222cd48558241b2533", null ],
+    [ "ReceivedPacketsDiscarded", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a11e1872d65b397ff48e41cd0292e503e", null ],
+    [ "ReceivedPacketsForwarded", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a006b53a9000efc396215f3f07889f635", null ],
+    [ "ReceivedPacketsWithAddressErrors", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a9fc5e20b8993ee2614d1774388bf0a18", null ],
+    [ "ReceivedPacketsWithHeadersErrors", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a1bfad4e359e26f1104aba20b0c941c89", null ],
+    [ "ReceivedPacketsWithUnknownProtocol", "class_system_1_1_net_1_1_network_information_1_1_i_p_global_statistics.html#a38c6796f886f60f45620145895fd1458", null ]
+];

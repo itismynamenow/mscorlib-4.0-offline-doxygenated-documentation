@@ -1,0 +1,28 @@
+var namespace_system_1_1_diagnostics_1_1_eventing_1_1_reader =
+[
+    [ "EventBookmark", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_bookmark.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_bookmark" ],
+    [ "EventKeyword", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_keyword.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_keyword" ],
+    [ "EventLevel", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_level.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_level" ],
+    [ "EventLogConfiguration", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_configuration.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_configuration" ],
+    [ "EventLogException", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_exception.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_exception" ],
+    [ "EventLogInformation", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_information.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_information" ],
+    [ "EventLogInvalidDataException", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_invalid_data_exception.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_invalid_data_exception" ],
+    [ "EventLogLink", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_link.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_link" ],
+    [ "EventLogNotFoundException", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_not_found_exception.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_not_found_exception" ],
+    [ "EventLogPropertySelector", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_property_selector.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_property_selector" ],
+    [ "EventLogProviderDisabledException", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_provider_disabled_exception.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_provider_disabled_exception" ],
+    [ "EventLogQuery", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_query.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_query" ],
+    [ "EventLogReader", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_reader.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_reader" ],
+    [ "EventLogReadingException", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_reading_exception.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_reading_exception" ],
+    [ "EventLogRecord", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_record.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_record" ],
+    [ "EventLogSession", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_session.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_session" ],
+    [ "EventLogStatus", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_status.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_status" ],
+    [ "EventLogWatcher", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_watcher.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_watcher" ],
+    [ "EventMetadata", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_metadata.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_metadata" ],
+    [ "EventOpcode", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_opcode.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_opcode" ],
+    [ "EventProperty", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_property.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_property" ],
+    [ "EventRecord", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_record.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_record" ],
+    [ "EventRecordWrittenEventArgs", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_record_written_event_args.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_record_written_event_args" ],
+    [ "EventTask", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_task.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_task" ],
+    [ "ProviderMetadata", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_provider_metadata.html", "class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_provider_metadata" ]
+];

@@ -1,4 +1,5 @@
 <map id="System.Runtime.CompilerServices.AsyncTaskMethodBuilder" name="System.Runtime.CompilerServices.AsyncTaskMethodBuilder">
-<area shape="rect" id="node1" title="Represents a builder for asynchronous methods that return a task." alt="" coords="35,5,261,47"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_compiler_services_1_1_async_task_method_builder.html" title=" " alt="" coords="5,109,291,151"/>
+<area shape="rect" id="node1" title="Represents a builder for asynchronous methods that return a task." alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_compiler_services_1_1_async_task_method_builder.html" title=" " alt="" coords="423,5,662,47"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_compiler_services_1_1_async_task_method_builder.html" title=" " alt="" coords="400,71,685,112"/>
 </map>

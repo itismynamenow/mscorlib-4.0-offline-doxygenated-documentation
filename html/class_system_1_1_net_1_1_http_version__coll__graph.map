@@ -1,0 +1,4 @@
+<map id="System.Net.HttpVersion" name="System.Net.HttpVersion">
+<area shape="rect" id="node1" title="Defines the HTTP version numbers that are supported by the T:System.Net.HttpWebRequest and T:System...." alt="" coords="5,109,168,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="29,5,144,32"/>
+</map>

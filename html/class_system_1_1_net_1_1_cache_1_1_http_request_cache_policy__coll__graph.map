@@ -1,0 +1,5 @@
+<map id="System.Net.Cache.HttpRequestCachePolicy" name="System.Net.Cache.HttpRequestCachePolicy">
+<area shape="rect" id="node1" title="Defines an application&#39;s caching requirements for resources obtained by using T:System...." alt="" coords="23,141,231,183"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_cache_1_1_request_cache_policy.html" title="Defines an application&#39;s caching requirements for resources obtained by using T:System...." alt="" coords="5,14,148,41"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_time_span.html" title="Represents a time interval.To browse the .NET Framework source code for this type,..." alt="" coords="172,14,301,41"/>
+</map>

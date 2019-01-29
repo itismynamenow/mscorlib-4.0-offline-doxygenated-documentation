@@ -1,0 +1,5 @@
+<map id="System.Text.RegularExpressions.RegexMatchTimeoutException" name="System.Text.RegularExpressions.RegexMatchTimeoutException">
+<area shape="rect" id="node1" title="The exception that is thrown when the execution time of a regular expression pattern&#45;matching method ..." alt="" coords="25,80,245,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_timeout_exception.html" title="The exception that is thrown when the time allotted for a process or operation has expired." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="156,5,248,32"/>
+</map>

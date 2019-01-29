@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.EnumConverter" name="System.ComponentModel.EnumConverter">
+<area shape="rect" id="node1" title="Provides a type converter to convert T:System.Enum objects to and from various other representations." alt="" coords="5,80,216,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_type_converter.html" title="Provides a unified way of converting types of values to other types, as well as for accessing standar..." alt="" coords="59,5,163,32"/>
+</map>

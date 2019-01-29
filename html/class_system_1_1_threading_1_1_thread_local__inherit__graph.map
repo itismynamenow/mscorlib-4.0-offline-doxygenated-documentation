@@ -1,4 +1,5 @@
 <map id="System.Threading.ThreadLocal&lt; T &gt;" name="System.Threading.ThreadLocal&lt; T &gt;">
-<area shape="rect" id="node1" title="Provides thread&#45;local storage of data." alt="" coords="5,80,237,107"/>
+<area shape="rect" id="node1" title="Provides thread&#45;local storage of data." alt="" coords="5,81,237,108"/>
+<area shape="rect" id="node3" href="$class_system_1_1_threading_1_1_thread_local.html" title=" " alt="" coords="21,171,222,212"/>
 <area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="77,5,166,32"/>
 </map>

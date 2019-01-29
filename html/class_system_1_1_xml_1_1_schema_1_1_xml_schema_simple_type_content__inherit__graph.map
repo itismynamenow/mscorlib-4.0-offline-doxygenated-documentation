@@ -1,0 +1,7 @@
+<map id="System.Xml.Schema.XmlSchemaSimpleTypeContent" name="System.Xml.Schema.XmlSchemaSimpleTypeContent">
+<area shape="rect" id="node1" title="Abstract class for simple type content classes." alt="" coords="204,71,421,112"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_type_list.html" title="Represents the list element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="469,5,687,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_type_restriction.html" title="Represents the restriction element for simple types from XML Schema as specified by the World Wide We..." alt="" coords="469,71,687,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_type_union.html" title="Represents the union element for simple types from XML Schema as specified by the World Wide Web Cons..." alt="" coords="469,136,687,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="5,78,156,105"/>
+</map>

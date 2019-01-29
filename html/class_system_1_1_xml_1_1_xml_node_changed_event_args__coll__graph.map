@@ -1,0 +1,5 @@
+<map id="System.Xml.XmlNodeChangedEventArgs" name="System.Xml.XmlNodeChangedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Xml.XmlDocument.NodeChanged, E:System.Xml.XmlDocument...." alt="" coords="5,171,204,212"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="19,29,100,55"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="125,29,271,55"/>
+</map>

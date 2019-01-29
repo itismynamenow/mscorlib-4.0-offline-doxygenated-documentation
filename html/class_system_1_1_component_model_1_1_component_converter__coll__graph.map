@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.ComponentConverter" name="System.ComponentModel.ComponentConverter">
+<area shape="rect" id="node1" title="Provides a type converter to convert components to and from various other representations." alt="" coords="5,80,248,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_reference_converter.html" title="Provides a type converter to convert object references to and from other representations." alt="" coords="59,5,194,32"/>
+</map>

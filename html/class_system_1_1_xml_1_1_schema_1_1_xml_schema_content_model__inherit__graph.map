@@ -1,0 +1,6 @@
+<map id="System.Xml.Schema.XmlSchemaContentModel" name="System.Xml.Schema.XmlSchemaContentModel">
+<area shape="rect" id="node1" title="Specifies the order and structure of the child elements of a type." alt="" coords="204,39,421,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_complex_content.html" title="Represents the complexContent element from XML Schema as specified by the World Wide Web Consortium (..." alt="" coords="469,5,687,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_simple_content.html" title="Represents the simpleContent element from XML Schema as specified by the World Wide Web Consortium (W..." alt="" coords="469,71,687,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="5,46,156,73"/>
+</map>

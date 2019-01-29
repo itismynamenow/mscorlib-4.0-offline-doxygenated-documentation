@@ -1,0 +1,12 @@
+<map id="System.Xml.XmlNode" name="System.Xml.XmlNode">
+<area shape="rect" id="node1" title="Represents a single node in the XML document." alt="" coords="168,132,315,159"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_xml_attribute.html" title="Represents an attribute. Valid and default values for the attribute are defined in a document type de..." alt="" coords="395,5,561,32"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_xml_document.html" title="Represents an XML document. You can use this class to load, validate, edit, add, and position XML in ..." alt="" coords="390,56,566,83"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_xml_document_fragment.html" title="Represents a lightweight object that is useful for tree insert operations." alt="" coords="363,107,593,133"/>
+<area shape="rect" id="node8" href="$class_system_1_1_xml_1_1_xml_entity.html" title="Represents an entity declaration, such as &lt;!ENTITY... &gt;." alt="" coords="403,157,553,184"/>
+<area shape="rect" id="node9" href="$class_system_1_1_xml_1_1_xml_linked_node.html" title="Gets the node immediately preceding or following this node." alt="" coords="385,208,571,235"/>
+<area shape="rect" id="node10" href="$class_system_1_1_xml_1_1_xml_notation.html" title="Represents a notation declaration, such as &lt;!NOTATION... &gt;." alt="" coords="395,259,561,285"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="21,81,104,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="15,132,110,159"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_xml_1_1_x_path_1_1_i_x_path_navigable.html" title="Provides an accessor to the T:System.Xml.XPath.XPathNavigator class." alt="" coords="5,183,120,209"/>
+</map>

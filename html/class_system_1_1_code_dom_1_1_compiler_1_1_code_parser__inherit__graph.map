@@ -1,0 +1,4 @@
+<map id="System.CodeDom.Compiler.CodeParser" name="System.CodeDom.Compiler.CodeParser">
+<area shape="rect" id="node1" title="Provides an empty implementation of the T:System.CodeDom.Compiler.ICodeParser interface." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_code_dom_1_1_compiler_1_1_i_code_parser.html" title="Defines an interface for parsing code into a T:System.CodeDom.CodeCompileUnit." alt="" coords="52,5,145,32"/>
+</map>

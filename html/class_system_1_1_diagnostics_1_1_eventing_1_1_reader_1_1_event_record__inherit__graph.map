@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.Eventing.Reader.EventRecord" name="System.Diagnostics.Eventing.Reader.EventRecord">
+<area shape="rect" id="node1" title="Defines the properties of an event instance for an event that is received from an T:System...." alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_record.html" title="Contains the properties of an event instance for an event that is received from an T:System...." alt="" coords="5,169,201,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="59,5,148,32"/>
+</map>

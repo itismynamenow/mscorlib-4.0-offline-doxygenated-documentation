@@ -1,10 +1,4 @@
 <map id="System.Runtime.InteropServices.VARDESC" name="System.Runtime.InteropServices.VARDESC">
-<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.VARDESC instead." alt="" coords="1483,104,1697,145"/>
-<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_e_l_e_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC instead." alt="" coords="1139,104,1353,145"/>
-<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_t_y_p_e_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.TYPEDESC instead." alt="" coords="604,129,819,171"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="147,114,249,141"/>
-<area shape="rect" id="node8" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_p_a_r_a_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.PARAMDESC instead." alt="" coords="365,5,580,47"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,114,97,141"/>
-<area shape="rect" id="node6" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_e_l_e_m_d_e_s_c_1_1_d_e_s_c_u_n_i_o_n.html" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC.DESCUNION instead." alt="" coords="843,69,1057,111"/>
-<area shape="rect" id="node7" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_i_d_l_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.IDLDESC instead." alt="" coords="365,71,580,112"/>
+<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.VARDESC instead." alt="" coords="5,109,220,151"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_e_l_e_m_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.ELEMDESC instead." alt="" coords="5,5,220,47"/>
 </map>

@@ -1,7 +1,6 @@
 <map id="System.Collections.IDictionaryEnumerator" name="System.Collections.IDictionaryEnumerator">
-<area shape="rect" id="node1" title="Enumerates the elements of a nongeneric dictionary." alt="" coords="145,93,345,134"/>
-<area shape="rect" id="node3" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2." alt="" coords="433,5,621,61"/>
-<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_dictionary_enumerator_by_keys.html" title=" " alt="" coords="424,85,629,141"/>
-<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_message_dictionary_enumerator.html" title=" " alt="" coords="393,166,660,207"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,100,97,127"/>
+<area shape="rect" id="node1" title="Enumerates the elements of a nongeneric dictionary." alt="" coords="145,53,345,94"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_collections_1_1_generic_1_1_dictionary_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2." alt="" coords="393,5,581,61"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_collections_1_1_generic_1_1_sorted_dictionary_1_1_enumerator.html" title="Enumerates the elements of a T:System.Collections.Generic.SortedDictionary`2." alt="" coords="393,85,581,141"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,60,97,87"/>
 </map>

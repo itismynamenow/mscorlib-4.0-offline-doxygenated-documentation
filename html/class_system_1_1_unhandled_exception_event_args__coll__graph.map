@@ -1,5 +1,4 @@
 <map id="System.UnhandledExceptionEventArgs" name="System.UnhandledExceptionEventArgs">
-<area shape="rect" id="node1" title="Provides data for the event that is raised when there is an exception that is not handled in any appl..." alt="" coords="5,171,196,212"/>
-<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="60,95,141,121"/>
-<area shape="rect" id="node3" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="35,5,166,32"/>
+<area shape="rect" id="node1" title="Provides data for the event that is raised when there is an exception that is not handled in any appl..." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="60,5,141,32"/>
 </map>

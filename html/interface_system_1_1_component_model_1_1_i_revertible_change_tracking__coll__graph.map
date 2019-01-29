@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.IRevertibleChangeTracking" name="System.ComponentModel.IRevertibleChangeTracking">
+<area shape="rect" id="node1" title="Provides support for rolling back the changes" alt="" coords="5,80,240,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_i_change_tracking.html" title="Defines the mechanism for querying the object for changes and resetting of the changed status." alt="" coords="63,5,182,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="System.Collections.Generic.SortedSet&lt; T &gt;" name="System.Collections.Generic.SortedSet&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents a collection of objects that is maintained in sorted order." alt="" coords="559,168,747,210"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_set.html" title="Provides the base interface for the abstraction of sets." alt="" coords="387,150,463,177"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="179,100,292,126"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="5,24,131,50"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_generic_1_1_i_collection.html" title="Defines methods to manipulate generic collections." alt="" coords="194,49,277,76"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="21,125,115,152"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="379,252,471,278"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="345,302,505,329"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="340,353,511,380"/>
+</map>

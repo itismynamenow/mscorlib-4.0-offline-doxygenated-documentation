@@ -1,0 +1,4 @@
+<map id="System.Net.HttpListenerBasicIdentity" name="System.Net.HttpListenerBasicIdentity">
+<area shape="rect" id="node1" title="Holds the user name and password from a basic authentication request." alt="" coords="5,80,204,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_principal_1_1_generic_identity.html" title="Represents a generic user." alt="" coords="50,5,159,32"/>
+</map>

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.Security.Principal/WinSecurityContext.cs Source File</title>
+<title>mscorlib(4.0.0.0) API with additions: D:/All cs/System.Security.Principal/WinSecurityContext.cs Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -89,17 +89,14 @@ $(document).ready(function(){initNavTree('_win_security_context_8cs_source.html'
 <div class="title">WinSecurityContext.cs</div>  </div>
 </div><!--header-->
 <div class="contents">
-<a href="_win_security_context_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_system_1_1_security_1_1_principal.html">System.Security.Principal</a></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;{</div><div class="line"><a name="l00003"></a><span class="lineno"><a class="line" href="namespace_system_1_1_security_1_1_principal.html#a67bff4bb1e12cf3c6e234553a491e045">    3</a></span>&#160;    <span class="keyword">internal</span> <span class="keyword">enum</span> <a class="code" href="namespace_system_1_1_security_1_1_principal.html#a67bff4bb1e12cf3c6e234553a491e045">WinSecurityContext</a></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;    {</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;        <a class="code" href="namespace_system_1_1_security_1_1_principal.html#a67bff4bb1e12cf3c6e234553a491e045ad97477d6d8a838ead9348185bb5b6742">Thread</a> = 1,</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;        <a class="code" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1ab6ec7abeb6ae29cc35a4b47475e12afe">Process</a>,</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        <a class="code" href="namespace_system_1_1_security_1_1_principal.html#a67bff4bb1e12cf3c6e234553a491e045a130c5b3473c57faa76e2a1c54e26f88e">Both</a></div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    }</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;}</div><div class="ttc" id="namespace_system_1_1_security_1_1_principal_html_a67bff4bb1e12cf3c6e234553a491e045a130c5b3473c57faa76e2a1c54e26f88e"><div class="ttname"><a href="namespace_system_1_1_security_1_1_principal.html#a67bff4bb1e12cf3c6e234553a491e045a130c5b3473c57faa76e2a1c54e26f88e">System.Security.Principal.WinSecurityContext.Both</a></div></div>
-<div class="ttc" id="namespace_system_html_aca95f49b90253ad60ca8fe35c508b3d1ab6ec7abeb6ae29cc35a4b47475e12afe"><div class="ttname"><a href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1ab6ec7abeb6ae29cc35a4b47475e12afe">System.ConsoleKey.Process</a></div><div class="ttdoc">The IME PROCESS key.</div></div>
-<div class="ttc" id="namespace_system_1_1_security_1_1_principal_html_a67bff4bb1e12cf3c6e234553a491e045ad97477d6d8a838ead9348185bb5b6742"><div class="ttname"><a href="namespace_system_1_1_security_1_1_principal.html#a67bff4bb1e12cf3c6e234553a491e045ad97477d6d8a838ead9348185bb5b6742">System.Security.Principal.WinSecurityContext.Thread</a></div></div>
+<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_system_1_1_security_1_1_principal.html">System.Security.Principal</a></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;{</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;    <span class="keyword">internal</span> <span class="keyword">enum</span> WinSecurityContext</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;    {</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;        Thread = 1,</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;        <a class="code" href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1ab6ec7abeb6ae29cc35a4b47475e12afe">Process</a>,</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        Both</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    }</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;}</div><div class="ttc" id="namespace_system_html_aca95f49b90253ad60ca8fe35c508b3d1ab6ec7abeb6ae29cc35a4b47475e12afe"><div class="ttname"><a href="namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1ab6ec7abeb6ae29cc35a4b47475e12afe">System.ConsoleKey.Process</a></div><div class="ttdoc">The IME PROCESS key.</div></div>
 <div class="ttc" id="namespace_system_1_1_security_1_1_principal_html"><div class="ttname"><a href="namespace_system_1_1_security_1_1_principal.html">System.Security.Principal</a></div><div class="ttdef"><b>Definition:</b> <a href="_generic_identity_8cs_source.html#l00006">GenericIdentity.cs:6</a></div></div>
-<div class="ttc" id="namespace_system_1_1_security_1_1_principal_html_a67bff4bb1e12cf3c6e234553a491e045"><div class="ttname"><a href="namespace_system_1_1_security_1_1_principal.html#a67bff4bb1e12cf3c6e234553a491e045">System.Security.Principal.WinSecurityContext</a></div><div class="ttdeci">WinSecurityContext</div><div class="ttdef"><b>Definition:</b> <a href="_win_security_context_8cs_source.html#l00003">WinSecurityContext.cs:3</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_80854d3ab5724fcbe7d959d8b4f2f1fd.html">System.Security.Principal</a></li><li class="navelem"><a class="el" href="_win_security_context_8cs.html">WinSecurityContext.cs</a></li>
+    <li class="navelem"><a class="el" href="dir_0a866bd803450dacaf5899ba5fac7c9c.html">All cs</a></li><li class="navelem"><a class="el" href="dir_80ff8fa5c1179e3f6829a56a22e44655.html">System.Security.Principal</a></li><li class="navelem"><b>WinSecurityContext.cs</b></li>
     <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.15 </li>

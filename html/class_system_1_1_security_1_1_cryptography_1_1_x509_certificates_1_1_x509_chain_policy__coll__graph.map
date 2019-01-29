@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.X509Certificates.X509ChainPolicy" name="System.Security.Cryptography.X509Certificates.X509ChainPolicy">
+<area shape="rect" id="node1" title="Represents the chain policy to be applied when building an X509 certificate chain...." alt="" coords="367,43,583,84"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_oid_collection.html" title="Represents a collection of T:System.Security.Cryptography.Oid objects. This class cannot be inherited..." alt="" coords="9,5,213,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2_collection.html" title="Represents a collection of T:System.Security.Cryptography.X509Certificates.X509Certificate2 objects...." alt="" coords="5,71,217,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.CodeDom.CodeArrayCreateExpression" name="System.CodeDom.CodeArrayCreateExpression">
+<area shape="rect" id="node1" title="Represents an expression that creates an array." alt="" coords="65,109,258,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_code_dom_1_1_code_expression.html" title="Represents a code expression. This is a base class for other code expression objects that is never in..." alt="" coords="5,13,123,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_code_dom_1_1_code_expression_collection.html" title="Represents a collection of T:System.CodeDom.CodeExpression objects." alt="" coords="147,5,373,47"/>
+</map>

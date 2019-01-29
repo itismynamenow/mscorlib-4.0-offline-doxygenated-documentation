@@ -1,10 +1,5 @@
 <map id="System.AssemblyLoadEventArgs" name="System.AssemblyLoadEventArgs">
-<area shape="rect" id="node1" title="Provides data for the E:System.AppDomain.AssemblyLoad event." alt="" coords="193,184,409,211"/>
-<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="114,95,195,121"/>
-<area shape="rect" id="node3" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,5,136,32"/>
-<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="303,95,494,121"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly.html" title="Exposes the public members of the T:System.Reflection.Assembly class to unmanaged code." alt="" coords="227,5,314,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="338,5,459,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="484,5,649,32"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="674,5,766,32"/>
+<area shape="rect" id="node1" title="Provides data for the E:System.AppDomain.AssemblyLoad event." alt="" coords="18,95,234,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="111,5,301,32"/>
 </map>

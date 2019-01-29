@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.AsnEncodedData" name="System.Security.Cryptography.AsnEncodedData">
+<area shape="rect" id="node1" title="Represents Abstract Syntax Notation One (ASN.1)&#45;encoded data." alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x500_distinguished_name.html" title="Represents the distinguished name of an X509 certificate. This class cannot be inherited." alt="" coords="257,5,516,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_extension.html" title="Represents an X509 extension." alt="" coords="284,71,489,112"/>
+</map>

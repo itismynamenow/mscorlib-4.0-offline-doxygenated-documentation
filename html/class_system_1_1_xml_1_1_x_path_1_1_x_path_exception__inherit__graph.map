@@ -1,0 +1,4 @@
+<map id="System.Xml.XPath.XPathException" name="System.Xml.XPath.XPathException">
+<area shape="rect" id="node1" title="Provides the exception thrown when an error occurs while processing an XPath expression." alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="56,5,181,32"/>
+</map>

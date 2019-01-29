@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_system_1_1_security_1_1_cryptography_1_1_signature_description.html" title="Contains information about the properties of a digital signature." alt="" coords="5,72,209,113"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_d_s_a_signature_description.html" title=" " alt="" coords="261,39,465,80"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_signature_description.html" title=" " alt="" coords="257,104,469,145"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a1_signature_description.html" title=" " alt="" coords="524,5,771,47"/>
-<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a256_signature_description.html" title=" " alt="" coords="517,71,777,112"/>
-<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a384_signature_description.html" title=" " alt="" coords="517,136,777,177"/>
-<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_p_k_c_s1_s_h_a512_signature_description.html" title=" " alt="" coords="517,201,777,243"/>
-</map>

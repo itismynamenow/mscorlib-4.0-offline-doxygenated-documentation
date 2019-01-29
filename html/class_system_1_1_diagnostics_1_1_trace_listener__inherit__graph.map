@@ -1,0 +1,9 @@
+<map id="System.Diagnostics.TraceListener" name="System.Diagnostics.TraceListener">
+<area shape="rect" id="node1" title="Provides the abstract base class for the listeners who monitor trace and debug output." alt="" coords="195,104,369,145"/>
+<area shape="rect" id="node4" href="$class_system_1_1_diagnostics_1_1_default_trace_listener.html" title="Provides the default output methods and behavior for tracing." alt="" coords="427,5,610,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_event_provider_trace_listener.html" title="A listener for T:System.Diagnostics.TraceSource that writes events to the ETW subsytem." alt="" coords="421,71,617,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_diagnostics_1_1_event_log_trace_listener.html" title="Provides a simple listener that directs tracing or debugging output to an T:System...." alt="" coords="431,136,606,177"/>
+<area shape="rect" id="node7" href="$class_system_1_1_diagnostics_1_1_text_writer_trace_listener.html" title="Directs tracing or debugging output to a T:System.IO.TextWriter or to a T:System.IO...." alt="" coords="417,201,620,243"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,86,147,113"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="31,137,121,163"/>
+</map>

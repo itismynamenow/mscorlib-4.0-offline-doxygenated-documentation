@@ -1,0 +1,6 @@
+<map id="System.Diagnostics.Eventing.Reader.EventLogConfiguration" name="System.Diagnostics.Eventing.Reader.EventLogConfiguration">
+<area shape="rect" id="node1" title="Contains static information and configuration settings for an event log. Many of the configurations s..." alt="" coords="115,109,311,151"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,13,95,39"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="119,5,307,47"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="331,13,430,39"/>
+</map>

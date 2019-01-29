@@ -1,0 +1,14 @@
+<map id="System.IServiceProvider" name="System.IServiceProvider">
+<area shape="rect" id="node1" title="Defines a mechanism for retrieving a service object; that is, an object that provides custom support ..." alt="" coords="5,335,168,362"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_component_model_1_1_design_1_1_i_designer_host.html" title="Provides an interface for managing designer transactions and components." alt="" coords="498,86,718,128"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_loader_host.html" title="Provides an interface that can extend a designer host to support loading from a serialized state." alt="" coords="777,145,997,186"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_loader_host2.html" title="Provides an interface that extends T:System.ComponentModel.Design.Serialization.IDesignerLoaderHost t..." alt="" coords="1045,116,1269,157"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_component_model_1_1_design_1_1_i_service_container.html" title="Provides a container for services." alt="" coords="217,204,437,245"/>
+<area shape="rect" id="node6" href="$class_system_1_1_component_model_1_1_design_1_1_service_container.html" title="Provides a simple implementation of the T:System.ComponentModel.Design.IServiceContainer interface...." alt="" coords="498,305,718,346"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_component_model_1_1_design_1_1_serialization_1_1_i_designer_serialization_manager.html" title="Provides an interface that can manage design&#45;time serialization." alt="" coords="216,320,439,376"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_component_model_1_1_i_nested_site.html" title="Provides the ability to retrieve the full nested name of a component." alt="" coords="487,426,729,452"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_component_model_1_1_i_site.html" title="Provides functionality required by sites." alt="" coords="226,400,429,427"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_component_model_1_1_i_type_descriptor_context.html" title="Provides contextual information about a component, such as its container and property descriptor." alt="" coords="224,502,431,544"/>
+<area shape="rect" id="node11" href="$class_system_1_1_component_model_1_1_license_context.html" title="Specifies when you can use a licensed object and provides a way of obtaining additional services need..." alt="" coords="217,568,438,609"/>
+<area shape="rect" id="node12" href="$class_system_1_1_component_model_1_1_marshal_by_value_component.html" title="Implements T:System.ComponentModel.IComponent and provides the base implementation for remotable comp..." alt="" coords="216,633,439,674"/>
+</map>

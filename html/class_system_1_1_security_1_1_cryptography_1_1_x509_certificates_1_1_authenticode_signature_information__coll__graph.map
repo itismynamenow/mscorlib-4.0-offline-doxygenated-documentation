@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.X509Certificates.AuthenticodeSignatureInformation" name="System.Security.Cryptography.X509Certificates.AuthenticodeSignatureInformation">
+<area shape="rect" id="node1" title="Provides information about an Authenticode signature for a manifest." alt="" coords="98,109,349,165"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_timestamp_information.html" title="Provides details about the time stamp that was applied to an Authenticode signature for a manifest." alt="" coords="5,5,252,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_uri.html" title="Provides an object representation of a uniform resource identifier (URI) and easy access to the parts..." alt="" coords="276,13,363,39"/>
+</map>

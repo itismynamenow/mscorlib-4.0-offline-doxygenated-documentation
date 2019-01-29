@@ -1,0 +1,5 @@
+<map id="System.ComponentModel.MaskedTextProvider" name="System.ComponentModel.MaskedTextProvider">
+<area shape="rect" id="node1" title="Represents a mask&#45;parsing service that can be used by any number of controls that support masking,..." alt="" coords="5,171,228,212"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="98,5,181,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_globalization_1_1_culture_info.html" title="Provides information about a specific culture (called a locale for unmanaged code development)...." alt="" coords="133,81,343,108"/>
+</map>

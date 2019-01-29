@@ -1,0 +1,5 @@
+<map id="System.Xml.Schema.XmlSchemaObjectEnumerator" name="System.Xml.Schema.XmlSchemaObjectEnumerator">
+<area shape="rect" id="node1" title="Represents the enumerator for the T:System.Xml.Schema.XmlSchemaObjectCollection." alt="" coords="32,109,249,151"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,13,97,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_object.html" title="Represents the root class for the Xml schema object model hierarchy and serves as a base class for cl..." alt="" coords="121,5,339,47"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="System.Runtime.Serialization.SerializationFieldInfo" name="System.Runtime.Serialization.SerializationFieldInfo">
-<area shape="rect" id="node1" title=" " alt="" coords="119,229,318,271"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_field_info.html" title="Discovers the attributes of a field and provides access to field metadata." alt="" coords="183,155,254,181"/>
-<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="121,80,210,107"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___field_info.html" title="Exposes the public members of the T:System.Reflection.FieldInfo class to unmanaged code." alt="" coords="235,80,312,107"/>
-</map>

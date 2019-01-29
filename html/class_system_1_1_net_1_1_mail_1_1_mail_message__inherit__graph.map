@@ -1,0 +1,4 @@
+<map id="System.Net.Mail.MailMessage" name="System.Net.Mail.MailMessage">
+<area shape="rect" id="node1" title="Represents an e&#45;mail message that can be sent using the T:System.Net.Mail.SmtpClient class." alt="" coords="5,80,205,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="61,5,150,32"/>
+</map>

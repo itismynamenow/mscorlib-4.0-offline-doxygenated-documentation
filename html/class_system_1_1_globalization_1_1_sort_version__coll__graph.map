@@ -1,11 +1,5 @@
 <map id="System.Globalization.SortVersion" name="System.Globalization.SortVersion">
-<area shape="rect" id="node1" title="Provides information about the version of Unicode used to compare and order strings." alt="" coords="867,33,1041,74"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="483,5,657,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="5,24,168,51"/>
-<area shape="rect" id="node9" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="319,52,453,79"/>
-<area shape="rect" id="node4" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="681,103,780,129"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="339,103,433,129"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="339,153,433,180"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="313,204,459,231"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="15,204,158,231"/>
+<area shape="rect" id="node1" title="Provides information about the version of Unicode used to compare and order strings." alt="" coords="56,95,231,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="205,5,303,32"/>
 </map>

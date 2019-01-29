@@ -1,0 +1,4 @@
+<map id="System.LdapStyleUriParser" name="System.LdapStyleUriParser">
+<area shape="rect" id="node1" title="A customizable parser based on the Lightweight Directory Access Protocol (LDAP) scheme." alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_uri_parser.html" title="Parses a new URI scheme. This is an abstract class." alt="" coords="59,5,135,32"/>
+</map>

@@ -1,5 +1,4 @@
 <map id="System.Threading.PreAllocatedOverlapped" name="System.Threading.PreAllocatedOverlapped">
-<area shape="rect" id="node1" title="Represents pre&#45;allocated state for native overlapped I/O operations." alt="" coords="15,80,221,121"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_threading_1_1_i_deferred_disposable.html" title=" " alt="" coords="119,5,256,32"/>
+<area shape="rect" id="node1" title="Represents pre&#45;allocated state for native overlapped I/O operations." alt="" coords="5,80,211,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,153,32"/>
 </map>

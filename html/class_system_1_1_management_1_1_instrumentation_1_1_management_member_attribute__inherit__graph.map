@@ -1,0 +1,11 @@
+<map id="System.Management.Instrumentation.ManagementMemberAttribute" name="System.Management.Instrumentation.ManagementMemberAttribute">
+<area shape="rect" id="node1" title="This class is used by the WMI.NET Provider Extensions framework. It is the base class for all the man..." alt="" coords="124,201,367,243"/>
+<area shape="rect" id="node3" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_commit_attribute.html" title="The ManagementCommit attribute marks a method that is called when it is necessary to update a set of ..." alt="" coords="415,5,657,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_configuration_attribute.html" title="The ManagementConfiguration attribute indicates that a property or field represents a read&#45;write WMI ..." alt="" coords="415,71,657,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_key_attribute.html" title="The ManagementKey attribute identifies the key properties of a WMI class.Note: the WMI ...." alt="" coords="415,136,657,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_new_instance_attribute.html" title="The base class for management attributes that have only run&#45;time functionality and no schema represen..." alt="" coords="415,201,657,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_probe_attribute.html" title="The ManagementProbe attribute indicates that a property or field represents a read&#45;only WMI property...." alt="" coords="415,267,657,308"/>
+<area shape="rect" id="node8" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_remove_attribute.html" title="The ManagementRemoveAttribute is used to indicate that a method cleans up an instance of a managed en..." alt="" coords="415,332,657,373"/>
+<area shape="rect" id="node9" href="$class_system_1_1_management_1_1_instrumentation_1_1_management_task_attribute.html" title="The ManagementTask attribute indicates that the target method implements a WMI method...." alt="" coords="415,397,657,439"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="5,209,76,235"/>
+</map>

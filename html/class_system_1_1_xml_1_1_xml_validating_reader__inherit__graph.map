@@ -1,0 +1,6 @@
+<map id="System.Xml.XmlValidatingReader" name="System.Xml.XmlValidatingReader">
+<area shape="rect" id="node1" title="Represents a reader that provides document type definition (DTD), XML&#45;Data Reduced (XDR) schema,..." alt="" coords="72,80,247,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_reader.html" title="Represents a reader that provides fast, noncached, forward&#45;only access to XML data...." alt="" coords="5,5,89,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_xml_1_1_i_xml_line_info.html" title="Provides an interface to enable a class to return line and position information." alt="" coords="114,5,205,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_xml_1_1_i_xml_namespace_resolver.html" title="Provides read&#45;only access to a set of prefix and namespace mappings." alt="" coords="229,5,393,32"/>
+</map>

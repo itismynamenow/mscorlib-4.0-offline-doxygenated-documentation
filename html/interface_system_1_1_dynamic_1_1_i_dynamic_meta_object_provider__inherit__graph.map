@@ -1,0 +1,5 @@
+<map id="System.Dynamic.IDynamicMetaObjectProvider" name="System.Dynamic.IDynamicMetaObjectProvider">
+<area shape="rect" id="node1" title="Represents a dynamic object, that can have its operations bound at runtime." alt="" coords="127,5,336,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_dynamic_1_1_dynamic_object.html" title="Provides a base class for specifying dynamic behavior at run time. This class must be inherited from;..." alt="" coords="5,95,220,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_dynamic_1_1_expando_object.html" title="Represents an object whose members can be dynamically added and removed at run time." alt="" coords="244,95,459,121"/>
+</map>

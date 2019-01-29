@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.IO.Directory Class Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.IO.Directory Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -86,7 +86,6 @@ $(document).ready(function(){initNavTree('class_system_1_1_i_o_1_1_directory.htm
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="class_system_1_1_i_o_1_1_directory-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -106,7 +105,7 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memdesc:abeb805901dc249738d6c650fa296f6fd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates all directories and subdirectories in the specified path unless they already exist.  <a href="#abeb805901dc249738d6c650fa296f6fd">More...</a><br /></td></tr>
 <tr class="separator:abeb805901dc249738d6c650fa296f6fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a92fbfc046f83641de093528bf9f36817"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_system_1_1_i_o_1_1_directory_info.html">DirectoryInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_directory.html#a92fbfc046f83641de093528bf9f36817">CreateDirectory</a> (string path, <a class="el" href="class_system_1_1_security_1_1_access_control_1_1_directory_security.html">DirectorySecurity</a> directorySecurity)</td></tr>
-<tr class="memdesc:a92fbfc046f83641de093528bf9f36817"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates all the directories in the specified path, unless the already exist, applying the specified <a class="el" href="namespace_windows.html">Windows</a> security.  <a href="#a92fbfc046f83641de093528bf9f36817">More...</a><br /></td></tr>
+<tr class="memdesc:a92fbfc046f83641de093528bf9f36817"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates all the directories in the specified path, unless the already exist, applying the specified Windows security.  <a href="#a92fbfc046f83641de093528bf9f36817">More...</a><br /></td></tr>
 <tr class="separator:a92fbfc046f83641de093528bf9f36817"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab6c320bddfa9d926dc5f935a137e2698"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_system_1_1_i_o_1_1_directory.html#ab6c320bddfa9d926dc5f935a137e2698">Exists</a> (string path)</td></tr>
 <tr class="memdesc:ab6c320bddfa9d926dc5f935a137e2698"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines whether the given path refers to an existing directory on disk.  <a href="#ab6c320bddfa9d926dc5f935a137e2698">More...</a><br /></td></tr>
@@ -320,7 +319,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Creates all the directories in the specified path, unless the already exist, applying the specified <a class="el" href="namespace_windows.html">Windows</a> security. </p>
+<p>Creates all the directories in the specified path, unless the already exist, applying the specified Windows security. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">path</td><td>The directory to create.</td></tr>
@@ -1055,7 +1054,7 @@ Static Public Member Functions</h2></td></tr>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td>The <em>path</em>  parameter is <code>null</code>.</td></tr>
     <tr><td class="paramname">T:System.IO.IOException</td><td>An I/O error occurred while opening the directory.</td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> 2000 or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows 2000 or later.</td></tr>
     <tr><td class="paramname">T:System.SystemException</td><td>A system-level error occurred, such as the directory could not be found. The specific exception may be a subclass of T:System.SystemException.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The <em>path</em>  parameter specified a directory that is read-only.-or- This operation is not supported on the current platform.-or- The caller does not have the required permission.</td></tr>
   </table>
@@ -1113,7 +1112,7 @@ Static Public Member Functions</h2></td></tr>
   <table class="exception">
     <tr><td class="paramname">T:System.ArgumentNullException</td><td>The <em>path</em>  parameter is <code>null</code>.</td></tr>
     <tr><td class="paramname">T:System.IO.IOException</td><td>An I/O error occurred while opening the directory.</td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> 2000 or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows 2000 or later.</td></tr>
     <tr><td class="paramname">T:System.SystemException</td><td>A system-level error occurred, such as the directory could not be found. The specific exception may be a subclass of T:System.SystemException.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The <em>path</em>  parameter specified a directory that is read-only.-or- This operation is not supported on the current platform.-or- The caller does not have the required permission.</td></tr>
   </table>
@@ -1244,7 +1243,7 @@ Static Public Member Functions</h2></td></tr>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission. </td></tr>
-    <tr><td class="paramname">T:System.NotSupportedException</td><td>The operating system is <a class="el" href="namespace_windows.html">Windows</a> CE, which does not have current directory functionality.This method is available in the .NET Compact Framework, but is not currently supported.</td></tr>
+    <tr><td class="paramname">T:System.NotSupportedException</td><td>The operating system is Windows CE, which does not have current directory functionality.This method is available in the .NET Compact Framework, but is not currently supported.</td></tr>
   </table>
   </dd>
 </dl>
@@ -2199,7 +2198,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.IO.DirectoryNotFoundException</td><td>The directory could not be found.</td></tr>
     <tr><td class="paramname">T:System.ArgumentException</td><td>The <em>path</em>  was invalid.</td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The current process does not have access to the directory specified by <em>path</em> .-or-The current process does not have sufficient privilege to set the ACL entry.</td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> 2000 or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows 2000 or later.</td></tr>
   </table>
   </dd>
 </dl>
@@ -2258,7 +2257,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters and file names must be less than 260 characters. </td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission. </td></tr>
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td><em>creationTime</em>  specifies a value outside the range of dates or times permitted for this operation. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
   </table>
   </dd>
 </dl>
@@ -2317,7 +2316,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters and file names must be less than 260 characters. </td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission. </td></tr>
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td><em>creationTime</em>  specifies a value outside the range of dates or times permitted for this operation. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
   </table>
   </dd>
 </dl>
@@ -2423,7 +2422,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>path</em>  is <code>null</code>. </td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters and file names must be less than 260 characters. </td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td><em>lastAccessTime</em>  specifies a value outside the range of dates or times permitted for this operation.</td></tr>
   </table>
   </dd>
@@ -2482,7 +2481,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>path</em>  is <code>null</code>. </td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters and file names must be less than 260 characters. </td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td><em>lastAccessTimeUtc</em>  specifies a value outside the range of dates or times permitted for this operation.</td></tr>
   </table>
   </dd>
@@ -2541,7 +2540,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>path</em>  is <code>null</code>. </td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters and file names must be less than 260 characters. </td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td><em>lastWriteTime</em>  specifies a value outside the range of dates or times permitted for this operation.</td></tr>
   </table>
   </dd>
@@ -2600,7 +2599,7 @@ Static Public Member Functions</h2></td></tr>
     <tr><td class="paramname">T:System.ArgumentNullException</td><td><em>path</em>  is <code>null</code>. </td></tr>
     <tr><td class="paramname">T:System.IO.PathTooLongException</td><td>The specified path, file name, or both exceed the system-defined maximum length. For example, on Windows-based platforms, paths must be less than 248 characters and file names must be less than 260 characters. </td></tr>
     <tr><td class="paramname">T:System.UnauthorizedAccessException</td><td>The caller does not have the required permission. </td></tr>
-    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not <a class="el" href="namespace_windows.html">Windows</a> NT or later.</td></tr>
+    <tr><td class="paramname">T:System.PlatformNotSupportedException</td><td>The current operating system is not Windows NT or later.</td></tr>
     <tr><td class="paramname">T:System.ArgumentOutOfRangeException</td><td><em>lastWriteTimeUtc</em>  specifies a value outside the range of dates or times permitted for this operation.</td></tr>
   </table>
   </dd>
@@ -2611,7 +2610,7 @@ Static Public Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>System.IO/<a class="el" href="_directory_8cs_source.html">Directory.cs</a></li>
+<li>D:/All cs/System.IO/<a class="el" href="_directory_8cs_source.html">Directory.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

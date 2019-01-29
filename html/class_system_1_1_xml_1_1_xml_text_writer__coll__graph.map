@@ -1,0 +1,5 @@
+<map id="System.Xml.XmlTextWriter" name="System.Xml.XmlTextWriter">
+<area shape="rect" id="node1" title="Represents a writer that provides a fast, non&#45;cached, forward&#45;only way of generating streams or files..." alt="" coords="5,95,183,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_writer.html" title="Represents a writer that provides a fast, non&#45;cached, forward&#45;only way to generate streams or files t..." alt="" coords="12,5,91,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="115,5,246,32"/>
+</map>

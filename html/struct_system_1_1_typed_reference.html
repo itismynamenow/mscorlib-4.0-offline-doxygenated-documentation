@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: System.TypedReference Struct Reference</title>
+<title>mscorlib(4.0.0.0) API with additions: System.TypedReference Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -106,9 +106,11 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aac88ceaeac0d758b4c8f4e73d9a30883"><td class="memItemLeft" align="right" valign="top">override bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#aac88ceaeac0d758b4c8f4e73d9a30883">Equals</a> (object o)</td></tr>
 <tr class="memdesc:aac88ceaeac0d758b4c8f4e73d9a30883"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if this object is equal to the specified object.  <a href="#aac88ceaeac0d758b4c8f4e73d9a30883">More...</a><br /></td></tr>
 <tr class="separator:aac88ceaeac0d758b4c8f4e73d9a30883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade97e67eb0f6c45e8e8f55658660ba34"><td class="memItemLeft" align="right" valign="top">internal static unsafe object&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#ade97e67eb0f6c45e8e8f55658660ba34">InternalToObject</a> (void *<a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:ade97e67eb0f6c45e8e8f55658660ba34"><td class="memItemLeft" align="right" valign="top"><a id="ade97e67eb0f6c45e8e8f55658660ba34"></a>
+internal static unsafe object&#160;</td><td class="memItemRight" valign="bottom"><b>InternalToObject</b> (void *value)</td></tr>
 <tr class="separator:ade97e67eb0f6c45e8e8f55658660ba34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b482c10cb459dc34b0a09a2c6ac597f"><td class="memItemLeft" align="right" valign="top">internal static unsafe void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#a6b482c10cb459dc34b0a09a2c6ac597f">InternalSetTypedReference</a> (void *target, object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a6b482c10cb459dc34b0a09a2c6ac597f"><td class="memItemLeft" align="right" valign="top"><a id="a6b482c10cb459dc34b0a09a2c6ac597f"></a>
+internal static unsafe void&#160;</td><td class="memItemRight" valign="bottom"><b>InternalSetTypedReference</b> (void *target, object value)</td></tr>
 <tr class="separator:a6b482c10cb459dc34b0a09a2c6ac597f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
@@ -116,22 +118,23 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:ad9aa1f04823c8040f37f726e36415ffd"><td class="memItemLeft" align="right" valign="top">static unsafe <a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#ad9aa1f04823c8040f37f726e36415ffd">MakeTypedReference</a> (object target, <a class="el" href="class_system_1_1_reflection_1_1_field_info.html">FieldInfo</a>[] flds)</td></tr>
 <tr class="memdesc:ad9aa1f04823c8040f37f726e36415ffd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes a <code><a class="el" href="struct_system_1_1_typed_reference.html" title="Describes objects that contain both a managed pointer to a location and a runtime representation of t...">TypedReference</a></code> for a field identified by a specified object and list of field descriptions.  <a href="#ad9aa1f04823c8040f37f726e36415ffd">More...</a><br /></td></tr>
 <tr class="separator:ad9aa1f04823c8040f37f726e36415ffd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a54e57ce8c44b9803b41ea6e80888e332"><td class="memItemLeft" align="right" valign="top">static unsafe object&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#a54e57ce8c44b9803b41ea6e80888e332">ToObject</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a54e57ce8c44b9803b41ea6e80888e332"><td class="memItemLeft" align="right" valign="top">static unsafe object&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#a54e57ce8c44b9803b41ea6e80888e332">ToObject</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> value)</td></tr>
 <tr class="memdesc:a54e57ce8c44b9803b41ea6e80888e332"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the specified <code><a class="el" href="struct_system_1_1_typed_reference.html" title="Describes objects that contain both a managed pointer to a location and a runtime representation of t...">TypedReference</a></code> to an <code><a class="el" href="class_system_1_1_object.html" title="Supports all classes in the .NET Framework class hierarchy and provides low-level services to derived...">Object</a></code>.  <a href="#a54e57ce8c44b9803b41ea6e80888e332">More...</a><br /></td></tr>
 <tr class="separator:a54e57ce8c44b9803b41ea6e80888e332"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad499f96cf89137bcf106413873892bf0"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_system_1_1_type.html">Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#ad499f96cf89137bcf106413873892bf0">GetTargetType</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:ad499f96cf89137bcf106413873892bf0"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_system_1_1_type.html">Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#ad499f96cf89137bcf106413873892bf0">GetTargetType</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> value)</td></tr>
 <tr class="memdesc:ad499f96cf89137bcf106413873892bf0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the type of the target of the specified <code><a class="el" href="struct_system_1_1_typed_reference.html" title="Describes objects that contain both a managed pointer to a location and a runtime representation of t...">TypedReference</a></code>.  <a href="#ad499f96cf89137bcf106413873892bf0">More...</a><br /></td></tr>
 <tr class="separator:ad499f96cf89137bcf106413873892bf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a63a21643ae77c22c52be7d2123178adb"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_runtime_type_handle.html">RuntimeTypeHandle</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#a63a21643ae77c22c52be7d2123178adb">TargetTypeToken</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:a63a21643ae77c22c52be7d2123178adb"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="struct_system_1_1_runtime_type_handle.html">RuntimeTypeHandle</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#a63a21643ae77c22c52be7d2123178adb">TargetTypeToken</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> value)</td></tr>
 <tr class="memdesc:a63a21643ae77c22c52be7d2123178adb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the internal metadata type handle for the specified <code><a class="el" href="struct_system_1_1_typed_reference.html" title="Describes objects that contain both a managed pointer to a location and a runtime representation of t...">TypedReference</a></code>.  <a href="#a63a21643ae77c22c52be7d2123178adb">More...</a><br /></td></tr>
 <tr class="separator:a63a21643ae77c22c52be7d2123178adb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab7a7f7e21415e2d1fa3fbed1d1fca2c7"><td class="memItemLeft" align="right" valign="top">static unsafe void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#ab7a7f7e21415e2d1fa3fbed1d1fca2c7">SetTypedReference</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> target, object <a class="el" href="namespace_system.html#a566c7365b77de53642aa0634953e1637a2063c1608d6e0baf80249c42e2be5804">value</a>)</td></tr>
+<tr class="memitem:ab7a7f7e21415e2d1fa3fbed1d1fca2c7"><td class="memItemLeft" align="right" valign="top">static unsafe void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#ab7a7f7e21415e2d1fa3fbed1d1fca2c7">SetTypedReference</a> (<a class="el" href="struct_system_1_1_typed_reference.html">TypedReference</a> target, object value)</td></tr>
 <tr class="memdesc:ab7a7f7e21415e2d1fa3fbed1d1fca2c7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the specified value to a <code><a class="el" href="struct_system_1_1_typed_reference.html" title="Describes objects that contain both a managed pointer to a location and a runtime representation of t...">TypedReference</a></code>. This method is not supported.  <a href="#ab7a7f7e21415e2d1fa3fbed1d1fca2c7">More...</a><br /></td></tr>
 <tr class="separator:ab7a7f7e21415e2d1fa3fbed1d1fca2c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="properties"></a>
 Properties</h2></td></tr>
-<tr class="memitem:afa438eb330a77f2a3eb63624eb7101a4"><td class="memItemLeft" align="right" valign="top">internal bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_system_1_1_typed_reference.html#afa438eb330a77f2a3eb63624eb7101a4">IsNull</a><code> [get]</code></td></tr>
+<tr class="memitem:afa438eb330a77f2a3eb63624eb7101a4"><td class="memItemLeft" align="right" valign="top"><a id="afa438eb330a77f2a3eb63624eb7101a4"></a>
+internal bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsNull</b><code> [get]</code></td></tr>
 <tr class="separator:afa438eb330a77f2a3eb63624eb7101a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -230,52 +233,6 @@ Properties</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>The type of the target of the specified <code><a class="el" href="struct_system_1_1_typed_reference.html" title="Describes objects that contain both a managed pointer to a location and a runtime representation of t...">TypedReference</a></code>.</dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="_typed_reference_8cs_source.html#l00130">130</a> of file <a class="el" href="_typed_reference_8cs_source.html">TypedReference.cs</a>.</p>
-
-</div>
-</div>
-<a id="a6b482c10cb459dc34b0a09a2c6ac597f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b482c10cb459dc34b0a09a2c6ac597f">&#9670;&nbsp;</a></span>InternalSetTypedReference()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal static unsafe void System.TypedReference.InternalSetTypedReference </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>target</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">object&#160;</td>
-          <td class="paramname"><em>value</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ade97e67eb0f6c45e8e8f55658660ba34"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade97e67eb0f6c45e8e8f55658660ba34">&#9670;&nbsp;</a></span>InternalToObject()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal static unsafe object System.TypedReference.InternalToObject </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>value</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -462,33 +419,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Property Documentation</h2>
-<a id="afa438eb330a77f2a3eb63624eb7101a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa438eb330a77f2a3eb63624eb7101a4">&#9670;&nbsp;</a></span>IsNull</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">internal bool System.TypedReference.IsNull</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">get</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="_typed_reference_8cs_source.html#l00020">20</a> of file <a class="el" href="_typed_reference_8cs_source.html">TypedReference.cs</a>.</p>
-
-</div>
-</div>
 <hr/>The documentation for this struct was generated from the following file:<ul>
-<li>System/<a class="el" href="_typed_reference_8cs_source.html">TypedReference.cs</a></li>
+<li>D:/All cs/System/<a class="el" href="_typed_reference_8cs_source.html">TypedReference.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

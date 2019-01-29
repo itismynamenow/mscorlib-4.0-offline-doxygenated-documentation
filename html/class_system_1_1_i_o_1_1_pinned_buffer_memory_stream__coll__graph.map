@@ -1,8 +1,0 @@
-<map id="System.IO.PinnedBufferMemoryStream" name="System.IO.PinnedBufferMemoryStream">
-<area shape="rect" id="node1" title=" " alt="" coords="40,323,248,364"/>
-<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_unmanaged_memory_stream.html" title="Provides access to unmanaged blocks of memory from managed code." alt="" coords="54,247,234,273"/>
-<area shape="rect" id="node3" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="112,171,176,197"/>
-<area shape="rect" id="node4" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
-<area shape="rect" id="node6" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="79,81,209,108"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="211,5,301,32"/>
-</map>

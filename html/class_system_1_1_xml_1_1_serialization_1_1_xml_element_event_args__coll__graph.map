@@ -1,0 +1,5 @@
+<map id="System.Xml.Serialization.XmlElementEventArgs" name="System.Xml.Serialization.XmlElementEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Xml.Serialization.XmlSerializer.UnknownElement event." alt="" coords="34,95,205,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_xml_element.html" title="Represents an element." alt="" coords="111,5,277,32"/>
+</map>

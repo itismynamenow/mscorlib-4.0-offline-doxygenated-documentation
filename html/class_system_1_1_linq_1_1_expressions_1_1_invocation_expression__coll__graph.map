@@ -1,0 +1,5 @@
+<map id="System.Linq.Expressions.InvocationExpression" name="System.Linq.Expressions.InvocationExpression">
+<area shape="rect" id="node1" title="Represents an expression that applies a delegate or lambda expression to a list of argument expressio..." alt="" coords="27,80,201,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_linq_1_1_expressions_1_1_expression.html" title="Provides the base class from which the classes that represent expression tree nodes are derived...." alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_linq_1_1_expressions_1_1_i_argument_provider.html" title="Provides an internal interface for accessing the arguments of multiple tree nodes (DynamicExpression,..." alt="" coords="116,5,243,32"/>
+</map>

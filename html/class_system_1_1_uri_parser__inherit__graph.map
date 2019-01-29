@@ -1,0 +1,12 @@
+<map id="System.UriParser" name="System.UriParser">
+<area shape="rect" id="node1" title="Parses a new URI scheme. This is an abstract class." alt="" coords="5,208,131,235"/>
+<area shape="rect" id="node2" href="$class_system_1_1_file_style_uri_parser.html" title="A customizable parser based on the File scheme." alt="" coords="191,5,367,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_ftp_style_uri_parser.html" title="A customizable parser based on the File Transfer Protocol (FTP) scheme." alt="" coords="192,56,367,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_generic_uri_parser.html" title="A customizable parser for a hierarchical URI." alt="" coords="194,107,365,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_gopher_style_uri_parser.html" title="A customizable parser based on the Gopher scheme." alt="" coords="181,157,378,184"/>
+<area shape="rect" id="node6" href="$class_system_1_1_http_style_uri_parser.html" title="A customizable parser based on the HTTP scheme." alt="" coords="190,208,369,235"/>
+<area shape="rect" id="node7" href="$class_system_1_1_ldap_style_uri_parser.html" title="A customizable parser based on the Lightweight Directory Access Protocol (LDAP) scheme." alt="" coords="188,259,371,285"/>
+<area shape="rect" id="node8" href="$class_system_1_1_net_pipe_style_uri_parser.html" title="A parser based on the NetPipe scheme for the &quot;Indigo&quot; system." alt="" coords="179,309,380,336"/>
+<area shape="rect" id="node9" href="$class_system_1_1_net_tcp_style_uri_parser.html" title="A parser based on the NetTcp scheme for the &quot;Indigo&quot; system." alt="" coords="181,360,377,387"/>
+<area shape="rect" id="node10" href="$class_system_1_1_news_style_uri_parser.html" title="A customizable parser based on the news scheme using the Network News Transfer Protocol (NNTP)." alt="" coords="186,411,373,437"/>
+</map>

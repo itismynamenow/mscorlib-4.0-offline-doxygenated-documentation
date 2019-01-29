@@ -1,8 +1,7 @@
 <map id="System.Runtime.Remoting.Messaging.MethodReturnMessageWrapper" name="System.Runtime.Remoting.Messaging.MethodReturnMessageWrapper">
-<area shape="rect" id="node1" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="152,261,375,317"/>
-<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_internal_message_wrapper.html" title="Wraps remoting data for passing between message sinks, either for requests from client to server or f..." alt="" coords="17,185,184,212"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="5,81,188,123"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_return_message.html" title="Defines the method call return message interface." alt="" coords="264,185,423,212"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="339,89,460,115"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="261,5,340,32"/>
+<area shape="rect" id="node1" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="157,229,380,285"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_internal_message_wrapper.html" title="Wraps remoting data for passing between message sinks, either for requests from client to server or f..." alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_return_message.html" title="Defines the method call return message interface." alt="" coords="248,155,407,181"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="332,80,453,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="255,5,333,32"/>
 </map>

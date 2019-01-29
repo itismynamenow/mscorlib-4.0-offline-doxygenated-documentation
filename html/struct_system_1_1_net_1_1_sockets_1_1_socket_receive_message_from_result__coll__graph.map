@@ -1,0 +1,5 @@
+<map id="System.Net.Sockets.SocketReceiveMessageFromResult" name="System.Net.Sockets.SocketReceiveMessageFromResult">
+<area shape="rect" id="node1" title="The result of a M:System.Net.Sockets.SocketTaskExtensions.ReceiveMessageFromAsync(System...." alt="" coords="84,109,272,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_end_point.html" title="Identifies a network address. This is an abstract class." alt="" coords="5,13,153,39"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_net_1_1_sockets_1_1_i_p_packet_information.html" title="Presents the packet information from a call to M:System.Net.Sockets.Socket.ReceiveMessageFrom(System...." alt="" coords="178,5,378,47"/>
+</map>

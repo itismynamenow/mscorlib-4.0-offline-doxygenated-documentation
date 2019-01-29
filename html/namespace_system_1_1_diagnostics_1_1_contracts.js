@@ -6,7 +6,6 @@ var namespace_system_1_1_diagnostics_1_1_contracts =
     [ "ContractArgumentValidatorAttribute", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_argument_validator_attribute.html", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_argument_validator_attribute" ],
     [ "ContractClassAttribute", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_class_attribute.html", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_class_attribute" ],
     [ "ContractClassForAttribute", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_class_for_attribute.html", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_class_for_attribute" ],
-    [ "ContractException", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_exception.html", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_exception" ],
     [ "ContractFailedEventArgs", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_failed_event_args.html", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_failed_event_args" ],
     [ "ContractInvariantMethodAttribute", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_invariant_method_attribute.html", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_invariant_method_attribute" ],
     [ "ContractOptionAttribute", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_option_attribute.html", "class_system_1_1_diagnostics_1_1_contracts_1_1_contract_option_attribute" ],

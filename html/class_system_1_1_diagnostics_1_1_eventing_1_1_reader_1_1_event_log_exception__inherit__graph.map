@@ -1,0 +1,9 @@
+<map id="System.Diagnostics.Eventing.Reader.EventLogException" name="System.Diagnostics.Eventing.Reader.EventLogException">
+<area shape="rect" id="node1" title="Represents the base class for all the exceptions that are thrown when an error occurs while reading e..." alt="" coords="273,108,469,149"/>
+<area shape="rect" id="node4" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_invalid_data_exception.html" title="Represents the exception thrown when an event provider publishes invalid data in an event." alt="" coords="517,5,757,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_not_found_exception.html" title="Represents the exception that is thrown when a requested event log (usually specified by the name of ..." alt="" coords="520,71,755,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_provider_disabled_exception.html" title="Represents the exception that is thrown when a specified event provider name references a disabled ev..." alt="" coords="529,137,745,193"/>
+<area shape="rect" id="node7" href="$class_system_1_1_diagnostics_1_1_eventing_1_1_reader_1_1_event_log_reading_exception.html" title="Represents an exception that is thrown when an error occurred while reading, querying,..." alt="" coords="525,217,750,259"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="145,141,225,167"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,115,97,142"/>
+</map>

@@ -1,10 +1,5 @@
 <map id="System.Security.Policy.PermissionRequestEvidence" name="System.Security.Policy.PermissionRequestEvidence">
-<area shape="rect" id="node1" title="Defines evidence that represents permission requests. This class cannot be inherited." alt="" coords="19,276,247,317"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="25,157,129,184"/>
-<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_permission_set.html" title="Represents a collection that can contain many different types of permissions." alt="" coords="153,157,361,184"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,81,140,108"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="215,81,298,108"/>
-<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="159,5,253,32"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_security_1_1_i_stack_walk.html" title="Manages the stack walk that determines whether all callers in the call stack have the required permis..." alt="" coords="323,81,412,108"/>
-<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="437,81,597,108"/>
+<area shape="rect" id="node1" title="Defines evidence that represents permission requests. This class cannot be inherited." alt="" coords="33,124,261,165"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_permission_set.html" title="Represents a collection that can contain many different types of permissions." alt="" coords="133,5,341,32"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="System.Security.Cryptography.AesCng" name="System.Security.Cryptography.AesCng">
+<area shape="rect" id="node1" title="Provides a Cryptography Next Generation (CNG) implementation of the Advanced Encryption Standard (AES..." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_aes.html" title="Represents the abstract base class from which all implementations of the Advanced Encryption Standard..." alt="" coords="85,5,130,32"/>
+</map>

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>mscorlib(4.0.0.0) offline documentation: Package Functions</title>
+<title>mscorlib(4.0.0.0) API with additions: Package Functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">mscorlib(4.0.0.0) offline documentation
+   <div id="projectname">mscorlib(4.0.0.0) API with additions
    </div>
   </td>
  </tr>
@@ -91,9 +91,6 @@ $(document).ready(function(){initNavTree('namespacemembers_enum_c.html','');});
 <li>CalendarAlgorithmType
 : <a class="el" href="namespace_system_1_1_globalization.html#a45ddedf659d8b9a6a4cd2cdfb67a9d52">System.Globalization</a>
 </li>
-<li>CalendarId
-: <a class="el" href="namespace_system_1_1_globalization.html#a399e1ff10e72b9990f54d916dd827906">System.Globalization</a>
-</li>
 <li>CalendarWeekRule
 : <a class="el" href="namespace_system_1_1_globalization.html#af20d8741acf9dbad11d698cbaf378a5f">System.Globalization</a>
 </li>
@@ -107,35 +104,17 @@ $(document).ready(function(){initNavTree('namespacemembers_enum_c.html','');});
 <li>CallingConventions
 : <a class="el" href="namespace_system_1_1_reflection.html#a25946f09f241ece18ecc601bdfbe7821">System.Reflection</a>
 </li>
-<li>CallType
-: <a class="el" href="namespace_system_1_1_runtime_1_1_remoting_1_1_proxies.html#a394f43c427c47ba89d4ee316bb910e14">System.Runtime.Remoting.Proxies</a>
-</li>
-<li>CategoryMembershipDataEntryFieldId
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#ac82b6becc6b828300531bcafcf6c15ea">System.Deployment.Internal.Isolation.Manifest</a>
-</li>
-<li>CategoryMembershipEntryFieldId
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#aad0c948d12ce9f555605ecf979a219c9">System.Deployment.Internal.Isolation.Manifest</a>
-</li>
-<li>CausalityRelation
-: <a class="el" href="namespace_system_1_1_threading_1_1_tasks.html#a9de86dda0a3d94af9bc0cd562a1bff9c">System.Threading.Tasks</a>
-, <a class="el" href="namespace_windows_1_1_foundation_1_1_diagnostics.html#a45d3c9f2fddbec91a3035d3e79a246c8">Windows.Foundation.Diagnostics</a>
-</li>
-<li>CausalitySource
-: <a class="el" href="namespace_windows_1_1_foundation_1_1_diagnostics.html#a3a370b356cb758e027ffea6414919c72">Windows.Foundation.Diagnostics</a>
-</li>
-<li>CausalitySynchronousWork
-: <a class="el" href="namespace_system_1_1_threading_1_1_tasks.html#a07a3742ee9d247f2b7ce72ae80394ff9">System.Threading.Tasks</a>
-, <a class="el" href="namespace_windows_1_1_foundation_1_1_diagnostics.html#a63986dc9acde6ceb9a128207a5bd1e56">Windows.Foundation.Diagnostics</a>
-</li>
-<li>CausalityTraceLevel
-: <a class="el" href="namespace_system_1_1_threading_1_1_tasks.html#aa131aaf621c5c2c2310ee9ca21983eb7">System.Threading.Tasks</a>
-, <a class="el" href="namespace_windows_1_1_foundation_1_1_diagnostics.html#aa82022f66e6c5b053464b95c6479f156">Windows.Foundation.Diagnostics</a>
-</li>
 <li>Cer
 : <a class="el" href="namespace_system_1_1_runtime_1_1_constrained_execution.html#ad154625da20e045f3e5a64ab24b14e17">System.Runtime.ConstrainedExecution</a>
 </li>
+<li>ChannelBindingKind
+: <a class="el" href="namespace_system_1_1_security_1_1_authentication_1_1_extended_protection.html#addbcc87b490531d7d0b7ccc67f4efc3c">System.Security.Authentication.ExtendedProtection</a>
+</li>
 <li>CharSet
 : <a class="el" href="namespace_system_1_1_runtime_1_1_interop_services.html#a3ff5ccd1e82cddd9d9c6408d1626ef28">System.Runtime.InteropServices</a>
+</li>
+<li>CipherAlgorithmType
+: <a class="el" href="namespace_system_1_1_security_1_1_authentication.html#a3f67e0eaf200af4fcb5a2218bb6b4a5c">System.Security.Authentication</a>
 </li>
 <li>CipherMode
 : <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#a0cd105cf3610b061caefc3ab67df1e18">System.Security.Cryptography</a>
@@ -143,50 +122,41 @@ $(document).ready(function(){initNavTree('namespacemembers_enum_c.html','');});
 <li>ClassInterfaceType
 : <a class="el" href="namespace_system_1_1_runtime_1_1_interop_services.html#a268c22afdd82114db96f39464df9c513">System.Runtime.InteropServices</a>
 </li>
-<li>CLRSurrogateEntryFieldId
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a8c465b3589f78d3a11a4f3c907a171dd">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CngExportPolicies
+: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#a56087c56f229be224faeab0502c7db42">System.Security.Cryptography</a>
 </li>
-<li>CMS_ASSEMBLY_DEPLOYMENT_FLAG
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a62643708cf580cfe4166b15ee5ee91a7">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CngKeyCreationOptions
+: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#ac6d9f7206c62e1c3973766b253ba997c">System.Security.Cryptography</a>
 </li>
-<li>CMS_ASSEMBLY_REFERENCE_DEPENDENT_ASSEMBLY_FLAG
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#af1fefb4128a8dacda27a6be1d1f335fe">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CngKeyHandleOpenOptions
+: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#a13356baa4836cd29113d43730ce60d74">System.Security.Cryptography</a>
 </li>
-<li>CMS_ASSEMBLY_REFERENCE_FLAG
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#ae610937fcb3cd145428411975420734c">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CngKeyOpenOptions
+: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#ae3bac5c98f0672ea39be99bdc2d6ba1b">System.Security.Cryptography</a>
 </li>
-<li>CMS_COM_SERVER_FLAG
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a52e2bacc3e0f706a5d1d41bebaa501c7">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CngKeyUsages
+: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#acd2e7260e4c56de9bdd6241bb708219c">System.Security.Cryptography</a>
 </li>
-<li>CMS_ENTRY_POINT_FLAG
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a4ed5d939bcb8f748380440e7187479a0">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CngPropertyOptions
+: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#ade6b5a9333378926df916875529cc3c5">System.Security.Cryptography</a>
 </li>
-<li>CMS_FILE_FLAG
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a51898773c5203d70c7719687877ec7a5">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CngUIProtectionLevels
+: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#ae5e6df5c961697df887db7ce7c7b9f16">System.Security.Cryptography</a>
 </li>
-<li>CMS_FILE_HASH_ALGORITHM
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#ad48cfda4f83d4652ce16d8d0bbf52552">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CodeBinaryOperatorType
+: <a class="el" href="namespace_system_1_1_code_dom.html#ad254377fd81598c2de15482cdbfffeae">System.CodeDom</a>
 </li>
-<li>CMS_FILE_WRITABLE_TYPE
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#aa10da4b1a880e5dd02c2895bf54b3d81">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CodeGenerationOptions
+: <a class="el" href="namespace_system_1_1_xml_1_1_serialization.html#af634611478ee6c893822e912247f264d">System.Xml.Serialization</a>
 </li>
-<li>CMS_HASH_DIGESTMETHOD
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a79617b6433a8bd66c5b5dab87938b39f">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CodeRegionMode
+: <a class="el" href="namespace_system_1_1_code_dom.html#a721b1f1a02760a525f682a6006f41687">System.CodeDom</a>
 </li>
-<li>CMS_HASH_TRANSFORM
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#aad64ed6cdf9d32cd655c6183212c439c">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CodeTypeReferenceOptions
+: <a class="el" href="namespace_system_1_1_code_dom.html#a84c117a5ce10afd73095f5811105ed56">System.CodeDom</a>
 </li>
-<li>CMS_SCHEMA_VERSION
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a22fd6d5a88894f79a5980ae65d002f3e">System.Deployment.Internal.Isolation.Manifest</a>
-</li>
-<li>CMS_TIME_UNIT_TYPE
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a3b54abb88683fd2fd277443619b51127">System.Deployment.Internal.Isolation.Manifest</a>
-</li>
-<li>CMS_USAGE_PATTERN
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#ac4c7cb83b06b08710ea5c09cfd420675">System.Deployment.Internal.Isolation.Manifest</a>
-</li>
-<li>CMSSECTIONID
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a2942a4f31b833749270bc45c2d8440f9">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CollectionChangeAction
+: <a class="el" href="namespace_system_1_1_component_model.html#a2c8969f3ecf6087b637f73a7fb70a186">System.ComponentModel</a>
 </li>
 <li>ComInterfaceType
 : <a class="el" href="namespace_system_1_1_runtime_1_1_interop_services.html#a7ea1fd2f7cfc6eb2f3d31c08e566b231">System.Runtime.InteropServices</a>
@@ -197,12 +167,6 @@ $(document).ready(function(){initNavTree('namespacemembers_enum_c.html','');});
 <li>CompareOptions
 : <a class="el" href="namespace_system_1_1_globalization.html#ac84f780dac0d3546476cf8ec42444b40">System.Globalization</a>
 </li>
-<li>CompatibilityFlag
-: <a class="el" href="namespace_system.html#aa0aef5be110e36c32fb5312a4fdaec1a">System</a>
-</li>
-<li>CompatibleFrameworksMetadataEntryFieldId
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#ac5db737bf3e0c1f038240d8a5e8cc3c3">System.Deployment.Internal.Isolation.Manifest</a>
-</li>
 <li>CompilationRelaxations
 : <a class="el" href="namespace_system_1_1_runtime_1_1_compiler_services.html#a68636b06515d0bb12defcb07acbd1dea">System.Runtime.CompilerServices</a>
 </li>
@@ -212,20 +176,14 @@ $(document).ready(function(){initNavTree('namespacemembers_enum_c.html','');});
 <li>CompoundAceType
 : <a class="el" href="namespace_system_1_1_security_1_1_access_control.html#a4975a4dfe57b02ff6f66cdc71cdd3562">System.Security.AccessControl</a>
 </li>
-<li>COMServerEntryFieldId
-: <a class="el" href="namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#affe9053378e0fdaf5a798df052be5604">System.Deployment.Internal.Isolation.Manifest</a>
+<li>CompressionLevel
+: <a class="el" href="namespace_system_1_1_i_o_1_1_compression.html#a893de1c505bb182c7f2569c6efafe394">System.IO.Compression</a>
 </li>
-<li>ConfigEvents
-: <a class="el" href="namespace_system.html#aefc4da5cbafdaef0cd33aa88ee657b70">System</a>
+<li>CompressionMode
+: <a class="el" href="namespace_system_1_1_i_o_1_1_compression.html#af6199e6ebe44c5e821f5149b7d2390ad">System.IO.Compression</a>
 </li>
-<li>ConfigId
-: <a class="el" href="namespace_system_1_1_security_1_1_policy.html#ad38c269e2749eeacc5996f4840cd807b">System.Security.Policy</a>
-</li>
-<li>ConfigNodeSubType
-: <a class="el" href="namespace_system.html#a0a07336c131df63f71cf8d279bce526d">System</a>
-</li>
-<li>ConfigNodeType
-: <a class="el" href="namespace_system.html#af5c85727c0f673ec3ac1350b8b52cf87">System</a>
+<li>ConformanceLevel
+: <a class="el" href="namespace_system_1_1_xml.html#a82c24f17c8d298d731091639910e7ec7">System.Xml</a>
 </li>
 <li>Consistency
 : <a class="el" href="namespace_system_1_1_runtime_1_1_constrained_execution.html#a839fafbe457b5fb25388dfcd7ac43906">System.Runtime.ConstrainedExecution</a>
@@ -248,14 +206,11 @@ $(document).ready(function(){initNavTree('namespacemembers_enum_c.html','');});
 <li>ControlFlags
 : <a class="el" href="namespace_system_1_1_security_1_1_access_control.html#afcb695b3e00c16a60aaa1d254f05ea02">System.Security.AccessControl</a>
 </li>
-<li>ControllerCommand
-: <a class="el" href="namespace_system_1_1_diagnostics_1_1_tracing.html#aa03fd697da3118eccd05ba4aed913796">System.Diagnostics.Tracing</a>
+<li>CounterSetInstanceType
+: <a class="el" href="namespace_system_1_1_diagnostics_1_1_performance_data.html#a7af7b8c1bbc9f021b9e3eb752a452ab1">System.Diagnostics.PerformanceData</a>
 </li>
-<li>CorElementType
-: <a class="el" href="namespace_system_1_1_reflection.html#a00b13d34a9eea959535b8261dc292594">System.Reflection</a>
-</li>
-<li>CryptoAPITransformMode
-: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#a2aec97c9cf4cc61ab592a47204a7d643">System.Security.Cryptography</a>
+<li>CounterType
+: <a class="el" href="namespace_system_1_1_diagnostics_1_1_performance_data.html#a09f827f977b0a0aaac8fe20aa0bbb7ae">System.Diagnostics.PerformanceData</a>
 </li>
 <li>CryptoKeyRights
 : <a class="el" href="namespace_system_1_1_security_1_1_access_control.html#ab227a0505bcd52c35ef1ed4bcf0f1f48">System.Security.AccessControl</a>
@@ -263,17 +218,11 @@ $(document).ready(function(){initNavTree('namespacemembers_enum_c.html','');});
 <li>CryptoStreamMode
 : <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#af7e7e75cfb3e0bbdb2dc08e0420f1ee8">System.Security.Cryptography</a>
 </li>
-<li>CspAlgorithmType
-: <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#a52da25cf75e880f9a35693310a2e3950">System.Security.Cryptography</a>
-</li>
 <li>CspProviderFlags
 : <a class="el" href="namespace_system_1_1_security_1_1_cryptography.html#aefb9e4c7141772ae1cb24db2605bfaf8">System.Security.Cryptography</a>
 </li>
 <li>CultureTypes
 : <a class="el" href="namespace_system_1_1_globalization.html#a823250964d7d99b0193e14b6b3f1f476">System.Globalization</a>
-</li>
-<li>CustomAttributeEncoding
-: <a class="el" href="namespace_system_1_1_reflection.html#af227e3cf5a78a312634f47e4cd8f3365">System.Reflection</a>
 </li>
 <li>CustomErrorsModes
 : <a class="el" href="namespace_system_1_1_runtime_1_1_remoting.html#a1bb6725286ea2a5bce8490a8c901766f">System.Runtime.Remoting</a>

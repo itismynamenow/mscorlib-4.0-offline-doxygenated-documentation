@@ -1,0 +1,5 @@
+<map id="System.Threading.ThreadExceptionEventArgs" name="System.Threading.ThreadExceptionEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Windows.Forms.Application.ThreadException event." alt="" coords="5,95,233,136"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="15,5,96,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="120,5,249,32"/>
+</map>

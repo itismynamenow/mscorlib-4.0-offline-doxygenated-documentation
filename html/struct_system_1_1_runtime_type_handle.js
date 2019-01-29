@@ -1,6 +1,5 @@
 var struct_system_1_1_runtime_type_handle =
 [
-    [ "IntroducedMethodEnumerator", "struct_system_1_1_runtime_type_handle_1_1_introduced_method_enumerator.html", "struct_system_1_1_runtime_type_handle_1_1_introduced_method_enumerator" ],
     [ "RuntimeTypeHandle", "struct_system_1_1_runtime_type_handle.html#acc7a28446f4b4e99ab52492b03d72144", null ],
     [ "Allocate", "struct_system_1_1_runtime_type_handle.html#aa3fb67bfc181a15b6bc9b25260bf62a6", null ],
     [ "CanCastTo", "struct_system_1_1_runtime_type_handle.html#a58972c7d814e3e95421e1c0274225d65", null ],

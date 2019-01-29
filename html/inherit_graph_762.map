@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_channel_sink_provider.html" title="Creates client channel sinks for the client channel through which remoting messages flow." alt="" coords="5,13,240,54"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_formatter_sink_provider.html" title="Marks a client channel sink provider as a client formatter sink provider." alt="" coords="288,5,487,61"/>
-</map>

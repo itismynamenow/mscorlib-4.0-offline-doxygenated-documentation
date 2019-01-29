@@ -1,18 +1,15 @@
 var searchData=
 [
   ['k',['K',['../namespace_system.html#aca95f49b90253ad60ca8fe35c508b3d1aa5f3c6a11b03839d46af9fb43c97c188',1,'System']]],
-  ['kerbinteractivelogon',['KerbInteractiveLogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9ae445e59b4ef765644c4d8de8c2703762',1,'System::Security::Principal']]],
-  ['kerbproxylogon',['KerbProxyLogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9a0de981ec46d10b1c0ac1082eb088e12b',1,'System::Security::Principal']]],
-  ['kerbs4ulogon',['KerbS4ULogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9a95fdfdf0d8d9f69b2abd1a9dd9a89007',1,'System::Security::Principal']]],
-  ['kerbsmartcardlogon',['KerbSmartCardLogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9aff47f21a27b0cdeccec10ac10e2e5b04',1,'System::Security::Principal']]],
-  ['kerbsmartcardunlocklogon',['KerbSmartCardUnlockLogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9aa9f18ec8ee02fcd61d5aab96ea61891e',1,'System::Security::Principal']]],
-  ['kerbticketlogon',['KerbTicketLogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9ae281ece5f91dd8d8ee4e4967438da2a5',1,'System::Security::Principal']]],
-  ['kerbticketunlocklogon',['KerbTicketUnlockLogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9a887e754cd8595f78d8b79c816d3a7793',1,'System::Security::Principal']]],
-  ['kerbworkstationunlocklogon',['KerbWorkstationUnlockLogon',['../namespace_system_1_1_security_1_1_principal.html#a0a3ae2dfcf21d49032d8ab92885523e9aa8120e92fd624d71a91d997824d31fc0',1,'System::Security::Principal']]],
+  ['keepalive',['KeepAlive',['../namespace_system_1_1_net.html#a9e08dd788264620de564ae20044ee48ba17229586d3c63a13bfdc6c71c569c867',1,'System.Net.KeepAlive()'],['../namespace_system_1_1_net.html#a8efb7c7f8d8e466367c981fbcbaf85e6a17229586d3c63a13bfdc6c71c569c867',1,'System.Net.KeepAlive()'],['../namespace_system_1_1_net_1_1_sockets.html#af22896a81bc15a649660a098a188aa53a17229586d3c63a13bfdc6c71c569c867',1,'System.Net.Sockets.KeepAlive()']]],
+  ['keepalivefailure',['KeepAliveFailure',['../namespace_system_1_1_net.html#ad23f0180376b769bd3b8165b70ced26eabce2c7f523823834dd53efd28e7cb9c1',1,'System::Net']]],
+  ['keepalivevalues',['KeepAliveValues',['../namespace_system_1_1_net_1_1_sockets.html#a7c368e901ae8897ae66bb47c63240583a598644821d1da136c2c3771ff792725a',1,'System::Net::Sockets']]],
+  ['keepdelimiter',['KeepDelimiter',['../namespace_system.html#af9931ba346cf7e3bdcdfdba5c5cf4e13ad7199979e3d58410669da77a1d76599e',1,'System']]],
+  ['kerberos',['Kerberos',['../namespace_system_1_1_diagnostics_1_1_eventing_1_1_reader.html#acb5ee69e843224f60071cd987aa6d3d2a87b3695bfd6f672e2c7c4da7ca2b46a8',1,'System::Diagnostics::Eventing::Reader']]],
   ['kernelobject',['KernelObject',['../namespace_system_1_1_security_1_1_access_control.html#a13e857c667c0d868b4d0800f73b06c2dae001fe22a61413f0935879d9a1fbc7e4',1,'System::Security::AccessControl']]],
-  ['key',['key',['../namespace_system.html#a566c7365b77de53642aa0634953e1637a3c6e0b8a9c15224a8228b9a98ca1531d',1,'System']]],
-  ['keycontainerpermission',['KeyContainerPermission',['../namespace_system_1_1_security_1_1_permissions.html#aef14e460b32eb779945f36bc691d5826a0b22265667c2014fef1b6f4141c605f7',1,'System::Security::Permissions']]],
-  ['keyderivationfunction',['KeyDerivationFunction',['../namespace_system_1_1_security_1_1_cryptography_1_1_x509_certificates.html#ab5cf31e2e951984fcc6f92c376c2f5c2a0f59ec262b9c0ff75590ff857fe2f703',1,'System::Security::Cryptography::X509Certificates']]],
-  ['korea',['KOREA',['../namespace_system_1_1_globalization.html#a399e1ff10e72b9990f54d916dd827906ab9ae410939500d10dde7fe827b9d5db1',1,'System::Globalization']]],
-  ['koreanlunisolar',['KOREANLUNISOLAR',['../namespace_system_1_1_globalization.html#a399e1ff10e72b9990f54d916dd827906a228daa2b746315611cfdef0840264600',1,'System::Globalization']]]
+  ['keyagreement',['KeyAgreement',['../namespace_system_1_1_security_1_1_cryptography.html#acd2e7260e4c56de9bdd6241bb708219ca8aa3135b0633728c57193dc998abab86',1,'System.Security.Cryptography.KeyAgreement()'],['../namespace_system_1_1_security_1_1_cryptography_1_1_x509_certificates.html#a4667059acda7c4a1c940a67f3be98513a8aa3135b0633728c57193dc998abab86',1,'System.Security.Cryptography.X509Certificates.KeyAgreement()']]],
+  ['keycertsign',['KeyCertSign',['../namespace_system_1_1_security_1_1_cryptography_1_1_x509_certificates.html#a4667059acda7c4a1c940a67f3be98513ac363fa54fbb31678d224e28dc2aec838',1,'System::Security::Cryptography::X509Certificates']]],
+  ['keyderivationfunction',['KeyDerivationFunction',['../namespace_system_1_1_security_1_1_cryptography.html#a23fd943fe4677230ed3c794d2d3e537aa0f59ec262b9c0ff75590ff857fe2f703',1,'System::Security::Cryptography']]],
+  ['keyencipherment',['KeyEncipherment',['../namespace_system_1_1_security_1_1_cryptography_1_1_x509_certificates.html#a4667059acda7c4a1c940a67f3be98513a7e7aad73221a993cfdf96c5891925921',1,'System::Security::Cryptography::X509Certificates']]],
+  ['knownidentity',['KnownIdentity',['../namespace_system_1_1_security_1_1_cryptography_1_1_x509_certificates.html#a7d91b0eff335c4309fbe04b4012c42dfabce201dab514a33daa426e61f9a19065',1,'System::Security::Cryptography::X509Certificates']]]
 ];

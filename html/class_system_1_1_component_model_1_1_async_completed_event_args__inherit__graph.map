@@ -1,0 +1,14 @@
+<map id="System.ComponentModel.AsyncCompletedEventArgs" name="System.ComponentModel.AsyncCompletedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the MethodNameCompleted event." alt="" coords="135,300,348,341"/>
+<area shape="rect" id="node3" href="$class_system_1_1_component_model_1_1_run_worker_completed_event_args.html" title="Provides data for the MethodNameCompleted event." alt="" coords="417,5,615,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_net_1_1_download_data_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.DownloadDataCompleted event." alt="" coords="396,71,636,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_net_1_1_download_string_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.DownloadStringCompleted event." alt="" coords="423,136,609,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_net_1_1_network_information_1_1_ping_completed_event_args.html" title="Provides data for the E:System.Net.NetworkInformation.Ping.PingCompleted event." alt="" coords="411,201,621,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_net_1_1_open_read_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.OpenReadCompleted event." alt="" coords="407,267,625,308"/>
+<area shape="rect" id="node8" href="$class_system_1_1_net_1_1_open_write_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.OpenWriteCompleted event." alt="" coords="407,332,625,373"/>
+<area shape="rect" id="node9" href="$class_system_1_1_net_1_1_upload_data_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.UploadDataCompleted event." alt="" coords="404,397,628,439"/>
+<area shape="rect" id="node10" href="$class_system_1_1_net_1_1_upload_file_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.UploadFileCompleted event." alt="" coords="407,463,625,504"/>
+<area shape="rect" id="node11" href="$class_system_1_1_net_1_1_upload_string_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.UploadStringCompleted event." alt="" coords="401,528,631,569"/>
+<area shape="rect" id="node12" href="$class_system_1_1_net_1_1_upload_values_completed_event_args.html" title="Provides data for the E:System.Net.WebClient.UploadValuesCompleted event." alt="" coords="397,593,635,635"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,307,87,334"/>
+</map>

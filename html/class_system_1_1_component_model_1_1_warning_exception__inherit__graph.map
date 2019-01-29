@@ -1,0 +1,4 @@
+<map id="System.ComponentModel.WarningException" name="System.ComponentModel.WarningException">
+<area shape="rect" id="node1" title="Specifies an exception that is handled as a warning instead of an error." alt="" coords="5,80,229,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="55,5,180,32"/>
+</map>

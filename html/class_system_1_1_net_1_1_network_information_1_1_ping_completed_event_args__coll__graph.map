@@ -1,0 +1,5 @@
+<map id="System.Net.NetworkInformation.PingCompletedEventArgs" name="System.Net.NetworkInformation.PingCompletedEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Net.NetworkInformation.Ping.PingCompleted event." alt="" coords="100,109,309,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_component_model_1_1_async_completed_event_args.html" title="Provides data for the MethodNameCompleted event." alt="" coords="5,13,185,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_network_information_1_1_ping_reply.html" title="Provides information about the status and data resulting from a Overload:System.Net...." alt="" coords="209,5,419,47"/>
+</map>

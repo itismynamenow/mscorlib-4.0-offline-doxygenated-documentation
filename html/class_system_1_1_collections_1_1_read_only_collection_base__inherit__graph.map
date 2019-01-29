@@ -1,6 +1,10 @@
 <map id="System.Collections.ReadOnlyCollectionBase" name="System.Collections.ReadOnlyCollectionBase">
-<area shape="rect" id="node1" title="Provides the abstract base class for a strongly typed non&#45;generic read&#45;only collection." alt="" coords="13,155,209,196"/>
-<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule_collection.html" title="Represents a collection of T:System.Security.AccessControl.AuthorizationRule objects." alt="" coords="5,244,217,285"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="110,80,193,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="64,5,159,32"/>
+<area shape="rect" id="node1" title="Provides the abstract base class for a strongly typed non&#45;generic read&#45;only collection." alt="" coords="279,136,475,177"/>
+<area shape="rect" id="node4" href="$class_system_1_1_component_model_1_1_component_collection.html" title="Provides a read&#45;only container for a collection of T:System.ComponentModel.IComponent objects." alt="" coords="538,5,781,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_diagnostics_1_1_process_module_collection.html" title="Provides a strongly typed collection of T:System.Diagnostics.ProcessModule objects." alt="" coords="564,71,755,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_diagnostics_1_1_process_thread_collection.html" title="Provides a strongly typed collection of T:System.Diagnostics.ProcessThread objects." alt="" coords="564,136,755,177"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule_collection.html" title="Represents a collection of T:System.Security.AccessControl.AuthorizationRule objects." alt="" coords="553,201,765,243"/>
+<area shape="rect" id="node8" href="$class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_service_name_collection.html" title="The T:System.Security.Authentication.ExtendedProtection.ServiceNameCollection class is a read&#45;only co..." alt="" coords="523,267,796,308"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="148,169,231,195"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,143,100,170"/>
 </map>

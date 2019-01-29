@@ -36,7 +36,6 @@ var namespace_system_1_1_security_1_1_access_control =
     [ "ObjectAce", "class_system_1_1_security_1_1_access_control_1_1_object_ace.html", "class_system_1_1_security_1_1_access_control_1_1_object_ace" ],
     [ "ObjectAuditRule", "class_system_1_1_security_1_1_access_control_1_1_object_audit_rule.html", "class_system_1_1_security_1_1_access_control_1_1_object_audit_rule" ],
     [ "ObjectSecurity", "class_system_1_1_security_1_1_access_control_1_1_object_security.html", null ],
-    [ "Privilege", "class_system_1_1_security_1_1_access_control_1_1_privilege.html", "class_system_1_1_security_1_1_access_control_1_1_privilege" ],
     [ "PrivilegeNotHeldException", "class_system_1_1_security_1_1_access_control_1_1_privilege_not_held_exception.html", "class_system_1_1_security_1_1_access_control_1_1_privilege_not_held_exception" ],
     [ "QualifiedAce", "class_system_1_1_security_1_1_access_control_1_1_qualified_ace.html", "class_system_1_1_security_1_1_access_control_1_1_qualified_ace" ],
     [ "RawAcl", "class_system_1_1_security_1_1_access_control_1_1_raw_acl.html", "class_system_1_1_security_1_1_access_control_1_1_raw_acl" ],
@@ -44,6 +43,8 @@ var namespace_system_1_1_security_1_1_access_control =
     [ "RegistryAccessRule", "class_system_1_1_security_1_1_access_control_1_1_registry_access_rule.html", "class_system_1_1_security_1_1_access_control_1_1_registry_access_rule" ],
     [ "RegistryAuditRule", "class_system_1_1_security_1_1_access_control_1_1_registry_audit_rule.html", "class_system_1_1_security_1_1_access_control_1_1_registry_audit_rule" ],
     [ "RegistrySecurity", "class_system_1_1_security_1_1_access_control_1_1_registry_security.html", "class_system_1_1_security_1_1_access_control_1_1_registry_security" ],
-    [ "SystemAcl", "class_system_1_1_security_1_1_access_control_1_1_system_acl.html", "class_system_1_1_security_1_1_access_control_1_1_system_acl" ],
-    [ "Win32", "class_system_1_1_security_1_1_access_control_1_1_win32.html", null ]
+    [ "SemaphoreAccessRule", "class_system_1_1_security_1_1_access_control_1_1_semaphore_access_rule.html", "class_system_1_1_security_1_1_access_control_1_1_semaphore_access_rule" ],
+    [ "SemaphoreAuditRule", "class_system_1_1_security_1_1_access_control_1_1_semaphore_audit_rule.html", "class_system_1_1_security_1_1_access_control_1_1_semaphore_audit_rule" ],
+    [ "SemaphoreSecurity", "class_system_1_1_security_1_1_access_control_1_1_semaphore_security.html", "class_system_1_1_security_1_1_access_control_1_1_semaphore_security" ],
+    [ "SystemAcl", "class_system_1_1_security_1_1_access_control_1_1_system_acl.html", "class_system_1_1_security_1_1_access_control_1_1_system_acl" ]
 ];

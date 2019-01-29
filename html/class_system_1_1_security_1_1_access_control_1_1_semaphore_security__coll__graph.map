@@ -1,0 +1,5 @@
+<map id="System.Security.AccessControl.SemaphoreSecurity" name="System.Security.AccessControl.SemaphoreSecurity">
+<area shape="rect" id="node1" title="Represents the Windows access control security for a named semaphore. This class cannot be inherited." alt="" coords="17,124,229,165"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_native_object_security.html" title="Provides the ability to control access to native objects without direct manipulation of Access Contro..." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="173,5,271,32"/>
+</map>

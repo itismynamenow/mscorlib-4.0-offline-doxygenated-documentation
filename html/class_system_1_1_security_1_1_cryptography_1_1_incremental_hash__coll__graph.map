@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.IncrementalHash" name="System.Security.Cryptography.IncrementalHash">
+<area shape="rect" id="node1" title="Provides support for computing a hash or Hash&#45;based Message Authentication Code (HMAC) value incremen..." alt="" coords="5,141,209,183"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="9,29,99,55"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_security_1_1_cryptography_1_1_hash_algorithm_name.html" title="Specifies the name of a cryptographic hash algorithm." alt="" coords="123,21,327,63"/>
+</map>

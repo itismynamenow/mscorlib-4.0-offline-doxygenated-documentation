@@ -1,5 +1,7 @@
 <map id="System.Security.Cryptography.Aes" name="System.Security.Cryptography.Aes">
-<area shape="rect" id="node1" title="Represents the abstract base class from which all implementations of the Advanced Encryption Standard..." alt="" coords="5,155,232,181"/>
-<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="49,80,189,107"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="74,5,163,32"/>
+<area shape="rect" id="node1" title="Represents the abstract base class from which all implementations of the Advanced Encryption Standard..." alt="" coords="193,78,420,105"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_aes_cng.html" title="Provides a Cryptography Next Generation (CNG) implementation of the Advanced Encryption Standard (AES..." alt="" coords="468,5,672,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_aes_crypto_service_provider.html" title="Performs symmetric encryption and decryption using the Cryptographic Application Programming Interfac..." alt="" coords="468,71,672,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_aes_managed.html" title="Provides a managed implementation of the Advanced Encryption Standard (AES) symmetric algorithm." alt="" coords="468,136,672,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="5,78,145,105"/>
 </map>

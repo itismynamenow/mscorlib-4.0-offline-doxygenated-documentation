@@ -1,30 +1,20 @@
 <map id="System.Collections.IDictionary" name="System.Collections.IDictionary">
-<area shape="rect" id="node1" title="Represents a nongeneric collection of key/value pairs." alt="" coords="281,451,481,478"/>
-<area shape="rect" id="node4" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_dictionary.html" title="Represents a thread&#45;safe collection of key/value pairs that can be accessed by multiple threads concu..." alt="" coords="930,151,1137,207"/>
-<area shape="rect" id="node10" href="$class_system_1_1_collections_1_1_dictionary_base.html" title="Provides the abstract base class for a strongly typed collection of key/value pairs." alt="" coords="636,305,863,331"/>
-<area shape="rect" id="node11" href="$class_system_1_1_collections_1_1_empty_read_only_dictionary_internal.html" title=" " alt="" coords="660,356,839,397"/>
-<area shape="rect" id="node12" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="651,422,848,449"/>
-<area shape="rect" id="node14" href="$class_system_1_1_collections_1_1_list_dictionary_internal.html" title=" " alt="" coords="640,473,859,515"/>
-<area shape="rect" id="node15" href="$class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html" title="Represents a read&#45;only, generic collection of key/value pairs." alt="" coords="945,234,1122,290"/>
-<area shape="rect" id="node16" href="$class_system_1_1_collections_1_1_sorted_list.html" title="Represents a collection of key/value pairs that are sorted by the keys and are accessible by key and ..." alt="" coords="650,539,849,566"/>
-<area shape="rect" id="node17" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_aggregate_dictionary.html" title=" " alt="" coords="651,591,848,632"/>
-<area shape="rect" id="node18" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_base_channel_object_with_properties.html" title="Provides a base implementation of a channel object that exposes a dictionary interface to its propert..." alt="" coords="638,657,861,713"/>
-<area shape="rect" id="node21" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_message_dictionary.html" title=" " alt="" coords="649,765,849,807"/>
-<area shape="rect" id="node26" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="649,188,849,229"/>
-<area shape="rect" id="node27" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="649,917,849,959"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,421,232,447"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,451,100,478"/>
-<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_dictionary.html" title=" " alt="" coords="1374,5,1639,47"/>
-<area shape="rect" id="node6" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_dictionary.html" title=" " alt="" coords="1387,71,1627,127"/>
-<area shape="rect" id="node7" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_dictionary.html" title=" " alt="" coords="1403,151,1610,207"/>
-<area shape="rect" id="node8" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_dictionary.html" title=" " alt="" coords="1403,231,1610,287"/>
-<area shape="rect" id="node9" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_dictionary.html" title=" " alt="" coords="1371,311,1643,367"/>
-<area shape="rect" id="node13" href="$class_system_1_1_runtime_1_1_serialization_1_1_surrogate_hashtable.html" title=" " alt="" coords="934,415,1133,456"/>
-<area shape="rect" id="node19" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_base_channel_sink_with_properties.html" title="Provides a base implementation for channel sinks that want to expose a dictionary interface to their ..." alt="" coords="928,554,1139,610"/>
-<area shape="rect" id="node20" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_base_channel_with_properties.html" title="Provides a base implementation for channels that want to expose a dictionary interface to their prope..." alt="" coords="912,635,1155,676"/>
-<area shape="rect" id="node22" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_c_c_m_dictionary.html" title=" " alt="" coords="942,700,1125,741"/>
-<area shape="rect" id="node23" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_c_r_m_dictionary.html" title=" " alt="" coords="942,765,1125,807"/>
-<area shape="rect" id="node24" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_m_c_m_dictionary.html" title=" " alt="" coords="942,831,1125,872"/>
-<area shape="rect" id="node25" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_m_r_m_dictionary.html" title=" " alt="" coords="942,896,1125,937"/>
-<area shape="rect" id="node28" href="$class_system_1_1_diagnostics_1_1_tracing_1_1_event_payload.html" title=" " alt="" coords="939,961,1128,1003"/>
+<area shape="rect" id="node1" title="Represents a nongeneric collection of key/value pairs." alt="" coords="281,424,481,451"/>
+<area shape="rect" id="node4" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_dictionary.html" title="Represents a thread&#45;safe collection of key/value pairs that can be accessed by multiple threads concu..." alt="" coords="1001,44,1207,100"/>
+<area shape="rect" id="node5" href="$class_system_1_1_collections_1_1_dictionary_base.html" title="Provides the abstract base class for a strongly typed collection of key/value pairs." alt="" coords="723,205,949,232"/>
+<area shape="rect" id="node6" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="737,256,935,283"/>
+<area shape="rect" id="node7" href="$class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html" title="Represents a read&#45;only, generic collection of key/value pairs." alt="" coords="1015,132,1193,188"/>
+<area shape="rect" id="node8" href="$class_system_1_1_collections_1_1_sorted_list.html" title="Represents a collection of key/value pairs that are sorted by the keys and are accessible by key and ..." alt="" coords="737,307,935,333"/>
+<area shape="rect" id="node9" href="$class_system_1_1_collections_1_1_specialized_1_1_hybrid_dictionary.html" title="Implements IDictionary by using a T:System.Collections.Specialized.ListDictionary while the collectio..." alt="" coords="731,358,941,399"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_collections_1_1_specialized_1_1_i_ordered_dictionary.html" title="Represents an indexed collection of key/value pairs." alt="" coords="731,475,941,517"/>
+<area shape="rect" id="node11" href="$class_system_1_1_collections_1_1_specialized_1_1_ordered_dictionary.html" title="Represents a collection of key/value pairs that are accessible by the key or index." alt="" coords="999,439,1209,481"/>
+<area shape="rect" id="node12" href="$class_system_1_1_collections_1_1_specialized_1_1_list_dictionary.html" title="Implements IDictionary using a singly linked list. Recommended for collections that typically include..." alt="" coords="731,541,941,582"/>
+<area shape="rect" id="node13" href="$class_system_1_1_component_model_1_1_property_descriptor_collection.html" title="Represents a collection of T:System.ComponentModel.PropertyDescriptor objects." alt="" coords="723,606,949,647"/>
+<area shape="rect" id="node14" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_base_channel_object_with_properties.html" title="Provides a base implementation of a channel object that exposes a dictionary interface to its propert..." alt="" coords="725,672,947,728"/>
+<area shape="rect" id="node15" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="736,89,936,130"/>
+<area shape="rect" id="node16" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="736,753,936,794"/>
+<area shape="rect" id="node17" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="734,819,938,875"/>
+<area shape="rect" id="node18" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title=" " alt="" coords="736,899,936,941"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,393,232,420"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,424,100,451"/>
 </map>

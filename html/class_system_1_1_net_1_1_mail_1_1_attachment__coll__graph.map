@@ -1,0 +1,5 @@
+<map id="System.Net.Mail.Attachment" name="System.Net.Mail.Attachment">
+<area shape="rect" id="node1" title="Represents an attachment to an e&#45;mail." alt="" coords="71,95,261,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_net_1_1_mail_1_1_attachment_base.html" title="Base class that represents an email attachment. Classes T:System.Net.Mail.Attachment,..." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_net_1_1_mime_1_1_content_disposition.html" title="Represents a MIME protocol Content&#45;Disposition header." alt="" coords="149,5,389,32"/>
+</map>

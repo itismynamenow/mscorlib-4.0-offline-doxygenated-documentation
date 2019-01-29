@@ -1,0 +1,5 @@
+<map id="System.Xml.XmlDocument" name="System.Xml.XmlDocument">
+<area shape="rect" id="node1" title="Represents an XML document. You can use this class to load, validate, edit, add, and position XML in ..." alt="" coords="11,80,187,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_configuration_1_1_config_xml_document.html" title="Wraps the corresponding T:System.Xml.XmlDocument type and also carries the necessary information for ..." alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_xml_node.html" title="Represents a single node in the XML document." alt="" coords="62,5,135,32"/>
+</map>

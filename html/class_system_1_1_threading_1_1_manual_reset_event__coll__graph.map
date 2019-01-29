@@ -1,9 +1,4 @@
 <map id="System.Threading.ManualResetEvent" name="System.Threading.ManualResetEvent">
-<area shape="rect" id="node1" title="Notifies one or more waiting threads that an event has occurred. This class cannot be inherited." alt="" coords="113,323,319,364"/>
-<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_event_wait_handle.html" title="Represents a thread synchronization event." alt="" coords="155,247,277,273"/>
-<area shape="rect" id="node3" href="$class_system_1_1_threading_1_1_wait_handle.html" title="Encapsulates operating system–specific objects that wait for exclusive access to shared resources." alt="" coords="171,171,261,197"/>
-<area shape="rect" id="node4" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,81,147,108"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,81,261,108"/>
-<area shape="rect" id="node6" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="285,81,387,108"/>
-<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="290,5,382,32"/>
+<area shape="rect" id="node1" title="Notifies one or more waiting threads that an event has occurred. This class cannot be inherited." alt="" coords="5,80,212,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_event_wait_handle.html" title="Represents a thread synchronization event." alt="" coords="48,5,169,32"/>
 </map>

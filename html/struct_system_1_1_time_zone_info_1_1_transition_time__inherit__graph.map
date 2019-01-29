@@ -1,7 +1,6 @@
 <map id="System.TimeZoneInfo.TransitionTime" name="System.TimeZoneInfo.TransitionTime">
-<area shape="rect" id="node1" title="Provides information about a specific time change, such as the change from daylight saving time to st..." alt="" coords="149,171,383,197"/>
-<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="5,95,196,121"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="19,5,182,32"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="220,95,312,121"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="337,95,497,121"/>
+<area shape="rect" id="node1" title="Provides information about a specific time change, such as the change from daylight saving time to st..." alt="" coords="149,80,383,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="220,5,312,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="337,5,497,32"/>
 </map>

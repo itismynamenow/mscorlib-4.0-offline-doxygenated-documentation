@@ -1,0 +1,9 @@
+var class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_extended_protection_policy_element =
+[
+    [ "ExtendedProtectionPolicyElement", "class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_extended_protection_policy_element.html#a0fe1a0bc6254483195c4aa7d7d322b7d", null ],
+    [ "BuildPolicy", "class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_extended_protection_policy_element.html#a70151a954503eb529b1aefe4066f5f19", null ],
+    [ "CustomServiceNames", "class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_extended_protection_policy_element.html#a523086a431a841fcd6773a3aa790f6ca", null ],
+    [ "PolicyEnforcement", "class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_extended_protection_policy_element.html#a80175efb10bb6e872553986c1bfd5a7d", null ],
+    [ "Properties", "class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_extended_protection_policy_element.html#a43f14c4d7a703455cf4e474533ee2c18", null ],
+    [ "ProtectionScenario", "class_system_1_1_security_1_1_authentication_1_1_extended_protection_1_1_configuration_1_1_extended_protection_policy_element.html#ac227eeb916ea97fa03588545f5e2bd98", null ]
+];

@@ -1,0 +1,12 @@
+<map id="System.Xml.Schema.XmlSchemaFacet" name="System.Xml.Schema.XmlSchemaFacet">
+<area shape="rect" id="node1" title="Abstract class for all facets that are used when simple types are derived by restriction." alt="" coords="204,235,421,276"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_enumeration_facet.html" title="Represents the enumeration facet from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="469,5,687,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_max_exclusive_facet.html" title="Represents the maxExclusive element from XML Schema as specified by the World Wide Web Consortium (W3..." alt="" coords="469,71,687,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_max_inclusive_facet.html" title="Represents the maxInclusive element from XML Schema as specified by the World Wide Web Consortium (W3..." alt="" coords="469,136,687,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_min_exclusive_facet.html" title="Represents the minExclusive element from XML Schema as specified by the World Wide Web Consortium (W3..." alt="" coords="469,201,687,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_min_inclusive_facet.html" title="Represents the minInclusive element from XML Schema as specified by the World Wide Web Consortium (W3..." alt="" coords="469,267,687,308"/>
+<area shape="rect" id="node8" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_numeric_facet.html" title="Abstract class for defining numeric facets. This class is the base class for numeric facet classes su..." alt="" coords="469,332,687,373"/>
+<area shape="rect" id="node9" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_pattern_facet.html" title="Represents the pattern element from XML Schema as specified by the World Wide Web Consortium (W3C)...." alt="" coords="469,397,687,439"/>
+<area shape="rect" id="node10" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_white_space_facet.html" title="Represents the World Wide Web Consortium (W3C) whiteSpace facet." alt="" coords="469,463,687,504"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_schema_1_1_xml_schema_annotated.html" title="The base class for any element that can contain annotation elements." alt="" coords="5,242,156,269"/>
+</map>

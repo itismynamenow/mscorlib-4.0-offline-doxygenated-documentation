@@ -1,13 +1,6 @@
 <map id="System.Reflection.FieldInfo" name="System.Reflection.FieldInfo">
-<area shape="rect" id="node1" title="Discovers the attributes of a field and provides access to field metadata." alt="" coords="356,111,536,138"/>
-<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_emit_1_1_field_builder.html" title="Defines and represents a field. This class cannot be inherited." alt="" coords="588,5,779,47"/>
-<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_emit_1_1_field_on_type_builder_instantiation.html" title=" " alt="" coords="588,71,779,112"/>
-<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_runtime_field_info.html" title=" " alt="" coords="593,136,773,177"/>
-<area shape="rect" id="node11" href="$class_system_1_1_runtime_1_1_serialization_1_1_serialization_field_info.html" title=" " alt="" coords="584,201,783,243"/>
-<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="219,86,308,113"/>
-<area shape="rect" id="node3" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,61,171,87"/>
-<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="40,111,136,138"/>
-<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___field_info.html" title="Exposes the public members of the T:System.Reflection.FieldInfo class to unmanaged code." alt="" coords="225,137,302,163"/>
-<area shape="rect" id="node9" href="$class_system_1_1_reflection_1_1_md_field_info.html" title=" " alt="" coords="831,118,1029,145"/>
-<area shape="rect" id="node10" href="$class_system_1_1_reflection_1_1_rt_field_info.html" title=" " alt="" coords="833,169,1027,195"/>
+<area shape="rect" id="node1" title="Discovers the attributes of a field and provides access to field metadata." alt="" coords="13,80,193,107"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_emit_1_1_field_builder.html" title="Defines and represents a field. This class cannot be inherited." alt="" coords="8,155,199,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___field_info.html" title="Exposes the public members of the T:System.Reflection.FieldInfo class to unmanaged code." alt="" coords="119,5,197,32"/>
 </map>

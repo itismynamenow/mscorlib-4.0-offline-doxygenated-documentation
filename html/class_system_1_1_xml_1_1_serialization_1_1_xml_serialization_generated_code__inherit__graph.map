@@ -1,0 +1,5 @@
+<map id="System.Xml.Serialization.XmlSerializationGeneratedCode" name="System.Xml.Serialization.XmlSerializationGeneratedCode">
+<area shape="rect" id="node1" title="An abstract class that is the base class for T:System.Xml.Serialization.XmlSerializationReader and T:..." alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_reader.html" title="Controls deserialization by the T:System.Xml.Serialization.XmlSerializer class." alt="" coords="257,5,428,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_xml_1_1_serialization_1_1_xml_serialization_writer.html" title="Represents an abstract class used for controlling serialization by the T:System.Xml...." alt="" coords="257,71,428,112"/>
+</map>
