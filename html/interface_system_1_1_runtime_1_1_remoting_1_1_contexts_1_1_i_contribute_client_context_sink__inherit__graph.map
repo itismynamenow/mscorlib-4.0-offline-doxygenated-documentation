@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.Contexts.IContributeClientContextSink" name="System.Runtime.Remoting.Contexts.IContributeClientContextSink">
+<area shape="rect" id="node1" title="Contributes an interception sink at the context boundary on the client end of a remoting call." alt="" coords="5,5,249,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_synchronization_attribute.html" title="Enforces a synchronization domain for the current context and all contexts that share the same instan..." alt="" coords="17,95,237,136"/>
+</map>

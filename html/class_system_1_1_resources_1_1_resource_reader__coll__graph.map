@@ -1,0 +1,6 @@
+<map id="System.Resources.ResourceReader" name="System.Resources.ResourceReader">
+<area shape="rect" id="node1" title="Enumerates the resources in a binary resources (.resources) file by reading sequential resource name/..." alt="" coords="15,155,207,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_resources_1_1_i_resource_reader.html" title="Provides the base functionality for reading data from resource files." alt="" coords="51,80,172,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="144,5,233,32"/>
+</map>

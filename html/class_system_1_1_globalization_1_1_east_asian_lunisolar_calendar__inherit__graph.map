@@ -1,0 +1,9 @@
+<map id="System.Globalization.EastAsianLunisolarCalendar" name="System.Globalization.EastAsianLunisolarCalendar">
+<area shape="rect" id="node1" title="Represents a calendar that divides time into months, days, years, and eras, and has dates that are ba..." alt="" coords="257,104,435,145"/>
+<area shape="rect" id="node4" href="$class_system_1_1_globalization_1_1_chinese_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated using the Chinese..." alt="" coords="487,5,684,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_globalization_1_1_japanese_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated as for the Japane..." alt="" coords="483,71,688,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_globalization_1_1_korean_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated using the Gregori..." alt="" coords="490,136,681,177"/>
+<area shape="rect" id="node7" href="$class_system_1_1_globalization_1_1_taiwan_lunisolar_calendar.html" title="Represents the Taiwan lunisolar calendar. As for the Taiwan calendar, years are calculated using the ..." alt="" coords="490,201,681,243"/>
+<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="136,111,209,138"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,111,88,138"/>
+</map>

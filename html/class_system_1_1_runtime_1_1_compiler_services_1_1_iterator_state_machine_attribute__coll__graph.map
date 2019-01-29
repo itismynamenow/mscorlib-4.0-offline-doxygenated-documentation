@@ -1,0 +1,6 @@
+<map id="System.Runtime.CompilerServices.IteratorStateMachineAttribute" name="System.Runtime.CompilerServices.IteratorStateMachineAttribute">
+<area shape="rect" id="node1" title="Indicates whether a method in Visual Basic is marked with the Iterator modifier." alt="" coords="5,229,232,271"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_state_machine_attribute.html" title="Allows you to determine whether a method is a state machine method." alt="" coords="43,155,194,181"/>
+<area shape="rect" id="node3" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="83,80,154,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="79,5,158,32"/>
+</map>

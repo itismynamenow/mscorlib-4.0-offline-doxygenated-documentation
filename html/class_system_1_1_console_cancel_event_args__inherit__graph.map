@@ -1,0 +1,4 @@
+<map id="System.ConsoleCancelEventArgs" name="System.ConsoleCancelEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Console.CancelKeyPress event. This class cannot be inherited." alt="" coords="5,80,223,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="73,5,155,32"/>
+</map>

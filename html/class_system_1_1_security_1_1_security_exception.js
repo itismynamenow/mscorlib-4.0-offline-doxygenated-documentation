@@ -1,0 +1,26 @@
+var class_system_1_1_security_1_1_security_exception =
+[
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#a279b481bf09b9c5950d51f6dda39b550", null ],
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#a42b4584979472cff3ed6a156360339ea", null ],
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#a9b1389473b0b582cdf9a4868c11b5659", null ],
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#a05f5c914be15073321bcd644ec72d7ad", null ],
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#ad986a70bd601892e769aca2bb7901b7c", null ],
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#aecf78a46a0b3002f4d8098c822c7a27d", null ],
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#a253e12d5e7143c85b7ec8ec295c16329", null ],
+    [ "SecurityException", "class_system_1_1_security_1_1_security_exception.html#a2544166433341c3b4c25629b8d8e6df9", null ],
+    [ "GetObjectData", "class_system_1_1_security_1_1_security_exception.html#acaccd257c9514e097786597eb52179bb", null ],
+    [ "ToString", "class_system_1_1_security_1_1_security_exception.html#a2a4104b1abd93e68b000f6567f9844f0", null ],
+    [ "Action", "class_system_1_1_security_1_1_security_exception.html#a710cbe89dcaa79817fcfc42bc06654b4", null ],
+    [ "Demanded", "class_system_1_1_security_1_1_security_exception.html#a55fc648beeb8720ebef0889bd967a99e", null ],
+    [ "DenySetInstance", "class_system_1_1_security_1_1_security_exception.html#a6e17c4a6d58e6918d78d28e72bfdea93", null ],
+    [ "FailedAssemblyInfo", "class_system_1_1_security_1_1_security_exception.html#a96907427ebb4a2b0851230e7f60bf41b", null ],
+    [ "FirstPermissionThatFailed", "class_system_1_1_security_1_1_security_exception.html#a5ee651a717ba211f87d1eb0ba34c8d5d", null ],
+    [ "GrantedSet", "class_system_1_1_security_1_1_security_exception.html#a65634d7b5928c13f3c2560d86f35e996", null ],
+    [ "Method", "class_system_1_1_security_1_1_security_exception.html#a402d00fc423226ba109939cad3d608a9", null ],
+    [ "PermissionState", "class_system_1_1_security_1_1_security_exception.html#a3db95c8d42afb2efd1caa413ad3fea95", null ],
+    [ "PermissionType", "class_system_1_1_security_1_1_security_exception.html#aac3a2f21edb812b0f48f7c9e8d41dd5f", null ],
+    [ "PermitOnlySetInstance", "class_system_1_1_security_1_1_security_exception.html#a38b07578ba4d7a0ac70313115b9be975", null ],
+    [ "RefusedSet", "class_system_1_1_security_1_1_security_exception.html#a46298dc499f5af52de3beee9adf62b41", null ],
+    [ "Url", "class_system_1_1_security_1_1_security_exception.html#a3eeee7400742636d749bc38091326531", null ],
+    [ "Zone", "class_system_1_1_security_1_1_security_exception.html#a1f7fed6217a373fd4251f38926c2e7ab", null ]
+];

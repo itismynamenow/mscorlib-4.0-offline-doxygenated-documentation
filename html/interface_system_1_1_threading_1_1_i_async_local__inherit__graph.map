@@ -1,0 +1,6 @@
+<map id="System.Threading.IAsyncLocal" name="System.Threading.IAsyncLocal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,208,73"/>
+<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_async_local.html" title="Represents ambient data that is local to a given asynchronous control flow, such as an asynchronous m..." alt="" coords="257,46,488,73"/>
+<area shape="rect" id="node3" href="$class_system_1_1_threading_1_1_async_local.html" title=" " alt="" coords="627,5,825,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_threading_1_1_async_local.html" title=" " alt="" coords="627,71,825,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Reflection.LocalVariableInfo" name="System.Reflection.LocalVariableInfo">
+<area shape="rect" id="node1" title="Discovers the attributes of a local variable and provides access to local variable metadata." alt="" coords="5,5,236,32"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_emit_1_1_local_builder.html" title="Represents a local variable within a method or constructor." alt="" coords="23,80,218,121"/>
+</map>

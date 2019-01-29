@@ -1,0 +1,8 @@
+<map id="System.Security.Permissions.ZoneIdentityPermission" name="System.Security.Permissions.ZoneIdentityPermission">
+<area shape="rect" id="node1" title="Defines the identity permission for the zone from which the code originates. This class cannot be inh..." alt="" coords="99,229,297,271"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_code_access_permission.html" title="Defines the underlying structure of all code access permissions." alt="" coords="33,155,195,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_permission.html" title="Defines methods implemented by permission types." alt="" coords="69,80,159,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_i_stack_walk.html" title="Manages the stack walk that determines whether all callers in the call stack have the required permis..." alt="" coords="184,80,273,107"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_permissions_1_1_i_built_in_permission.html" title=" " alt="" coords="219,155,345,181"/>
+</map>

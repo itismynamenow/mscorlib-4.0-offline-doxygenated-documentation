@@ -1,0 +1,7 @@
+<map id="System.Runtime.InteropServices.ComTypes.ELEMDESC.DESCUNION" name="System.Runtime.InteropServices.ComTypes.ELEMDESC.DESCUNION">
+<area shape="rect" id="node1" title="Contains information about an element." alt="" coords="703,36,943,77"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_p_a_r_a_m_d_e_s_c.html" title="Contains information about how to transfer a structure element, parameter, or function return value b..." alt="" coords="371,5,585,47"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="147,50,249,77"/>
+<area shape="rect" id="node5" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_d_l_d_e_s_c.html" title="Contains information needed for transferring a structure element, parameter, or function return value..." alt="" coords="371,71,585,112"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,50,97,77"/>
+</map>

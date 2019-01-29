@@ -1,0 +1,12 @@
+<map id="System.Diagnostics.Tracing.EventSourceActivity" name="System.Diagnostics.Tracing.EventSourceActivity">
+<area shape="rect" id="node1" title=" " alt="" coords="71,275,261,316"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,95,95,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_diagnostics_1_1_tracing_1_1_event_source.html" title="Provides the ability to create events for event tracing for Windows (ETW)." alt="" coords="71,171,261,212"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="285,178,383,205"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="147,95,241,121"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="265,95,360,121"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="384,95,529,121"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="381,5,524,32"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="560,95,695,121"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="549,5,711,32"/>
+</map>

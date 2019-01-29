@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.Lifetime.ISponsor" name="System.Runtime.Remoting.Lifetime.ISponsor">
+<area shape="rect" id="node1" title="Indicates that the implementer wants to be a lifetime lease sponsor." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_client_sponsor.html" title="Provides a default implementation for a lifetime sponsor class." alt="" coords="5,95,188,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Microsoft.Win32.Registry" name="Microsoft.Win32.Registry">
+<area shape="rect" id="node1" title="Provides T:Microsoft.Win32.RegistryKey objects that represent the root keys in the Windows registry,..." alt="" coords="61,259,229,285"/>
+<area shape="rect" id="node2" href="$class_microsoft_1_1_win32_1_1_registry_key.html" title="Represents a key&#45;level node in the Windows registry. This class is a registry encapsulation." alt="" coords="50,81,241,108"/>
+<area shape="rect" id="node3" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,5,261,32"/>
+</map>

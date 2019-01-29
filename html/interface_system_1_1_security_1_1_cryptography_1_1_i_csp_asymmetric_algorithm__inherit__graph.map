@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ICspAsymmetricAlgorithm" name="System.Security.Cryptography.ICspAsymmetricAlgorithm">
+<area shape="rect" id="node1" title="Defines methods that allow an T:System.Security.Cryptography.AsymmetricAlgorithm class to enumerate k..." alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_d_s_a_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) implementation of the T:S..." alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_crypto_service_provider.html" title="Performs asymmetric encryption and decryption using the implementation of the T:System...." alt="" coords="257,71,461,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Security.SecurityState" name="System.Security.SecurityState">
+<area shape="rect" id="node1" title="Provides a base class for requesting the security status of an action from the T:System...." alt="" coords="15,5,186,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_security_state.html" title="Provides settings for maintaining the quota size for isolated storage." alt="" coords="5,95,196,136"/>
+</map>

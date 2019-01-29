@@ -1,0 +1,14 @@
+<map id="System.Runtime.InteropServices.TYPEATTR" name="System.Runtime.InteropServices.TYPEATTR">
+<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.TYPEATTR instead." alt="" coords="849,92,1064,133"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_i_d_l_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.IDLDESC instead." alt="" coords="513,5,728,47"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_t_y_p_e_d_e_s_c.html" title="Use T:System.Runtime.InteropServices.ComTypes.TYPEDESC instead." alt="" coords="513,135,728,176"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="293,90,396,117"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="41,90,133,117"/>
+<area shape="rect" id="node6" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="571,239,670,266"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="297,154,392,181"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="297,205,392,231"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="272,255,417,282"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="15,255,158,282"/>
+<area shape="rect" id="node11" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="277,306,412,333"/>
+<area shape="rect" id="node12" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="5,306,168,333"/>
+</map>

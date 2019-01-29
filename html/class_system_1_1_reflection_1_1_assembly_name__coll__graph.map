@@ -1,0 +1,7 @@
+<map id="System.Reflection.AssemblyName" name="System.Reflection.AssemblyName">
+<area shape="rect" id="node1" title="Describes an assembly&#39;s unique identity in full." alt="" coords="137,80,361,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly_name.html" title="Exposes the T:System.Reflection.AssemblyName class to unmanaged code." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="151,5,234,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="259,5,351,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="375,5,535,32"/>
+</map>

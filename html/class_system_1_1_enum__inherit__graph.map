@@ -1,0 +1,6 @@
+<map id="System.Enum" name="System.Enum">
+<area shape="rect" id="node1" title="Provides the base class for enumerations." alt="" coords="119,80,224,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="124,5,219,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="243,5,331,32"/>
+</map>

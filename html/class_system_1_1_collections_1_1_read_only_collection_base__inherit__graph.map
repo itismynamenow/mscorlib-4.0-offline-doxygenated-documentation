@@ -1,0 +1,6 @@
+<map id="System.Collections.ReadOnlyCollectionBase" name="System.Collections.ReadOnlyCollectionBase">
+<area shape="rect" id="node1" title="Provides the abstract base class for a strongly typed non&#45;generic read&#45;only collection." alt="" coords="13,155,209,196"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule_collection.html" title="Represents a collection of T:System.Security.AccessControl.AuthorizationRule objects." alt="" coords="5,244,217,285"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="110,80,193,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="64,5,159,32"/>
+</map>

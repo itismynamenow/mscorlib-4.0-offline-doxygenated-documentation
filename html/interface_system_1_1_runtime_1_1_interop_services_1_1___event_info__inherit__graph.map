@@ -1,0 +1,5 @@
+<map id="System.Runtime.InteropServices._EventInfo" name="System.Runtime.InteropServices._EventInfo">
+<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.EventInfo class to unmanaged code." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_event_info.html" title="Discovers the attributes of an event and provides access to event metadata." alt="" coords="21,95,205,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_runtime_event_info.html" title=" " alt="" coords="23,169,203,211"/>
+</map>

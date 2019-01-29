@@ -1,0 +1,8 @@
+<map id="System.Reflection.Emit.InternalModuleBuilder" name="System.Reflection.Emit.InternalModuleBuilder">
+<area shape="rect" id="node1" title=" " alt="" coords="43,229,249,271"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_runtime_module.html" title=" " alt="" coords="90,155,202,181"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="114,80,178,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="100,5,192,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="217,5,382,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Collections.IHashCodeProvider" name="System.Collections.IHashCodeProvider">
+<area shape="rect" id="node1" title="Supplies a hash code for an object, using a custom hash function." alt="" coords="34,5,206,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_case_insensitive_hash_code_provider.html" title="Supplies a hash code for an object, using a hashing algorithm that ignores the case of strings." alt="" coords="5,95,235,136"/>
+</map>

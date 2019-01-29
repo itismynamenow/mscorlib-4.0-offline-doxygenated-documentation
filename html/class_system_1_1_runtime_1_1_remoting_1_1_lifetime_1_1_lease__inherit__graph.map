@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.Lifetime.Lease" name="System.Runtime.Remoting.Lifetime.Lease">
+<area shape="rect" id="node1" title=" " alt="" coords="47,80,230,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_lifetime_1_1_i_lease.html" title="Defines a lifetime lease object that is used by the remoting lifetime service." alt="" coords="171,5,231,32"/>
+</map>

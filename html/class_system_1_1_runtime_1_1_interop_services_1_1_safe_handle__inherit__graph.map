@@ -1,0 +1,38 @@
+<map id="System.Runtime.InteropServices.SafeHandle" name="System.Runtime.InteropServices.SafeHandle">
+<area shape="rect" id="node1" title="Represents a wrapper class for operating system handles. This class must be inherited." alt="" coords="203,724,417,765"/>
+<area shape="rect" id="node4" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_access_token_handle.html" title="Provides a safe handle to a Windows thread or process access token. For more information see Access T..." alt="" coords="482,593,679,635"/>
+<area shape="rect" id="node5" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_handle_minus_one_is_invalid.html" title="Provides a base class for Win32 safe handle implementations in which the value of &#45;1 indicates an inv..." alt="" coords="482,659,679,700"/>
+<area shape="rect" id="node6" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_handle_zero_or_minus_one_is_invalid.html" title="Provides a base class for Win32 safe handle implementations in which the value of either 0 or &#45;1 indi..." alt="" coords="465,724,696,765"/>
+<area shape="rect" id="node35" href="$class_system_1_1_threading_1_1_i_unknown_safe_handle.html" title=" " alt="" coords="487,789,674,831"/>
+<area shape="rect" id="node36" href="$class_system_1_1_threading_1_1_safe_compressed_stack_handle.html" title=" " alt="" coords="465,855,696,896"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_constrained_execution_1_1_critical_finalizer_object.html" title="Ensures that all finalization code in derived classes is marked as critical." alt="" coords="5,706,155,733"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="35,757,125,783"/>
+<area shape="rect" id="node7" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_handle.html" title="Represents a wrapper class for a file handle." alt="" coords="765,5,963,47"/>
+<area shape="rect" id="node8" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_file_mapping_handle.html" title=" " alt="" coords="765,71,963,112"/>
+<area shape="rect" id="node9" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_find_handle.html" title=" " alt="" coords="765,136,963,177"/>
+<area shape="rect" id="node10" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_logon_process_handle.html" title=" " alt="" coords="765,201,963,243"/>
+<area shape="rect" id="node11" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_policy_handle.html" title=" " alt="" coords="765,267,963,308"/>
+<area shape="rect" id="node12" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_p_e_file_handle.html" title=" " alt="" coords="765,332,963,373"/>
+<area shape="rect" id="node13" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_process_handle.html" title=" " alt="" coords="765,397,963,439"/>
+<area shape="rect" id="node14" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_registry_handle.html" title="Represents a safe handle to the Windows registry." alt="" coords="765,463,963,504"/>
+<area shape="rect" id="node15" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_thread_handle.html" title=" " alt="" coords="765,528,963,569"/>
+<area shape="rect" id="node16" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_view_of_file_handle.html" title=" " alt="" coords="765,593,963,635"/>
+<area shape="rect" id="node17" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_wait_handle.html" title="Represents a wrapper class for a wait handle." alt="" coords="765,659,963,700"/>
+<area shape="rect" id="node18" href="$class_microsoft_1_1_win32_1_1_safe_library_handle.html" title=" " alt="" coords="771,724,957,765"/>
+<area shape="rect" id="node19" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_safe_isolated_storage_file_handle.html" title=" " alt="" coords="765,789,963,831"/>
+<area shape="rect" id="node20" href="$class_system_1_1_runtime_1_1_interop_services_1_1_safe_buffer.html" title="Provides a controlled memory buffer that can be used for reading and writing. Attempts to access memo..." alt="" coords="757,855,971,896"/>
+<area shape="rect" id="node26" href="$class_system_1_1_safe_type_name_parser_handle.html" title=" " alt="" coords="765,920,963,961"/>
+<area shape="rect" id="node27" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_csp_handle.html" title=" " alt="" coords="762,985,966,1027"/>
+<area shape="rect" id="node28" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_csp_hash_handle.html" title=" " alt="" coords="762,1051,966,1092"/>
+<area shape="rect" id="node29" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_csp_key_handle.html" title=" " alt="" coords="762,1116,966,1157"/>
+<area shape="rect" id="node30" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_hash_handle.html" title=" " alt="" coords="762,1181,966,1223"/>
+<area shape="rect" id="node31" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_key_handle.html" title=" " alt="" coords="762,1247,966,1288"/>
+<area shape="rect" id="node32" href="$class_system_1_1_security_1_1_cryptography_1_1_safe_prov_handle.html" title=" " alt="" coords="762,1312,966,1353"/>
+<area shape="rect" id="node33" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_context_handle.html" title=" " alt="" coords="757,1378,971,1434"/>
+<area shape="rect" id="node34" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_safe_cert_store_handle.html" title=" " alt="" coords="744,1459,984,1500"/>
+<area shape="rect" id="node21" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_local_alloc_handle.html" title=" " alt="" coords="1045,724,1242,765"/>
+<area shape="rect" id="node22" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_memory_handle.html" title=" " alt="" coords="1045,789,1242,831"/>
+<area shape="rect" id="node23" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_lsa_return_buffer_handle.html" title=" " alt="" coords="1045,855,1242,896"/>
+<area shape="rect" id="node24" href="$class_system_1_1_runtime_1_1_interop_services_1_1_safe_heap_handle.html" title=" " alt="" coords="1036,920,1251,961"/>
+<area shape="rect" id="node25" href="$class_system_1_1_security_1_1_safe_b_s_t_r_handle.html" title=" " alt="" coords="1032,986,1255,1013"/>
+</map>

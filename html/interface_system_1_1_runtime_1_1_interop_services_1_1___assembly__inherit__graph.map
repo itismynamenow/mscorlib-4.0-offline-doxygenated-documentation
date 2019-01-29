@@ -1,0 +1,7 @@
+<map id="System.Runtime.InteropServices._Assembly" name="System.Runtime.InteropServices._Assembly">
+<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.Assembly class to unmanaged code." alt="" coords="121,5,335,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="133,95,323,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_emit_1_1_assembly_builder.html" title="Defines and represents a dynamic assembly." alt="" coords="5,169,227,211"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_runtime_assembly.html" title=" " alt="" coords="251,169,431,211"/>
+<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_emit_1_1_internal_assembly_builder.html" title=" " alt="" coords="239,259,444,300"/>
+</map>

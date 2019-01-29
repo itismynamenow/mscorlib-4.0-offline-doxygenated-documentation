@@ -1,0 +1,5 @@
+<map id="System.Security.AccessControl.NativeObjectSecurity" name="System.Security.AccessControl.NativeObjectSecurity">
+<area shape="rect" id="node1" title="Provides the ability to control access to native objects without direct manipulation of Access Contro..." alt="" coords="5,155,217,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_common_object_security.html" title="Controls access to objects without direct manipulation of access control lists (ACLs)...." alt="" coords="31,80,191,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_object_security.html" title="Provides the ability to control access to objects without direct manipulation of Access Control Lists..." alt="" coords="57,5,165,32"/>
+</map>

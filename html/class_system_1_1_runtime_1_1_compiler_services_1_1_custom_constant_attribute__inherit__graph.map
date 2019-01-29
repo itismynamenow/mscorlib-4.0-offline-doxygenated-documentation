@@ -1,0 +1,8 @@
+<map id="System.Runtime.CompilerServices.CustomConstantAttribute" name="System.Runtime.CompilerServices.CustomConstantAttribute">
+<area shape="rect" id="node1" title="Defines a constant value that a compiler can persist for a field or method parameter." alt="" coords="251,71,477,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_date_time_constant_attribute.html" title="Persists an 8&#45;byte T:System.DateTime constant for a field or parameter." alt="" coords="525,5,752,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_i_dispatch_constant_attribute.html" title="Indicates that the default value for the attributed field or parameter is an instance of T:System...." alt="" coords="525,71,752,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_i_unknown_constant_attribute.html" title="Indicates that the default value for the attributed field or parameter is an instance of T:System...." alt="" coords="525,136,752,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="132,78,203,105"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="5,78,84,105"/>
+</map>

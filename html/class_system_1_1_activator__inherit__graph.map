@@ -1,0 +1,4 @@
+<map id="System.Activator" name="System.Activator">
+<area shape="rect" id="node1" title="Contains methods to create types of objects locally or remotely, or obtain references to existing rem..." alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___activator.html" title="Exposes the T:System.Activator class to unmanaged code." alt="" coords="27,5,105,32"/>
+</map>

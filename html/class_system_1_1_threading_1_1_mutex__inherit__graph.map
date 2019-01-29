@@ -1,0 +1,6 @@
+<map id="System.Threading.Mutex" name="System.Threading.Mutex">
+<area shape="rect" id="node1" title="A synchronization primitive that can also be used for interprocess synchronization." alt="" coords="62,155,229,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_wait_handle.html" title="Encapsulates operating system–specific objects that wait for exclusive access to shared resources." alt="" coords="101,80,190,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,5,261,32"/>
+</map>

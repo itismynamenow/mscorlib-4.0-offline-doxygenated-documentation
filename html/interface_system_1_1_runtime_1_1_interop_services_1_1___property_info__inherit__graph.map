@@ -1,0 +1,6 @@
+<map id="System.Runtime.InteropServices._PropertyInfo" name="System.Runtime.InteropServices._PropertyInfo">
+<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.PropertyInfo class to unmanaged code." alt="" coords="113,5,328,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_property_info.html" title="Discovers the attributes of a property and provides access to property metadata." alt="" coords="120,95,321,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_emit_1_1_property_builder.html" title="Defines the properties for a type." alt="" coords="5,169,217,211"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_runtime_property_info.html" title=" " alt="" coords="241,169,421,211"/>
+</map>

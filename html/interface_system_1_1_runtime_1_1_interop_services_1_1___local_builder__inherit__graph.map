@@ -1,0 +1,4 @@
+<map id="System.Runtime.InteropServices._LocalBuilder" name="System.Runtime.InteropServices._LocalBuilder">
+<area shape="rect" id="node1" title="Exposes the T:System.Reflection.Emit.LocalBuilder class to unmanaged code." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_emit_1_1_local_builder.html" title="Represents a local variable within a method or constructor." alt="" coords="15,95,210,136"/>
+</map>

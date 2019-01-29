@@ -1,0 +1,19 @@
+<map id="System.TimeZoneInfo.AdjustmentRule" name="System.TimeZoneInfo.AdjustmentRule">
+<area shape="rect" id="node1" title="Provides information about a time zone adjustment, such as the transition to and from daylight saving..." alt="" coords="1452,141,1695,168"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="537,24,736,50"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="5,274,168,301"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="541,165,732,192"/>
+<area shape="rect" id="node14" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="344,317,507,344"/>
+<area shape="rect" id="node17" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="343,520,508,546"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="379,216,471,242"/>
+<area shape="rect" id="node6" href="$struct_system_1_1_time_zone_info_1_1_transition_time.html" title="Provides information about a specific time change, such as the change from daylight saving time to st..." alt="" coords="1037,182,1272,209"/>
+<area shape="rect" id="node8" href="$struct_system_1_1_date_time.html" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="777,321,903,348"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="760,116,920,142"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="378,469,473,496"/>
+<area shape="rect" id="node15" href="$struct_system_1_1_time_span.html" title="Represents a time interval.To browse the .NET Framework source code for this type,..." alt="" coords="775,484,905,510"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="378,418,473,445"/>
+<area shape="rect" id="node11" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="381,266,469,293"/>
+<area shape="rect" id="node12" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="339,368,512,394"/>
+<area shape="rect" id="node13" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="15,412,158,438"/>
+<area shape="rect" id="node16" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="337,570,513,597"/>
+</map>

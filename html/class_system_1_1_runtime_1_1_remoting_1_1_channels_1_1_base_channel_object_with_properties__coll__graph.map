@@ -1,0 +1,6 @@
+<map id="System.Runtime.Remoting.Channels.BaseChannelObjectWithProperties" name="System.Runtime.Remoting.Channels.BaseChannelObjectWithProperties">
+<area shape="rect" id="node1" title="Provides a base implementation of a channel object that exposes a dictionary interface to its propert..." alt="" coords="5,229,228,285"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="75,155,158,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="139,80,222,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="55,5,149,32"/>
+</map>

@@ -1,0 +1,151 @@
+<map id="System.Runtime.Serialization.ISerializable" name="System.Runtime.Serialization.ISerializable">
+<area shape="rect" id="node1" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,4311,204,4353"/>
+<area shape="rect" id="node2" href="$class_system_1_1_activation_context.html" title="Identifies the activation context for the current application. This class cannot be inherited." alt="" coords="289,5,461,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_application_identity.html" title="Provides the ability to uniquely identify a manifest&#45;activated application. This class cannot be inhe..." alt="" coords="286,56,463,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_argument_exception.html" title="The exception that is thrown when one of the arguments provided to a method is not valid." alt="" coords="1121,673,1307,700"/>
+<area shape="rect" id="node6" href="$class_system_1_1_argument_out_of_range_exception.html" title="The exception that is thrown when the value of an argument is outside the allowable range of values a..." alt="" coords="1379,351,1577,393"/>
+<area shape="rect" id="node8" href="$class_system_1_1_globalization_1_1_culture_not_found_exception.html" title="The exception that is thrown when a method attempts to construct a culture that is not available." alt="" coords="1383,181,1573,222"/>
+<area shape="rect" id="node11" href="$class_system_1_1_collections_1_1_comparer.html" title="Compares two objects for equivalence, where string comparisons are case&#45;sensitive." alt="" coords="277,2133,472,2160"/>
+<area shape="rect" id="node12" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title="Represents a collection of keys and values.To browse the .NET Framework source code for this type,..." alt="" coords="281,2185,469,2226"/>
+<area shape="rect" id="node39" href="$class_system_1_1_collections_1_1_generic_1_1_enum_equality_comparer.html" title=" " alt="" coords="279,2657,470,2698"/>
+<area shape="rect" id="node42" href="$class_system_1_1_collections_1_1_generic_1_1_key_not_found_exception.html" title="The exception that is thrown when the key specified for accessing an element in a collection does not..." alt="" coords="1120,269,1308,310"/>
+<area shape="rect" id="node43" href="$class_system_1_1_collections_1_1_generic_1_1_long_enum_equality_comparer.html" title=" " alt="" coords="265,2722,484,2763"/>
+<area shape="rect" id="node44" href="$class_system_1_1_collections_1_1_generic_1_1_s_byte_enum_equality_comparer.html" title=" " alt="" coords="261,2787,488,2829"/>
+<area shape="rect" id="node45" href="$class_system_1_1_collections_1_1_generic_1_1_short_enum_equality_comparer.html" title=" " alt="" coords="264,2853,485,2894"/>
+<area shape="rect" id="node46" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="276,2919,473,2945"/>
+<area shape="rect" id="node48" href="$struct_system_1_1_date_time.html" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="311,2969,438,2996"/>
+<area shape="rect" id="node49" href="$struct_system_1_1_date_time_offset.html" title="Represents a point in time, typically expressed as a date and time of day, relative to Coordinated Un..." alt="" coords="295,3020,455,3047"/>
+<area shape="rect" id="node50" href="$class_system_1_1_d_b_null.html" title="Represents a nonexistent value. This class cannot be inherited." alt="" coords="319,3071,430,3097"/>
+<area shape="rect" id="node51" href="$class_system_1_1_delegate.html" title="Represents a delegate, which is a data structure that refers to a static method or to a class instanc..." alt="" coords="313,3121,436,3148"/>
+<area shape="rect" id="node53" href="$class_system_1_1_delegate_serialization_holder.html" title=" " alt="" coords="278,3173,471,3214"/>
+<area shape="rect" id="node54" href="$class_system_1_1_empty.html" title=" " alt="" coords="320,3239,429,3265"/>
+<area shape="rect" id="node55" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="310,673,439,700"/>
+<area shape="rect" id="node71" href="$class_system_1_1_reflection_1_1_reflection_type_load_exception.html" title="The exception that is thrown by the M:System.Reflection.Module.GetTypes method if any of the classes ..." alt="" coords="1119,455,1309,497"/>
+<area shape="rect" id="node72" href="$class_system_1_1_type_load_exception.html" title="The exception that is thrown when type&#45;loading failures occur." alt="" coords="1121,919,1307,945"/>
+<area shape="rect" id="node79" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="323,3289,426,3316"/>
+<area shape="rect" id="node80" href="$class_system_1_1_i_o_1_1_drive_info.html" title="Provides access to information on a drive." alt="" coords="307,3340,443,3367"/>
+<area shape="rect" id="node81" href="$class_system_1_1_i_o_1_1_file_system_info.html" title="Provides the base class for both T:System.IO.FileInfo and T:System.IO.DirectoryInfo objects." alt="" coords="287,3391,462,3417"/>
+<area shape="rect" id="node84" href="$class_system_1_1_missing_field_exception.html" title="The exception that is thrown when there is an attempt to dynamically access a field that does not exi..." alt="" coords="811,3492,1014,3519"/>
+<area shape="rect" id="node85" href="$class_system_1_1_missing_member_exception.html" title="The exception that is thrown when there is an attempt to dynamically access a class member that does ..." alt="" coords="264,3492,485,3519"/>
+<area shape="rect" id="node86" href="$class_system_1_1_missing_method_exception.html" title="The exception that is thrown when there is an attempt to dynamically access a method that does not ex..." alt="" coords="804,3543,1021,3569"/>
+<area shape="rect" id="node87" href="$class_system_1_1_operating_system.html" title="Represents information about an operating system, such as the version and platform identifier...." alt="" coords="289,3593,461,3620"/>
+<area shape="rect" id="node88" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="279,3644,470,3671"/>
+<area shape="rect" id="node91" href="$class_system_1_1_reflection_1_1_assembly_name.html" title="Describes an assembly&#39;s unique identity in full." alt="" coords="263,3695,487,3721"/>
+<area shape="rect" id="node92" href="$class_system_1_1_reflection_1_1_md_field_info.html" title=" " alt="" coords="813,3804,1012,3831"/>
+<area shape="rect" id="node93" href="$class_system_1_1_reflection_1_1_member_info_serialization_holder.html" title=" " alt="" coords="285,3863,464,3905"/>
+<area shape="rect" id="node94" href="$class_system_1_1_reflection_1_1_missing.html" title="Represents a missing T:System.Object. This class cannot be inherited." alt="" coords="286,3929,463,3956"/>
+<area shape="rect" id="node95" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="287,3980,462,4007"/>
+<area shape="rect" id="node98" href="$class_system_1_1_reflection_1_1_pointer.html" title="Provides a wrapper class for pointers." alt="" coords="288,4031,461,4057"/>
+<area shape="rect" id="node99" href="$class_system_1_1_reflection_1_1_runtime_constructor_info.html" title=" " alt="" coords="285,4082,465,4123"/>
+<area shape="rect" id="node100" href="$class_system_1_1_reflection_1_1_runtime_event_info.html" title=" " alt="" coords="285,4147,465,4189"/>
+<area shape="rect" id="node101" href="$class_system_1_1_reflection_1_1_runtime_field_info.html" title=" " alt="" coords="285,3746,465,3787"/>
+<area shape="rect" id="node103" href="$class_system_1_1_reflection_1_1_runtime_method_info.html" title=" " alt="" coords="285,4213,465,4254"/>
+<area shape="rect" id="node104" href="$class_system_1_1_reflection_1_1_runtime_parameter_info.html" title=" " alt="" coords="285,4278,465,4319"/>
+<area shape="rect" id="node105" href="$class_system_1_1_reflection_1_1_runtime_property_info.html" title=" " alt="" coords="285,4343,465,4385"/>
+<area shape="rect" id="node106" href="$class_system_1_1_reflection_1_1_strong_name_key_pair.html" title="Encapsulates access to a public or private key pair used to sign strong name assemblies." alt="" coords="289,4409,460,4450"/>
+<area shape="rect" id="node107" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_logical_call_context.html" title="Provides a set of properties that are carried with the execution code path during remote method calls..." alt="" coords="276,4474,473,4515"/>
+<area shape="rect" id="node108" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_message.html" title=" " alt="" coords="283,4539,466,4581"/>
+<area shape="rect" id="node109" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodCallMessage interface to create a request m..." alt="" coords="283,4605,466,4646"/>
+<area shape="rect" id="node111" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_response.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="279,4670,470,4711"/>
+<area shape="rect" id="node113" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_serialization_monkey.html" title=" " alt="" coords="271,4735,478,4777"/>
+<area shape="rect" id="node114" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_transition_call.html" title=" " alt="" coords="283,4801,466,4842"/>
+<area shape="rect" id="node115" href="$class_system_1_1_runtime_1_1_remoting_1_1_obj_ref.html" title="Stores all relevant information required to generate a proxy in order to communicate with a remote ob..." alt="" coords="283,4866,466,4907"/>
+<area shape="rect" id="node116" href="$class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_soap_fault.html" title="Carries error and status information within a SOAP message. This class cannot be inherited." alt="" coords="275,4931,474,4973"/>
+<area shape="rect" id="node117" href="$class_system_1_1_runtime_1_1_serialization_1_1_safe_serialization_manager.html" title=" " alt="" coords="275,4997,474,5038"/>
+<area shape="rect" id="node118" href="$struct_system_1_1_runtime_field_handle.html" title="Represents a field using an internal metadata token." alt="" coords="281,5063,468,5089"/>
+<area shape="rect" id="node119" href="$struct_system_1_1_runtime_method_handle.html" title="T:System.RuntimeMethodHandle is a handle to the internal metadata representation of a method." alt="" coords="273,5113,476,5140"/>
+<area shape="rect" id="node120" href="$class_system_1_1_runtime_type.html" title=" " alt="" coords="301,5164,448,5191"/>
+<area shape="rect" id="node122" href="$struct_system_1_1_runtime_type_handle.html" title="Represents a type using an internal metadata token." alt="" coords="281,5215,468,5241"/>
+<area shape="rect" id="node123" href="$class_system_1_1_security_1_1_access_control_1_1_privilege_not_held_exception.html" title="The exception that is thrown when a method in the N:System.Security.AccessControl namespace attempts ..." alt="" coords="269,5266,481,5307"/>
+<area shape="rect" id="node124" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate.html" title="Provides methods that help you use X.509 v.3 certificates." alt="" coords="272,5331,477,5373"/>
+<area shape="rect" id="node125" href="$class_system_1_1_security_1_1_policy_1_1_hash.html" title="Provides evidence about the hash value for an assembly. This class cannot be inherited." alt="" coords="278,5397,471,5424"/>
+<area shape="rect" id="node126" href="$class_system_1_1_security_1_1_policy_1_1_hash_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing its hash value. This class cannot b..." alt="" coords="278,5449,471,5490"/>
+<area shape="rect" id="node127" href="$class_system_1_1_security_1_1_principal_1_1_windows_identity.html" title="Represents a Windows user." alt="" coords="286,5514,463,5555"/>
+<area shape="rect" id="node128" href="$class_system_1_1_text_1_1_base_code_page_encoding.html" title=" " alt="" coords="279,5631,470,5673"/>
+<area shape="rect" id="node129" href="$class_system_1_1_text_1_1_d_b_c_s_code_page_encoding.html" title=" " alt="" coords="815,5617,1011,5658"/>
+<area shape="rect" id="node131" href="$class_system_1_1_text_1_1_g_b18030_encoding.html" title=" " alt="" coords="1110,5723,1318,5749"/>
+<area shape="rect" id="node133" href="$class_system_1_1_text_1_1_s_b_c_s_code_page_encoding.html" title=" " alt="" coords="815,5682,1011,5723"/>
+<area shape="rect" id="node134" href="$class_system_1_1_text_1_1_code_page_encoding.html" title=" " alt="" coords="267,5799,482,5825"/>
+<area shape="rect" id="node135" href="$class_system_1_1_text_1_1_decoder_n_l_s.html" title=" " alt="" coords="288,5849,461,5876"/>
+<area shape="rect" id="node136" href="$class_system_1_1_text_1_1_encoder_n_l_s.html" title=" " alt="" coords="288,5900,461,5927"/>
+<area shape="rect" id="node137" href="$class_system_1_1_text_1_1_i_s_c_i_i_encoding.html" title=" " alt="" coords="284,5951,465,5977"/>
+<area shape="rect" id="node138" href="$class_system_1_1_text_1_1_latin1_encoding.html" title=" " alt="" coords="280,6001,469,6028"/>
+<area shape="rect" id="node139" href="$class_system_1_1_text_1_1_m_lang_code_page_encoding.html" title=" " alt="" coords="275,6053,474,6094"/>
+<area shape="rect" id="node140" href="$class_system_1_1_text_1_1_string_builder.html" title="Represents a mutable string of characters. This class cannot be inherited.To browse the ...." alt="" coords="287,6119,462,6145"/>
+<area shape="rect" id="node141" href="$class_system_1_1_text_1_1_surrogate_encoder.html" title=" " alt="" coords="273,6169,477,6196"/>
+<area shape="rect" id="node142" href="$class_system_1_1_threading_1_1_compressed_stack.html" title="Provides methods for setting and capturing the compressed stack on the current thread...." alt="" coords="273,6221,477,6262"/>
+<area shape="rect" id="node143" href="$class_system_1_1_threading_1_1_execution_context.html" title="Manages the execution context for the current thread. This class cannot be inherited." alt="" coords="280,6286,469,6327"/>
+<area shape="rect" id="node144" href="$class_system_1_1_time_zone_info.html" title="Represents any time zone in the world." alt="" coords="301,6352,448,6379"/>
+<area shape="rect" id="node145" href="$class_system_1_1_time_zone_info_1_1_adjustment_rule.html" title="Provides information about a time zone adjustment, such as the transition to and from daylight saving..." alt="" coords="253,6403,496,6429"/>
+<area shape="rect" id="node146" href="$struct_system_1_1_time_zone_info_1_1_transition_time.html" title="Provides information about a specific time change, such as the change from daylight saving time to st..." alt="" coords="257,6453,492,6480"/>
+<area shape="rect" id="node147" href="$struct_system_1_1_u_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="319,6504,430,6531"/>
+<area shape="rect" id="node148" href="$class_system_1_1_unity_serialization_holder.html" title=" " alt="" coords="289,6555,461,6597"/>
+<area shape="rect" id="node149" href="$class_system_1_1_weak_reference.html" title="Represents a typed weak reference, which references an object while still allowing that object to be ..." alt="" coords="277,6621,472,6648"/>
+<area shape="rect" id="node5" href="$class_system_1_1_argument_null_exception.html" title="The exception that is thrown when a null reference (Nothing in Visual Basic) is passed to a method th..." alt="" coords="1375,703,1581,729"/>
+<area shape="rect" id="node7" href="$class_system_1_1_duplicate_wait_object_exception.html" title="The exception that is thrown when an object appears more than once in an array of synchronization obj..." alt="" coords="1383,571,1573,613"/>
+<area shape="rect" id="node9" href="$class_system_1_1_text_1_1_decoder_fallback_exception.html" title="The exception that is thrown when a decoder fallback operation fails. This class cannot be inherited." alt="" coords="1379,754,1577,795"/>
+<area shape="rect" id="node10" href="$class_system_1_1_text_1_1_encoder_fallback_exception.html" title="The exception that is thrown when an encoder fallback operation fails. This class cannot be inherited..." alt="" coords="1379,637,1577,678"/>
+<area shape="rect" id="node13" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="782,3047,1043,3089"/>
+<area shape="rect" id="node14" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,1125,1007,1181"/>
+<area shape="rect" id="node15" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,1206,1007,1247"/>
+<area shape="rect" id="node16" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,1272,1007,1328"/>
+<area shape="rect" id="node17" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="811,1352,1015,1408"/>
+<area shape="rect" id="node18" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,1432,1007,1488"/>
+<area shape="rect" id="node19" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="792,1512,1033,1568"/>
+<area shape="rect" id="node20" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="772,1593,1053,1663"/>
+<area shape="rect" id="node21" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,1687,1007,1729"/>
+<area shape="rect" id="node22" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="807,1753,1019,1809"/>
+<area shape="rect" id="node23" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="816,1834,1009,1875"/>
+<area shape="rect" id="node24" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,1899,1007,1941"/>
+<area shape="rect" id="node25" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="789,1965,1036,2021"/>
+<area shape="rect" id="node26" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="802,2045,1023,2101"/>
+<area shape="rect" id="node27" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="778,2126,1047,2197"/>
+<area shape="rect" id="node28" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="789,2221,1036,2277"/>
+<area shape="rect" id="node29" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,2301,1007,2357"/>
+<area shape="rect" id="node30" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,2382,1007,2423"/>
+<area shape="rect" id="node31" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,2447,1007,2489"/>
+<area shape="rect" id="node32" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="808,2513,1017,2569"/>
+<area shape="rect" id="node33" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="803,2594,1022,2665"/>
+<area shape="rect" id="node34" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="783,2689,1043,2745"/>
+<area shape="rect" id="node35" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="802,2770,1023,2811"/>
+<area shape="rect" id="node36" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,2835,1007,2877"/>
+<area shape="rect" id="node37" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="819,2901,1007,2942"/>
+<area shape="rect" id="node38" href="$class_system_1_1_collections_1_1_generic_1_1_dictionary.html" title=" " alt="" coords="801,2967,1024,3023"/>
+<area shape="rect" id="node40" href="$class_system_1_1_collections_1_1_generic_1_1_s_byte_enum_equality_comparer.html" title=" " alt="" coords="813,3193,1013,3249"/>
+<area shape="rect" id="node41" href="$class_system_1_1_collections_1_1_generic_1_1_short_enum_equality_comparer.html" title=" " alt="" coords="815,3113,1010,3169"/>
+<area shape="rect" id="node47" href="$class_system_1_1_runtime_1_1_serialization_1_1_surrogate_hashtable.html" title=" " alt="" coords="813,3274,1012,3315"/>
+<area shape="rect" id="node52" href="$class_system_1_1_multicast_delegate.html" title="Represents a multicast delegate; that is, a delegate that can have more than one element in its invoc..." alt="" coords="825,3340,1000,3367"/>
+<area shape="rect" id="node56" href="$class_system_1_1_aggregate_exception.html" title="Represents one or more errors that occur during application execution." alt="" coords="819,623,1007,649"/>
+<area shape="rect" id="node57" href="$class_system_1_1_application_exception.html" title="Serves as the base class for application&#45;defined exceptions." alt="" coords="816,1075,1009,1101"/>
+<area shape="rect" id="node63" href="$class_system_1_1_diagnostics_1_1_contracts_1_1_contract_exception.html" title=" " alt="" coords="811,725,1014,766"/>
+<area shape="rect" id="node64" href="$class_system_1_1_diagnostics_1_1_tracing_1_1_event_source_exception.html" title="The exception that is thrown when an error occurs during event tracing for Windows (ETW)." alt="" coords="818,790,1007,831"/>
+<area shape="rect" id="node65" href="$class_system_1_1_invalid_time_zone_exception.html" title="The exception that is thrown when time zone information is invalid." alt="" coords="803,856,1023,883"/>
+<area shape="rect" id="node66" href="$class_system_1_1_i_o_1_1_isolated_storage_1_1_isolated_storage_exception.html" title="The exception that is thrown when an operation in isolated storage fails." alt="" coords="821,907,1004,949"/>
+<area shape="rect" id="node67" href="$class_system_1_1_reflection_1_1_metadata_exception.html" title=" " alt="" coords="819,310,1006,351"/>
+<area shape="rect" id="node68" href="$class_system_1_1_runtime_1_1_compiler_services_1_1_runtime_wrapped_exception.html" title="Wraps an exception that does not derive from the T:System.Exception class. This class cannot be inher..." alt="" coords="799,375,1026,417"/>
+<area shape="rect" id="node69" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="825,673,1000,700"/>
+<area shape="rect" id="node76" href="$class_system_1_1_threading_1_1_lock_recursion_exception.html" title="The exception that is thrown when recursive entry into a lock is not compatible with the recursion po..." alt="" coords="804,441,1021,482"/>
+<area shape="rect" id="node77" href="$class_system_1_1_threading_1_1_tasks_1_1_task_scheduler_exception.html" title="Represents an exception used to communicate an invalid operation by a T:System.Threading...." alt="" coords="813,506,1012,547"/>
+<area shape="rect" id="node78" href="$class_system_1_1_time_zone_not_found_exception.html" title="The exception that is thrown when a time zone cannot be found." alt="" coords="792,572,1033,599"/>
+<area shape="rect" id="node58" href="$class_system_1_1_reflection_1_1_invalid_filter_criteria_exception.html" title="The exception that is thrown in M:System.Type.FindMembers(System.Reflection.MemberTypes,..." alt="" coords="1131,1271,1297,1313"/>
+<area shape="rect" id="node59" href="$class_system_1_1_reflection_1_1_target_exception.html" title="Represents the exception that is thrown when an attempt is made to invoke an invalid target." alt="" coords="1130,1010,1298,1051"/>
+<area shape="rect" id="node60" href="$class_system_1_1_reflection_1_1_target_invocation_exception.html" title="The exception that is thrown by methods invoked through reflection. This class cannot be inherited." alt="" coords="1130,1206,1298,1247"/>
+<area shape="rect" id="node61" href="$class_system_1_1_reflection_1_1_target_parameter_count_exception.html" title="The exception that is thrown when the number of parameters for an invocation does not match the numbe..." alt="" coords="1127,1141,1301,1182"/>
+<area shape="rect" id="node62" href="$class_system_1_1_threading_1_1_wait_handle_cannot_be_opened_exception.html" title="The exception that is thrown when an attempt is made to open a system mutex, semaphore,..." alt="" coords="1115,1075,1313,1117"/>
+<area shape="rect" id="node70" href="$class_system_1_1_access_violation_exception.html" title="The exception that is thrown when there is an attempt to read or write protected memory." alt="" coords="1103,623,1325,649"/>
+<area shape="rect" id="node73" href="$class_system_1_1_dll_not_found_exception.html" title="The exception that is thrown when a DLL specified in a DLL import cannot be found." alt="" coords="1378,860,1578,887"/>
+<area shape="rect" id="node74" href="$class_system_1_1_entry_point_not_found_exception.html" title="The exception that is thrown when an attempt to load a class fails due to the absence of an entry met..." alt="" coords="1384,911,1572,953"/>
+<area shape="rect" id="node75" href="$class_system_1_1_type_access_exception.html" title="The exception that is thrown when a method attempts to use a type that it does not have access to." alt="" coords="1377,977,1579,1004"/>
+<area shape="rect" id="node82" href="$class_system_1_1_i_o_1_1_directory_info.html" title="Exposes instance methods for creating, moving, and enumerating through directories and subdirectories..." alt="" coords="833,3441,993,3468"/>
+<area shape="rect" id="node83" href="$class_system_1_1_i_o_1_1_file_info.html" title="Provides properties and instance methods for the creation, copying, deletion, moving,..." alt="" coords="848,3391,977,3417"/>
+<area shape="rect" id="node89" href="$class_system_1_1_reflection_1_1_emit_1_1_assembly_builder.html" title="Defines and represents a dynamic assembly." alt="" coords="802,3669,1023,3710"/>
+<area shape="rect" id="node90" href="$class_system_1_1_reflection_1_1_runtime_assembly.html" title=" " alt="" coords="823,3603,1003,3645"/>
+<area shape="rect" id="node96" href="$class_system_1_1_reflection_1_1_emit_1_1_module_builder.html" title="Defines and represents a module in a dynamic assembly." alt="" coords="810,4006,1015,4047"/>
+<area shape="rect" id="node97" href="$class_system_1_1_reflection_1_1_runtime_module.html" title=" " alt="" coords="823,3941,1003,3982"/>
+<area shape="rect" id="node102" href="$class_system_1_1_reflection_1_1_rt_field_info.html" title=" " alt="" coords="816,3745,1009,3772"/>
+<area shape="rect" id="node110" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_call.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionCallMessage interface to create a re..." alt="" coords="821,4605,1005,4646"/>
+<area shape="rect" id="node112" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_response.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionReturnMessage interface to create a ..." alt="" coords="803,4670,1023,4711"/>
+<area shape="rect" id="node121" href="$class_system_1_1_reflection_only_type.html" title=" " alt="" coords="821,5164,1004,5191"/>
+<area shape="rect" id="node130" href="$class_system_1_1_text_1_1_e_u_c_j_p_encoding.html" title=" " alt="" coords="1116,5648,1312,5675"/>
+<area shape="rect" id="node132" href="$class_system_1_1_text_1_1_i_s_o2022_encoding.html" title=" " alt="" coords="1112,5597,1316,5624"/>
+</map>

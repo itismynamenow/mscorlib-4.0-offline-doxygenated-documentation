@@ -1,0 +1,5 @@
+<map id="System.Security.Policy.IMembershipCondition" name="System.Security.Policy.IMembershipCondition">
+<area shape="rect" id="node1" title="Defines the test to determine whether a code assembly is a member of a code group." alt="" coords="42,80,279,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_policy_encodable.html" title="Supports the methods that convert permission object state to and from an XML element representation." alt="" coords="165,5,335,32"/>
+</map>

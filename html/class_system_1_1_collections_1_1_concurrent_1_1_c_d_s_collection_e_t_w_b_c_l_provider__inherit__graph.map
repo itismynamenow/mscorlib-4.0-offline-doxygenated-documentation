@@ -1,0 +1,5 @@
+<map id="System.Collections.Concurrent.CDSCollectionETWBCLProvider" name="System.Collections.Concurrent.CDSCollectionETWBCLProvider">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,212,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_tracing_1_1_event_source.html" title="Provides the ability to create events for event tracing for Windows (ETW)." alt="" coords="61,80,156,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="64,5,153,32"/>
+</map>

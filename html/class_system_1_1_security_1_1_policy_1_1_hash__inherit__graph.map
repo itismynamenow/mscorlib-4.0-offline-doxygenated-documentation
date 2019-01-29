@@ -1,0 +1,5 @@
+<map id="System.Security.Policy.Hash" name="System.Security.Policy.Hash">
+<area shape="rect" id="node1" title="Provides evidence about the hash value for an assembly. This class cannot be inherited." alt="" coords="22,80,215,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="134,5,226,32"/>
+</map>

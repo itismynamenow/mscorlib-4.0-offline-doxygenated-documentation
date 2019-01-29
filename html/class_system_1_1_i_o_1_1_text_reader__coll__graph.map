@@ -1,0 +1,5 @@
+<map id="System.IO.TextReader" name="System.IO.TextReader">
+<area shape="rect" id="node1" title="Represents a reader that can read a sequential series of characters." alt="" coords="68,81,223,108"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,5,261,32"/>
+</map>

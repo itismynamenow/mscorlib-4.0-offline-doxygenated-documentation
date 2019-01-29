@@ -1,0 +1,26 @@
+var class_system_1_1_security_1_1_policy_1_1_policy_level =
+[
+    [ "AddFullTrustAssembly", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#af59c5fd5007be56e941733b789efcbc3", null ],
+    [ "AddFullTrustAssembly", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a48b602fd5efbc171aaa3867cf124b9b9", null ],
+    [ "AddNamedPermissionSet", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a2d9998fd9bb3162cbf2f2d63db8829b5", null ],
+    [ "ChangeNamedPermissionSet", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a78f2d70740273172f5632161def9c66e", null ],
+    [ "CreateAppDomainLevel", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#ac80702663cd363d0ca3e38a631513f8a", null ],
+    [ "FromXml", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a8d4479ae855aa13452546dbc6350ba76", null ],
+    [ "GetNamedPermissionSet", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#aca2cbb087803debaba70a7e1c7710967", null ],
+    [ "Recover", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#ad70e34e5aebdd445f51e1e6d480832ff", null ],
+    [ "RemoveFullTrustAssembly", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a95de9d8568442bf68b614256df0d77ee", null ],
+    [ "RemoveFullTrustAssembly", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#af2d073f18651959c8a45246596ee497f", null ],
+    [ "RemoveNamedPermissionSet", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a82b4f0b7537ccf39f114476871539abb", null ],
+    [ "RemoveNamedPermissionSet", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a8b724f661a8e20d4f1caadf32b711c64", null ],
+    [ "Reset", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#ab0f410fac6284b2de7319065c6bb46ff", null ],
+    [ "Resolve", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#af12ba222b31f98e0e92f94e04b105252", null ],
+    [ "ResolveMatchingCodeGroups", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#ad21d8492577ca10bfcceeacf743a99ce", null ],
+    [ "ToXml", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#ab9d034affb2c37e91a2a567d9eee41f0", null ],
+    [ "FullTrustAssemblies", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a399b1c4700ed1f9ab0c8089931bcc211", null ],
+    [ "InternalSyncObject", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a16f3ec6e9a8ae72ff39e13a6f0c3c34c", null ],
+    [ "Label", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a60ebf12f0cd36c980d03252a3f2cbe2e", null ],
+    [ "NamedPermissionSets", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#a033d21daeef4442029bf33fda54fac91", null ],
+    [ "RootCodeGroup", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#abd80e2f17d8263ed14dfc58c202973e9", null ],
+    [ "StoreLocation", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#aea4065ac888575ab6a40d4ca27775482", null ],
+    [ "Type", "class_system_1_1_security_1_1_policy_1_1_policy_level.html#ae3f83b98402a703771e6cb093271dbf7", null ]
+];

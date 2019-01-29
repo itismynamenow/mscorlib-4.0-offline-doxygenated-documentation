@@ -1,0 +1,4 @@
+var class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_disposable_to_i_closable_adapter =
+[
+    [ "Close", "class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_disposable_to_i_closable_adapter.html#aedaf41e907915b09fc289d2aa0963f82", null ]
+];

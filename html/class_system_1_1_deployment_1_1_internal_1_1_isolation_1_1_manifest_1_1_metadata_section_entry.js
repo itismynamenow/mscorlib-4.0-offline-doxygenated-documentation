@@ -1,0 +1,26 @@
+var class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry =
+[
+    [ "Dispose", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a0bc5c284651af98739dceaef9832ae57", null ],
+    [ "CdfIdentity", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a8b4a424ffd276184d145d8a0bb9daadd", null ],
+    [ "CompatibleFrameworksData", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#aa97aaea702767d9574ae7ea8b9937b75", null ],
+    [ "ContentType", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a0001176970b61629f221cdfabc38a9d6", null ],
+    [ "defaultPermissionSetID", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a70eaf0a4cee39a64afe3fa0868fc0f02", null ],
+    [ "DependentOSData", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a6c980dcdc81dfa0f30463c2b5a1f1a16", null ],
+    [ "DeploymentData", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#aa1d4d20dff30aa51a65c605c65fad6ff", null ],
+    [ "DescriptionData", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a03f96dba3da5e8671231744c86370094", null ],
+    [ "HashAlgorithm", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a796cb99ec4b274f32c3195173a7ce701", null ],
+    [ "KeyInfoElement", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a6f8ba02b9bd23b8bdf235d720535f2d7", null ],
+    [ "LocalPath", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a4c8ef4ce7639f8c87912fb8ac908bdba", null ],
+    [ "ManifestFlags", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a1cc526e5694bd782c271ad276cfb7170", null ],
+    [ "ManifestHash", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a15dd5043ddd0a1314d53a977dcbd2165", null ],
+    [ "ManifestHashSize", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a6a4a9dd65ebdb009c7dcf9046b5d65b2", null ],
+    [ "MvidValue", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#ab9beff2f350286553a2b47b07bfda92a", null ],
+    [ "MvidValueSize", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a7eee256d6a6a7fbe56c851177e3335f4", null ],
+    [ "RequestedExecutionLevel", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a641e85a5d47cdd0b4a18eb26e1388f54", null ],
+    [ "RequestedExecutionLevelUIAccess", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a57d5700f2e229f9b33188841e9c3466a", null ],
+    [ "ResourceTypeManifestResourcesDependency", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#ab570c9981b8a29cab83ae1874f48025b", null ],
+    [ "ResourceTypeResourcesDependency", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a9df38cedff11b0d830a7835140272d98", null ],
+    [ "RuntimeImageVersion", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a4b2c54516c667f06332d8d5f1dee8829", null ],
+    [ "SchemaVersion", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#ad2aa506251167830f3e10c9ba803741d", null ],
+    [ "UsagePatterns", "class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_metadata_section_entry.html#a332d7d9c49df6f603171e220efa851c2", null ]
+];

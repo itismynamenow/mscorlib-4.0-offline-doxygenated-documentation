@@ -1,0 +1,7 @@
+<map id="System.Runtime.Remoting.Messaging.ISerializationRootObject" name="System.Runtime.Remoting.Messaging.ISerializationRootObject">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,196,87"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodCallMessage interface to create a request m..." alt="" coords="248,5,431,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_response.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="244,71,435,112"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_call.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionCallMessage interface to create a re..." alt="" coords="501,5,685,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_response.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionReturnMessage interface to create a ..." alt="" coords="483,71,703,112"/>
+</map>

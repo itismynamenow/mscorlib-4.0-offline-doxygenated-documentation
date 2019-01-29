@@ -1,0 +1,7 @@
+<map id="System.Threading.WaitHandle" name="System.Threading.WaitHandle">
+<area shape="rect" id="node1" title="Encapsulates operating system–specific objects that wait for exclusive access to shared resources." alt="" coords="117,171,315,197"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,81,147,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="171,81,261,108"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="285,81,387,108"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="290,5,382,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.Messaging.LogicalCallContext" name="System.Runtime.Remoting.Messaging.LogicalCallContext">
+<area shape="rect" id="node1" title="Provides a set of properties that are carried with the execution code path during remote method calls..." alt="" coords="9,80,206,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="122,5,205,32"/>
+</map>

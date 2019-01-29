@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.Channels.DispatchChannelSinkProvider" name="System.Runtime.Remoting.Channels.DispatchChannelSinkProvider">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,209,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_server_channel_sink_provider.html" title="Creates server channel sinks for the server channel through which remoting messages flow." alt="" coords="17,5,197,32"/>
+</map>

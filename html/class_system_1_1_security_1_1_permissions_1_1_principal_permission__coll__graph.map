@@ -1,0 +1,7 @@
+<map id="System.Security.Permissions.PrincipalPermission" name="System.Security.Permissions.PrincipalPermission">
+<area shape="rect" id="node1" title="Allows checks against the active principal (see T:System.Security.Principal.IPrincipal) using the lan..." alt="" coords="89,155,288,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_i_permission.html" title="Defines methods implemented by permission types." alt="" coords="69,80,159,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_permissions_1_1_i_unrestricted_permission.html" title="Allows a permission to expose an unrestricted state." alt="" coords="183,80,343,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_permissions_1_1_i_built_in_permission.html" title=" " alt="" coords="368,80,495,107"/>
+</map>

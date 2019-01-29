@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.Proxies.MessageData" name="System.Runtime.Remoting.Proxies.MessageData">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,188,271"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="45,81,148,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="51,5,143,32"/>
+</map>

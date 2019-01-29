@@ -1,0 +1,5 @@
+<map id="System.Runtime.Serialization.Formatters.Binary.BinaryFormatter" name="System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+<area shape="rect" id="node1" title="Serializes and deserializes an object, or an entire graph of connected objects, in binary format." alt="" coords="5,155,228,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_remoting_formatter.html" title="Provides the remote procedure call (RPC) interface for all formatters." alt="" coords="102,80,238,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_formatter.html" title="Provides functionality for formatting serialized objects." alt="" coords="76,5,157,32"/>
+</map>

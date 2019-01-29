@@ -1,0 +1,25 @@
+var class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper =
+[
+    [ "CopyToAsync", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#aa0701ea3339974b85badafee19f9a2aa", null ],
+    [ "Dispose", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#ad9a5d8827dddf9a2f8c7c93e4db254fb", null ],
+    [ "Flush", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a9c9f8ee0ffe93e01c074764b32e2e4b3", null ],
+    [ "FlushAsync", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#afb04409953b3ec21b429d6f06302df02", null ],
+    [ "GetBuffer", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a2eea0890efd31c4e62a7e57ca2abf3a7", null ],
+    [ "Read", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a26f9a7e96cc31601d1eec231435838cc", null ],
+    [ "ReadAsync", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#aed946cdae1d76afe41476ad40d45d614", null ],
+    [ "ReadByte", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#abe1bb210fb82c8cc03af886c90479dad", null ],
+    [ "Seek", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a27b19efb7a2e6ff36261e92c6f0a1d20", null ],
+    [ "SetLength", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a5813db7d55dfeeed4a2f779ed612c767", null ],
+    [ "ToArray", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a32da40fbb4981f07bd3fd64c52606bd9", null ],
+    [ "TryGetBuffer", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a6904729ba8cae0e349c8e4a4f7a19068", null ],
+    [ "Write", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a5fe5c0f8c4ba775f9a3fbbcf9f9f6a1c", null ],
+    [ "WriteAsync", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a4d823ccbd227a0759afd125fc18f8a3a", null ],
+    [ "WriteByte", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#ad5900fefa7fafe7e0310b1f46900780f", null ],
+    [ "WriteTo", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a5d7d206bee3f815b848eaf5af34aa67a", null ],
+    [ "CanRead", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#acb90e5e01bd57881a39dc9400be9055e", null ],
+    [ "CanSeek", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a8c90dc5fe80276ce946dc75efac06151", null ],
+    [ "CanWrite", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#ae5f54ffffa26351fe8073c02c9f085b5", null ],
+    [ "Length", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#a0218a3b8400d897cd71feaeeb1ebd9b4", null ],
+    [ "Capacity", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#ae255a59435627baaac27699373d6d873", null ],
+    [ "Position", "class_system_1_1_i_o_1_1_unmanaged_memory_stream_wrapper.html#ae8855129ba073ebf737340caa09edb3a", null ]
+];

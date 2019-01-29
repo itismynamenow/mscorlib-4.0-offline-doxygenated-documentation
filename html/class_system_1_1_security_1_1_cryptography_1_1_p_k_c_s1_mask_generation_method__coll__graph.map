@@ -1,0 +1,4 @@
+<map id="System.Security.Cryptography.PKCS1MaskGenerationMethod" name="System.Security.Cryptography.PKCS1MaskGenerationMethod">
+<area shape="rect" id="node1" title="Computes masks according to PKCS #1 for use by key exchange algorithms." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_mask_generation_method.html" title="Represents the abstract class from which all mask generator algorithms must derive." alt="" coords="27,5,187,32"/>
+</map>

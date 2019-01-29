@@ -1,0 +1,11 @@
+<map id="System.Security.Policy.IConstantMembershipCondition" name="System.Security.Policy.IConstantMembershipCondition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,224,276"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_all_membership_condition.html" title="Represents a membership condition that matches all code. This class cannot be inherited." alt="" coords="296,5,475,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_policy_1_1_application_directory_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing its application directory...." alt="" coords="272,71,499,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_policy_1_1_gac_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing its global assembly cache membershi..." alt="" coords="292,136,479,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_policy_1_1_publisher_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing its software publisher&#39;s Authentico..." alt="" coords="277,201,494,243"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_policy_1_1_site_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing the site from which it originated...." alt="" coords="292,267,479,308"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_policy_1_1_strong_name_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing its strong name...." alt="" coords="285,332,486,373"/>
+<area shape="rect" id="node8" href="$class_system_1_1_security_1_1_policy_1_1_url_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing its URL. This class cannot be inher..." alt="" coords="296,397,475,439"/>
+<area shape="rect" id="node9" href="$class_system_1_1_security_1_1_policy_1_1_zone_membership_condition.html" title="Determines whether an assembly belongs to a code group by testing its zone of origin...." alt="" coords="290,463,481,504"/>
+</map>

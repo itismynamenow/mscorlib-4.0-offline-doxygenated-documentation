@@ -1,0 +1,9 @@
+<map id="System.Array" name="System.Array">
+<area shape="rect" id="node1" title="Provides methods for creating, manipulating, searching, and sorting arrays, thereby serving as the ba..." alt="" coords="166,229,269,256"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,155,88,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="163,155,210,181"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="213,80,296,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="129,5,223,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_structural_comparable.html" title="Supports the structural comparison of collection objects." alt="" coords="286,155,437,181"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_i_structural_equatable.html" title="Defines methods to support the comparison of objects for structural equality." alt="" coords="461,155,600,181"/>
+</map>

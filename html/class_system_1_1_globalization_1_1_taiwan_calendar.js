@@ -1,0 +1,27 @@
+var class_system_1_1_globalization_1_1_taiwan_calendar =
+[
+    [ "TaiwanCalendar", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a667a15cad10657888bc66e0a9cc2aa92", null ],
+    [ "AddMonths", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a781ba3e8fb8fea8d34af399827037489", null ],
+    [ "AddYears", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a7e41619a4aa3be654aceb24e510579ea", null ],
+    [ "GetDayOfMonth", "class_system_1_1_globalization_1_1_taiwan_calendar.html#aedffbc7e4e9bc296e20fe909d33ee805", null ],
+    [ "GetDayOfWeek", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a98cbc382e438dc4559a297a7b1e0a987", null ],
+    [ "GetDayOfYear", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a805284c39e4b0c0dc2d5a017a37ee50f", null ],
+    [ "GetDaysInMonth", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a3efe615bdcd609aba1bdaed33f4634be", null ],
+    [ "GetDaysInYear", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a6bb603cdd42b18d6b7305f99d0d2d4f5", null ],
+    [ "GetEra", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a4f9c37469539c7f79277b62170bc9231", null ],
+    [ "GetLeapMonth", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a56c939c73837731de24986605dce093f", null ],
+    [ "GetMonth", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a98d3b1215428469a220bff345e314059", null ],
+    [ "GetMonthsInYear", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a525c62de235b93edb9d8f708b345ba26", null ],
+    [ "GetWeekOfYear", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a86fca689b670c1a824572813c3f39650", null ],
+    [ "GetYear", "class_system_1_1_globalization_1_1_taiwan_calendar.html#ad0ce9e43d83cf65ba9fba15cc45901b0", null ],
+    [ "IsLeapDay", "class_system_1_1_globalization_1_1_taiwan_calendar.html#aed9e695fbdd9fe579ed51848ce878412", null ],
+    [ "IsLeapMonth", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a41da8ef9cbfeb599065c6cc15d3fc8d9", null ],
+    [ "IsLeapYear", "class_system_1_1_globalization_1_1_taiwan_calendar.html#af664e069a1414710cdd48de768099d94", null ],
+    [ "ToDateTime", "class_system_1_1_globalization_1_1_taiwan_calendar.html#aa1273fedb3201af4266280b5f73f3faf", null ],
+    [ "ToFourDigitYear", "class_system_1_1_globalization_1_1_taiwan_calendar.html#afe465e3b4ac113f3f32a222f03f7ba74", null ],
+    [ "Eras", "class_system_1_1_globalization_1_1_taiwan_calendar.html#ab218520cb121eb80c83422b2b18a4b6a", null ],
+    [ "AlgorithmType", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a27fe6d78a6b1350472c7144cad0186cc", null ],
+    [ "MaxSupportedDateTime", "class_system_1_1_globalization_1_1_taiwan_calendar.html#a702e6c4ebcce17ed06bb861cd8b394ba", null ],
+    [ "MinSupportedDateTime", "class_system_1_1_globalization_1_1_taiwan_calendar.html#adbc4ebda635f768cff246a07a82a1d4e", null ],
+    [ "TwoDigitYearMax", "class_system_1_1_globalization_1_1_taiwan_calendar.html#ad5a6963b4a9e6b0527a8cc8c01c61c5e", null ]
+];

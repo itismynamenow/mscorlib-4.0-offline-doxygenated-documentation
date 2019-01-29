@@ -1,0 +1,4 @@
+<map id="System.Threading.CancellationTokenSource" name="System.Threading.CancellationTokenSource">
+<area shape="rect" id="node1" title="Signals to a T:System.Threading.CancellationToken that it should be canceled." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="62,5,151,32"/>
+</map>

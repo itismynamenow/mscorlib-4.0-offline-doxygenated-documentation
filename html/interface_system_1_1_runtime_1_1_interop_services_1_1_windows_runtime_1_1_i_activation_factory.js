@@ -1,0 +1,4 @@
+var interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_activation_factory =
+[
+    [ "ActivateInstance", "interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_activation_factory.html#abb9f56add3a72dec9ec460f16184d386", null ]
+];

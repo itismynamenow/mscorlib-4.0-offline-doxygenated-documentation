@@ -1,0 +1,27 @@
+var struct_system_1_1_reflection_1_1_metadata_token =
+[
+    [ "MetadataToken", "struct_system_1_1_reflection_1_1_metadata_token.html#a99d9a555e56422b90293091d0b3a29aa", null ],
+    [ "IsNullToken", "struct_system_1_1_reflection_1_1_metadata_token.html#ad4111f302b6a1b50151ab8f7460aa21f", null ],
+    [ "IsTokenOfType", "struct_system_1_1_reflection_1_1_metadata_token.html#a75de5dddce86d02e9ffde5418246f26d", null ],
+    [ "operator int", "struct_system_1_1_reflection_1_1_metadata_token.html#a184903c926b4a35c5e729a16815f9d94", null ],
+    [ "operator MetadataToken", "struct_system_1_1_reflection_1_1_metadata_token.html#a02d539c7886386d44a5195dea375ffb6", null ],
+    [ "ToString", "struct_system_1_1_reflection_1_1_metadata_token.html#a76e4e0ddcf08d0f130177c1272a900e8", null ],
+    [ "IsAssembly", "struct_system_1_1_reflection_1_1_metadata_token.html#a23a0dd22f1cce45761df6a1b6eebda44", null ],
+    [ "IsEvent", "struct_system_1_1_reflection_1_1_metadata_token.html#ad1c383de9820715c80f43fde26c6a57f", null ],
+    [ "IsFieldDef", "struct_system_1_1_reflection_1_1_metadata_token.html#a2f7abeab4d4c34b15be8169b0751cf77", null ],
+    [ "IsGenericPar", "struct_system_1_1_reflection_1_1_metadata_token.html#ac030df6eb387da6289f6b61db0ae86c9", null ],
+    [ "IsGlobalTypeDefToken", "struct_system_1_1_reflection_1_1_metadata_token.html#a2deadbb5a451dbed61cacee51e8c5f22", null ],
+    [ "IsMemberRef", "struct_system_1_1_reflection_1_1_metadata_token.html#a52e9f0a81ed1ce500d146e89cd891860", null ],
+    [ "IsMethodDef", "struct_system_1_1_reflection_1_1_metadata_token.html#a297e39a65847f50625c644cb544bb6f1", null ],
+    [ "IsMethodSpec", "struct_system_1_1_reflection_1_1_metadata_token.html#af761268b6bb20fa3c03b49db3bf76632", null ],
+    [ "IsModule", "struct_system_1_1_reflection_1_1_metadata_token.html#ac6fb7f915cde904b8a46eb68ab0cc964", null ],
+    [ "IsParamDef", "struct_system_1_1_reflection_1_1_metadata_token.html#acbd5417ec07f31ccfbb1bbb1f453accc", null ],
+    [ "IsProperty", "struct_system_1_1_reflection_1_1_metadata_token.html#a5e21a8674eccb46f1c7760a5a0f9a6b5", null ],
+    [ "IsSignature", "struct_system_1_1_reflection_1_1_metadata_token.html#a6b66b39db4ed5d447f1de6d6d7280f04", null ],
+    [ "IsString", "struct_system_1_1_reflection_1_1_metadata_token.html#a55bf4fcba0a472a369b32b4864ff53db", null ],
+    [ "IsTypeDef", "struct_system_1_1_reflection_1_1_metadata_token.html#a976e0b0d0af8a8aceb68be9dfcef0ca8", null ],
+    [ "IsTypeRef", "struct_system_1_1_reflection_1_1_metadata_token.html#a3f34412f86219c7e2c91dfe1937a1a46", null ],
+    [ "IsTypeSpec", "struct_system_1_1_reflection_1_1_metadata_token.html#affd2ce77c90a83357725f0d34999429c", null ],
+    [ "TokenType", "struct_system_1_1_reflection_1_1_metadata_token.html#ad612df59ca5279f2af64ae7204911acc", null ],
+    [ "Value", "struct_system_1_1_reflection_1_1_metadata_token.html#af8537f9d4d2fac3aeed0cbf8c6520e6e", null ]
+];

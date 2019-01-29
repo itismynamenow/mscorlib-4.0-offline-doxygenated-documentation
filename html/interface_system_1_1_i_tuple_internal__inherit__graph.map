@@ -1,0 +1,5 @@
+<map id="System.ITupleInternal" name="System.ITupleInternal">
+<area shape="rect" id="node1" title=" " alt="" coords="9,80,156,107"/>
+<area shape="rect" id="node3" href="$class_system_1_1_tuple.html" title="Represents an n&#45;tuple, where n is 8 or greater." alt="" coords="5,155,160,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_compiler_services_1_1_i_tuple.html" title="Defines a general&#45;purpose Tuple implementation that allows acccess to Tuple instance members without ..." alt="" coords="55,5,111,32"/>
+</map>

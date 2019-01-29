@@ -1,0 +1,4 @@
+<map id="System.Security.Cryptography.RSAOAEPKeyExchangeFormatter" name="System.Security.Cryptography.RSAOAEPKeyExchangeFormatter">
+<area shape="rect" id="node1" title="Creates Optimal Asymmetric Encryption Padding (OAEP) key exchange data using T:System...." alt="" coords="9,80,231,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_asymmetric_key_exchange_formatter.html" title="Represents the base class from which all asymmetric key exchange formatters derive." alt="" coords="5,5,235,32"/>
+</map>

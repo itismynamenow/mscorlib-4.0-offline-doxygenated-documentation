@@ -1,0 +1,27 @@
+var class_system_1_1_globalization_1_1_japanese_calendar =
+[
+    [ "JapaneseCalendar", "class_system_1_1_globalization_1_1_japanese_calendar.html#a8958201fdfe4788b8df4bef349e7ae35", null ],
+    [ "AddMonths", "class_system_1_1_globalization_1_1_japanese_calendar.html#ade86357166f705f0cd44987aa23e7299", null ],
+    [ "AddYears", "class_system_1_1_globalization_1_1_japanese_calendar.html#a3bbe6e50071305cc92efb102706f4ece", null ],
+    [ "GetDayOfMonth", "class_system_1_1_globalization_1_1_japanese_calendar.html#a7681f531eec81968f73a08fb422de00a", null ],
+    [ "GetDayOfWeek", "class_system_1_1_globalization_1_1_japanese_calendar.html#aae0e138816f6b488a16274cd328924d4", null ],
+    [ "GetDayOfYear", "class_system_1_1_globalization_1_1_japanese_calendar.html#a5a4f708625ff720308fe67da71450ca5", null ],
+    [ "GetDaysInMonth", "class_system_1_1_globalization_1_1_japanese_calendar.html#a5bdf0f2d8b5dd3c74d4e63f27f705f36", null ],
+    [ "GetDaysInYear", "class_system_1_1_globalization_1_1_japanese_calendar.html#adf4ba8cb17fe7d5c5482f7027397d7ec", null ],
+    [ "GetEra", "class_system_1_1_globalization_1_1_japanese_calendar.html#ab92c11f147d8371809d9d7df95b6603e", null ],
+    [ "GetLeapMonth", "class_system_1_1_globalization_1_1_japanese_calendar.html#a8d1574db68f5f147ff7a01112ad206c6", null ],
+    [ "GetMonth", "class_system_1_1_globalization_1_1_japanese_calendar.html#a2317d6fcd2ef9b925138611e27361465", null ],
+    [ "GetMonthsInYear", "class_system_1_1_globalization_1_1_japanese_calendar.html#a6c75cb56be4bcc951fe4915968820fdb", null ],
+    [ "GetWeekOfYear", "class_system_1_1_globalization_1_1_japanese_calendar.html#ac2da663b3215e6f074102aed8583794d", null ],
+    [ "GetYear", "class_system_1_1_globalization_1_1_japanese_calendar.html#a5660f578a15a4bf2373c300cbc2331a9", null ],
+    [ "IsLeapDay", "class_system_1_1_globalization_1_1_japanese_calendar.html#afd356d1c2a7aa71e5c61113396c2791f", null ],
+    [ "IsLeapMonth", "class_system_1_1_globalization_1_1_japanese_calendar.html#a8f3b8f1b2d7108d9971955004415acb2", null ],
+    [ "IsLeapYear", "class_system_1_1_globalization_1_1_japanese_calendar.html#aeefb28badf51d319edbd8eced5530814", null ],
+    [ "ToDateTime", "class_system_1_1_globalization_1_1_japanese_calendar.html#aec7fbe193b91311922667dbba908479f", null ],
+    [ "ToFourDigitYear", "class_system_1_1_globalization_1_1_japanese_calendar.html#a03139bb3fb9bc7455ad6c46cdccd10de", null ],
+    [ "Eras", "class_system_1_1_globalization_1_1_japanese_calendar.html#aa78728e50bfef76ddf93eafefedb9e6a", null ],
+    [ "AlgorithmType", "class_system_1_1_globalization_1_1_japanese_calendar.html#ac5740512a1fad8e9d32c7b034c4ac98d", null ],
+    [ "MaxSupportedDateTime", "class_system_1_1_globalization_1_1_japanese_calendar.html#aba4aac53b22b631bed0e2709752250da", null ],
+    [ "MinSupportedDateTime", "class_system_1_1_globalization_1_1_japanese_calendar.html#a50d5e14bc67191cc39118a401ab50ccb", null ],
+    [ "TwoDigitYearMax", "class_system_1_1_globalization_1_1_japanese_calendar.html#a7c2c839338c52e48ffd4b871d53eab3a", null ]
+];

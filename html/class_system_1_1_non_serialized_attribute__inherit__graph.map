@@ -1,0 +1,5 @@
+<map id="System.NonSerializedAttribute" name="System.NonSerializedAttribute">
+<area shape="rect" id="node1" title="Indicates that a field of a serializable class should not be serialized. This class cannot be inherit..." alt="" coords="5,155,205,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="70,80,141,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="66,5,145,32"/>
+</map>

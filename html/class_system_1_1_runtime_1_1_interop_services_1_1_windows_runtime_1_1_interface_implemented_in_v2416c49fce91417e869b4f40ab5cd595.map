@@ -1,0 +1,5 @@
+<map id="System.Runtime.InteropServices.WindowsRuntime.InterfaceImplementedInVersionAttribute" name="System.Runtime.InteropServices.WindowsRuntime.InterfaceImplementedInVersionAttribute">
+<area shape="rect" id="node1" title="Specifies the version of the target type that first implemented the specified interface." alt="" coords="5,155,256,211"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="95,80,166,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="91,5,170,32"/>
+</map>

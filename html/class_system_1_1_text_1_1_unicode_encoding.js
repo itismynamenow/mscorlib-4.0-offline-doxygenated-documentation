@@ -1,0 +1,25 @@
+var class_system_1_1_text_1_1_unicode_encoding =
+[
+    [ "UnicodeEncoding", "class_system_1_1_text_1_1_unicode_encoding.html#a21a0750b3ea300f06f7c2c36debd747f", null ],
+    [ "UnicodeEncoding", "class_system_1_1_text_1_1_unicode_encoding.html#a96b2e5868013f9dfd23889cf493a136f", null ],
+    [ "Equals", "class_system_1_1_text_1_1_unicode_encoding.html#ae900b2905b831fad213bbf8ba5ec3ff2", null ],
+    [ "GetByteCount", "class_system_1_1_text_1_1_unicode_encoding.html#aee11380de2e62f8f020ebe40949ddcbe", null ],
+    [ "GetByteCount", "class_system_1_1_text_1_1_unicode_encoding.html#ae4aa55063289da32a856e69c12b43ced", null ],
+    [ "GetByteCount", "class_system_1_1_text_1_1_unicode_encoding.html#a4b55775acbef59ab32a23e1d0fbbb433", null ],
+    [ "GetBytes", "class_system_1_1_text_1_1_unicode_encoding.html#ae62f9503f1fb94b2c8e75cb385f15e2f", null ],
+    [ "GetBytes", "class_system_1_1_text_1_1_unicode_encoding.html#a0d2f1fc364e48044332332f0115ce661", null ],
+    [ "GetBytes", "class_system_1_1_text_1_1_unicode_encoding.html#aea0dfc22954a50da8833f9951277209f", null ],
+    [ "GetCharCount", "class_system_1_1_text_1_1_unicode_encoding.html#ae955815dddbf9ba503db280feab795cf", null ],
+    [ "GetCharCount", "class_system_1_1_text_1_1_unicode_encoding.html#a64924e8653064f7b43a77ab1682a7850", null ],
+    [ "GetChars", "class_system_1_1_text_1_1_unicode_encoding.html#a2d5f5e8751fac49ac5ece1517902aa46", null ],
+    [ "GetChars", "class_system_1_1_text_1_1_unicode_encoding.html#a548fe251ebebe32670dc11cbbd16e24d", null ],
+    [ "GetDecoder", "class_system_1_1_text_1_1_unicode_encoding.html#aea6c8b88ab0f7126586f0f785791c20b", null ],
+    [ "GetEncoder", "class_system_1_1_text_1_1_unicode_encoding.html#a53e8c0e7b07dd3a4a860c6ef5fcffba0", null ],
+    [ "GetHashCode", "class_system_1_1_text_1_1_unicode_encoding.html#a739e4c01201e352045d6e9e4c8734a90", null ],
+    [ "GetMaxByteCount", "class_system_1_1_text_1_1_unicode_encoding.html#ac43a1a952f0f9f1699b676f1f55c4133", null ],
+    [ "GetMaxCharCount", "class_system_1_1_text_1_1_unicode_encoding.html#ab44d80c3aecc3b1b172fe393c8646df7", null ],
+    [ "GetPreamble", "class_system_1_1_text_1_1_unicode_encoding.html#a314a94cf2a24304c786534fadf691dfd", null ],
+    [ "GetString", "class_system_1_1_text_1_1_unicode_encoding.html#aed238082130ecbbc4bec70dfcb539247", null ],
+    [ "UnicodeEncoding?", "class_system_1_1_text_1_1_unicode_encoding.html#aa6591437e36d31cd207837e6bd933864", null ],
+    [ "CharSize", "class_system_1_1_text_1_1_unicode_encoding.html#a611424b514aecd9aa0c6a6b5550e7b9a", null ]
+];

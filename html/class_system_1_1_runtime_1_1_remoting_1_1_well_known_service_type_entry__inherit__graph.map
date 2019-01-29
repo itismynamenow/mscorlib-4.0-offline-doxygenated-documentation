@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.WellKnownServiceTypeEntry" name="System.Runtime.Remoting.WellKnownServiceTypeEntry">
+<area shape="rect" id="node1" title="Holds values for an object type registered on the service end as a server&#45;activated type object (sing..." alt="" coords="5,80,193,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_type_entry.html" title="Implements a base class that holds the configuration information used to activate an instance of a re..." alt="" coords="59,5,140,32"/>
+</map>

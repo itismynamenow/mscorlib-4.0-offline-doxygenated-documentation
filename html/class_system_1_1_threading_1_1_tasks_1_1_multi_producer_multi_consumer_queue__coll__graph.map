@@ -1,0 +1,12 @@
+<map id="System.Threading.Tasks.MultiProducerMultiConsumerQueue&lt; T &gt;" name="System.Threading.Tasks.MultiProducerMultiConsumerQueue&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="149,441,379,483"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_concurrent_1_1_concurrent_queue.html" title="Represents a thread&#45;safe first in&#45;first out (FIFO) collection." alt="" coords="339,365,493,392"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_concurrent_1_1_i_producer_consumer_collection.html" title="Defines methods to manipulate thread&#45;safe collections intended for producer/consumer usage...." alt="" coords="240,289,464,316"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="48,95,173,121"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title="Represents a strongly&#45;typed, read&#45;only collection of elements." alt="" coords="429,171,617,227"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_threading_1_1_tasks_1_1_i_producer_consumer_queue.html" title=" " alt="" coords="148,185,353,212"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="575,95,670,121"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="641,185,724,212"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_collections_1_1_generic_1_1_i_read_only_collection.html" title=" " alt="" coords="488,289,659,316"/>
+</map>

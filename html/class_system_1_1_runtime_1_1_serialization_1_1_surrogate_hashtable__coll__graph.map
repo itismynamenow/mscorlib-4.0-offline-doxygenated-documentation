@@ -1,0 +1,11 @@
+<map id="System.Runtime.Serialization.SurrogateHashtable" name="System.Runtime.Serialization.SurrogateHashtable">
+<area shape="rect" id="node1" title=" " alt="" coords="756,154,955,195"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_hashtable.html" title="Represents a collection of key/value pairs that are organized based on the hash code of the key...." alt="" coords="627,161,707,188"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="335,60,417,86"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="149,94,232,121"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,44,100,70"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="330,161,422,188"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="296,212,456,238"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="335,262,417,289"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_i_equality_comparer.html" title="Defines methods to support the comparison of objects for equality." alt="" coords="281,314,471,355"/>
+</map>

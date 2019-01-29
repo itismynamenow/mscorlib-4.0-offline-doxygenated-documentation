@@ -1,0 +1,7 @@
+<map id="System.Runtime.CompilerServices.ITuple" name="System.Runtime.CompilerServices.ITuple">
+<area shape="rect" id="node1" title="Defines a general&#45;purpose Tuple implementation that allows acccess to Tuple instance members without ..." alt="" coords="5,293,232,334"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_tuple_internal.html" title=" " alt="" coords="297,31,443,57"/>
+<area shape="rect" id="node3" href="$class_system_1_1_tuple.html" title="Represents an n&#45;tuple, where n is 8 or greater." alt="" coords="508,84,663,140"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_value_tuple_internal.html" title=" " alt="" coords="280,300,460,327"/>
+<area shape="rect" id="node5" href="$struct_system_1_1_value_tuple.html" title="Represents an n&#45;value tuple, where n is 8 or greater." alt="" coords="514,359,657,415"/>
+</map>

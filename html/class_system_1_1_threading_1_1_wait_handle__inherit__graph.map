@@ -1,0 +1,9 @@
+<map id="System.Threading.WaitHandle" name="System.Threading.WaitHandle">
+<area shape="rect" id="node1" title="Encapsulates operating system–specific objects that wait for exclusive access to shared resources." alt="" coords="215,80,414,107"/>
+<area shape="rect" id="node4" href="$class_system_1_1_threading_1_1_event_wait_handle.html" title="Represents a thread synchronization event." alt="" coords="118,155,309,196"/>
+<area shape="rect" id="node7" href="$class_system_1_1_threading_1_1_mutex.html" title="A synchronization primitive that can also be used for interprocess synchronization." alt="" coords="333,162,499,189"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="175,5,316,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="341,5,430,32"/>
+<area shape="rect" id="node5" href="$class_system_1_1_threading_1_1_auto_reset_event.html" title="Notifies a waiting thread that an event has occurred. This class cannot be inherited." alt="" coords="5,244,197,285"/>
+<area shape="rect" id="node6" href="$class_system_1_1_threading_1_1_manual_reset_event.html" title="Notifies one or more waiting threads that an event has occurred. This class cannot be inherited." alt="" coords="222,244,429,285"/>
+</map>

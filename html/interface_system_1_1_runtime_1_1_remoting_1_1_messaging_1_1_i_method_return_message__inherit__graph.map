@@ -1,0 +1,12 @@
+<map id="System.Runtime.Remoting.Messaging.IMethodReturnMessage" name="System.Runtime.Remoting.Messaging.IMethodReturnMessage">
+<area shape="rect" id="node1" title="Defines the method call return message interface." alt="" coords="301,183,528,225"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_construction_return_message.html" title="Identifies a T:System.Runtime.Remoting.Messaging.IMethodReturnMessage that is returned after attempti..." alt="" coords="603,111,799,167"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_response.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionReturnMessage interface to create a ..." alt="" coords="888,45,1108,86"/>
+<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_constructor_return_message.html" title=" " alt="" coords="875,183,1121,225"/>
+<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_response.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="606,45,797,86"/>
+<area shape="rect" id="node8" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_return_message_wrapper.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodReturnMessage interface to create a message..." alt="" coords="590,241,813,297"/>
+<area shape="rect" id="node9" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_return_message.html" title="Holds a message returned in response to a method call on a remote object." alt="" coords="610,322,793,363"/>
+<area shape="rect" id="node10" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_stack_based_return_message.html" title=" " alt="" coords="576,387,827,429"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="132,216,253,243"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="5,191,84,217"/>
+</map>

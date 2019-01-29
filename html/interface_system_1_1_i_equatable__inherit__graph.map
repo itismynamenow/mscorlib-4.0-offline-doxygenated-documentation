@@ -1,0 +1,69 @@
+<map id="System.IEquatable&lt; T &gt;" name="System.IEquatable&lt; T &gt;">
+<area shape="rect" id="node1" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="5,1165,168,1192"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,14,597,55"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="448,79,605,121"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,145,597,186"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,210,597,251"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,275,597,317"/>
+<area shape="rect" id="node12" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,341,597,382"/>
+<area shape="rect" id="node14" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1386,597,1427"/>
+<area shape="rect" id="node16" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1452,597,1508"/>
+<area shape="rect" id="node17" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,406,597,447"/>
+<area shape="rect" id="node19" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,471,597,513"/>
+<area shape="rect" id="node21" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1190,597,1231"/>
+<area shape="rect" id="node22" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,537,597,578"/>
+<area shape="rect" id="node24" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,602,597,643"/>
+<area shape="rect" id="node26" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,667,597,709"/>
+<area shape="rect" id="node28" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,733,597,774"/>
+<area shape="rect" id="node30" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,798,597,839"/>
+<area shape="rect" id="node32" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,863,597,905"/>
+<area shape="rect" id="node34" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,929,597,970"/>
+<area shape="rect" id="node36" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,994,597,1035"/>
+<area shape="rect" id="node38" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1255,597,1297"/>
+<area shape="rect" id="node39" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1533,597,1574"/>
+<area shape="rect" id="node41" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1598,597,1639"/>
+<area shape="rect" id="node43" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1663,597,1705"/>
+<area shape="rect" id="node45" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="439,1729,614,1770"/>
+<area shape="rect" id="node47" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="443,1794,610,1835"/>
+<area shape="rect" id="node49" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1859,597,1901"/>
+<area shape="rect" id="node51" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1925,597,1966"/>
+<area shape="rect" id="node53" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1990,597,2031"/>
+<area shape="rect" id="node55" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,2055,597,2097"/>
+<area shape="rect" id="node57" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,2121,597,2162"/>
+<area shape="rect" id="node59" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,2186,597,2227"/>
+<area shape="rect" id="node61" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,2251,597,2293"/>
+<area shape="rect" id="node63" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="420,2317,633,2358"/>
+<area shape="rect" id="node65" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="445,1321,608,1362"/>
+<area shape="rect" id="node66" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1059,597,1101"/>
+<area shape="rect" id="node67" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="457,1125,597,1166"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_int64.html" title="Represents a 64&#45;bit signed integer." alt="" coords="755,21,853,48"/>
+<area shape="rect" id="node5" href="$struct_system_1_1_security_1_1_cryptography_1_1_hash_algorithm_name.html" title="Specifies the name of a cryptographic hash algorithm." alt="" coords="702,79,906,121"/>
+<area shape="rect" id="node7" href="$struct_system_1_1_decimal.html" title="Represents a decimal number." alt="" coords="745,152,863,179"/>
+<area shape="rect" id="node9" href="$class_system_1_1_globalization_1_1_sort_version.html" title="Provides information about the version of Unicode used to compare and order strings." alt="" coords="717,210,891,251"/>
+<area shape="rect" id="node11" href="$struct_system_1_1_double.html" title="Represents a double&#45;precision floating&#45;point number." alt="" coords="749,283,859,309"/>
+<area shape="rect" id="node13" href="$struct_system_1_1_date_time_offset.html" title="Represents a point in time, typically expressed as a date and time of day, relative to Coordinated Un..." alt="" coords="724,348,884,375"/>
+<area shape="rect" id="node15" href="$struct_system_1_1_value_tuple.html" title="Represents an n&#45;value tuple, where n is 8 or greater." alt="" coords="733,1248,875,1304"/>
+<area shape="rect" id="node18" href="$struct_system_1_1_single.html" title="Represents a single&#45;precision floating&#45;point number." alt="" coords="751,413,857,440"/>
+<area shape="rect" id="node20" href="$struct_system_1_1_int32.html" title="Represents a 32&#45;bit signed integer.To browse the .NET Framework source code for this type,..." alt="" coords="755,479,853,505"/>
+<area shape="rect" id="node23" href="$class_system_1_1_time_zone_info_1_1_adjustment_rule.html" title="Provides information about a time zone adjustment, such as the transition to and from daylight saving..." alt="" coords="683,544,925,571"/>
+<area shape="rect" id="node25" href="$struct_system_1_1_int16.html" title="Represents a 16&#45;bit signed integer." alt="" coords="755,609,853,636"/>
+<area shape="rect" id="node27" href="$class_system_1_1_time_zone_info.html" title="Represents any time zone in the world." alt="" coords="731,675,877,701"/>
+<area shape="rect" id="node29" href="$class_system_1_1_string.html" title="Represents text as a sequence of UTF&#45;16 code units.To browse the .NET Framework source code for this ..." alt="" coords="751,740,857,767"/>
+<area shape="rect" id="node31" href="$struct_system_1_1_byte.html" title="Represents an 8&#45;bit unsigned integer." alt="" coords="755,805,853,832"/>
+<area shape="rect" id="node33" href="$struct_system_1_1_u_int64.html" title="Represents a 64&#45;bit unsigned integer." alt="" coords="750,871,858,897"/>
+<area shape="rect" id="node35" href="$struct_system_1_1_u_int16.html" title="Represents a 16&#45;bit unsigned integer." alt="" coords="750,936,858,963"/>
+<area shape="rect" id="node37" href="$struct_system_1_1_reflection_1_1_emit_1_1_exception_handler.html" title="Represents an exception handler in a byte array of IL to be passed to a method such as M:System...." alt="" coords="693,994,915,1035"/>
+<area shape="rect" id="node40" href="$struct_system_1_1_s_byte.html" title="Represents an 8&#45;bit signed integer." alt="" coords="751,1540,857,1567"/>
+<area shape="rect" id="node42" href="$struct_system_1_1_time_span.html" title="Represents a time interval.To browse the .NET Framework source code for this type,..." alt="" coords="739,1605,869,1632"/>
+<area shape="rect" id="node44" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="755,1671,853,1697"/>
+<area shape="rect" id="node46" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_encryption_padding.html" title="Specifies the padding mode and parameters to use with RSA encryption or decryption operations." alt="" coords="702,1729,906,1770"/>
+<area shape="rect" id="node48" href="$class_system_1_1_security_1_1_cryptography_1_1_r_s_a_signature_padding.html" title="Specifies the padding mode and parameters to use with RSA signature creation or verification operatio..." alt="" coords="702,1794,906,1835"/>
+<area shape="rect" id="node50" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="747,1867,861,1893"/>
+<area shape="rect" id="node52" href="$struct_system_1_1_char.html" title="Represents a character as a UTF&#45;16 code unit." alt="" coords="755,1932,853,1959"/>
+<area shape="rect" id="node54" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_o_s_platform.html" title="Represents an operating system platform." alt="" coords="697,1990,911,2031"/>
+<area shape="rect" id="node56" href="$struct_system_1_1_time_zone_info_1_1_transition_time.html" title="Provides information about a specific time change, such as the change from daylight saving time to st..." alt="" coords="687,2063,921,2089"/>
+<area shape="rect" id="node58" href="$struct_system_1_1_date_time.html" title="Represents an instant in time, typically expressed as a date and time of day. To browse the ...." alt="" coords="741,2128,867,2155"/>
+<area shape="rect" id="node60" href="$struct_system_1_1_boolean.html" title="Represents a Boolean (true or false) value." alt="" coords="745,2193,863,2220"/>
+<area shape="rect" id="node62" href="$struct_system_1_1_u_int32.html" title="Represents a 32&#45;bit unsigned integer." alt="" coords="750,2259,858,2285"/>
+<area shape="rect" id="node64" href="$struct_system_1_1_threading_1_1_cancellation_token_registration.html" title="Represents a callback delegate that has been registered with a T:System.Threading...." alt="" coords="703,2317,905,2358"/>
+</map>

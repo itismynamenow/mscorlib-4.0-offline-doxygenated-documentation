@@ -1,0 +1,6 @@
+<map id="System.Runtime.Remoting.Messaging.ReturnMessage" name="System.Runtime.Remoting.Messaging.ReturnMessage">
+<area shape="rect" id="node1" title="Holds a message returned in response to a method call on a remote object." alt="" coords="14,229,197,271"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_return_message.html" title="Defines the method call return message interface." alt="" coords="26,155,185,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="110,80,231,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="33,5,111,32"/>
+</map>

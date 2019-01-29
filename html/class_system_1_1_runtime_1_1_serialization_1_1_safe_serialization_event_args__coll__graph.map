@@ -1,0 +1,6 @@
+<map id="System.Runtime.Serialization.SafeSerializationEventArgs" name="System.Runtime.Serialization.SafeSerializationEventArgs">
+<area shape="rect" id="node1" title="Provides data for the E:System.Exception.SerializeObjectState event." alt="" coords="94,199,293,240"/>
+<area shape="rect" id="node2" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="30,102,111,129"/>
+<area shape="rect" id="node3" href="$class_system_1_1_event_args.html" title="Represents the base class for classes that contain event data, and provides a value to use for events..." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_runtime_1_1_serialization_1_1_streaming_context.html" title="Describes the source and destination of a given serialized stream, and provides an additional caller&#45;..." alt="" coords="135,95,334,136"/>
+</map>

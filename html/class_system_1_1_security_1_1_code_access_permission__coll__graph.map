@@ -1,0 +1,6 @@
+<map id="System.Security.CodeAccessPermission" name="System.Security.CodeAccessPermission">
+<area shape="rect" id="node1" title="Defines the underlying structure of all code access permissions." alt="" coords="15,155,213,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_i_permission.html" title="Defines methods implemented by permission types." alt="" coords="69,80,159,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_stack_walk.html" title="Manages the stack walk that determines whether all callers in the call stack have the required permis..." alt="" coords="184,80,273,107"/>
+</map>

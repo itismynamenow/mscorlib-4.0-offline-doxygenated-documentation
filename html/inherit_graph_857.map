@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_formatter.html" title="Provides functionality for formatting serialized objects." alt="" coords="5,64,204,105"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_remoting_formatter.html" title="Provides the remote procedure call (RPC) interface for all formatters." alt="" coords="252,5,455,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_binary_formatter.html" title="Serializes and deserializes an object, or an entire graph of connected objects, in binary format." alt="" coords="503,35,725,76"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_serialization_1_1_formatter.html" title="Provides base functionality for the common language runtime serialization formatters." alt="" coords="254,123,453,164"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.Channels.ServerChannelSinkStack" name="System.Runtime.Remoting.Channels.ServerChannelSinkStack">
+<area shape="rect" id="node1" title="Holds the stack of server channel sinks." alt="" coords="5,169,228,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_server_channel_sink_stack.html" title="Provides the stack functionality for a stack of server channel sinks." alt="" coords="94,95,262,121"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_server_response_channel_sink_stack.html" title="Provides the stack functionality for a stack of server response channel sinks." alt="" coords="21,5,213,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="System.Runtime.InteropServices.ICustomQueryInterface" name="System.Runtime.InteropServices.ICustomQueryInterface">
+<area shape="rect" id="node1" title="Enables developers to provide a custom, managed implementation of the IUnknown::QueryInterface(REFIID..." alt="" coords="5,71,220,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_runtime_assembly.html" title=" " alt="" coords="313,5,493,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_interop_services_1_1_com_events_sink.html" title=" " alt="" coords="296,71,511,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_custom_property_provider_proxy.html" title=" " alt="" coords="268,137,539,193"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_emit_1_1_internal_assembly_builder.html" title=" " alt="" coords="587,5,792,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="System.Text.GB18030Encoding" name="System.Text.GB18030Encoding">
+<area shape="rect" id="node1" title=" " alt="" coords="94,379,302,405"/>
+<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_d_b_c_s_code_page_encoding.html" title=" " alt="" coords="51,304,223,331"/>
+<area shape="rect" id="node3" href="$class_system_1_1_text_1_1_base_code_page_encoding.html" title=" " alt="" coords="5,229,172,256"/>
+<area shape="rect" id="node4" href="$class_system_1_1_text_1_1_encoding_n_l_s.html" title=" " alt="" coords="38,155,139,181"/>
+<area shape="rect" id="node5" href="$class_system_1_1_text_1_1_encoding.html" title="Represents a character encoding.To browse the .NET Framework source code for this type,..." alt="" coords="51,80,127,107"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="47,5,130,32"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="164,155,256,181"/>
+</map>

@@ -1,0 +1,5 @@
+var interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_i_compatible_frameworks_metadata_entry =
+[
+    [ "AllData", "interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_i_compatible_frameworks_metadata_entry.html#a7666e515efc22f1d00f2dcbd57c9a6e7", null ],
+    [ "SupportUrl", "interface_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_i_compatible_frameworks_metadata_entry.html#a789c1a81285622d96d46871c10d712e8", null ]
+];

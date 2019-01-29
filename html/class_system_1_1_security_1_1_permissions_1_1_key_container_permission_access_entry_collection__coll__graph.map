@@ -1,0 +1,5 @@
+<map id="System.Security.Permissions.KeyContainerPermissionAccessEntryCollection" name="System.Security.Permissions.KeyContainerPermissionAccessEntryCollection">
+<area shape="rect" id="node1" title="Represents a collection of T:System.Security.Permissions.KeyContainerPermissionAccessEntry objects...." alt="" coords="5,155,245,211"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="124,80,207,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="78,5,173,32"/>
+</map>

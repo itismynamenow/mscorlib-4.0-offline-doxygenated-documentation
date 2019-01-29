@@ -1,0 +1,4 @@
+<map id="System.ContextBoundObject" name="System.ContextBoundObject">
+<area shape="rect" id="node1" title="Defines the base class for all context&#45;bound classes." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="30,5,171,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="System.Security.AccessControl.FileSecurity" name="System.Security.AccessControl.FileSecurity">
+<area shape="rect" id="node1" title="Represents the access control and audit security for a file. This class cannot be inherited." alt="" coords="139,352,351,393"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_file_system_security.html" title="Represents the access control and audit security for a file or directory." alt="" coords="177,276,313,303"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_native_object_security.html" title="Provides the ability to control access to native objects without direct manipulation of Access Contro..." alt="" coords="54,157,197,184"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_common_object_security.html" title="Controls access to objects without direct manipulation of access control lists (ACLs)...." alt="" coords="5,81,165,108"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_access_control_1_1_object_security.html" title="Provides the ability to control access to objects without direct manipulation of Access Control Lists..." alt="" coords="26,5,134,32"/>
+<area shape="rect" id="node6" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="277,157,376,184"/>
+<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="197,81,286,108"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="159,5,324,32"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="348,5,444,32"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="310,81,367,108"/>
+<area shape="rect" id="node11" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="391,81,457,108"/>
+</map>

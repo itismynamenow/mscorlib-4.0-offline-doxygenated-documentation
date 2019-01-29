@@ -1,0 +1,7 @@
+<map id="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.KeyCollection.Enumerator" name="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.KeyCollection.Enumerator">
+<area shape="rect" id="node1" title="Enumerates the elements of a T:System.Collections.Generic.Dictionary`2.KeyCollection." alt="" coords="50,261,239,317"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title=" " alt="" coords="71,185,218,212"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerator.html" title="Supports a simple iteration over a generic collection." alt="" coords="51,81,239,123"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="155,5,247,32"/>
+</map>

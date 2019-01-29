@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.ObjRef" name="System.Runtime.Remoting.ObjRef">
+<area shape="rect" id="node1" title="Stores all relevant information required to generate a proxy in order to communicate with a remote ob..." alt="" coords="40,80,223,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_object_reference.html" title="Indicates that the current interface implementer is a reference to another object." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="151,5,243,32"/>
+</map>

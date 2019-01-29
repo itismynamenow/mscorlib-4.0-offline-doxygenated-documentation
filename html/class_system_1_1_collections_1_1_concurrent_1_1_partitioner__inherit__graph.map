@@ -1,0 +1,4 @@
+<map id="System.Collections.Concurrent.Partitioner&lt; TSource &gt;" name="System.Collections.Concurrent.Partitioner&lt; TSource &gt;">
+<area shape="rect" id="node1" title="Represents a particular manner of splitting a data source into multiple partitions." alt="" coords="10,5,217,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_concurrent_1_1_orderable_partitioner.html" title="Represents a particular manner of splitting an orderable data source into multiple partitions." alt="" coords="5,95,221,151"/>
+</map>

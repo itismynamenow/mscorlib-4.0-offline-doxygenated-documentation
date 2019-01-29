@@ -1,0 +1,9 @@
+<map id="System.Security.Principal.WindowsPrincipal" name="System.Security.Principal.WindowsPrincipal">
+<area shape="rect" id="node1" title="Enables code to check the Windows group membership of a Windows user." alt="" coords="1164,53,1341,94"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_claims_1_1_claims_principal.html" title="An T:System.Security.Principal.IPrincipal implementation that supports multiple claims&#45;based identiti..." alt="" coords="925,24,1037,51"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_principal_1_1_i_principal.html" title="Defines the basic functionality of a principal object." alt="" coords="624,5,699,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title=" " alt="" coords="536,56,787,112"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_generic_1_1_i_enumerable.html" title="Exposes the enumerator, which supports a simple iteration over a collection of a specified type...." alt="" coords="149,63,337,105"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,71,100,97"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_security_1_1_principal_1_1_i_identity.html" title="Defines the basic functionality of an identity object." alt="" coords="892,75,1069,117"/>
+</map>

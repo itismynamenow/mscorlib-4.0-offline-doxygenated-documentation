@@ -1,0 +1,7 @@
+<map id="System.Runtime.Remoting.Channels.IChannelSinkBase" name="System.Runtime.Remoting.Channels.IChannelSinkBase">
+<area shape="rect" id="node1" title="Provides the base interface for channel sinks." alt="" coords="5,63,192,104"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_dispatch_channel_sink.html" title=" " alt="" coords="480,15,684,56"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_channel_sink.html" title="Provides required functions and properties for client channel sinks." alt="" coords="241,95,431,136"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_client_formatter_sink.html" title="Marks a sink as a client formatter sink that serializes messages into a stream." alt="" coords="483,109,681,151"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_server_channel_sink.html" title="Provides methods used for security and transport sinks." alt="" coords="240,29,432,71"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.ThreadStaticAttribute" name="System.ThreadStaticAttribute">
+<area shape="rect" id="node1" title="Indicates that the value of a static field is unique for each thread." alt="" coords="5,155,199,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="67,80,137,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="63,5,141,32"/>
+</map>

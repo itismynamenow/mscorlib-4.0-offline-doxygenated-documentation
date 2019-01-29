@@ -1,0 +1,7 @@
+<map id="System.Text.ISCIIEncoding" name="System.Text.ISCIIEncoding">
+<area shape="rect" id="node1" title=" " alt="" coords="25,229,207,256"/>
+<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_encoding_n_l_s.html" title=" " alt="" coords="5,155,107,181"/>
+<area shape="rect" id="node3" href="$class_system_1_1_text_1_1_encoding.html" title="Represents a character encoding.To browse the .NET Framework source code for this type,..." alt="" coords="18,80,94,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="15,5,97,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="131,155,223,181"/>
+</map>

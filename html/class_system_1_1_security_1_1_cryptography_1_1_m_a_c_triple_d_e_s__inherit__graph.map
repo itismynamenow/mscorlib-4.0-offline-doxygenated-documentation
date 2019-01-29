@@ -1,0 +1,7 @@
+<map id="System.Security.Cryptography.MACTripleDES" name="System.Security.Cryptography.MACTripleDES">
+<area shape="rect" id="node1" title="Computes a Message Authentication Code (MAC) using T:System.Security.Cryptography...." alt="" coords="5,304,209,345"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_keyed_hash_algorithm.html" title="Represents the abstract class from which all implementations of keyed hash algorithms must derive." alt="" coords="35,229,179,256"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_hash_algorithm.html" title="Represents the base class from which all implementations of cryptographic hash algorithms must derive..." alt="" coords="54,155,161,181"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_cryptography_1_1_i_crypto_transform.html" title="Defines the basic operations of cryptographic transformations." alt="" coords="97,80,217,107"/>
+</map>

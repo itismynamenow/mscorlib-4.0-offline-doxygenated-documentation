@@ -1,0 +1,6 @@
+<map id="System.Security.AccessControl.AuditRule&lt; T &gt;" name="System.Security.AccessControl.AuditRule&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents a combination of a user’s identity and an access mask." alt="" coords="5,185,217,227"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,109,112,136"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule.html" title="Determines access to securable objects. The derived classes T:System.Security.AccessControl...." alt="" coords="136,109,260,136"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="109,5,287,47"/>
+</map>

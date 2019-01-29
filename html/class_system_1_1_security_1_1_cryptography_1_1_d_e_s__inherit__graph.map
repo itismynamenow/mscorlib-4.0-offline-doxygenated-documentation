@@ -1,0 +1,6 @@
+<map id="System.Security.Cryptography.DES" name="System.Security.Cryptography.DES">
+<area shape="rect" id="node1" title="Represents the base class for the Data Encryption Standard (DES) algorithm from which all T:System...." alt="" coords="5,155,236,181"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_d_e_s_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) version of the Data Encry..." alt="" coords="19,229,223,271"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="51,80,191,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="76,5,165,32"/>
+</map>

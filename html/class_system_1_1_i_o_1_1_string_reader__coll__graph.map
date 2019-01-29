@@ -1,0 +1,7 @@
+<map id="System.IO.StringReader" name="System.IO.StringReader">
+<area shape="rect" id="node1" title="Implements a T:System.IO.TextReader that reads from a string." alt="" coords="75,247,237,273"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_text_reader.html" title="Represents a reader that can read a sequential series of characters." alt="" coords="112,171,200,197"/>
+<area shape="rect" id="node3" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_text_reader.html" title="Represents a reader that can read a sequential series of characters." alt="" coords="79,81,233,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="223,5,313,32"/>
+</map>

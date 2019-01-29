@@ -1,0 +1,14 @@
+<map id="System.Security.Policy.StrongName" name="System.Security.Policy.StrongName">
+<area shape="rect" id="node1" title="Provides the strong name of a code assembly as evidence for policy evaluation. This class cannot be i..." alt="" coords="812,107,1047,133"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="549,5,653,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_policy_1_1_i_identity_permission_factory.html" title="Defines the method that creates a new identity permission." alt="" coords="513,56,689,83"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_policy_1_1_i_delay_evaluated_evidence.html" title=" " alt="" coords="517,107,684,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_permissions_1_1_strong_name_public_key_blob.html" title="Represents the public key information (called a blob) for a strong name. This class cannot be inherit..." alt="" coords="501,158,700,199"/>
+<area shape="rect" id="node6" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="543,224,658,251"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="329,152,412,179"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="323,203,418,229"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="289,253,452,280"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="15,253,158,280"/>
+<area shape="rect" id="node11" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="295,304,446,331"/>
+<area shape="rect" id="node12" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="5,304,168,331"/>
+</map>

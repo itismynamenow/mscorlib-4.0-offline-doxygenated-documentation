@@ -1,0 +1,7 @@
+<map id="System.Collections.Generic.ObjectEqualityComparer&lt; T &gt;" name="System.Collections.Generic.ObjectEqualityComparer&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="21,261,216,303"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_generic_1_1_equality_comparer.html" title="Provides a base class for implementations of the T:System.Collections.Generic.IEqualityComparer`1 gen..." alt="" coords="41,185,197,212"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_generic_1_1_i_equality_comparer.html" title="Defines methods to support the comparison of objects for equality." alt="" coords="5,109,133,136"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_generic_1_1_i_equality_comparer.html" title=" " alt="" coords="158,109,317,136"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_generic_1_1_i_equality_comparer.html" title="Defines methods to support the comparison of objects for equality." alt="" coords="143,5,331,47"/>
+</map>

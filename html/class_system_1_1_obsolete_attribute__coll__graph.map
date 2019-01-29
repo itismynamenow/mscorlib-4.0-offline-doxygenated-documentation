@@ -1,0 +1,5 @@
+<map id="System.ObsoleteAttribute" name="System.ObsoleteAttribute">
+<area shape="rect" id="node1" title="Marks the program elements that are no longer in use. This class cannot be inherited." alt="" coords="5,155,177,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="56,80,127,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="52,5,131,32"/>
+</map>

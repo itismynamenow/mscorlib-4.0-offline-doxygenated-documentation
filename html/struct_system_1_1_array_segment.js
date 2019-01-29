@@ -1,0 +1,26 @@
+var struct_system_1_1_array_segment =
+[
+    [ "ArraySegment", "struct_system_1_1_array_segment.html#ad56ea795fd76faed0c9d651c664de5f9", null ],
+    [ "ArraySegment", "struct_system_1_1_array_segment.html#ad09204ba3eecdb189393280c91e5de0c", null ],
+    [ "Add", "struct_system_1_1_array_segment.html#a6a035a05ad0ec72771f2159da59e401f", null ],
+    [ "Clear", "struct_system_1_1_array_segment.html#a021ed4a51414fa0e9fa4f7464b7451ed", null ],
+    [ "Contains", "struct_system_1_1_array_segment.html#a406b39d82afec75ad449a5a2121ede45", null ],
+    [ "CopyTo", "struct_system_1_1_array_segment.html#af34e2c4fa702a773aa4411b434730475", null ],
+    [ "Equals", "struct_system_1_1_array_segment.html#a1e2d6ecab9e332bc20883f3bdfab2434", null ],
+    [ "Equals", "struct_system_1_1_array_segment.html#a03302ae300719f356d0aebed54dd70b0", null ],
+    [ "GetEnumerator", "struct_system_1_1_array_segment.html#a682440049844bcfd499ddbf45b0b0b8d", null ],
+    [ "GetEnumerator", "struct_system_1_1_array_segment.html#a83503d2ac1a5d740a33c1b20b3cdc939", null ],
+    [ "GetHashCode", "struct_system_1_1_array_segment.html#aadd9645ae1d61e7332d43e84af1a43c7", null ],
+    [ "IndexOf", "struct_system_1_1_array_segment.html#a95a8034a1bcc27fe99dd7a2e81349061", null ],
+    [ "Insert", "struct_system_1_1_array_segment.html#a2f2abfd7aaccc2861f127656dcbb5344", null ],
+    [ "operator !=", "struct_system_1_1_array_segment.html#ae65e08b9b09c46bdcef893a1c3b0cf16", null ],
+    [ "operator==", "struct_system_1_1_array_segment.html#ab6b43a2fd193600dd12fecd5728c57af", null ],
+    [ "Remove", "struct_system_1_1_array_segment.html#a3674dfc1e42e2214b9efe3ed622c83c3", null ],
+    [ "RemoveAt", "struct_system_1_1_array_segment.html#ae95e060192b0d60083d2b4572b5c6174", null ],
+    [ "Array", "struct_system_1_1_array_segment.html#a890afabf40ee47b88ecf0e49c57092bd", null ],
+    [ "Count", "struct_system_1_1_array_segment.html#a8d7c3d12427dec0337f974dc8fc72469", null ],
+    [ "IsReadOnly", "struct_system_1_1_array_segment.html#ad4825dc7b2ebfa864ed49e25db667ca6", null ],
+    [ "Offset", "struct_system_1_1_array_segment.html#a5be0987d16f6f04d4f5a2b0a3e691b52", null ],
+    [ "this[int index]", "struct_system_1_1_array_segment.html#aa90a74618afdcf18f28b22656c671774", null ],
+    [ "this[int index]", "struct_system_1_1_array_segment.html#a12aa9cf6b62f67e16913d9e3dedcdab4", null ]
+];

@@ -1,0 +1,7 @@
+<map id="System.TimeZoneInfo" name="System.TimeZoneInfo">
+<area shape="rect" id="node1" title="Represents any time zone in the world." alt="" coords="185,171,331,197"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="5,95,188,121"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="15,5,178,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="212,95,304,121"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="329,95,489,121"/>
+</map>

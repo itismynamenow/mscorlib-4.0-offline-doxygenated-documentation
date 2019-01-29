@@ -1,0 +1,5 @@
+<map id="System.Runtime.InteropServices.BINDPTR" name="System.Runtime.InteropServices.BINDPTR">
+<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.BINDPTR instead." alt="" coords="5,200,220,241"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="61,81,164,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="67,5,159,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.Security.IPermission" name="System.Security.IPermission">
+<area shape="rect" id="node1" title="Defines methods implemented by permission types." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="33,5,168,32"/>
+</map>

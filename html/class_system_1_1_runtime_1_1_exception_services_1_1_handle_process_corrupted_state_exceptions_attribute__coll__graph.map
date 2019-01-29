@@ -1,0 +1,5 @@
+<map id="System.Runtime.ExceptionServices.HandleProcessCorruptedStateExceptionsAttribute" name="System.Runtime.ExceptionServices.HandleProcessCorruptedStateExceptionsAttribute">
+<area shape="rect" id="node1" title="Enables managed code to handle exceptions that indicate a corrupted process state." alt="" coords="5,155,224,211"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="79,80,150,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="75,5,154,32"/>
+</map>

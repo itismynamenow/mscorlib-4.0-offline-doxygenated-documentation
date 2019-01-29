@@ -1,0 +1,4 @@
+var class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_array_attribute =
+[
+    [ "ReadOnlyArrayAttribute", "class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_array_attribute.html#a17db1e576de48cdb6441922607f942bd", null ]
+];

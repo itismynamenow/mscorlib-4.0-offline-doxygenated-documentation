@@ -1,0 +1,5 @@
+<map id="System.Runtime.InteropServices.WindowsRuntime.DefaultInterfaceAttribute" name="System.Runtime.InteropServices.WindowsRuntime.DefaultInterfaceAttribute">
+<area shape="rect" id="node1" title="Specifies the default interface of a managed Windows Runtime class." alt="" coords="5,155,271,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="103,80,173,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="99,5,177,32"/>
+</map>

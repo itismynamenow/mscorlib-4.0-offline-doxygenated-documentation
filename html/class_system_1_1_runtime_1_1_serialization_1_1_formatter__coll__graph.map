@@ -1,0 +1,9 @@
+<map id="System.Runtime.Serialization.Formatter" name="System.Runtime.Serialization.Formatter">
+<area shape="rect" id="node1" title="Provides base functionality for the common language runtime serialization formatters." alt="" coords="100,261,299,303"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_formatter.html" title="Provides functionality for formatting serialized objects." alt="" coords="5,165,87,191"/>
+<area shape="rect" id="node3" href="$class_system_1_1_collections_1_1_queue.html" title="Represents a first&#45;in, first&#45;out collection of objects." alt="" coords="111,165,288,191"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="158,81,241,108"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="101,5,196,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="265,81,347,108"/>
+<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_serialization_1_1_object_i_d_generator.html" title="Generates IDs for objects." alt="" coords="312,157,511,199"/>
+</map>

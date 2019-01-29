@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.Messaging.RemotingSurrogateSelector" name="System.Runtime.Remoting.Messaging.RemotingSurrogateSelector">
+<area shape="rect" id="node1" title="Selects the remoting surrogate that can be used to serialize an object that derives from a T:System...." alt="" coords="5,80,253,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_surrogate_selector.html" title="Indicates a serialization surrogate selector class." alt="" coords="65,5,194,32"/>
+</map>

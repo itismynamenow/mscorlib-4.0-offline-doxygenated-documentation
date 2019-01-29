@@ -1,0 +1,22 @@
+<map id="System.IAsyncResult" name="System.IAsyncResult">
+<area shape="rect" id="node1" title="Represents the status of an asynchronous operation." alt="" coords="5,421,153,447"/>
+<area shape="rect" id="node2" href="$class_system_1_1_i_o_1_1_file_stream_async_result.html" title=" " alt="" coords="208,5,396,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_async_result.html" title="Encapsulates the results of an asynchronous operation on a delegate." alt="" coords="211,71,393,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title="Represents an asynchronous operation that can return a value." alt="" coords="203,603,401,644"/>
+<area shape="rect" id="node12" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,113,827,155"/>
+<area shape="rect" id="node13" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,179,827,220"/>
+<area shape="rect" id="node14" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="613,245,842,271"/>
+<area shape="rect" id="node15" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,296,827,337"/>
+<area shape="rect" id="node16" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,864,827,905"/>
+<area shape="rect" id="node17" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,929,827,971"/>
+<area shape="rect" id="node18" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,995,827,1036"/>
+<area shape="rect" id="node19" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,1060,827,1101"/>
+<area shape="rect" id="node20" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title=" " alt="" coords="628,1125,827,1167"/>
+<area shape="rect" id="node5" href="$class_system_1_1_threading_1_1_tasks_1_1_continuation_result_task_from_result_task.html" title=" " alt="" coords="626,442,829,498"/>
+<area shape="rect" id="node6" href="$class_system_1_1_threading_1_1_tasks_1_1_continuation_result_task_from_task.html" title=" " alt="" coords="626,522,829,578"/>
+<area shape="rect" id="node7" href="$class_system_1_1_threading_1_1_tasks_1_1_continuation_task_from_result_task.html" title=" " alt="" coords="588,603,867,644"/>
+<area shape="rect" id="node8" href="$class_system_1_1_threading_1_1_tasks_1_1_continuation_task_from_task.html" title=" " alt="" coords="606,668,849,709"/>
+<area shape="rect" id="node9" href="$class_system_1_1_threading_1_1_tasks_1_1_parallel_for_replica_task.html" title=" " alt="" coords="621,733,834,775"/>
+<area shape="rect" id="node10" href="$class_system_1_1_threading_1_1_tasks_1_1_parallel_for_replicating_task.html" title=" " alt="" coords="621,799,834,840"/>
+<area shape="rect" id="node11" href="$class_system_1_1_threading_1_1_tasks_1_1_unwrap_promise.html" title=" " alt="" coords="649,362,805,418"/>
+</map>

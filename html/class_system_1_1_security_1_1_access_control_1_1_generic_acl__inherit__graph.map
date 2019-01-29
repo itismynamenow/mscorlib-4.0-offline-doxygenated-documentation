@@ -1,0 +1,9 @@
+<map id="System.Security.AccessControl.GenericAcl" name="System.Security.AccessControl.GenericAcl">
+<area shape="rect" id="node1" title="Represents an access control list (ACL) and is the base class for the T:System.Security...." alt="" coords="279,71,491,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_common_acl.html" title="Represents an access control list (ACL) and is the base class for the T:System.Security...." alt="" coords="539,37,751,79"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_access_control_1_1_raw_acl.html" title="Represents an Access Control List (ACL)." alt="" coords="539,103,751,144"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="148,103,231,130"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,78,100,105"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_access_control_1_1_discretionary_acl.html" title="Represents a Discretionary Access Control List (DACL)." alt="" coords="799,5,1011,47"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_access_control_1_1_system_acl.html" title="Represents a System Access Control List (SACL)." alt="" coords="799,71,1011,112"/>
+</map>

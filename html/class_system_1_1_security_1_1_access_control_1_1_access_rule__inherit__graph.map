@@ -1,0 +1,11 @@
+<map id="System.Security.AccessControl.AccessRule&lt; T &gt;" name="System.Security.AccessControl.AccessRule&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="177,169,389,211"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_access_control_1_1_crypto_key_access_rule.html" title="Represents an access rule for a cryptographic key. An access rule represents a combination of a user&#39;..." alt="" coords="437,5,649,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_access_control_1_1_event_wait_handle_access_rule.html" title="Represents a set of access rights allowed or denied for a user or group. This class cannot be inherit..." alt="" coords="437,71,649,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_access_control_1_1_file_system_access_rule.html" title="Represents an abstraction of an access control entry (ACE) that defines an access rule for a file or ..." alt="" coords="437,136,649,177"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_access_control_1_1_mutex_access_rule.html" title="Represents a set of access rights allowed or denied for a user or group. This class cannot be inherit..." alt="" coords="437,201,649,243"/>
+<area shape="rect" id="node8" href="$class_system_1_1_security_1_1_access_control_1_1_object_access_rule.html" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="437,267,649,308"/>
+<area shape="rect" id="node9" href="$class_system_1_1_security_1_1_access_control_1_1_registry_access_rule.html" title="Represents a set of access rights allowed or denied for a user or group. This class cannot be inherit..." alt="" coords="437,332,649,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="21,151,113,178"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule.html" title="Determines access to securable objects. The derived classes T:System.Security.AccessControl...." alt="" coords="5,202,129,229"/>
+</map>

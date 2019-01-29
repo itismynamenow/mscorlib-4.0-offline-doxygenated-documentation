@@ -1,0 +1,7 @@
+<map id="System.Security.Cryptography.RIPEMD160" name="System.Security.Cryptography.RIPEMD160">
+<area shape="rect" id="node1" title="Represents the abstract class from which all implementations of the MD160 hash algorithm inherit." alt="" coords="5,229,209,271"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_r_i_p_e_m_d160_managed.html" title="Computes the T:System.Security.Cryptography.RIPEMD160 hash for the input data using the managed libra..." alt="" coords="5,319,209,360"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_hash_algorithm.html" title="Represents the base class from which all implementations of cryptographic hash algorithms must derive..." alt="" coords="54,155,161,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_cryptography_1_1_i_crypto_transform.html" title="Defines the basic operations of cryptographic transformations." alt="" coords="97,80,217,107"/>
+</map>

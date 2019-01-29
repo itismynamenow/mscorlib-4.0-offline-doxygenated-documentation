@@ -1,0 +1,13 @@
+<map id="System.Runtime.InteropServices._Type" name="System.Runtime.InteropServices._Type">
+<area shape="rect" id="node1" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="5,195,256,222"/>
+<area shape="rect" id="node2" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="304,195,403,222"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_type_info.html" title="Represents type declarations for class types, interface types, array types, value types,..." alt="" coords="451,195,631,222"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_emit_1_1_enum_builder.html" title="Describes and represents an enumeration type." alt="" coords="697,5,895,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_emit_1_1_generic_type_parameter_builder.html" title="Defines and creates generic type parameters for dynamically defined generic types and methods...." alt="" coords="692,71,900,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_reflection_1_1_emit_1_1_symbol_type.html" title=" " alt="" coords="679,137,913,163"/>
+<area shape="rect" id="node7" href="$class_system_1_1_reflection_1_1_emit_1_1_type_builder.html" title="Defines and creates new instances of classes during run time." alt="" coords="701,188,891,229"/>
+<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_emit_1_1_type_builder_instantiation.html" title=" " alt="" coords="701,253,891,295"/>
+<area shape="rect" id="node9" href="$class_system_1_1_reflection_1_1_type_delegator.html" title="Wraps a T:System.Type object and delegates methods to that Type." alt="" coords="689,319,903,346"/>
+<area shape="rect" id="node10" href="$class_system_1_1_runtime_type.html" title=" " alt="" coords="723,370,869,397"/>
+<area shape="rect" id="node11" href="$class_system_1_1_reflection_only_type.html" title=" " alt="" coords="961,370,1144,397"/>
+</map>

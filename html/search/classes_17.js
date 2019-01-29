@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['waithandle',['WaitHandle',['../class_system_1_1_threading_1_1_wait_handle.html',1,'System::Threading']]],
+  ['waithandlecannotbeopenedexception',['WaitHandleCannotBeOpenedException',['../class_system_1_1_threading_1_1_wait_handle_cannot_be_opened_exception.html',1,'System::Threading']]],
+  ['waithandleextensions',['WaitHandleExtensions',['../class_system_1_1_threading_1_1_wait_handle_extensions.html',1,'System::Threading']]],
+  ['weakreference',['WeakReference',['../class_system_1_1_weak_reference.html',1,'System.WeakReference&lt; T &gt;'],['../class_system_1_1_weak_reference.html',1,'System.WeakReference']]],
+  ['wellknownclienttypeentry',['WellKnownClientTypeEntry',['../class_system_1_1_runtime_1_1_remoting_1_1_well_known_client_type_entry.html',1,'System::Runtime::Remoting']]],
+  ['wellknownservicetypeentry',['WellKnownServiceTypeEntry',['../class_system_1_1_runtime_1_1_remoting_1_1_well_known_service_type_entry.html',1,'System::Runtime::Remoting']]],
+  ['win32',['Win32',['../class_system_1_1_security_1_1_access_control_1_1_win32.html',1,'System.Security.AccessControl.Win32'],['../class_system_1_1_security_1_1_principal_1_1_win32.html',1,'System.Security.Principal.Win32']]],
+  ['win32native',['Win32Native',['../class_microsoft_1_1_win32_1_1_win32_native.html',1,'Microsoft::Win32']]],
+  ['windowclassentry',['WindowClassEntry',['../class_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest_1_1_window_class_entry.html',1,'System::Deployment::Internal::Isolation::Manifest']]],
+  ['windowsidentity',['WindowsIdentity',['../class_system_1_1_security_1_1_principal_1_1_windows_identity.html',1,'System::Security::Principal']]],
+  ['windowsimpersonationcontext',['WindowsImpersonationContext',['../class_system_1_1_security_1_1_principal_1_1_windows_impersonation_context.html',1,'System::Security::Principal']]],
+  ['windowsprincipal',['WindowsPrincipal',['../class_system_1_1_security_1_1_principal_1_1_windows_principal.html',1,'System::Security::Principal']]],
+  ['windowsruntimebufferhelper',['WindowsRuntimeBufferHelper',['../class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_buffer_helper.html',1,'System::Runtime::InteropServices::WindowsRuntime']]],
+  ['windowsruntimedesignercontext',['WindowsRuntimeDesignerContext',['../class_system_1_1_runtime_1_1_designer_services_1_1_windows_runtime_designer_context.html',1,'System::Runtime::DesignerServices']]],
+  ['windowsruntimeimportattribute',['WindowsRuntimeImportAttribute',['../class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_import_attribute.html',1,'System::Runtime::InteropServices::WindowsRuntime']]],
+  ['windowsruntimemarshal',['WindowsRuntimeMarshal',['../class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_marshal.html',1,'System::Runtime::InteropServices::WindowsRuntime']]],
+  ['windowsruntimemetadata',['WindowsRuntimeMetadata',['../class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_windows_runtime_metadata.html',1,'System::Runtime::InteropServices::WindowsRuntime']]],
+  ['windowsruntimeresourcemanagerbase',['WindowsRuntimeResourceManagerBase',['../class_system_1_1_resources_1_1_windows_runtime_resource_manager_base.html',1,'System::Resources']]],
+  ['winrtclassactivator',['WinRTClassActivator',['../class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_win_r_t_class_activator.html',1,'System::Runtime::InteropServices::WindowsRuntime']]],
+  ['winrtsynchronizationcontextfactorybase',['WinRTSynchronizationContextFactoryBase',['../class_system_1_1_threading_1_1_win_r_t_synchronization_context_factory_base.html',1,'System::Threading']]],
+  ['winrttypenameconverter',['WinRTTypeNameConverter',['../class_system_1_1_stub_helpers_1_1_win_r_t_type_name_converter.html',1,'System::StubHelpers']]],
+  ['workitem',['WorkItem',['../class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_work_item.html',1,'System::Runtime::Remoting::Contexts']]],
+  ['writeobjectinfo',['WriteObjectInfo',['../class_system_1_1_runtime_1_1_serialization_1_1_formatters_1_1_binary_1_1_write_object_info.html',1,'System::Runtime::Serialization::Formatters::Binary']]],
+  ['writeonlyarrayattribute',['WriteOnlyArrayAttribute',['../class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_write_only_array_attribute.html',1,'System::Runtime::InteropServices::WindowsRuntime']]],
+  ['wstrbuffermarshaler',['WSTRBufferMarshaler',['../class_system_1_1_stub_helpers_1_1_w_s_t_r_buffer_marshaler.html',1,'System::StubHelpers']]]
+];

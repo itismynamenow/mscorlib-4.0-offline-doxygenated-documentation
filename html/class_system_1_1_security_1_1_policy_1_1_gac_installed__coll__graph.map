@@ -1,0 +1,5 @@
+<map id="System.Security.Policy.GacInstalled" name="System.Security.Policy.GacInstalled">
+<area shape="rect" id="node1" title="Confirms that a code assembly originates in the global assembly cache (GAC) as evidence for policy ev..." alt="" coords="45,80,232,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_policy_1_1_i_identity_permission_factory.html" title="Defines the method that creates a new identity permission." alt="" coords="133,5,309,32"/>
+</map>

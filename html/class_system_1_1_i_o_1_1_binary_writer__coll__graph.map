@@ -1,0 +1,6 @@
+<map id="System.IO.BinaryWriter" name="System.IO.BinaryWriter">
+<area shape="rect" id="node1" title="Writes primitive types in binary to a stream and supports writing strings in a specific encoding." alt="" coords="6,171,166,197"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_i_o_1_1_stream.html" title="Provides a generic view of a sequence of bytes. This is an abstract class.To browse the ...." alt="" coords="87,81,218,108"/>
+<area shape="rect" id="node4" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="119,5,261,32"/>
+</map>

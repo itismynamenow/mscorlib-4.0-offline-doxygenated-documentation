@@ -1,0 +1,8 @@
+<map id="System.AppDomain" name="System.AppDomain">
+<area shape="rect" id="node1" title="Represents an application domain, which is an isolated environment where applications execute...." alt="" coords="216,171,355,197"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="5,81,147,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1___app_domain.html" title="Exposes the public members of the T:System.AppDomain class to unmanaged code." alt="" coords="171,81,267,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="291,81,413,108"/>
+<area shape="rect" id="node5" href="$class_system_1_1_app_domain_setup.html" title="Represents assembly binding information that can be added to an instance of T:System...." alt="" coords="437,81,609,108"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_app_domain_setup.html" title="Represents assembly binding information that can be added to an instance of T:System...." alt="" coords="459,5,586,32"/>
+</map>

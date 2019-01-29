@@ -1,0 +1,27 @@
+var class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary =
+[
+    [ "KeyCollection", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary_1_1_key_collection.html", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary_1_1_key_collection" ],
+    [ "ValueCollection", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary_1_1_value_collection.html", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary_1_1_value_collection" ],
+    [ "ReadOnlyDictionary", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a0d2480d12185da47d192c2c893c0d037", null ],
+    [ "ContainsKey", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#aaf2c30f5df872a06067ff82eff5deae4", null ],
+    [ "GetEnumerator", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a2fbdb2d040b8fa61cd389cfc314ccf03", null ],
+    [ "TryGetValue", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a6a31cd0de29bc922418c7b46fe006082", null ],
+    [ "Count", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a7d8f5ba6aa9977b0509ec018e3ec18ab", null ],
+    [ "Dictionary", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#ae05d6c8197578165f609e3519be661bf", null ],
+    [ "IsFixedSize", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a64dae2eb14362c232e8cd98e16de34ce", null ],
+    [ "IsReadOnly", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a5e9b01e7e311a9ae80021ace41311dfc", null ],
+    [ "IsReadOnly", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a3da389a18ee78fa1bdbed5c35233b9ea", null ],
+    [ "IsSynchronized", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#ab421348500698b15adf0b7829ab874cf", null ],
+    [ "Keys", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a2c0adea941209de74ba7cf29c760dd11", null ],
+    [ "Keys", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#afc1b8d6d955a3fa9bb4d59ec592a3a30", null ],
+    [ "Keys", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#afaac1ea7bf58a075ce34364b86c10b64", null ],
+    [ "Keys", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#adc98aeeaa9e6952ab693a6fe86c65d43", null ],
+    [ "SyncRoot", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a8de17c18c6bb3d0ad0465eb2458d4938", null ],
+    [ "this[object key]", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a380c1ad8a6e2a441b43aecc99f1a90d0", null ],
+    [ "this[TKey key]", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a0a79f210a2a2809b17c2d1ede4286606", null ],
+    [ "this[TKey key]", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#aaf3d282e1a7dbb38c7b4e786b2aa55eb", null ],
+    [ "Values", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#ab9498791e82a307d7b4910ad02f768d1", null ],
+    [ "Values", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a4f4850122b06ab99765aed0cc723a8ab", null ],
+    [ "Values", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#a9533146f8e237b9dbc96c36815b389ad", null ],
+    [ "Values", "class_system_1_1_collections_1_1_object_model_1_1_read_only_dictionary.html#aa5022277c2528bc3d15ba50a3ebcaa7b", null ]
+];

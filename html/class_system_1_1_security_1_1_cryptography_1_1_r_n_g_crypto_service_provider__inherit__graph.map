@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.RNGCryptoServiceProvider" name="System.Security.Cryptography.RNGCryptoServiceProvider">
+<area shape="rect" id="node1" title="Implements a cryptographic Random Number Generator (RNG) using the implementation provided by the cry..." alt="" coords="5,155,209,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_random_number_generator.html" title="Represents the abstract class from which all implementations of cryptographic random number generator..." alt="" coords="21,80,193,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+</map>

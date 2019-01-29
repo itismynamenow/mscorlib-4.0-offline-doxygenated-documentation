@@ -1,0 +1,4 @@
+<map id="System.Runtime.InteropServices._MethodRental" name="System.Runtime.InteropServices._MethodRental">
+<area shape="rect" id="node1" title="Exposes the T:System.Reflection.Emit.MethodRental class to unmanaged code." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_emit_1_1_method_rental.html" title="Provides a fast way to swap method body implementation given a method of a class." alt="" coords="9,95,216,136"/>
+</map>

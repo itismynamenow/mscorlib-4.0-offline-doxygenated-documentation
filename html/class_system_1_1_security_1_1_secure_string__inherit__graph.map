@@ -1,0 +1,4 @@
+<map id="System.Security.SecureString" name="System.Security.SecureString">
+<area shape="rect" id="node1" title="Represents text that should be kept confidential, such as by deleting it from computer memory when no..." alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="60,5,149,32"/>
+</map>

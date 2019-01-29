@@ -1,0 +1,5 @@
+<map id="System.Security.Policy.PolicyStatement" name="System.Security.Policy.PolicyStatement">
+<area shape="rect" id="node1" title="Represents the statement of a T:System.Security.Policy.CodeGroup describing the permissions and other..." alt="" coords="79,80,278,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_i_security_policy_encodable.html" title="Supports the methods that convert permission object state to and from an XML element representation." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="201,5,335,32"/>
+</map>

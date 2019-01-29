@@ -1,0 +1,5 @@
+<map id="System.Security.Principal.GenericIdentity" name="System.Security.Principal.GenericIdentity">
+<area shape="rect" id="node1" title="Represents a generic user." alt="" coords="5,155,183,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_claims_1_1_claims_identity.html" title="Represents a claims&#45;based identity." alt="" coords="42,80,146,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_principal_1_1_i_identity.html" title="Defines the basic functionality of an identity object." alt="" coords="61,5,127,32"/>
+</map>

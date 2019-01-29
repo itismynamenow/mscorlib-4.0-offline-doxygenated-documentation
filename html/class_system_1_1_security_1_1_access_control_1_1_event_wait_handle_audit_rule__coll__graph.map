@@ -1,0 +1,6 @@
+<map id="System.Security.AccessControl.EventWaitHandleAuditRule" name="System.Security.AccessControl.EventWaitHandleAuditRule">
+<area shape="rect" id="node1" title="Represents a set of access rights to be audited for a user or group. This class cannot be inherited." alt="" coords="5,261,217,303"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_audit_rule.html" title="Represents a combination of a user’s identity and an access mask." alt="" coords="72,185,151,212"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule.html" title="Determines access to securable objects. The derived classes T:System.Security.AccessControl...." alt="" coords="49,109,173,136"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="23,5,200,47"/>
+</map>

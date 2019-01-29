@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.Messaging.InternalMessageWrapper" name="System.Runtime.Remoting.Messaging.InternalMessageWrapper">
+<area shape="rect" id="node1" title="Wraps remoting data for passing between message sinks, either for requests from client to server or f..." alt="" coords="5,109,239,151"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="31,5,213,47"/>
+</map>

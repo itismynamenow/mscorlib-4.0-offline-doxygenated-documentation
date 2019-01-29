@@ -1,0 +1,6 @@
+<map id="System.Runtime.Serialization.Formatters.Binary.BinaryMethodReturnMessage" name="System.Runtime.Serialization.Formatters.Binary.BinaryMethodReturnMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,253,227"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="65,81,194,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="27,5,119,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="143,5,230,32"/>
+</map>

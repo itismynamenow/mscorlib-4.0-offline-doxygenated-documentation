@@ -1,0 +1,7 @@
+<map id="System.IO.FileSystemInfo" name="System.IO.FileSystemInfo">
+<area shape="rect" id="node1" title="Provides the base class for both T:System.IO.FileInfo and T:System.IO.DirectoryInfo objects." alt="" coords="82,80,257,107"/>
+<area shape="rect" id="node4" href="$class_system_1_1_i_o_1_1_directory_info.html" title="Exposes instance methods for creating, moving, and enumerating through directories and subdirectories..." alt="" coords="5,155,165,181"/>
+<area shape="rect" id="node5" href="$class_system_1_1_i_o_1_1_file_info.html" title="Provides properties and instance methods for the creation, copying, deletion, moving,..." alt="" coords="190,155,319,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="28,5,169,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="194,5,286,32"/>
+</map>

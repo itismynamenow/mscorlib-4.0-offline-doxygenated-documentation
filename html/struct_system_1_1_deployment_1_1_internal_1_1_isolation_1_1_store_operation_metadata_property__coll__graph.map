@@ -1,0 +1,12 @@
+<map id="System.Deployment.Internal.Isolation.StoreOperationMetadataProperty" name="System.Deployment.Internal.Isolation.StoreOperationMetadataProperty">
+<area shape="rect" id="node1" title=" " alt="" coords="91,260,305,316"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="29,171,132,197"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,95,97,121"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="238,171,337,197"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="121,95,216,121"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="240,95,335,121"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="359,95,504,121"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="356,5,499,32"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="535,95,669,121"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="523,5,686,32"/>
+</map>

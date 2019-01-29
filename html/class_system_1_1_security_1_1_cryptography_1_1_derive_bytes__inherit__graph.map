@@ -1,0 +1,6 @@
+<map id="System.Security.Cryptography.DeriveBytes" name="System.Security.Cryptography.DeriveBytes">
+<area shape="rect" id="node1" title="Represents the abstract base class from which all classes that derive byte sequences of a specified l..." alt="" coords="143,39,347,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_password_derive_bytes.html" title="Derives a key from a password using an extension of the PBKDF1 algorithm." alt="" coords="395,5,599,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_rfc2898_derive_bytes.html" title="Implements password&#45;based key derivation functionality, PBKDF2, by using a pseudo&#45;random number gener..." alt="" coords="395,71,599,112"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,46,95,73"/>
+</map>

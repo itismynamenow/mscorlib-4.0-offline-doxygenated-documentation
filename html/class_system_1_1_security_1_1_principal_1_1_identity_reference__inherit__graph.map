@@ -1,0 +1,5 @@
+<map id="System.Security.Principal.IdentityReference" name="System.Security.Principal.IdentityReference">
+<area shape="rect" id="node1" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="105,5,283,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_principal_1_1_n_t_account.html" title="Represents a user or group account." alt="" coords="5,95,183,136"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_principal_1_1_security_identifier.html" title="Represents a security identifier (SID) and provides marshaling and comparison operations for SIDs." alt="" coords="207,95,384,136"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="System.Threading.Tasks.ContinuationResultTaskFromTask&lt; TResult &gt;" name="System.Threading.Tasks.ContinuationResultTaskFromTask&lt; TResult &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="105,155,348,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_tasks_1_1_task.html" title="Represents an asynchronous operation that can return a value." alt="" coords="167,80,286,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_threading_1_1_i_thread_pool_work_item.html" title=" " alt="" coords="80,5,227,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_async_result.html" title="Represents the status of an asynchronous operation." alt="" coords="251,5,349,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="374,5,463,32"/>
+</map>

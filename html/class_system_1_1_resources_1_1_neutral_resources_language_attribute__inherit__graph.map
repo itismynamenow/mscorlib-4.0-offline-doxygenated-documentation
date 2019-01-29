@@ -1,0 +1,5 @@
+<map id="System.Resources.NeutralResourcesLanguageAttribute" name="System.Resources.NeutralResourcesLanguageAttribute">
+<area shape="rect" id="node1" title="Informs the resource manager of an app&#39;s default culture. This class cannot be inherited." alt="" coords="5,155,195,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="65,80,135,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="61,5,139,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.Messaging.IMethodCallMessage" name="System.Runtime.Remoting.Messaging.IMethodCallMessage">
+<area shape="rect" id="node1" title="Defines the method call message interface." alt="" coords="5,155,216,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="99,80,221,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="71,5,150,32"/>
+</map>

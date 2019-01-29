@@ -1,0 +1,13 @@
+<map id="System.Text.EncodingNLS" name="System.Text.EncodingNLS">
+<area shape="rect" id="node1" title=" " alt="" coords="260,148,439,175"/>
+<area shape="rect" id="node4" href="$class_system_1_1_text_1_1_base_code_page_encoding.html" title=" " alt="" coords="487,82,677,123"/>
+<area shape="rect" id="node10" href="$class_system_1_1_text_1_1_i_s_c_i_i_encoding.html" title=" " alt="" coords="491,148,673,175"/>
+<area shape="rect" id="node11" href="$class_system_1_1_text_1_1_latin1_encoding.html" title=" " alt="" coords="487,199,677,225"/>
+<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_encoding.html" title="Represents a character encoding.To browse the .NET Framework source code for this type,..." alt="" coords="136,148,212,175"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,148,88,175"/>
+<area shape="rect" id="node5" href="$class_system_1_1_text_1_1_d_b_c_s_code_page_encoding.html" title=" " alt="" coords="725,49,921,90"/>
+<area shape="rect" id="node9" href="$class_system_1_1_text_1_1_s_b_c_s_code_page_encoding.html" title=" " alt="" coords="725,114,921,155"/>
+<area shape="rect" id="node6" href="$class_system_1_1_text_1_1_e_u_c_j_p_encoding.html" title=" " alt="" coords="975,5,1171,32"/>
+<area shape="rect" id="node7" href="$class_system_1_1_text_1_1_g_b18030_encoding.html" title=" " alt="" coords="969,56,1177,83"/>
+<area shape="rect" id="node8" href="$class_system_1_1_text_1_1_i_s_o2022_encoding.html" title=" " alt="" coords="971,107,1175,133"/>
+</map>

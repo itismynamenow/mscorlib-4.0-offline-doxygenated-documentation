@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.ToBase64Transform" name="System.Security.Cryptography.ToBase64Transform">
+<area shape="rect" id="node1" title="Converts a T:System.Security.Cryptography.CryptoStream to base 64." alt="" coords="5,155,209,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_cryptography_1_1_i_crypto_transform.html" title="Defines the basic operations of cryptographic transformations." alt="" coords="97,80,217,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="63,5,152,32"/>
+</map>

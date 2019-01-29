@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="8,136,201,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_file_code_group.html" title="Grants permission to manipulate files located in the code assemblies to code assemblies that match th..." alt="" coords="258,5,442,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_policy_1_1_first_match_code_group.html" title="Allows security policy to be defined by the union of the policy statement of a code group and that of..." alt="" coords="255,201,445,243"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_policy_1_1_net_code_group.html" title="Grants Web permission to the site from which the assembly was downloaded. This class cannot be inheri..." alt="" coords="259,71,441,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_policy_1_1_union_code_group.html" title="Represents a code group whose policy statement is the union of the current code group&#39;s policy statem..." alt="" coords="252,136,448,177"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_policy_1_1_i_union_semantic_code_group.html" title=" " alt="" coords="5,71,204,112"/>
+</map>

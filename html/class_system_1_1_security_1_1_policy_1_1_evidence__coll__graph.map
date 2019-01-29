@@ -1,0 +1,5 @@
+<map id="System.Security.Policy.Evidence" name="System.Security.Policy.Evidence">
+<area shape="rect" id="node1" title="Defines the set of information that constitutes input to security policy decisions...." alt="" coords="5,155,220,181"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="111,80,194,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="65,5,160,32"/>
+</map>

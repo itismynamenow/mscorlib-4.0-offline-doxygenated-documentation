@@ -1,0 +1,13 @@
+<map id="System.Security.Cryptography.SymmetricAlgorithm" name="System.Security.Cryptography.SymmetricAlgorithm">
+<area shape="rect" id="node1" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="143,99,347,141"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_aes.html" title="Represents the abstract base class from which all implementations of the Advanced Encryption Standard..." alt="" coords="397,5,623,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_d_e_s.html" title="Represents the base class for the Data Encryption Standard (DES) algorithm from which all T:System...." alt="" coords="395,56,625,83"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_cryptography_1_1_r_c2.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="395,107,625,133"/>
+<area shape="rect" id="node8" href="$class_system_1_1_security_1_1_cryptography_1_1_rijndael.html" title="Represents the base class from which all implementations of the T:System.Security...." alt="" coords="408,161,612,202"/>
+<area shape="rect" id="node10" href="$class_system_1_1_security_1_1_cryptography_1_1_triple_d_e_s.html" title="Represents the base class for Triple Data Encryption Standard algorithms from which all T:System...." alt="" coords="408,226,612,267"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,107,95,133"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_d_e_s_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) version of the Data Encry..." alt="" coords="675,31,879,73"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_cryptography_1_1_r_c2_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) implementation of the T:S..." alt="" coords="675,97,879,138"/>
+<area shape="rect" id="node9" href="$class_system_1_1_security_1_1_cryptography_1_1_rijndael_managed.html" title="Accesses the managed version of the T:System.Security.Cryptography.Rijndael algorithm...." alt="" coords="675,162,879,203"/>
+<area shape="rect" id="node11" href="$class_system_1_1_security_1_1_cryptography_1_1_triple_d_e_s_crypto_service_provider.html" title="Defines a wrapper object to access the cryptographic service provider (CSP) version of the T:System...." alt="" coords="673,227,880,269"/>
+</map>

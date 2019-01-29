@@ -1,0 +1,6 @@
+<map id="System.Deployment.Internal.Isolation.StoreTransactionOperation" name="System.Deployment.Internal.Isolation.StoreTransactionOperation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,233,316"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_transaction_data.html" title=" " alt="" coords="20,171,219,212"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="68,81,171,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="73,5,165,32"/>
+</map>

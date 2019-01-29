@@ -1,0 +1,13 @@
+<map id="System.ArgumentException" name="System.ArgumentException">
+<area shape="rect" id="node1" title="The exception that is thrown when one of the arguments provided to a method is not valid." alt="" coords="447,163,632,189"/>
+<area shape="rect" id="node6" href="$class_system_1_1_argument_null_exception.html" title="The exception that is thrown when a null reference (Nothing in Visual Basic) is passed to a method th..." alt="" coords="680,5,887,32"/>
+<area shape="rect" id="node7" href="$class_system_1_1_argument_out_of_range_exception.html" title="The exception that is thrown when the value of an argument is outside the allowable range of values a..." alt="" coords="684,57,883,98"/>
+<area shape="rect" id="node8" href="$class_system_1_1_duplicate_wait_object_exception.html" title="The exception that is thrown when an object appears more than once in an array of synchronization obj..." alt="" coords="688,122,879,163"/>
+<area shape="rect" id="node9" href="$class_system_1_1_globalization_1_1_culture_not_found_exception.html" title="The exception that is thrown when a method attempts to construct a culture that is not available." alt="" coords="688,187,879,229"/>
+<area shape="rect" id="node10" href="$class_system_1_1_text_1_1_decoder_fallback_exception.html" title="The exception that is thrown when a decoder fallback operation fails. This class cannot be inherited." alt="" coords="685,253,882,294"/>
+<area shape="rect" id="node11" href="$class_system_1_1_text_1_1_encoder_fallback_exception.html" title="The exception that is thrown when an encoder fallback operation fails. This class cannot be inherited..." alt="" coords="685,318,882,359"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="273,188,399,215"/>
+<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="145,188,225,215"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,137,97,164"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="8,188,95,215"/>
+</map>

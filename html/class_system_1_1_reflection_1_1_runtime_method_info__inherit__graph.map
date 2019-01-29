@@ -1,0 +1,12 @@
+<map id="System.Reflection.RuntimeMethodInfo" name="System.Reflection.RuntimeMethodInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="307,304,487,345"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_info.html" title="Discovers the attributes of a method and provides access to method metadata." alt="" coords="241,229,327,256"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="178,155,273,181"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="121,80,210,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="195,5,291,32"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_base.html" title="Exposes the public members of the T:System.Reflection.MethodBase class to unmanaged code." alt="" coords="234,80,337,107"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_info.html" title="Exposes the public members of the T:System.Reflection.MethodInfo class to unmanaged code." alt="" coords="297,155,389,181"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="351,229,443,256"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_runtime_method_info.html" title=" " alt="" coords="468,229,604,256"/>
+</map>

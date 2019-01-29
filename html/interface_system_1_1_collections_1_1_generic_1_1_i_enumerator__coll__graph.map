@@ -1,0 +1,5 @@
+<map id="System.Collections.Generic.IEnumerator&lt; out out T &gt;" name="System.Collections.Generic.IEnumerator&lt; out out T &gt;">
+<area shape="rect" id="node1" title="Supports a simple iteration over a generic collection." alt="" coords="13,80,201,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="119,5,211,32"/>
+</map>

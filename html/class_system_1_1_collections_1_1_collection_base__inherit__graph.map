@@ -1,0 +1,6 @@
+<map id="System.Collections.CollectionBase" name="System.Collections.CollectionBase">
+<area shape="rect" id="node1" title="Provides the abstract base class for a strongly typed collection." alt="" coords="5,229,232,256"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_list.html" title="Represents a non&#45;generic collection of objects that can be individually accessed by index." alt="" coords="95,155,142,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="143,80,225,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="58,5,153,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.UIntPtr" name="System.UIntPtr">
+<area shape="rect" id="node1" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="15,5,107,32"/>
+</map>

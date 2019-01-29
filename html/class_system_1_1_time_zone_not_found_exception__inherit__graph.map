@@ -1,0 +1,6 @@
+<map id="System.TimeZoneNotFoundException" name="System.TimeZoneNotFoundException">
+<area shape="rect" id="node1" title="The exception that is thrown when a time zone cannot be found." alt="" coords="5,155,247,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="86,80,166,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="24,5,116,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="140,5,227,32"/>
+</map>

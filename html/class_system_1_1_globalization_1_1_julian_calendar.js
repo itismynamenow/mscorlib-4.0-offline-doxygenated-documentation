@@ -1,0 +1,27 @@
+var class_system_1_1_globalization_1_1_julian_calendar =
+[
+    [ "JulianCalendar", "class_system_1_1_globalization_1_1_julian_calendar.html#adda38eac87bc3be21b37436fcca61160", null ],
+    [ "AddMonths", "class_system_1_1_globalization_1_1_julian_calendar.html#a0853291160aea34a97fd8b2fa7081576", null ],
+    [ "AddYears", "class_system_1_1_globalization_1_1_julian_calendar.html#a4f14cc160e7cef0583623447d20f8509", null ],
+    [ "GetDayOfMonth", "class_system_1_1_globalization_1_1_julian_calendar.html#a64dfb4032f4a108c1585b7b7803d84dd", null ],
+    [ "GetDayOfWeek", "class_system_1_1_globalization_1_1_julian_calendar.html#a2203ad16f6ceb83d96ef68b67baccdc0", null ],
+    [ "GetDayOfYear", "class_system_1_1_globalization_1_1_julian_calendar.html#afa1762b5cfc31d9c3de4e3afa9e71f5d", null ],
+    [ "GetDaysInMonth", "class_system_1_1_globalization_1_1_julian_calendar.html#a4ced765b2477d956ecbc0418ef794cbe", null ],
+    [ "GetDaysInYear", "class_system_1_1_globalization_1_1_julian_calendar.html#a089277327c0cd072aa931c90be20ca3c", null ],
+    [ "GetEra", "class_system_1_1_globalization_1_1_julian_calendar.html#af1516272cc023841b26d56a9d4583ebf", null ],
+    [ "GetLeapMonth", "class_system_1_1_globalization_1_1_julian_calendar.html#a8d1ab72859aadef5ebb9b85495cfae30", null ],
+    [ "GetMonth", "class_system_1_1_globalization_1_1_julian_calendar.html#a52cced1b0652e2b3f631848f89516f2a", null ],
+    [ "GetMonthsInYear", "class_system_1_1_globalization_1_1_julian_calendar.html#aad27b76988b32a99f8552c9f46f45b63", null ],
+    [ "GetYear", "class_system_1_1_globalization_1_1_julian_calendar.html#a70e812539c98df684f5af3f8cf8779f5", null ],
+    [ "IsLeapDay", "class_system_1_1_globalization_1_1_julian_calendar.html#aece9d5097dbb27a96916f8e5c72b841e", null ],
+    [ "IsLeapMonth", "class_system_1_1_globalization_1_1_julian_calendar.html#a9e171bd2c1fa69b45f4fb35e7fea1be9", null ],
+    [ "IsLeapYear", "class_system_1_1_globalization_1_1_julian_calendar.html#a20aa3145b7a27ec4ca5e59c4bf4dc491", null ],
+    [ "ToDateTime", "class_system_1_1_globalization_1_1_julian_calendar.html#ace7898e3bc24cf414bb2f441051471fe", null ],
+    [ "ToFourDigitYear", "class_system_1_1_globalization_1_1_julian_calendar.html#abe3a08d782afcf344119cc85382ebcc0", null ],
+    [ "Eras", "class_system_1_1_globalization_1_1_julian_calendar.html#ac30e0d7f1905a1470c905554f3c1ce59", null ],
+    [ "JulianEra", "class_system_1_1_globalization_1_1_julian_calendar.html#adbfd1a9bfdbb176855b608af756488fa", null ],
+    [ "AlgorithmType", "class_system_1_1_globalization_1_1_julian_calendar.html#a402dae38319f610d8ee439ad73e86154", null ],
+    [ "MaxSupportedDateTime", "class_system_1_1_globalization_1_1_julian_calendar.html#a61806f1cb930d9e0f465958db64fc542", null ],
+    [ "MinSupportedDateTime", "class_system_1_1_globalization_1_1_julian_calendar.html#aff0e4619cdca0726b22b4693d967bfcf", null ],
+    [ "TwoDigitYearMax", "class_system_1_1_globalization_1_1_julian_calendar.html#ab2531a70e533a2fa9b3c231aa56c7346", null ]
+];

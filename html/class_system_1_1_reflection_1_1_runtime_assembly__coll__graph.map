@@ -1,0 +1,12 @@
+<map id="System.Reflection.RuntimeAssembly" name="System.Reflection.RuntimeAssembly">
+<area shape="rect" id="node1" title=" " alt="" coords="624,133,804,174"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="353,89,433,116"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly.html" title="Exposes the public members of the T:System.Reflection.Assembly class to unmanaged code." alt="" coords="45,5,131,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="27,56,149,83"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,111,171,137"/>
+<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="305,191,480,217"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="42,168,134,195"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_i_custom_query_interface.html" title="Enables developers to provide a custom, managed implementation of the IUnknown::QueryInterface(REFIID..." alt="" coords="315,140,470,167"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="53,223,123,249"/>
+<area shape="rect" id="node10" href="$struct_system_1_1_module_handle.html" title="Represents a runtime handle for a module." alt="" coords="11,312,165,339"/>
+</map>

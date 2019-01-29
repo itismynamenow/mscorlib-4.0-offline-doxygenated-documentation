@@ -1,0 +1,7 @@
+<map id="System.RuntimeMethodInfoStub" name="System.RuntimeMethodInfoStub">
+<area shape="rect" id="node1" title=" " alt="" coords="27,275,237,301"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_runtime_method_info.html" title=" " alt="" coords="5,178,141,205"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_method_handle_internal.html" title=" " alt="" coords="165,171,368,212"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="215,81,318,108"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="221,5,313,32"/>
+</map>

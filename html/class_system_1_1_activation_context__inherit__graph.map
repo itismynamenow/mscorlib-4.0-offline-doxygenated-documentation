@@ -1,0 +1,5 @@
+<map id="System.ActivationContext" name="System.ActivationContext">
+<area shape="rect" id="node1" title="Identifies the activation context for the current application. This class cannot be inherited." alt="" coords="21,80,193,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="119,5,211,32"/>
+</map>

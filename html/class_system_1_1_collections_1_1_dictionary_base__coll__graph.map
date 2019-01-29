@@ -1,0 +1,7 @@
+<map id="System.Collections.DictionaryBase" name="System.Collections.DictionaryBase">
+<area shape="rect" id="node1" title="Provides the abstract base class for a strongly typed collection of key/value pairs." alt="" coords="5,247,232,273"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="27,157,109,184"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="105,81,188,108"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="184,157,384,184"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="49,5,143,32"/>
+</map>

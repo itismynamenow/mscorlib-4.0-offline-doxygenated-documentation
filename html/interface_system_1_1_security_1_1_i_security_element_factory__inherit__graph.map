@@ -1,0 +1,5 @@
+<map id="System.Security.ISecurityElementFactory" name="System.Security.ISecurityElementFactory">
+<area shape="rect" id="node1" title=" " alt="" coords="101,5,275,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_security_document_element.html" title=" " alt="" coords="5,95,176,136"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_security_element.html" title="Represents the XML object model for encoding security objects. This class cannot be inherited." alt="" coords="200,95,371,136"/>
+</map>

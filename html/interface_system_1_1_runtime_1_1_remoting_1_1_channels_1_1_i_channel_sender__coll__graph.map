@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.Channels.IChannelSender" name="System.Runtime.Remoting.Channels.IChannelSender">
+<area shape="rect" id="node1" title="Provides required functions and properties for the sender channels." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_channel.html" title="Provides conduits for messages that cross remoting boundaries." alt="" coords="61,5,133,32"/>
+</map>

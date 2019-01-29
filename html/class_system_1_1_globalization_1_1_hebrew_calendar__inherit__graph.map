@@ -1,0 +1,5 @@
+<map id="System.Globalization.HebrewCalendar" name="System.Globalization.HebrewCalendar">
+<area shape="rect" id="node1" title="Represents the Hebrew calendar." alt="" coords="5,155,199,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_calendar.html" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="65,80,139,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="61,5,143,32"/>
+</map>

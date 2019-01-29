@@ -1,0 +1,9 @@
+<map id="System.Security.Policy.Publisher" name="System.Security.Policy.Publisher">
+<area shape="rect" id="node1" title="Provides the Authenticode X.509v3 digital signature of a code assembly as evidence for policy evaluat..." alt="" coords="531,56,748,83"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="265,5,369,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_policy_1_1_i_identity_permission_factory.html" title="Defines the method that creates a new identity permission." alt="" coords="229,56,405,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate.html" title="Provides methods that help you use X.509 v.3 certificates." alt="" coords="215,107,420,149"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="41,64,130,91"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="5,115,165,141"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="39,165,131,192"/>
+</map>

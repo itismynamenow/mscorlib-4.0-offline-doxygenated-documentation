@@ -1,0 +1,9 @@
+<map id="System.TimeSpan" name="System.TimeSpan">
+<area shape="rect" id="node1" title="Represents a time interval.To browse the .NET Framework source code for this type,..." alt="" coords="244,171,373,197"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="5,95,100,121"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="125,95,301,121"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="141,5,284,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="325,95,490,121"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="326,5,489,32"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="515,95,609,121"/>
+</map>

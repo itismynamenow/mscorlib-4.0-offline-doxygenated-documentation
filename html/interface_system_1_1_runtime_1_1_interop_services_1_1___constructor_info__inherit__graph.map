@@ -1,0 +1,7 @@
+<map id="System.Runtime.InteropServices._ConstructorInfo" name="System.Runtime.InteropServices._ConstructorInfo">
+<area shape="rect" id="node1" title="Exposes the public members of the T:System.Reflection.ConstructorInfo class to unmanaged code." alt="" coords="5,71,220,112"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_constructor_info.html" title="Discovers the attributes of a class constructor and provides access to constructor metadata." alt="" coords="268,78,487,105"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_emit_1_1_constructor_builder.html" title="Defines and represents a constructor of a dynamic class." alt="" coords="535,5,765,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_emit_1_1_constructor_on_type_builder_instantiation.html" title=" " alt="" coords="535,71,765,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_runtime_constructor_info.html" title=" " alt="" coords="560,136,740,177"/>
+</map>

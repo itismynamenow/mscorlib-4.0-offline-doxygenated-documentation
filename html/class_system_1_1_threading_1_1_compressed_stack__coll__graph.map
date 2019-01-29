@@ -1,0 +1,4 @@
+<map id="System.Threading.CompressedStack" name="System.Threading.CompressedStack">
+<area shape="rect" id="node1" title="Provides methods for setting and capturing the compressed stack on the current thread...." alt="" coords="5,80,209,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="61,5,153,32"/>
+</map>

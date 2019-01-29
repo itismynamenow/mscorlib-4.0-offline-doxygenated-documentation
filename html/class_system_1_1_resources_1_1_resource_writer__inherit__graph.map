@@ -1,0 +1,5 @@
+<map id="System.Resources.ResourceWriter" name="System.Resources.ResourceWriter">
+<area shape="rect" id="node1" title="Writes resources in the system&#45;default format to an output file or an output stream...." alt="" coords="5,155,197,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_resources_1_1_i_resource_writer.html" title="Provides the base functionality for writing resources to an output file or stream." alt="" coords="92,80,207,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="57,5,146,32"/>
+</map>

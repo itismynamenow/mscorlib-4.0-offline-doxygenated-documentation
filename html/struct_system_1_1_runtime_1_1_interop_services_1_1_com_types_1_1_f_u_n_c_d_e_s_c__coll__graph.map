@@ -1,0 +1,10 @@
+<map id="System.Runtime.InteropServices.ComTypes.FUNCDESC" name="System.Runtime.InteropServices.ComTypes.FUNCDESC">
+<area shape="rect" id="node1" title="Defines a function description." alt="" coords="1521,43,1736,85"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_e_l_e_m_d_e_s_c.html" title="Contains the type description and process transfer information for a variable, function,..." alt="" coords="1169,95,1384,137"/>
+<area shape="rect" id="node3" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_e_l_e_m_d_e_s_c_1_1_d_e_s_c_u_n_i_o_n.html" title="Contains information about an element." alt="" coords="848,95,1088,137"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_p_a_r_a_m_d_e_s_c.html" title="Contains information about how to transfer a structure element, parameter, or function return value b..." alt="" coords="371,73,585,114"/>
+<area shape="rect" id="node5" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="147,108,249,135"/>
+<area shape="rect" id="node7" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_i_d_l_d_e_s_c.html" title="Contains information needed for transferring a structure element, parameter, or function return value..." alt="" coords="371,138,585,179"/>
+<area shape="rect" id="node8" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_com_types_1_1_t_y_p_e_d_e_s_c.html" title="Describes the type of a variable, return type of a function, or the type of a function parameter." alt="" coords="609,193,824,234"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,108,97,135"/>
+</map>

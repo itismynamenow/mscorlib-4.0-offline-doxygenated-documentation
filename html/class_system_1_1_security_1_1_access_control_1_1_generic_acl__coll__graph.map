@@ -1,0 +1,5 @@
+<map id="System.Security.AccessControl.GenericAcl" name="System.Security.AccessControl.GenericAcl">
+<area shape="rect" id="node1" title="Represents an access control list (ACL) and is the base class for the T:System.Security...." alt="" coords="5,155,217,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="110,80,193,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="64,5,159,32"/>
+</map>

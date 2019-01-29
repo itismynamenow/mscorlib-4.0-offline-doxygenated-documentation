@@ -1,0 +1,7 @@
+<map id="System.Security.Policy.CodeGroup" name="System.Security.Policy.CodeGroup">
+<area shape="rect" id="node1" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="5,104,199,145"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_file_code_group.html" title="Grants permission to manipulate files located in the code assemblies to code assemblies that match th..." alt="" coords="253,5,437,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_policy_1_1_first_match_code_group.html" title="Allows security policy to be defined by the union of the policy statement of a code group and that of..." alt="" coords="250,71,439,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_policy_1_1_net_code_group.html" title="Grants Web permission to the site from which the assembly was downloaded. This class cannot be inheri..." alt="" coords="253,136,436,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_policy_1_1_union_code_group.html" title="Represents a code group whose policy statement is the union of the current code group&#39;s policy statem..." alt="" coords="247,201,443,243"/>
+</map>

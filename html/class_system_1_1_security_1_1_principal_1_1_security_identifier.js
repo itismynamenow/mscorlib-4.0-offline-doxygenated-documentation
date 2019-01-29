@@ -1,0 +1,25 @@
+var class_system_1_1_security_1_1_principal_1_1_security_identifier =
+[
+    [ "SecurityIdentifier", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#aefcd99c7884bc837cb4e74e07d6a82dc", null ],
+    [ "SecurityIdentifier", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#ae1c61113863c110e8f2cbfa9ea2dd6ab", null ],
+    [ "SecurityIdentifier", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a95562c33e94debb9f40da8405537caac", null ],
+    [ "SecurityIdentifier", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#adab456873b982062736d904676f678bd", null ],
+    [ "CompareTo", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a059f4382662b83894b1b8350592bbdf4", null ],
+    [ "Equals", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a590b3e992d937bbe0eaffd0d0edd43f9", null ],
+    [ "Equals", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#ad78a1c31abb35bd90472c9ba04a084a0", null ],
+    [ "GetBinaryForm", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#ab6f2cbc9d151ed3ef93e09d306e1c014", null ],
+    [ "GetHashCode", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#ac3341b7e5f7d04205bd472150d80d52a", null ],
+    [ "IsAccountSid", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#affa0fb6a7f66dfe52ea6eb316e3375c0", null ],
+    [ "IsEqualDomainSid", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a1fa58ebc7c82395354d680a4b226f743", null ],
+    [ "IsValidTargetType", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#ae40c8bd49e8bdaff89d9cd7412c7c40f", null ],
+    [ "IsWellKnown", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a51921cfb5d224a89e88578915e57c99c", null ],
+    [ "operator !=", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#af038d1c75d1e8ed28f2d78eb4fa9504e", null ],
+    [ "operator==", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a8fe2bafe48d9e65c63b2a3e0962173f1", null ],
+    [ "ToString", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a4d7252d21af2f161530253efbcb1ade1", null ],
+    [ "Translate", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#ac626487f32ce97e2e17172d4c470bcf0", null ],
+    [ "BinaryLength", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a94c3f153427a0cd44b7999db316a215f", null ],
+    [ "MaxBinaryLength", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a5a72a5a52a63856fceeabca3aa0170f4", null ],
+    [ "MinBinaryLength", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a7cd7544dc5a2f5534bebf94ffc424b8e", null ],
+    [ "Value", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#a3c45d38c33d38b3a6285e28ae865bd36", null ],
+    [ "AccountDomainSid", "class_system_1_1_security_1_1_principal_1_1_security_identifier.html#aade3de4c2e34f38560cac51175698b87", null ]
+];

@@ -1,0 +1,25 @@
+var class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e =
+[
+    [ "_32_BIT_ONLY", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#adbb35fba8d8e95a29e4d2b11128ec712", null ],
+    [ "ALIAS", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a24a9e0b2c09c2ae5b1adb228bcbf6fed", null ],
+    [ "BUILD_NUMBER", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a14dc84083b7d98405a99fbcf0dcf1a44", null ],
+    [ "CODEBASE_LASTMOD", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a58f5e408f95952ab04285926f2ba7ca9", null ],
+    [ "CODEBASE_URL", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#af3620613c718cc459d2e7cd46ed5ddb4", null ],
+    [ "CULTURE", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#ac5fe631906aad6e2814b533e644ec485", null ],
+    [ "CUSTOM", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#ab9accdf92ee4ac0b18ce03b57bb40e1d", null ],
+    [ "HASH_ALGID", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a66adc6720efc9a6f35e2767e69a40624", null ],
+    [ "HASH_VALUE", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#ad9cd12839a92930c40659b7883dc6dd0", null ],
+    [ "MAJOR_VERSION", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a430928bccfff57a9e217097eac8cfc95", null ],
+    [ "MAX_PARAMS", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a6db11b159323579566fc24662918bfbe", null ],
+    [ "MINOR_VERSION", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a5407b167d9085099ed80e444068f7372", null ],
+    [ "MVID", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a1ec4f4bbf49095a0571d9f4bdce2e31d", null ],
+    [ "NAME", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#aa3626ca552e99a2d1e781341089c4b24", null ],
+    [ "NULL_CUSTOM", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a07efd60b8522bbe607ac62ae24dee6b5", null ],
+    [ "NULL_PUBLIC_KEY", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#aa1bf3ae9f03baeb0d262ede5627a823e", null ],
+    [ "NULL_PUBLIC_KEY_TOKEN", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a288138985964016eeaa4d0974093f5cd", null ],
+    [ "OSINFO_ARRAY", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a9c75a1b7063cf128a3dc5ab32bb4a4ed", null ],
+    [ "PROCESSOR_ID_ARRAY", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#ab665501052b0184309ff1e34a0fc5ab6", null ],
+    [ "PUBLIC_KEY", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#ad754c6f3bf275133969097e4bb94f7d7", null ],
+    [ "PUBLIC_KEY_TOKEN", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#a426a9db6cdcbc483fb0a88c59ad9bb42", null ],
+    [ "REVISION_NUMBER", "class_microsoft_1_1_win32_1_1_a_s_m___n_a_m_e.html#aa92a52c5b5b4914ee8a06952126b590e", null ]
+];

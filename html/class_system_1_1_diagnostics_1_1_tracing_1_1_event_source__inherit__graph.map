@@ -1,0 +1,9 @@
+<map id="System.Diagnostics.Tracing.EventSource" name="System.Diagnostics.Tracing.EventSource">
+<area shape="rect" id="node1" title="Provides the ability to create events for event tracing for Windows (ETW)." alt="" coords="143,136,332,177"/>
+<area shape="rect" id="node3" href="$class_system_1_1_collections_1_1_concurrent_1_1_c_d_s_collection_e_t_w_b_c_l_provider.html" title=" " alt="" coords="380,5,587,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_diagnostics_1_1_tracing_1_1_framework_event_source.html" title=" " alt="" coords="389,71,578,112"/>
+<area shape="rect" id="node5" href="$class_system_1_1_threading_1_1_cds_sync_etw_b_c_l_provider.html" title=" " alt="" coords="391,136,575,177"/>
+<area shape="rect" id="node6" href="$class_system_1_1_threading_1_1_pinnable_buffer_cache_event_source.html" title=" " alt="" coords="393,201,574,243"/>
+<area shape="rect" id="node7" href="$class_system_1_1_threading_1_1_tasks_1_1_tpl_etw_provider.html" title=" " alt="" coords="390,267,577,308"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,143,95,170"/>
+</map>

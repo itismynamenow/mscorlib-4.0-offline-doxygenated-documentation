@@ -1,0 +1,8 @@
+<map id="System.Security.Policy.LegacyEvidenceList" name="System.Security.Policy.LegacyEvidenceList">
+<area shape="rect" id="node1" title=" " alt="" coords="259,171,464,212"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="5,95,109,121"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="133,95,333,121"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="128,5,339,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="358,95,453,121"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_policy_1_1_i_legacy_evidence_adapter.html" title=" " alt="" coords="477,95,641,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.Threading.CancellationTokenRegistration" name="System.Threading.CancellationTokenRegistration">
+<area shape="rect" id="node1" title="Represents a callback delegate that has been registered with a T:System.Threading...." alt="" coords="101,185,303,227"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="5,95,172,136"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="7,5,170,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="196,102,285,129"/>
+</map>

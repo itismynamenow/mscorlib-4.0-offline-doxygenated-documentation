@@ -1,0 +1,5 @@
+<map id="System.Security.AllowPartiallyTrustedCallersAttribute" name="System.Security.AllowPartiallyTrustedCallersAttribute">
+<area shape="rect" id="node1" title="Allows an assembly to be called by partially trusted code. Without this declaration,..." alt="" coords="5,155,207,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="71,80,141,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="67,5,145,32"/>
+</map>

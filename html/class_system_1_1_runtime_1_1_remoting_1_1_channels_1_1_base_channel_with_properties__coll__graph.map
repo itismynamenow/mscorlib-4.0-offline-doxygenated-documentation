@@ -1,0 +1,8 @@
+<map id="System.Runtime.Remoting.Channels.BaseChannelWithProperties" name="System.Runtime.Remoting.Channels.BaseChannelWithProperties">
+<area shape="rect" id="node1" title="Provides a base implementation for channels that want to expose a dictionary interface to their prope..." alt="" coords="167,337,410,379"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_base_channel_object_with_properties.html" title="Provides a base implementation of a channel object that exposes a dictionary interface to its propert..." alt="" coords="5,241,228,267"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="75,157,158,184"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="135,81,218,108"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="51,5,145,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_channel_sink_base.html" title="Provides the base interface for channel sinks." alt="" coords="253,233,439,275"/>
+</map>

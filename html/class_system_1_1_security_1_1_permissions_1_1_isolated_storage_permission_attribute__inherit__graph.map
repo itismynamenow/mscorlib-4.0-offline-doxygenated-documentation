@@ -1,0 +1,8 @@
+<map id="System.Security.Permissions.IsolatedStoragePermissionAttribute" name="System.Security.Permissions.IsolatedStoragePermissionAttribute">
+<area shape="rect" id="node1" title="Allows security actions for T:System.Security.Permissions.IsolatedStoragePermission to be applied to ..." alt="" coords="15,304,242,345"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_permissions_1_1_isolated_storage_file_permission_attribute.html" title="Allows security actions for T:System.Security.Permissions.IsolatedStorageFilePermission to be applied..." alt="" coords="5,393,252,435"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_code_access_security_attribute.html" title="Specifies the base attribute class for code access security." alt="" coords="32,229,225,256"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_permissions_1_1_security_attribute.html" title="Specifies the base attribute class for declarative security from which T:System.Security...." alt="" coords="69,155,188,181"/>
+<area shape="rect" id="node4" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="93,80,164,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="89,5,168,32"/>
+</map>

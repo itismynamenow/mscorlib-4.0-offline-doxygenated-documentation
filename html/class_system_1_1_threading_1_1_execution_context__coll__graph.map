@@ -1,0 +1,5 @@
+<map id="System.Threading.ExecutionContext" name="System.Threading.ExecutionContext">
+<area shape="rect" id="node1" title="Manages the execution context for the current thread. This class cannot be inherited." alt="" coords="13,80,202,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="119,5,211,32"/>
+</map>

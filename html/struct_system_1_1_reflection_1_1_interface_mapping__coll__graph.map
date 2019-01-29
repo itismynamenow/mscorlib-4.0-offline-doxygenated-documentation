@@ -1,0 +1,13 @@
+<map id="System.Reflection.InterfaceMapping" name="System.Reflection.InterfaceMapping">
+<area shape="rect" id="node1" title="Retrieves the mapping of an interface into the actual methods on a class that implements that interfa..." alt="" coords="143,340,325,381"/>
+<area shape="rect" id="node2" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="253,157,351,184"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="160,81,249,108"/>
+<area shape="rect" id="node9" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="121,157,216,184"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="45,5,210,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="234,5,330,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="273,81,331,108"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="355,81,420,108"/>
+<area shape="rect" id="node8" href="$class_system_1_1_reflection_1_1_method_info.html" title="Discovers the attributes of a method and provides access to method metadata." alt="" coords="59,235,254,261"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_base.html" title="Exposes the public members of the T:System.Reflection.MethodBase class to unmanaged code." alt="" coords="33,81,136,108"/>
+<area shape="rect" id="node11" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_info.html" title="Exposes the public members of the T:System.Reflection.MethodInfo class to unmanaged code." alt="" coords="5,157,97,184"/>
+</map>

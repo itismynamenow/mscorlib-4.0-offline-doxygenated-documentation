@@ -1,0 +1,4 @@
+<map id="System.Text.EncoderExceptionFallbackBuffer" name="System.Text.EncoderExceptionFallbackBuffer">
+<area shape="rect" id="node1" title="Throws T:System.Text.EncoderFallbackException when an input character cannot be converted to an encod..." alt="" coords="5,80,212,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_encoder_fallback_buffer.html" title="Provides a buffer that allows a fallback handler to return an alternate string to an encoder when it ..." alt="" coords="33,5,185,32"/>
+</map>

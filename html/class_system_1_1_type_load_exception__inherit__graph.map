@@ -1,0 +1,10 @@
+<map id="System.TypeLoadException" name="System.TypeLoadException">
+<area shape="rect" id="node1" title="The exception that is thrown when type&#45;loading failures occur." alt="" coords="447,64,632,91"/>
+<area shape="rect" id="node6" href="$class_system_1_1_dll_not_found_exception.html" title="The exception that is thrown when a DLL specified in a DLL import cannot be found." alt="" coords="681,5,881,32"/>
+<area shape="rect" id="node7" href="$class_system_1_1_entry_point_not_found_exception.html" title="The exception that is thrown when an attempt to load a class fails due to the absence of an entry met..." alt="" coords="687,57,875,98"/>
+<area shape="rect" id="node8" href="$class_system_1_1_type_access_exception.html" title="The exception that is thrown when a method attempts to use a type that it does not have access to." alt="" coords="680,123,881,149"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="273,89,399,116"/>
+<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="145,89,225,116"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,39,97,65"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="8,89,95,116"/>
+</map>

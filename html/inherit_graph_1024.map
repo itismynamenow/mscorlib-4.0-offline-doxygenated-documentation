@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_system_1_1_threading_1_1_i_async_local.html" title=" " alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node2" href="$class_system_1_1_threading_1_1_async_local.html" title="Represents ambient data that is local to a given asynchronous control flow, such as an asynchronous m..." alt="" coords="256,5,487,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.Collections.IStructuralEquatable" name="System.Collections.IStructuralEquatable">
+<area shape="rect" id="node1" title="Defines methods to support the comparison of objects for structural equality." alt="" coords="5,103,204,145"/>
+<area shape="rect" id="node2" href="$class_system_1_1_array.html" title="Provides methods for creating, manipulating, searching, and sorting arrays, thereby serving as the ba..." alt="" coords="278,5,381,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_tuple.html" title="Represents an n&#45;tuple, where n is 8 or greater." alt="" coords="252,56,407,112"/>
+<area shape="rect" id="node4" href="$struct_system_1_1_value_tuple.html" title="Represents an n&#45;value tuple, where n is 8 or greater." alt="" coords="258,136,401,192"/>
+</map>

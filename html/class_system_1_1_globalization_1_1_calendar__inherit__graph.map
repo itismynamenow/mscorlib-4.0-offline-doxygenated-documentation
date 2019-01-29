@@ -1,0 +1,19 @@
+<map id="System.Globalization.Calendar" name="System.Globalization.Calendar">
+<area shape="rect" id="node1" title="Represents time in divisions, such as weeks, months, and years." alt="" coords="136,437,337,463"/>
+<area shape="rect" id="node3" href="$class_system_1_1_globalization_1_1_east_asian_lunisolar_calendar.html" title="Represents a calendar that divides time into months, days, years, and eras, and has dates that are ba..." alt="" coords="400,103,577,144"/>
+<area shape="rect" id="node8" href="$class_system_1_1_globalization_1_1_gregorian_calendar.html" title="Represents the Gregorian calendar." alt="" coords="385,168,592,209"/>
+<area shape="rect" id="node9" href="$class_system_1_1_globalization_1_1_hebrew_calendar.html" title="Represents the Hebrew calendar." alt="" coords="392,233,585,275"/>
+<area shape="rect" id="node10" href="$class_system_1_1_globalization_1_1_hijri_calendar.html" title="Represents the Hijri calendar." alt="" coords="403,299,575,340"/>
+<area shape="rect" id="node11" href="$class_system_1_1_globalization_1_1_japanese_calendar.html" title="Represents the Japanese calendar." alt="" coords="386,364,591,405"/>
+<area shape="rect" id="node12" href="$class_system_1_1_globalization_1_1_julian_calendar.html" title="Represents the Julian calendar." alt="" coords="397,429,580,471"/>
+<area shape="rect" id="node13" href="$class_system_1_1_globalization_1_1_korean_calendar.html" title="Represents the Korean calendar." alt="" coords="393,495,584,536"/>
+<area shape="rect" id="node14" href="$class_system_1_1_globalization_1_1_persian_calendar.html" title="Represents the Persian calendar." alt="" coords="391,560,586,601"/>
+<area shape="rect" id="node15" href="$class_system_1_1_globalization_1_1_taiwan_calendar.html" title="the Taiwan calendar." alt="" coords="393,625,584,667"/>
+<area shape="rect" id="node16" href="$class_system_1_1_globalization_1_1_thai_buddhist_calendar.html" title="Represents the Thai Buddhist calendar." alt="" coords="401,691,576,732"/>
+<area shape="rect" id="node17" href="$class_system_1_1_globalization_1_1_um_al_qura_calendar.html" title="Represents the Saudi Hijri (Um Al Qura) calendar." alt="" coords="397,756,580,797"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,437,88,463"/>
+<area shape="rect" id="node4" href="$class_system_1_1_globalization_1_1_chinese_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated using the Chinese..." alt="" coords="644,5,841,47"/>
+<area shape="rect" id="node5" href="$class_system_1_1_globalization_1_1_japanese_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated as for the Japane..." alt="" coords="640,71,845,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_globalization_1_1_korean_lunisolar_calendar.html" title="Represents time in divisions, such as months, days, and years. Years are calculated using the Gregori..." alt="" coords="647,136,838,177"/>
+<area shape="rect" id="node7" href="$class_system_1_1_globalization_1_1_taiwan_lunisolar_calendar.html" title="Represents the Taiwan lunisolar calendar. As for the Taiwan calendar, years are calculated using the ..." alt="" coords="647,201,838,243"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Microsoft.Win32.SafeHandles.SafeFileMappingHandle" name="Microsoft.Win32.SafeHandles.SafeFileMappingHandle">
+<area shape="rect" id="node1" title=" " alt="" coords="125,337,323,379"/>
+<area shape="rect" id="node2" href="$class_microsoft_1_1_win32_1_1_safe_handles_1_1_safe_handle_zero_or_minus_one_is_invalid.html" title="Provides a base class for Win32 safe handle implementations in which the value of either 0 or &#45;1 indi..." alt="" coords="131,247,317,288"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_interop_services_1_1_safe_handle.html" title="Represents a wrapper class for operating system handles. This class must be inherited." alt="" coords="180,171,268,197"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_constrained_execution_1_1_critical_finalizer_object.html" title="Ensures that all finalization code in derived classes is marked as critical." alt="" coords="5,81,155,108"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="179,81,269,108"/>
+<area shape="rect" id="node6" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="293,81,395,108"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="298,5,390,32"/>
+</map>

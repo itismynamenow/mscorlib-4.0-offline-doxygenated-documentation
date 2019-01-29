@@ -1,0 +1,8 @@
+<map id="System.OutOfMemoryException" name="System.OutOfMemoryException">
+<area shape="rect" id="node1" title="The exception that is thrown when there is not enough memory to continue the execution of a program." alt="" coords="5,229,216,256"/>
+<area shape="rect" id="node6" href="$class_system_1_1_insufficient_memory_exception.html" title="The exception that is thrown when a check for sufficient available memory fails. This class cannot be..." alt="" coords="21,304,200,345"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="48,155,173,181"/>
+<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="71,80,151,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="9,5,101,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="125,5,211,32"/>
+</map>

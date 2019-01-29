@@ -1,0 +1,4 @@
+<map id="System.Runtime.InteropServices.IRegistrationServices" name="System.Runtime.InteropServices.IRegistrationServices">
+<area shape="rect" id="node1" title="Provides a set of services for registering and unregistering managed assemblies for use from COM." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_registration_services.html" title="Provides a set of services for registering and unregistering managed assemblies for use from COM." alt="" coords="5,95,220,136"/>
+</map>

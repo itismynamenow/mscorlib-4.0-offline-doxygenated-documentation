@@ -1,0 +1,10 @@
+<map id="System.ArithmeticException" name="System.ArithmeticException">
+<area shape="rect" id="node1" title="The exception that is thrown for errors in an arithmetic, casting, or conversion operation." alt="" coords="447,56,635,83"/>
+<area shape="rect" id="node6" href="$class_system_1_1_divide_by_zero_exception.html" title="The exception that is thrown when there is an attempt to divide an integral or T:System...." alt="" coords="694,5,898,32"/>
+<area shape="rect" id="node7" href="$class_system_1_1_not_finite_number_exception.html" title="The exception that is thrown when a floating&#45;point value is positive infinity, negative infinity,..." alt="" coords="683,56,909,83"/>
+<area shape="rect" id="node8" href="$class_system_1_1_overflow_exception.html" title="The exception that is thrown when an arithmetic, casting, or conversion operation in a checked contex..." alt="" coords="707,107,885,133"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="273,56,399,83"/>
+<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="145,56,225,83"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,31,97,57"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="8,81,95,108"/>
+</map>

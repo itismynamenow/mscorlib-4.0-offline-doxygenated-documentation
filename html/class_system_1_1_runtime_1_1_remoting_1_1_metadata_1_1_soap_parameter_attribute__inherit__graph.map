@@ -1,0 +1,6 @@
+<map id="System.Runtime.Remoting.Metadata.SoapParameterAttribute" name="System.Runtime.Remoting.Metadata.SoapParameterAttribute">
+<area shape="rect" id="node1" title="Customizes SOAP generation and processing for a parameter. This class cannot be inherited." alt="" coords="5,229,224,271"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_metadata_1_1_soap_attribute.html" title="Provides default functionality for all SOAP attributes." alt="" coords="64,155,165,181"/>
+<area shape="rect" id="node3" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="79,80,150,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="75,5,154,32"/>
+</map>

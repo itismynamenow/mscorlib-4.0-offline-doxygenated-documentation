@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_activation_factory.html" title="Enables classes to be activated by the Windows Runtime." alt="" coords="31,5,262,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_managed_activation_factory.html" title=" " alt="" coords="336,39,616,80"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_i_managed_activation_factory.html" title=" " alt="" coords="5,71,288,112"/>
+</map>

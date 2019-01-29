@@ -1,0 +1,5 @@
+<map id="System.Collections.Comparer" name="System.Collections.Comparer">
+<area shape="rect" id="node1" title="Compares two objects for equivalence, where string comparisons are case&#45;sensitive." alt="" coords="5,83,200,109"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_comparer.html" title="Exposes a method that compares two objects." alt="" coords="7,5,89,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="113,5,205,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.Runtime.Hosting.ActivationArguments" name="System.Runtime.Hosting.ActivationArguments">
+<area shape="rect" id="node1" title="Provides data for manifest&#45;based activation of an application. This class cannot be inherited." alt="" coords="5,171,232,212"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="15,81,119,108"/>
+<area shape="rect" id="node3" href="$class_system_1_1_application_identity.html" title="Provides the ability to uniquely identify a manifest&#45;activated application. This class cannot be inhe..." alt="" coords="143,81,321,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="186,5,278,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.Collections.ListDictionaryInternal" name="System.Collections.ListDictionaryInternal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,224,271"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_dictionary.html" title="Represents a nongeneric collection of key/value pairs." alt="" coords="73,155,156,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="137,80,220,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="53,5,147,32"/>
+</map>

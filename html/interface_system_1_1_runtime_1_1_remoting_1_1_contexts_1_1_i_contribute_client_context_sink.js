@@ -1,0 +1,4 @@
+var interface_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_i_contribute_client_context_sink =
+[
+    [ "GetClientContextSink", "interface_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_i_contribute_client_context_sink.html#a363ef09bb5e24fa6cbf0b5edde01746f", null ]
+];

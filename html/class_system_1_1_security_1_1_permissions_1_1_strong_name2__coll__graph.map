@@ -1,0 +1,11 @@
+<map id="System.Security.Permissions.StrongName2" name="System.Security.Permissions.StrongName2">
+<area shape="rect" id="node1" title=" " alt="" coords="84,275,283,316"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_strong_name_public_key_blob.html" title="Represents the public key information (called a blob) for a strong name. This class cannot be inherit..." alt="" coords="5,171,204,212"/>
+<area shape="rect" id="node3" href="$class_system_1_1_version.html" title="Represents the version number of an assembly, operating system, or the common language runtime...." alt="" coords="229,178,343,205"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="85,95,167,121"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="192,95,287,121"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="311,95,474,121"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="321,5,464,32"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="499,95,649,121"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="493,5,655,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="System.Security.AccessControl.FileSystemAccessRule" name="System.Security.AccessControl.FileSystemAccessRule">
+<area shape="rect" id="node1" title="Represents an abstraction of an access control entry (ACE) that defines an access rule for a file or ..." alt="" coords="5,261,217,303"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_access_rule.html" title="Represents a combination of a user&#39;s identity, an access mask, and an access control type (allow or d..." alt="" coords="65,185,157,212"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_authorization_rule.html" title="Determines access to securable objects. The derived classes T:System.Security.AccessControl...." alt="" coords="49,109,173,136"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="23,5,200,47"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="System.Security.Permissions.IUnrestrictedPermission" name="System.Security.Permissions.IUnrestrictedPermission">
+<area shape="rect" id="node1" title="Allows a permission to expose an unrestricted state." alt="" coords="5,332,204,373"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_permissions_1_1_environment_permission.html" title="Controls access to system and user environment variables. This class cannot be inherited." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_permissions_1_1_file_dialog_permission.html" title="Controls the ability to access files or folders through a File dialog box. This class cannot be inher..." alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_permissions_1_1_file_i_o_permission.html" title="Controls the ability to access files and folders. This class cannot be inherited." alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_permissions_1_1_host_protection_permission.html" title=" " alt="" coords="252,201,451,243"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_permissions_1_1_isolated_storage_permission.html" title="Represents access to generic isolated storage capabilities." alt="" coords="252,267,451,308"/>
+<area shape="rect" id="node8" href="$class_system_1_1_security_1_1_permissions_1_1_key_container_permission.html" title="Controls the ability to access key containers. This class cannot be inherited." alt="" coords="252,332,451,373"/>
+<area shape="rect" id="node9" href="$class_system_1_1_security_1_1_permissions_1_1_principal_permission.html" title="Allows checks against the active principal (see T:System.Security.Principal.IPrincipal) using the lan..." alt="" coords="252,397,451,439"/>
+<area shape="rect" id="node10" href="$class_system_1_1_security_1_1_permissions_1_1_reflection_permission.html" title="Controls access to non&#45;public types and members through the N:System.Reflection APIs...." alt="" coords="252,463,451,504"/>
+<area shape="rect" id="node11" href="$class_system_1_1_security_1_1_permissions_1_1_registry_permission.html" title="Controls the ability to access registry variables. This class cannot be inherited." alt="" coords="252,528,451,569"/>
+<area shape="rect" id="node12" href="$class_system_1_1_security_1_1_permissions_1_1_security_permission.html" title="Describes a set of security permissions applied to code. This class cannot be inherited." alt="" coords="252,593,451,635"/>
+<area shape="rect" id="node13" href="$class_system_1_1_security_1_1_permissions_1_1_u_i_permission.html" title="Controls the permissions related to user interfaces and the Clipboard. This class cannot be inherited..." alt="" coords="252,659,451,700"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_permissions_1_1_isolated_storage_file_permission.html" title="Specifies the allowed usage of a private virtual file system. This class cannot be inherited." alt="" coords="499,267,697,308"/>
+</map>

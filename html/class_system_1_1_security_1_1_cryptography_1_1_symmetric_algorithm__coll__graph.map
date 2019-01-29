@@ -1,0 +1,5 @@
+<map id="System.Security.Cryptography.SymmetricAlgorithm" name="System.Security.Cryptography.SymmetricAlgorithm">
+<area shape="rect" id="node1" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="33,153,237,195"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,13,95,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_key_sizes.html" title="Determines the set of valid key sizes for the symmetric cryptographic algorithms." alt="" coords="119,5,323,47"/>
+</map>

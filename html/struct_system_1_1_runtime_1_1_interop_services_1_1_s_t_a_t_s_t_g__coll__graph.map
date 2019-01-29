@@ -1,0 +1,11 @@
+<map id="System.Runtime.InteropServices.STATSTG" name="System.Runtime.InteropServices.STATSTG">
+<area shape="rect" id="node1" title="Use T:System.Runtime.InteropServices.ComTypes.STATSTG instead." alt="" coords="293,304,508,345"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_guid.html" title="Represents a globally unique identifier (GUID).To browse the .NET Framework source code for this type..." alt="" coords="166,178,265,205"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="5,95,100,121"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="124,95,219,121"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="243,95,388,121"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="237,5,380,32"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="416,95,551,121"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="405,5,567,32"/>
+<area shape="rect" id="node9" href="$struct_system_1_1_runtime_1_1_interop_services_1_1_f_i_l_e_t_i_m_e.html" title="Use T:System.Runtime.InteropServices.ComTypes.FILETIME instead." alt="" coords="356,171,571,212"/>
+</map>

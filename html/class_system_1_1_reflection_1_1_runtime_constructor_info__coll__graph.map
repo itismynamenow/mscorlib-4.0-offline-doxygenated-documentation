@@ -1,0 +1,15 @@
+<map id="System.Reflection.RuntimeConstructorInfo" name="System.Reflection.RuntimeConstructorInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="323,336,503,377"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_constructor_info.html" title="Discovers the attributes of a class constructor and provides access to constructor metadata." alt="" coords="479,247,589,273"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="692,157,787,184"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="695,81,784,108"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="467,5,633,32"/>
+<area shape="rect" id="node11" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="205,247,380,273"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="691,5,787,32"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_base.html" title="Exposes the public members of the T:System.Reflection.MethodBase class to unmanaged code." alt="" coords="568,81,671,108"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___constructor_info.html" title="Exposes the public members of the T:System.Reflection.ConstructorInfo class to unmanaged code." alt="" coords="552,157,668,184"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,157,97,184"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_i_runtime_method_info.html" title=" " alt="" coords="613,247,749,273"/>
+<area shape="rect" id="node12" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="121,157,192,184"/>
+<area shape="rect" id="node13" href="$struct_system_1_1_module_handle.html" title="Represents a runtime handle for a module." alt="" coords="216,157,369,184"/>
+</map>

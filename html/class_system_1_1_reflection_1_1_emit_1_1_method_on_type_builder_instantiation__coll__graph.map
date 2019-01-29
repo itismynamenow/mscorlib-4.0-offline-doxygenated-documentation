@@ -1,0 +1,18 @@
+<map id="System.Reflection.Emit.MethodOnTypeBuilderInstantiation" name="System.Reflection.Emit.MethodOnTypeBuilderInstantiation">
+<area shape="rect" id="node1" title=" " alt="" coords="999,137,1205,178"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_method_info.html" title="Discovers the attributes of a method and provides access to method metadata." alt="" coords="719,29,804,56"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_method_base.html" title="Provides information about methods and constructors." alt="" coords="401,56,496,83"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_member_info.html" title="Obtains information about the attributes of a member and provides access to member metadata." alt="" coords="227,216,316,243"/>
+<area shape="rect" id="node11" href="$class_system_1_1_type.html" title="Represents type declarations: class types, interface types, array types, value types,..." alt="" coords="399,387,498,413"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="5,165,171,192"/>
+<area shape="rect" id="node14" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="674,169,849,196"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___member_info.html" title="Exposes the public members of the T:System.Reflection.MemberInfo class to unmanaged code." alt="" coords="40,224,136,251"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_base.html" title="Exposes the public members of the T:System.Reflection.MethodBase class to unmanaged code." alt="" coords="220,56,323,83"/>
+<area shape="rect" id="node8" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___method_info.html" title="Exposes the public members of the T:System.Reflection.MethodInfo class to unmanaged code." alt="" coords="403,5,495,32"/>
+<area shape="rect" id="node9" href="$struct_system_1_1_runtime_method_handle.html" title="T:System.RuntimeMethodHandle is a handle to the internal metadata representation of a method." alt="" coords="660,119,863,145"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="403,107,495,133"/>
+<area shape="rect" id="node12" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___type.html" title="Exposes the public members of the T:System.Type class to the unmanaged code." alt="" coords="243,412,300,439"/>
+<area shape="rect" id="node13" href="$interface_system_1_1_reflection_1_1_i_reflect.html" title="Interoperates with the IDispatch interface." alt="" coords="239,361,304,388"/>
+<area shape="rect" id="node15" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="413,297,484,324"/>
+<area shape="rect" id="node16" href="$struct_system_1_1_module_handle.html" title="Represents a runtime handle for a module." alt="" coords="372,247,525,273"/>
+</map>

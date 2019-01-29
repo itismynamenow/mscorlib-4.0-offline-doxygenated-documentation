@@ -1,0 +1,4 @@
+var namespace_system_1_1_runtime_1_1_designer_services =
+[
+    [ "WindowsRuntimeDesignerContext", "class_system_1_1_runtime_1_1_designer_services_1_1_windows_runtime_designer_context.html", "class_system_1_1_runtime_1_1_designer_services_1_1_windows_runtime_designer_context" ]
+];

@@ -1,0 +1,10 @@
+<map id="System.Security.PermissionSet" name="System.Security.PermissionSet">
+<area shape="rect" id="node1" title="Represents a collection that can contain many different types of permissions." alt="" coords="153,155,361,181"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_named_permission_set.html" title="Defines a permission set that has a name and description associated with it. This class cannot be inh..." alt="" coords="13,237,263,263"/>
+<area shape="rect" id="node8" href="$class_system_1_1_security_1_1_read_only_permission_set.html" title="Represents a read&#45;only collection that can contain many different types of permissions." alt="" coords="287,229,467,271"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="215,80,298,107"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="169,5,264,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_i_stack_walk.html" title="Manages the stack walk that determines whether all callers in the call stack have the required permis..." alt="" coords="323,80,412,107"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="437,80,597,107"/>
+</map>

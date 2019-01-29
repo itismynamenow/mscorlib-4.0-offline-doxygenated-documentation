@@ -1,0 +1,4 @@
+<map id="System.Runtime.InteropServices.ITypeLibImporterNotifySink" name="System.Runtime.InteropServices.ITypeLibImporterNotifySink">
+<area shape="rect" id="node1" title="Provides a callback mechanism for the type library converter to inform the caller of the status of th..." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_interop_services_1_1_importer_callback.html" title=" " alt="" coords="5,95,220,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System.FormattableString" name="System.FormattableString">
+<area shape="rect" id="node1" title="Represents a composite format string, along with the arguments to be formatted." alt="" coords="5,80,180,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_formattable.html" title="Provides functionality to format the value of an object into a string representation." alt="" coords="45,5,140,32"/>
+</map>

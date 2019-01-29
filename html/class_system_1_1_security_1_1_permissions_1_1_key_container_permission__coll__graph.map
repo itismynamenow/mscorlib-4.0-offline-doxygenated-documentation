@@ -1,0 +1,12 @@
+<map id="System.Security.Permissions.KeyContainerPermission" name="System.Security.Permissions.KeyContainerPermission">
+<area shape="rect" id="node1" title="Controls the ability to access key containers. This class cannot be inherited." alt="" coords="707,103,905,145"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_code_access_permission.html" title="Defines the underlying structure of all code access permissions." alt="" coords="369,35,530,61"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_permission.html" title="Defines methods implemented by permission types." alt="" coords="189,35,280,61"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_i_stack_walk.html" title="Manages the stack walk that determines whether all callers in the call stack have the required permis..." alt="" coords="190,85,279,112"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_permissions_1_1_i_unrestricted_permission.html" title="Allows a permission to expose an unrestricted state." alt="" coords="369,85,529,112"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_security_1_1_permissions_1_1_i_built_in_permission.html" title=" " alt="" coords="386,136,513,163"/>
+<area shape="rect" id="node8" href="$class_system_1_1_security_1_1_permissions_1_1_key_container_permission_access_entry_collection.html" title="Represents a collection of T:System.Security.Permissions.KeyContainerPermissionAccessEntry objects...." alt="" coords="329,187,569,243"/>
+<area shape="rect" id="node9" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="193,235,276,261"/>
+<area shape="rect" id="node10" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="25,204,120,231"/>
+</map>

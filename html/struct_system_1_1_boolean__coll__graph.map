@@ -1,0 +1,9 @@
+<map id="System.Boolean" name="System.Boolean">
+<area shape="rect" id="node1" title="Represents a Boolean (true or false) value." alt="" coords="152,171,271,197"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="5,95,100,121"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="125,95,213,121"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_comparable.html" title=" " alt="" coords="237,95,380,121"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_comparable.html" title="Defines a generalized type&#45;specific comparison method that a value type or class implements to order ..." alt="" coords="233,5,376,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_i_equatable.html" title=" " alt="" coords="413,95,543,121"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_i_equatable.html" title="Defines a generalized method that a value type or class implements to create a type&#45;specific method f..." alt="" coords="401,5,563,32"/>
+</map>

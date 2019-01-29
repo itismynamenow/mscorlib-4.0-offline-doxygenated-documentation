@@ -1,0 +1,4 @@
+<map id="System.Runtime.Serialization.IFormatterConverter" name="System.Runtime.Serialization.IFormatterConverter">
+<area shape="rect" id="node1" title="Provides the connection between an instance of T:System.Runtime.Serialization.SerializationInfo and t..." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_serialization_1_1_formatter_converter.html" title="Represents a base implementation of the T:System.Runtime.Serialization.IFormatterConverter interface ..." alt="" coords="5,95,204,136"/>
+</map>

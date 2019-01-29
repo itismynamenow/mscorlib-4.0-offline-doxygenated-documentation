@@ -1,0 +1,5 @@
+<map id="System.Runtime.InteropServices.ComTypes.PARAMDESC" name="System.Runtime.InteropServices.ComTypes.PARAMDESC">
+<area shape="rect" id="node1" title="Contains information about how to transfer a structure element, parameter, or function return value b..." alt="" coords="5,171,220,212"/>
+<area shape="rect" id="node2" href="$struct_system_1_1_int_ptr.html" title="A platform&#45;specific type that is used to represent a pointer or a handle." alt="" coords="61,81,164,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="67,5,159,32"/>
+</map>

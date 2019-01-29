@@ -1,0 +1,9 @@
+<map id="System.Security.Policy.IIdentityPermissionFactory" name="System.Security.Policy.IIdentityPermissionFactory">
+<area shape="rect" id="node1" title="Defines the method that creates a new identity permission." alt="" coords="5,140,213,181"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_gac_installed.html" title="Confirms that a code assembly originates in the global assembly cache (GAC) as evidence for policy ev..." alt="" coords="285,5,472,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_policy_1_1_publisher.html" title="Provides the Authenticode X.509v3 digital signature of a code assembly as evidence for policy evaluat..." alt="" coords="270,71,487,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_policy_1_1_site.html" title="Provides the Web site from which a code assembly originates as evidence for policy evaluation...." alt="" coords="285,122,472,149"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_policy_1_1_strong_name.html" title="Provides the strong name of a code assembly as evidence for policy evaluation. This class cannot be i..." alt="" coords="261,173,496,199"/>
+<area shape="rect" id="node6" href="$class_system_1_1_security_1_1_policy_1_1_url.html" title="Provides the URL from which a code assembly originates as evidence for policy evaluation...." alt="" coords="289,223,468,250"/>
+<area shape="rect" id="node7" href="$class_system_1_1_security_1_1_policy_1_1_zone.html" title="Provides the security zone of a code assembly as evidence for policy evaluation. This class cannot be..." alt="" coords="283,274,474,301"/>
+</map>

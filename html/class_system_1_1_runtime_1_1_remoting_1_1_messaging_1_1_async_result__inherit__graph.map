@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.Messaging.AsyncResult" name="System.Runtime.Remoting.Messaging.AsyncResult">
+<area shape="rect" id="node1" title="Encapsulates the results of an asynchronous operation on a delegate." alt="" coords="26,80,209,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_async_result.html" title="Represents the status of an asynchronous operation." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message_sink.html" title="Defines the interface for a message sink." alt="" coords="128,5,232,32"/>
+</map>

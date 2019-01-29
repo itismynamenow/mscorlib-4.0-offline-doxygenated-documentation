@@ -1,0 +1,6 @@
+<map id="System.Security.Cryptography.MD5" name="System.Security.Cryptography.MD5">
+<area shape="rect" id="node1" title="Represents the abstract class from which all implementations of the T:System.Security...." alt="" coords="5,229,236,256"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_hash_algorithm.html" title="Represents the base class from which all implementations of cryptographic hash algorithms must derive..." alt="" coords="67,155,174,181"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="76,5,165,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_cryptography_1_1_i_crypto_transform.html" title="Defines the basic operations of cryptographic transformations." alt="" coords="110,80,230,107"/>
+</map>

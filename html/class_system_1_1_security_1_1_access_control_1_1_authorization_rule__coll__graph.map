@@ -1,0 +1,4 @@
+<map id="System.Security.AccessControl.AuthorizationRule" name="System.Security.AccessControl.AuthorizationRule">
+<area shape="rect" id="node1" title="Determines access to securable objects. The derived classes T:System.Security.AccessControl...." alt="" coords="5,109,217,151"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_principal_1_1_identity_reference.html" title="Represents an identity and is the base class for the T:System.Security.Principal.NTAccount and T:Syst..." alt="" coords="23,5,200,47"/>
+</map>

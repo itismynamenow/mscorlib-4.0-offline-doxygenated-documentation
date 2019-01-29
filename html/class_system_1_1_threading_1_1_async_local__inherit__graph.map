@@ -1,0 +1,6 @@
+<map id="System.Threading.AsyncLocal&lt; T &gt;" name="System.Threading.AsyncLocal&lt; T &gt;">
+<area shape="rect" id="node1" title="Represents ambient data that is local to a given asynchronous control flow, such as an asynchronous m..." alt="" coords="148,46,379,73"/>
+<area shape="rect" id="node3" href="$class_system_1_1_threading_1_1_async_local.html" title=" " alt="" coords="517,5,716,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_threading_1_1_async_local.html" title=" " alt="" coords="517,71,716,112"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_threading_1_1_i_async_local.html" title=" " alt="" coords="5,46,99,73"/>
+</map>

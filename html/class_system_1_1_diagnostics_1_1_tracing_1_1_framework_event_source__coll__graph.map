@@ -1,0 +1,5 @@
+<map id="System.Diagnostics.Tracing.FrameworkEventSource" name="System.Diagnostics.Tracing.FrameworkEventSource">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,195,199"/>
+<area shape="rect" id="node2" href="$class_system_1_1_diagnostics_1_1_tracing_1_1_event_source.html" title="Provides the ability to create events for event tracing for Windows (ETW)." alt="" coords="53,81,147,108"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="55,5,145,32"/>
+</map>

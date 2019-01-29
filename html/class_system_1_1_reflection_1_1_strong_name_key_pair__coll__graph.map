@@ -1,0 +1,5 @@
+<map id="System.Reflection.StrongNameKeyPair" name="System.Reflection.StrongNameKeyPair">
+<area shape="rect" id="node1" title="Encapsulates access to a public or private key pair used to sign strong name assemblies." alt="" coords="75,80,245,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="190,5,282,32"/>
+</map>

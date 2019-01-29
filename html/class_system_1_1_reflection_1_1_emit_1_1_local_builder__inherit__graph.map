@@ -1,0 +1,5 @@
+<map id="System.Reflection.Emit.LocalBuilder" name="System.Reflection.Emit.LocalBuilder">
+<area shape="rect" id="node1" title="Represents a local variable within a method or constructor." alt="" coords="35,80,229,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_local_variable_info.html" title="Discovers the attributes of a local variable and provides access to local variable metadata." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___local_builder.html" title="Exposes the T:System.Reflection.Emit.LocalBuilder class to unmanaged code." alt="" coords="150,5,250,32"/>
+</map>

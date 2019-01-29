@@ -1,0 +1,5 @@
+<map id="System.Threading.Tasks.BeginEndAwaitableAdapter" name="System.Threading.Tasks.BeginEndAwaitableAdapter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,208,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_compiler_services_1_1_i_critical_notify_completion.html" title="Represents an awaiter that schedules continuations when an await operation completes." alt="" coords="85,80,248,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_compiler_services_1_1_i_notify_completion.html" title="Represents an operation that schedules continuations when it completes." alt="" coords="45,5,168,32"/>
+</map>

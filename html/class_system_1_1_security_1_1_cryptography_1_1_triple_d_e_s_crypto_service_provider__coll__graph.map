@@ -1,0 +1,7 @@
+<map id="System.Security.Cryptography.TripleDESCryptoServiceProvider" name="System.Security.Cryptography.TripleDESCryptoServiceProvider">
+<area shape="rect" id="node1" title="Defines a wrapper object to access the cryptographic service provider (CSP) version of the T:System...." alt="" coords="32,305,239,347"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_cryptography_1_1_triple_d_e_s.html" title="Represents the base class for Triple Data Encryption Standard algorithms from which all T:System...." alt="" coords="95,229,175,256"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_cryptography_1_1_symmetric_algorithm.html" title="Represents the abstract base class from which all implementations of symmetric algorithms must inheri..." alt="" coords="65,153,205,180"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_disposable.html" title="Provides a mechanism for releasing unmanaged resources.To browse the .NET Framework source code for t..." alt="" coords="5,13,95,39"/>
+<area shape="rect" id="node5" href="$class_system_1_1_security_1_1_cryptography_1_1_key_sizes.html" title="Determines the set of valid key sizes for the symmetric cryptographic algorithms." alt="" coords="119,5,323,47"/>
+</map>

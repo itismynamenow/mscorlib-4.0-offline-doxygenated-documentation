@@ -1,0 +1,4 @@
+<map id="System.Security.Policy.IApplicationTrustManager" name="System.Security.Policy.IApplicationTrustManager">
+<area shape="rect" id="node1" title="Determines whether an application should be executed and which set of permissions should be granted t..." alt="" coords="5,80,236,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="53,5,188,32"/>
+</map>

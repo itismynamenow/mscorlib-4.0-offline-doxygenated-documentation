@@ -1,0 +1,10 @@
+<map id="System.Runtime.Remoting.Contexts.ContextAttribute" name="System.Runtime.Remoting.Contexts.ContextAttribute">
+<area shape="rect" id="node1" title="Provides the default implementations of the T:System.Runtime.Remoting.Contexts.IContextAttribute and ..." alt="" coords="299,71,481,112"/>
+<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_local_activator.html" title=" " alt="" coords="548,5,731,47"/>
+<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_url_attribute.html" title="Defines an attribute that can be used at the call site to specify the URL where the activation will h..." alt="" coords="548,71,731,112"/>
+<area shape="rect" id="node8" href="$class_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_synchronization_attribute.html" title="Enforces a synchronization domain for the current context and all contexts that share the same instan..." alt="" coords="529,136,749,177"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="156,27,227,54"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="5,27,84,54"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_i_context_attribute.html" title="Identifies a context attribute." alt="" coords="132,78,251,105"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_i_context_property.html" title="Gathers naming information from the context property and determines whether the new context is ok for..." alt="" coords="132,129,251,155"/>
+</map>

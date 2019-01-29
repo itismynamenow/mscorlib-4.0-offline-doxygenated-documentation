@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['realproxyflags',['RealProxyFlags',['../namespace_system_1_1_runtime_1_1_remoting_1_1_proxies.html#aab4a0362047bd24b0d3177714a21d2e6',1,'System::Runtime::Remoting::Proxies']]],
+  ['refflags',['RefFlags',['../struct_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_store_application_reference.html#a9a345216be1a1f37543eb340c839db7e',1,'System::Deployment::Internal::Isolation::StoreApplicationReference']]],
+  ['reflectionpermissionflag',['ReflectionPermissionFlag',['../namespace_system_1_1_security_1_1_permissions.html#ada14b5f554511785f34fa82beb70bed1',1,'System::Security::Permissions']]],
+  ['registrationclasscontext',['RegistrationClassContext',['../namespace_system_1_1_runtime_1_1_interop_services.html#a62bd6b1698d76679e961bfbdecbe9d65',1,'System::Runtime::InteropServices']]],
+  ['registrationconnectiontype',['RegistrationConnectionType',['../namespace_system_1_1_runtime_1_1_interop_services.html#a76dc425f3d1ab6d6753b2b65b9538bf2',1,'System::Runtime::InteropServices']]],
+  ['registryhive',['RegistryHive',['../namespace_microsoft_1_1_win32.html#af4da5fad969e13219f9ca7ee5bb2c33f',1,'Microsoft::Win32']]],
+  ['registrykeypermissioncheck',['RegistryKeyPermissionCheck',['../namespace_microsoft_1_1_win32.html#a6fe9cb87c9831e771712b400946b5cb5',1,'Microsoft::Win32']]],
+  ['registryoptions',['RegistryOptions',['../namespace_microsoft_1_1_win32.html#a4096d26287789507c330d31ac9627f26',1,'Microsoft::Win32']]],
+  ['registrypermissionaccess',['RegistryPermissionAccess',['../namespace_system_1_1_security_1_1_permissions.html#a06cea3cc2bbc74d1e85407b55e7f3636',1,'System::Security::Permissions']]],
+  ['registryrights',['RegistryRights',['../namespace_system_1_1_security_1_1_access_control.html#a1c9a97b1b45fee77a82c9fa538f80bef',1,'System::Security::AccessControl']]],
+  ['registryvaluekind',['RegistryValueKind',['../namespace_microsoft_1_1_win32.html#aaa96e8df692771171c78ed6b59a037c7',1,'Microsoft::Win32']]],
+  ['registryvalueoptions',['RegistryValueOptions',['../namespace_microsoft_1_1_win32.html#ac4985d519e6c3c584078dd0025ced596',1,'Microsoft::Win32']]],
+  ['registryview',['RegistryView',['../namespace_microsoft_1_1_win32.html#a311edf03b530c1358fbf5dcc957e7189',1,'Microsoft::Win32']]],
+  ['remotingprofilerevent',['RemotingProfilerEvent',['../namespace_system_1_1_runtime_1_1_remoting_1_1_channels.html#a2b000a7e821fb827722b685ec9f60edb',1,'System::Runtime::Remoting::Channels']]],
+  ['resourceattributes',['ResourceAttributes',['../namespace_system_1_1_reflection.html#a46bf52405219bbb0edb4d935f3c55b9f',1,'System::Reflection']]],
+  ['resourcelocation',['ResourceLocation',['../namespace_system_1_1_reflection.html#afd83ea82820c7175bd5d05052c89290b',1,'System::Reflection']]],
+  ['resourcescope',['ResourceScope',['../namespace_system_1_1_runtime_1_1_versioning.html#a844ea23df9f590b5a0b7a3b50e506c0d',1,'System::Runtime::Versioning']]],
+  ['resourcetablemappingentryfieldid',['ResourceTableMappingEntryFieldId',['../namespace_system_1_1_deployment_1_1_internal_1_1_isolation_1_1_manifest.html#a549c6ffc400fb29799240592f222e179',1,'System::Deployment::Internal::Isolation::Manifest']]],
+  ['resourcetype',['ResourceType',['../namespace_system_1_1_security_1_1_access_control.html#a13e857c667c0d868b4d0800f73b06c2d',1,'System::Security::AccessControl']]],
+  ['resourcetypecode',['ResourceTypeCode',['../namespace_system_1_1_resources.html#a371e59fa639ff827f3f9db14c94b9492',1,'System::Resources']]],
+  ['rijndaelmanagedtransformmode',['RijndaelManagedTransformMode',['../namespace_system_1_1_security_1_1_cryptography.html#af9caaf5aa9d523171e1e56c3f891dd98',1,'System::Security::Cryptography']]],
+  ['rsaencryptionpaddingmode',['RSAEncryptionPaddingMode',['../namespace_system_1_1_security_1_1_cryptography.html#afec5f7f420648dbdaf761b2341ce827c',1,'System::Security::Cryptography']]],
+  ['rsasignaturepaddingmode',['RSASignaturePaddingMode',['../namespace_system_1_1_security_1_1_cryptography.html#a3bd5c6a68050515c797c2b081a75a26c',1,'System::Security::Cryptography']]]
+];

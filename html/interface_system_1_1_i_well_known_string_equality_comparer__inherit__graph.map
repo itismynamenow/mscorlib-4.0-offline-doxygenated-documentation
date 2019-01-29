@@ -1,0 +1,9 @@
+<map id="System.IWellKnownStringEqualityComparer" name="System.IWellKnownStringEqualityComparer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,159,225,200"/>
+<area shape="rect" id="node2" href="$class_system_1_1_collections_1_1_generic_1_1_randomized_object_equality_comparer.html" title=" " alt="" coords="273,5,508,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_collections_1_1_generic_1_1_randomized_string_equality_comparer.html" title=" " alt="" coords="275,71,506,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_culture_aware_comparer.html" title=" " alt="" coords="289,137,493,163"/>
+<area shape="rect" id="node5" href="$class_system_1_1_culture_aware_randomized_comparer.html" title=" " alt="" coords="281,188,501,229"/>
+<area shape="rect" id="node6" href="$class_system_1_1_ordinal_comparer.html" title=" " alt="" coords="307,254,475,281"/>
+<area shape="rect" id="node7" href="$class_system_1_1_ordinal_randomized_comparer.html" title=" " alt="" coords="299,305,483,347"/>
+</map>

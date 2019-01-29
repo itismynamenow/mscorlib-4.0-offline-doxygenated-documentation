@@ -1,0 +1,4 @@
+<map id="System.Runtime.Remoting.Channels.IServerFormatterSinkProvider" name="System.Runtime.Remoting.Channels.IServerFormatterSinkProvider">
+<area shape="rect" id="node1" title="Marks a server channel sink provider as a server formatter sink provider." alt="" coords="5,80,207,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_channels_1_1_i_server_channel_sink_provider.html" title="Creates server channel sinks for the server channel through which remoting messages flow." alt="" coords="16,5,196,32"/>
+</map>

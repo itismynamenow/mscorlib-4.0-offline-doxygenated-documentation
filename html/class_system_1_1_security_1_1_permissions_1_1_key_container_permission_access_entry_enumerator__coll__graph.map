@@ -1,0 +1,5 @@
+<map id="System.Security.Permissions.KeyContainerPermissionAccessEntryEnumerator" name="System.Security.Permissions.KeyContainerPermissionAccessEntryEnumerator">
+<area shape="rect" id="node1" title="Represents the enumerator for T:System.Security.Permissions.KeyContainerPermissionAccessEntry objects..." alt="" coords="26,109,266,165"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_enumerator.html" title="Supports a simple iteration over a non&#45;generic collection." alt="" coords="5,13,97,39"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_permissions_1_1_key_container_permission_access_entry.html" title="Specifies access rights for specific key containers. This class cannot be inherited." alt="" coords="122,5,362,47"/>
+</map>

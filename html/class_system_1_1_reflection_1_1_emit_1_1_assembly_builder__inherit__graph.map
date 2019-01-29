@@ -1,0 +1,9 @@
+<map id="System.Reflection.Emit.AssemblyBuilder" name="System.Reflection.Emit.AssemblyBuilder">
+<area shape="rect" id="node1" title="Defines and represents a dynamic assembly." alt="" coords="214,155,435,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_assembly.html" title="Represents an assembly, which is a reusable, versionable, and self&#45;describing building block of a com..." alt="" coords="221,80,301,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly.html" title="Exposes the public members of the T:System.Reflection.Assembly class to unmanaged code." alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_evidence_factory.html" title="Gets an object&#39;s T:System.Security.Policy.Evidence." alt="" coords="116,5,237,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="262,5,427,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="452,5,544,32"/>
+<area shape="rect" id="node7" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___assembly_builder.html" title="Exposes the T:System.Reflection.Emit.AssemblyBuilder class to unmanaged code." alt="" coords="325,80,452,107"/>
+</map>

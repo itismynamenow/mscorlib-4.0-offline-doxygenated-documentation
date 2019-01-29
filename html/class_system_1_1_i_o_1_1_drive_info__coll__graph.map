@@ -1,0 +1,7 @@
+<map id="System.IO.DriveInfo" name="System.IO.DriveInfo">
+<area shape="rect" id="node1" title="Provides access to information on a drive." alt="" coords="23,247,159,273"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node4" href="$class_system_1_1_i_o_1_1_file_system_info.html" title="Provides the base class for both T:System.IO.FileInfo and T:System.IO.DirectoryInfo objects." alt="" coords="115,81,223,108"/>
+<area shape="rect" id="node3" href="$class_system_1_1_i_o_1_1_directory_info.html" title="Exposes instance methods for creating, moving, and enumerating through directories and subdirectories..." alt="" coords="89,157,249,184"/>
+<area shape="rect" id="node5" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="122,5,263,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="System.Runtime.CompilerServices.YieldAwaitable.YieldAwaiter" name="System.Runtime.CompilerServices.YieldAwaitable.YieldAwaiter">
+<area shape="rect" id="node1" title="Provides an awaiter for switching into a target environment." alt="" coords="5,155,232,196"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_compiler_services_1_1_i_critical_notify_completion.html" title="Represents an awaiter that schedules continuations when an await operation completes." alt="" coords="97,80,260,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_compiler_services_1_1_i_notify_completion.html" title="Represents an operation that schedules continuations when it completes." alt="" coords="57,5,180,32"/>
+</map>

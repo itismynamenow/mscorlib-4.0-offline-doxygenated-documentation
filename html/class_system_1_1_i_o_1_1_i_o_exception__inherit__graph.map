@@ -1,0 +1,13 @@
+<map id="System.IO.IOException" name="System.IO.IOException">
+<area shape="rect" id="node1" title="The exception that is thrown when an I/O error occurs." alt="" coords="447,147,605,174"/>
+<area shape="rect" id="node6" href="$class_system_1_1_i_o_1_1_directory_not_found_exception.html" title="The exception that is thrown when part of a file or directory cannot be found." alt="" coords="671,5,867,47"/>
+<area shape="rect" id="node7" href="$class_system_1_1_i_o_1_1_drive_not_found_exception.html" title="The exception that is thrown when trying to access a drive or share that is not available." alt="" coords="653,71,884,98"/>
+<area shape="rect" id="node8" href="$class_system_1_1_i_o_1_1_end_of_stream_exception.html" title="The exception that is thrown when reading is attempted past the end of a stream." alt="" coords="657,122,881,149"/>
+<area shape="rect" id="node9" href="$class_system_1_1_i_o_1_1_file_load_exception.html" title="The exception that is thrown when a managed assembly is found but cannot be loaded." alt="" coords="671,173,866,199"/>
+<area shape="rect" id="node10" href="$class_system_1_1_i_o_1_1_file_not_found_exception.html" title="The exception that is thrown when an attempt to access a file that does not exist on disk fails." alt="" coords="657,223,880,250"/>
+<area shape="rect" id="node11" href="$class_system_1_1_i_o_1_1_path_too_long_exception.html" title="The exception that is thrown when a path or fully qualified file name is longer than the system&#45;defin..." alt="" coords="657,274,880,301"/>
+<area shape="rect" id="node2" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="273,147,399,174"/>
+<area shape="rect" id="node3" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="145,147,225,174"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,122,97,149"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="8,173,95,199"/>
+</map>

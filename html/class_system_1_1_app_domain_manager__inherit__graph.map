@@ -1,0 +1,4 @@
+<map id="System.AppDomainManager" name="System.AppDomainManager">
+<area shape="rect" id="node1" title="Provides a managed equivalent of an unmanaged host." alt="" coords="5,80,193,107"/>
+<area shape="rect" id="node2" href="$class_system_1_1_marshal_by_ref_object.html" title="Enables access to objects across application domain boundaries in applications that support remoting." alt="" coords="29,5,170,32"/>
+</map>

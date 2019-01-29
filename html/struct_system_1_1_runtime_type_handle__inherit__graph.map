@@ -1,0 +1,4 @@
+<map id="System.RuntimeTypeHandle" name="System.RuntimeTypeHandle">
+<area shape="rect" id="node1" title="Represents a type using an internal metadata token." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="53,5,145,32"/>
+</map>

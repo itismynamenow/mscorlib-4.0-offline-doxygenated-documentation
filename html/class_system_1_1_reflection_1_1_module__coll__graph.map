@@ -1,0 +1,7 @@
+<map id="System.Reflection.Module" name="System.Reflection.Module">
+<area shape="rect" id="node1" title="Performs reflection on a module." alt="" coords="135,95,309,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___module.html" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="100,5,192,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_reflection_1_1_i_custom_attribute_provider.html" title="Provides custom attributes for reflection objects that support them." alt="" coords="217,5,382,32"/>
+<area shape="rect" id="node5" href="$struct_system_1_1_module_handle.html" title="Represents a runtime handle for a module." alt="" coords="407,5,560,32"/>
+</map>

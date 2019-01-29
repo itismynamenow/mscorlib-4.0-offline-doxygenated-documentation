@@ -1,0 +1,4 @@
+<map id="System.Collections.CaseInsensitiveComparer" name="System.Collections.CaseInsensitiveComparer">
+<area shape="rect" id="node1" title="Compares two objects for equivalence, ignoring the case of strings." alt="" coords="5,80,235,121"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_comparer.html" title="Exposes a method that compares two objects." alt="" coords="79,5,161,32"/>
+</map>

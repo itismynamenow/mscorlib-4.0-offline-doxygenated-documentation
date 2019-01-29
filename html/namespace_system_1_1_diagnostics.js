@@ -1,0 +1,28 @@
+var namespace_system_1_1_diagnostics =
+[
+    [ "CodeAnalysis", "namespace_system_1_1_diagnostics_1_1_code_analysis.html", "namespace_system_1_1_diagnostics_1_1_code_analysis" ],
+    [ "Contracts", "namespace_system_1_1_diagnostics_1_1_contracts.html", "namespace_system_1_1_diagnostics_1_1_contracts" ],
+    [ "SymbolStore", "namespace_system_1_1_diagnostics_1_1_symbol_store.html", "namespace_system_1_1_diagnostics_1_1_symbol_store" ],
+    [ "Tracing", "namespace_system_1_1_diagnostics_1_1_tracing.html", "namespace_system_1_1_diagnostics_1_1_tracing" ],
+    [ "Assert", "class_system_1_1_diagnostics_1_1_assert.html", null ],
+    [ "AssertFilter", "class_system_1_1_diagnostics_1_1_assert_filter.html", "class_system_1_1_diagnostics_1_1_assert_filter" ],
+    [ "ConditionalAttribute", "class_system_1_1_diagnostics_1_1_conditional_attribute.html", "class_system_1_1_diagnostics_1_1_conditional_attribute" ],
+    [ "DebuggableAttribute", "class_system_1_1_diagnostics_1_1_debuggable_attribute.html", "class_system_1_1_diagnostics_1_1_debuggable_attribute" ],
+    [ "Debugger", "class_system_1_1_diagnostics_1_1_debugger.html", "class_system_1_1_diagnostics_1_1_debugger" ],
+    [ "DebuggerBrowsableAttribute", "class_system_1_1_diagnostics_1_1_debugger_browsable_attribute.html", "class_system_1_1_diagnostics_1_1_debugger_browsable_attribute" ],
+    [ "DebuggerDisplayAttribute", "class_system_1_1_diagnostics_1_1_debugger_display_attribute.html", "class_system_1_1_diagnostics_1_1_debugger_display_attribute" ],
+    [ "DebuggerHiddenAttribute", "class_system_1_1_diagnostics_1_1_debugger_hidden_attribute.html", "class_system_1_1_diagnostics_1_1_debugger_hidden_attribute" ],
+    [ "DebuggerNonUserCodeAttribute", "class_system_1_1_diagnostics_1_1_debugger_non_user_code_attribute.html", "class_system_1_1_diagnostics_1_1_debugger_non_user_code_attribute" ],
+    [ "DebuggerStepperBoundaryAttribute", "class_system_1_1_diagnostics_1_1_debugger_stepper_boundary_attribute.html", null ],
+    [ "DebuggerStepThroughAttribute", "class_system_1_1_diagnostics_1_1_debugger_step_through_attribute.html", "class_system_1_1_diagnostics_1_1_debugger_step_through_attribute" ],
+    [ "DebuggerTypeProxyAttribute", "class_system_1_1_diagnostics_1_1_debugger_type_proxy_attribute.html", "class_system_1_1_diagnostics_1_1_debugger_type_proxy_attribute" ],
+    [ "DebuggerVisualizerAttribute", "class_system_1_1_diagnostics_1_1_debugger_visualizer_attribute.html", "class_system_1_1_diagnostics_1_1_debugger_visualizer_attribute" ],
+    [ "DefaultFilter", "class_system_1_1_diagnostics_1_1_default_filter.html", "class_system_1_1_diagnostics_1_1_default_filter" ],
+    [ "EditAndContinueHelper", "class_system_1_1_diagnostics_1_1_edit_and_continue_helper.html", null ],
+    [ "ICustomDebuggerNotification", "interface_system_1_1_diagnostics_1_1_i_custom_debugger_notification.html", null ],
+    [ "Log", "class_system_1_1_diagnostics_1_1_log.html", "class_system_1_1_diagnostics_1_1_log" ],
+    [ "LogSwitch", "class_system_1_1_diagnostics_1_1_log_switch.html", "class_system_1_1_diagnostics_1_1_log_switch" ],
+    [ "StackFrame", "class_system_1_1_diagnostics_1_1_stack_frame.html", "class_system_1_1_diagnostics_1_1_stack_frame" ],
+    [ "StackFrameHelper", "class_system_1_1_diagnostics_1_1_stack_frame_helper.html", "class_system_1_1_diagnostics_1_1_stack_frame_helper" ],
+    [ "StackTrace", "class_system_1_1_diagnostics_1_1_stack_trace.html", "class_system_1_1_diagnostics_1_1_stack_trace" ]
+];

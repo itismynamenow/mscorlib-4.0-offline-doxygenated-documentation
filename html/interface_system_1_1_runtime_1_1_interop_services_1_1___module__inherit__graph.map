@@ -1,0 +1,7 @@
+<map id="System.Runtime.InteropServices._Module" name="System.Runtime.InteropServices._Module">
+<area shape="rect" id="node1" title="Exposes the T:System.Reflection.Module class to unmanaged code." alt="" coords="109,5,323,47"/>
+<area shape="rect" id="node2" href="$class_system_1_1_reflection_1_1_module.html" title="Performs reflection on a module." alt="" coords="129,95,303,121"/>
+<area shape="rect" id="node3" href="$class_system_1_1_reflection_1_1_emit_1_1_module_builder.html" title="Defines and represents a module in a dynamic assembly." alt="" coords="5,169,211,211"/>
+<area shape="rect" id="node4" href="$class_system_1_1_reflection_1_1_runtime_module.html" title=" " alt="" coords="235,169,415,211"/>
+<area shape="rect" id="node5" href="$class_system_1_1_reflection_1_1_emit_1_1_internal_module_builder.html" title=" " alt="" coords="223,259,428,300"/>
+</map>

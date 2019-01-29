@@ -1,0 +1,5 @@
+<map id="System.Security.AccessControl.GenericSecurityDescriptor" name="System.Security.AccessControl.GenericSecurityDescriptor">
+<area shape="rect" id="node1" title="Represents a security descriptor. A security descriptor includes an owner, a primary group,..." alt="" coords="5,39,217,80"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_access_control_1_1_common_security_descriptor.html" title="Represents a security descriptor. A security descriptor includes an owner, a primary group,..." alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_access_control_1_1_raw_security_descriptor.html" title="Represents a security descriptor. A security descriptor includes an owner, a primary group,..." alt="" coords="265,71,477,112"/>
+</map>

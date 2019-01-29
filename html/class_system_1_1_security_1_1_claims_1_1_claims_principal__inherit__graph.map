@@ -1,0 +1,6 @@
+<map id="System.Security.Claims.ClaimsPrincipal" name="System.Security.Claims.ClaimsPrincipal">
+<area shape="rect" id="node1" title="An T:System.Security.Principal.IPrincipal implementation that supports multiple claims&#45;based identiti..." alt="" coords="128,39,335,80"/>
+<area shape="rect" id="node3" href="$class_system_1_1_security_1_1_principal_1_1_generic_principal.html" title="Represents a generic principal." alt="" coords="383,5,560,47"/>
+<area shape="rect" id="node4" href="$class_system_1_1_security_1_1_principal_1_1_windows_principal.html" title="Enables code to check the Windows group membership of a Windows user." alt="" coords="383,71,560,112"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_principal_1_1_i_principal.html" title="Defines the basic functionality of a principal object." alt="" coords="5,46,80,73"/>
+</map>

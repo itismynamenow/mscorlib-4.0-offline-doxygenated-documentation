@@ -1,0 +1,6 @@
+<map id="System.Collections.Queue" name="System.Collections.Queue">
+<area shape="rect" id="node1" title="Represents a first&#45;in, first&#45;out collection of objects." alt="" coords="5,155,183,181"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="53,80,135,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="7,5,101,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="159,80,242,107"/>
+</map>

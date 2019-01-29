@@ -1,0 +1,12 @@
+<map id="System.Runtime.Remoting.Messaging.IMethodCallMessage" name="System.Runtime.Remoting.Messaging.IMethodCallMessage">
+<area shape="rect" id="node1" title="Defines the method call message interface." alt="" coords="301,203,512,244"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_i_construction_call_message.html" title="Represents the construction call request of an object." alt="" coords="597,122,779,178"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_construction_call.html" title="Implements the T:System.Runtime.Remoting.Activation.IConstructionCallMessage interface to create a re..." alt="" coords="887,64,1071,105"/>
+<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_constructor_call_message.html" title=" " alt="" coords="864,228,1095,269"/>
+<area shape="rect" id="node7" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_error_message.html" title=" " alt="" coords="597,203,779,244"/>
+<area shape="rect" id="node8" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_message.html" title=" " alt="" coords="597,268,779,309"/>
+<area shape="rect" id="node9" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodCallMessage interface to create a request m..." alt="" coords="597,5,779,47"/>
+<area shape="rect" id="node10" href="$class_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_method_call_message_wrapper.html" title="Implements the T:System.Runtime.Remoting.Messaging.IMethodCallMessage interface to create a request m..." alt="" coords="560,385,816,427"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_method_message.html" title="Defines the method message interface." alt="" coords="132,235,253,262"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_messaging_1_1_i_message.html" title="Contains communication data sent between cooperating message sinks." alt="" coords="5,210,84,237"/>
+</map>

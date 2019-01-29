@@ -1,0 +1,5 @@
+<map id="System.Globalization.TextInfo" name="System.Globalization.TextInfo">
+<area shape="rect" id="node1" title="Defines text properties and behaviors, such as casing, that are specific to a writing system." alt="" coords="21,80,216,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_deserialization_callback.html" title="Indicates that a class is to be notified when deserialization of the entire object graph has been com..." alt="" coords="112,5,272,32"/>
+</map>

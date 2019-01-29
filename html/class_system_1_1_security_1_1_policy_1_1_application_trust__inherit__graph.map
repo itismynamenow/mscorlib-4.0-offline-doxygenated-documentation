@@ -1,0 +1,5 @@
+<map id="System.Security.Policy.ApplicationTrust" name="System.Security.Policy.ApplicationTrust">
+<area shape="rect" id="node1" title="Encapsulates security decisions about an application. This class cannot be inherited." alt="" coords="16,80,243,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_evidence_base.html" title="Provides a base class from which all objects to be used as evidence must derive." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="134,5,269,32"/>
+</map>

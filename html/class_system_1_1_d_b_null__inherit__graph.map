@@ -1,0 +1,5 @@
+<map id="System.DBNull" name="System.DBNull">
+<area shape="rect" id="node1" title="Represents a nonexistent value. This class cannot be inherited." alt="" coords="53,80,164,107"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_i_convertible.html" title="Defines methods that convert the value of the implementing reference or value type to a common langua..." alt="" coords="122,5,210,32"/>
+</map>

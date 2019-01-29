@@ -1,0 +1,8 @@
+<map id="System.Security.Principal.IdentityReferenceCollection" name="System.Security.Principal.IdentityReferenceCollection">
+<area shape="rect" id="node1" title="Represents a collection of T:System.Security.Principal.IdentityReference objects and provides a means..." alt="" coords="62,247,241,288"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_collections_1_1_i_collection.html" title=" " alt="" coords="48,171,255,197"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_collections_1_1_i_collection.html" title="Defines size, enumerators, and synchronization methods for all nongeneric collections." alt="" coords="49,81,248,108"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title=" " alt="" coords="279,171,498,197"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_collections_1_1_i_enumerable.html" title="Exposes an enumerator, which supports a simple iteration over a non&#45;generic collection...." alt="" coords="283,81,494,108"/>
+</map>

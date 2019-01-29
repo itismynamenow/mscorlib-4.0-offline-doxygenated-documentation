@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_system_1_1_runtime_1_1_remoting_1_1_type_entry.html" title="Implements a base class that holds the configuration information used to activate an instance of a re..." alt="" coords="5,104,188,145"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_activated_client_type_entry.html" title="Holds values for an object type registered on the client end as a type that can be activated on the s..." alt="" coords="239,5,421,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_activated_service_type_entry.html" title="Holds values for an object type registered on the service end as one that can be activated on request..." alt="" coords="239,71,421,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_remoting_1_1_well_known_client_type_entry.html" title="Holds values for an object type registered on the client as a server&#45;activated type (single call or s..." alt="" coords="239,136,421,177"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_well_known_service_type_entry.html" title="Holds values for an object type registered on the service end as a server&#45;activated type object (sing..." alt="" coords="236,201,424,243"/>
+</map>

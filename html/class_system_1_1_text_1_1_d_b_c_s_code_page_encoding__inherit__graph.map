@@ -1,0 +1,11 @@
+<map id="System.Text.DBCSCodePageEncoding" name="System.Text.DBCSCodePageEncoding">
+<area shape="rect" id="node1" title=" " alt="" coords="232,304,428,345"/>
+<area shape="rect" id="node7" href="$class_system_1_1_text_1_1_e_u_c_j_p_encoding.html" title=" " alt="" coords="5,393,201,420"/>
+<area shape="rect" id="node8" href="$class_system_1_1_text_1_1_g_b18030_encoding.html" title=" " alt="" coords="226,393,434,420"/>
+<area shape="rect" id="node9" href="$class_system_1_1_text_1_1_i_s_o2022_encoding.html" title=" " alt="" coords="459,393,663,420"/>
+<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_base_code_page_encoding.html" title=" " alt="" coords="187,229,353,256"/>
+<area shape="rect" id="node3" href="$class_system_1_1_text_1_1_encoding_n_l_s.html" title=" " alt="" coords="219,155,321,181"/>
+<area shape="rect" id="node4" href="$class_system_1_1_text_1_1_encoding.html" title="Represents a character encoding.To browse the .NET Framework source code for this type,..." alt="" coords="232,80,308,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_i_cloneable.html" title="Supports cloning, which creates a new instance of a class with the same value as an existing instance..." alt="" coords="229,5,311,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="345,155,437,181"/>
+</map>

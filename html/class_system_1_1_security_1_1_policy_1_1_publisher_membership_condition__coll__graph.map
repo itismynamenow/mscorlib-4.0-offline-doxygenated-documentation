@@ -1,0 +1,8 @@
+<map id="System.Security.Policy.PublisherMembershipCondition" name="System.Security.Policy.PublisherMembershipCondition">
+<area shape="rect" id="node1" title="Determines whether an assembly belongs to a code group by testing its software publisher&#39;s Authentico..." alt="" coords="695,49,912,91"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_security_1_1_policy_1_1_i_membership_condition.html" title="Defines the test to determine whether a code assembly is a member of a code group." alt="" coords="224,57,375,83"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_security_1_1_policy_1_1_i_report_match_membership_condition.html" title=" " alt="" coords="423,57,647,83"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_security_1_1_i_security_encodable.html" title="Defines the methods that convert permission object state to and from XML element representation." alt="" coords="23,6,158,33"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_security_1_1_i_security_policy_encodable.html" title="Supports the methods that convert permission object state to and from an XML element representation." alt="" coords="5,107,176,134"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_security_1_1_policy_1_1_i_constant_membership_condition.html" title=" " alt="" coords="433,107,636,134"/>
+</map>

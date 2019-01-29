@@ -1,0 +1,6 @@
+<map id="System.IFormatProvider" name="System.IFormatProvider">
+<area shape="rect" id="node1" title="Provides a mechanism for retrieving an object to control formatting." alt="" coords="5,64,167,91"/>
+<area shape="rect" id="node2" href="$class_system_1_1_globalization_1_1_culture_info.html" title="Provides information about a specific culture (called a locale for unmanaged code development)...." alt="" coords="215,5,425,32"/>
+<area shape="rect" id="node3" href="$class_system_1_1_globalization_1_1_date_time_format_info.html" title="Provides culture&#45;specific information about the format of date and time values." alt="" coords="231,57,409,98"/>
+<area shape="rect" id="node4" href="$class_system_1_1_globalization_1_1_number_format_info.html" title="Provides culture&#45;specific information for formatting and parsing numeric values." alt="" coords="223,122,417,163"/>
+</map>

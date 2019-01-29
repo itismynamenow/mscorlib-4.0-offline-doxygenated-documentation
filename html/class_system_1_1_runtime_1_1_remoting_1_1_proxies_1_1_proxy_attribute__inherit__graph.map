@@ -1,0 +1,6 @@
+<map id="System.Runtime.Remoting.Proxies.ProxyAttribute" name="System.Runtime.Remoting.Proxies.ProxyAttribute">
+<area shape="rect" id="node1" title="Indicates that an object type requires a custom proxy." alt="" coords="12,155,195,196"/>
+<area shape="rect" id="node2" href="$class_system_1_1_attribute.html" title="Represents the base class for custom attributes." alt="" coords="9,80,80,107"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___attribute.html" title="Exposes the T:System.Attribute class to unmanaged code." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node4" href="$interface_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_i_context_attribute.html" title="Identifies a context attribute." alt="" coords="104,80,223,107"/>
+</map>

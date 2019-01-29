@@ -1,0 +1,4 @@
+<map id="System.Text.DecoderExceptionFallback" name="System.Text.DecoderExceptionFallback">
+<area shape="rect" id="node1" title="Provides a failure&#45;handling mechanism, called a fallback, for an encoded input byte sequence that can..." alt="" coords="5,80,212,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_text_1_1_decoder_fallback.html" title="Provides a failure&#45;handling mechanism, called a fallback, for an encoded input byte sequence that can..." alt="" coords="49,5,168,32"/>
+</map>

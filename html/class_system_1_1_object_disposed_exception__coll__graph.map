@@ -1,0 +1,8 @@
+<map id="System.ObjectDisposedException" name="System.ObjectDisposedException">
+<area shape="rect" id="node1" title="The exception that is thrown when an operation is performed on a disposed object." alt="" coords="5,304,227,331"/>
+<area shape="rect" id="node2" href="$class_system_1_1_invalid_operation_exception.html" title="The exception that is thrown when a method call is invalid for the object&#39;s current state." alt="" coords="31,229,201,256"/>
+<area shape="rect" id="node3" href="$class_system_1_1_system_exception.html" title="Serves as the base class for system exceptions namespace." alt="" coords="53,155,179,181"/>
+<area shape="rect" id="node4" href="$class_system_1_1_exception.html" title="Represents errors that occur during application execution.To browse the .NET Framework source code fo..." alt="" coords="76,80,156,107"/>
+<area shape="rect" id="node5" href="$interface_system_1_1_runtime_1_1_serialization_1_1_i_serializable.html" title="Allows an object to control its own serialization and deserialization." alt="" coords="14,5,106,32"/>
+<area shape="rect" id="node6" href="$interface_system_1_1_runtime_1_1_interop_services_1_1___exception.html" title="Exposes the public members of the T:System.Exception class to unmanaged code." alt="" coords="130,5,217,32"/>
+</map>

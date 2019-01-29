@@ -1,0 +1,6 @@
+var class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_designer_namespace_resolve_event_args =
+[
+    [ "DesignerNamespaceResolveEventArgs", "class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_designer_namespace_resolve_event_args.html#a50f8456fb7094663b7d4ed2ab46ae9e2", null ],
+    [ "NamespaceName", "class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_designer_namespace_resolve_event_args.html#ac0c8e7046916b252c0df50349300e567", null ],
+    [ "ResolvedAssemblyFiles", "class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_designer_namespace_resolve_event_args.html#a2a14591e41aeb4242245e51732977be2", null ]
+];

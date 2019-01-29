@@ -1,0 +1,5 @@
+<map id="System.Runtime.Remoting.Lifetime.LeaseLifeTimeServiceProperty" name="System.Runtime.Remoting.Lifetime.LeaseLifeTimeServiceProperty">
+<area shape="rect" id="node1" title=" " alt="" coords="45,80,241,136"/>
+<area shape="rect" id="node2" href="$interface_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_i_context_property.html" title="Gathers naming information from the context property and determines whether the new context is ok for..." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node3" href="$interface_system_1_1_runtime_1_1_remoting_1_1_contexts_1_1_i_contribute_object_sink.html" title="Contributes an object&#45;specific interception sink on the server end of a remoting call." alt="" coords="148,5,296,32"/>
+</map>

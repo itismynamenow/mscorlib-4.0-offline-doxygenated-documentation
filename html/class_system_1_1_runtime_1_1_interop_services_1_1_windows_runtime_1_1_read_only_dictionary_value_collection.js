@@ -1,0 +1,5 @@
+var class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_value_collection =
+[
+    [ "ReadOnlyDictionaryValueCollection", "class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_value_collection.html#ab588f0b6500f491a1e92d81bbb25cea3", null ],
+    [ "GetEnumerator", "class_system_1_1_runtime_1_1_interop_services_1_1_windows_runtime_1_1_read_only_dictionary_value_collection.html#a6472ed71b2f0345e5f25ea57cf414f3b", null ]
+];

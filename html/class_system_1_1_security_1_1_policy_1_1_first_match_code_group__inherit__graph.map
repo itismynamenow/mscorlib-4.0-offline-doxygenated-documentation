@@ -1,0 +1,4 @@
+<map id="System.Security.Policy.FirstMatchCodeGroup" name="System.Security.Policy.FirstMatchCodeGroup">
+<area shape="rect" id="node1" title="Allows security policy to be defined by the union of the policy statement of a code group and that of..." alt="" coords="5,80,195,121"/>
+<area shape="rect" id="node2" href="$class_system_1_1_security_1_1_policy_1_1_code_group.html" title="Represents the abstract base class from which all implementations of code groups must derive." alt="" coords="57,5,143,32"/>
+</map>

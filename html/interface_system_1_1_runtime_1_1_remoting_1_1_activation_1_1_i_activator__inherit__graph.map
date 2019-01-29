@@ -1,0 +1,8 @@
+<map id="System.Runtime.Remoting.Activation.IActivator" name="System.Runtime.Remoting.Activation.IActivator">
+<area shape="rect" id="node1" title="Provides the basic functionality for a remoting activator class." alt="" coords="5,144,188,185"/>
+<area shape="rect" id="node2" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_activation_listener.html" title=" " alt="" coords="258,5,442,47"/>
+<area shape="rect" id="node3" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_app_domain_level_activator.html" title=" " alt="" coords="236,71,464,112"/>
+<area shape="rect" id="node4" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_construction_level_activator.html" title=" " alt="" coords="258,137,442,193"/>
+<area shape="rect" id="node5" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_context_level_activator.html" title=" " alt="" coords="247,217,453,259"/>
+<area shape="rect" id="node6" href="$class_system_1_1_runtime_1_1_remoting_1_1_activation_1_1_local_activator.html" title=" " alt="" coords="259,283,441,324"/>
+</map>
