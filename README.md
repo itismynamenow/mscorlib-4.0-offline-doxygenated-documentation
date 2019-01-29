@@ -14,7 +14,7 @@ This repository contains API reference for mscorlib 4.0 in html format. The docu
  
 # Where
 
-Documentation is available online here: https://itismynamenow.github.io/mscorlib-4.0-offline-doxygenated-documentation/
+Documentation is available online here: https://itismynamenow.github.io/mscorlib-4.0-offline-doxygenated-documentation/html/annotated.html
 
 # How
 
